@@ -1,0 +1,914 @@
+{
+  "metadata": {
+    "law_name": "涉外民事关系法律适用法",
+    "domain": "CivilLaw",
+    "year": 2010,
+    "source_file": "中华人民共和国涉外民事关系法律适用法(2010).xlsx",
+    "total_entries": 64,
+    "processed_at": "2025-10-05T21:38:48.612323",
+    "languages": [
+      "zh",
+      "ja",
+      "en"
+    ],
+    "valid_entries": 64
+  },
+  "entries": [
+    {
+      "id": 1,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "法律名称",
+        "ja": "法令名",
+        "en": "Law Title"
+      },
+      "texts": {
+        "zh": "中华人民共和国涉外民事关系法律适用法",
+        "ja": "中華人民共和国渉外民事関係法律適用法",
+        "en": "Law of the People's Republic of China on Choice of Law for Foreign-related Civil \nRelationships"
+      }
+    },
+    {
+      "id": 2,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "主席令",
+        "ja": "主席令",
+        "en": "President Order"
+      },
+      "texts": {
+        "zh": "中华人民共和国主席令 (第三十六号)\n《中华人民共和国涉外民事关系法律适用法》已由中华人民共和国第十一 届全国人民代表大会常务委员会第十七次会议于 2010 年 10 月 28 日通过，现 予公布，自 2011 年 4 月 1 日起施行。\n中华人民共和国主席 \n胡锦涛 \n2010 年 10 月 28 日",
+        "ja": "中華人民共和国主席令\n第三十六号\n「中華人民共和国渉外民事関係法律適用法」は中華人民共和国第十一期全国人民代表大\n会常務委員会第十七回会議にて 2010 年 10 月 28 日に採択されており、ここに公布し、2011\n年 4 月 1 日から施行する。\n中華人民共和国主席 胡錦涛\n2010 年 10 月 28 日",
+        "en": "Order of the President of the People's Republic of China (No. 36)\nThe Law of the People's Republic of China on the Application of Law in Foreign-related Civil Relations has been adopted at the 17th Session of the Standing Committee of the 11th National People's Congress of the People's Republic of China on October 28, 2010, and is hereby promulgated. It shall come into force on April 1, 2011.\nPresident of the People's Republic of China\nHu Jintao\nOctober 28, 2010"
+      }
+    },
+    {
+      "id": 3,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "修订记录",
+        "ja": "改正記録",
+        "en": "Revision Record"
+      },
+      "texts": {
+        "zh": "(2010 年 10 月 28 日第十一届全国人民代表大会常务委员会第十七次会议通过)",
+        "ja": "（2010 年 10 月 28 日第 11 期全国人民代表大会常務委員会第 17 回会議通過）",
+        "en": "(Adopted at the 17th session of the Standing Committee of the 11th National People's Congress on October 28, 2010)"
+      }
+    },
+    {
+      "id": 4,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "目录",
+        "ja": "目次",
+        "en": "Contents"
+      },
+      "texts": {
+        "zh": "第一章 一般规定\n第二章 民事主体\n第三章 婚姻家庭\n第四章 继承\n第五章 物权\n第六章 债权\n第七章 知识产权\n第八章 附则",
+        "ja": "第一章 一般規定\n第二章 民事主体\n第三章 婚姻・家庭\n第四章 相続\n第五章 物権\n第六章 債権\n第七章 知的財産権\n第八章 付則",
+        "en": "Chapter I General Provisions \nChapter II Civil Subjects \nChapter III Marriage and Family \nChapter IV Inheritance \nChapter V Real Right \nChapter VI Creditor's Rights \nChapter VII Intellectual Property Rights \nChapter VIII Supplementary Provisions"
+      }
+    },
+    {
+      "id": 5,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第一章",
+        "ja": "第一章",
+        "en": "Chapter I"
+      },
+      "texts": {
+        "zh": "一般规定",
+        "ja": "一般規定",
+        "en": "General Provisions"
+      }
+    },
+    {
+      "id": 6,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第1条",
+        "ja": "第1条",
+        "en": "Article 1"
+      },
+      "texts": {
+        "zh": "为了明确涉外民事关系的法律适用，合理解决涉外民事争议，维护当事人的合法权益，制定本法。",
+        "ja": "渉外民事関係の法の適用を明確にし，渉外民事紛争を合理的に解決し，当事者の 適法な権益を維持・保護するために，本法を制定する。",
+        "en": "This Law is enacted in order to clarify the application of laws concerning foreign-related civil relations, reasonably solve foreign-related civil disputes and safeguard the legal rights and interests of parties."
+      }
+    },
+    {
+      "id": 7,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第2条",
+        "ja": "第2条",
+        "en": "Article 2"
+      },
+      "texts": {
+        "zh": "涉外民事关系适用的法律，依照本法确定。其他法律对涉外民事关系法律适用另有特别规定的，依照其规定。本法和其他法律对涉外民事关系法律适用没有规定的，适用与该涉外民事关系有最密切联系的法律。",
+        "ja": "渉外民事関係に適用する法は，本法に従って確定される。その他の法律が渉外民 事関係の法の適用について別途特別の規定を置く場合には，その規定に従う。本法その 他の法律が渉外民事関係の法の適用について規定を置いていない場合には，当該渉外民 事関係と最も密接な関係を有する法を適用する。",
+        "en": "The application of laws concerning foreign-related civil relations shall be determined in accordance with this Law. If there are otherwise special provisions in other laws on the application of laws concerning foreign-related civil relations, such provisions shall prevail. If there are no provisions in this Law or other laws on the application of any laws concerning foreign-related civil relations, the laws which have the closest relation with this foreign-related civil relation shall apply."
+      }
+    },
+    {
+      "id": 8,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第3条",
+        "ja": "第3条",
+        "en": "Article 3"
+      },
+      "texts": {
+        "zh": "当事人依照法律规定可以明示选择涉外民事关系适用的法律。",
+        "ja": "当事者は，法律の規定に従い，渉外民事関係に適用する法を明示して選択するこ とができる。",
+        "en": "The parties may explicitly choose the laws applicable to foreign-related civil relations in accordance with the provisions of law."
+      }
+    },
+    {
+      "id": 9,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第4条",
+        "ja": "第4条",
+        "en": "Article 4"
+      },
+      "texts": {
+        "zh": "中华人民共和国法律对涉外民事关系有强制性规定的，直接适用该强制性规定。",
+        "ja": "中華人民共和国の法律が渉外民事関係について強制的規定を置く場合には，当該 強制的規定を直接適用する。",
+        "en": "If there are mandatory provisions on foreign-related civil relations in the laws of the People’s Republic of China, these mandatory provisions shall directly apply."
+      }
+    },
+    {
+      "id": 10,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第5条",
+        "ja": "第5条",
+        "en": "Article 5"
+      },
+      "texts": {
+        "zh": "外国法律的适用将损害中华人民共和国社会公共利益的，适用中华人民共和国法律。",
+        "ja": "外国法の適用が中華人民共和国の社会公共の利益を損なう場合には，中華人民共 和国法を適用する。",
+        "en": "If the application of foreign laws will damage the social public interests of the People’s Republic of China, the laws of the People’s Republic of China shall apply."
+      }
+    },
+    {
+      "id": 11,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第6条",
+        "ja": "第6条",
+        "en": "Article 6"
+      },
+      "texts": {
+        "zh": "涉外民事关系适用外国法律，该国不同区域实施不同法律的，适用与该涉外民事关系有最密切联系区域的法律。",
+        "ja": "渉外民事関係に外国法を適用する場合において，当該国の異なる地域において異 なる法を実施しているときは，当該渉外民事関係と最も密接な関係を有する地域の法を 適用する。",
+        "en": "As for the application of foreign laws on a foreign-related civil relation, if different laws are enforced in different regions of this foreign country, the laws of the region which has the closest relation with this foreign-related civil relation shall apply."
+      }
+    },
+    {
+      "id": 12,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第7条",
+        "ja": "第7条",
+        "en": "Article 7"
+      },
+      "texts": {
+        "zh": "诉讼时效，适用相关涉外民事关系应当适用的法律。",
+        "ja": "訴訟時効については，関連する渉外民事関係に適用されるべき法を適用する。",
+        "en": "The proper laws applicable to the relevant foreign-related civil relations shall apply to the limitation of action."
+      }
+    },
+    {
+      "id": 13,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第8条",
+        "ja": "第8条",
+        "en": "Article 8"
+      },
+      "texts": {
+        "zh": "涉外民事关系的定性，适用法院地法律。",
+        "ja": "渉外民事関係の性質決定については，法廷地法を適用する。",
+        "en": "Lex fori shall apply to the determination on the nature of foreign-related civil relations."
+      }
+    },
+    {
+      "id": 14,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第9条",
+        "ja": "第9条",
+        "en": "Article 9"
+      },
+      "texts": {
+        "zh": "涉外民事关系适用的外国法律，不包括该国的法律适用法。",
+        "ja": "渉外民事関係に適用する外国法には，当該国の法律適用法は含まない。",
+        "en": "Foreign laws applicable to foreign-related civil relations do not include the Law of the Application of Law of this foreign country."
+      }
+    },
+    {
+      "id": 15,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第10条",
+        "ja": "第10条",
+        "en": "Article 10"
+      },
+      "texts": {
+        "zh": "涉外民事关系适用的外国法律，由人民法院、仲裁机构或者行政机关查明。当事人选择适用外国法律的，应当提供该国法律。不能查明外国法律或者该国法律没有规定的，适用中华人民共和国法律。",
+        "ja": "渉外民事関係に適用する外国法は，人民法院，仲裁機関又は行政機関が調査し て明らかにする。当事者が外国法の適用を選択した場合には，当該国の法を提供しなけ ればならない。外国法を調査して明らかにすることができず，又は当該国の法に規定がない場合には， 中華人民共和国法を適用する。",
+        "en": "Foreign laws applicable to foreign-related civil relations shall be ascertained by the people’s court, arbitral authority or administrative organ. If any party chooses the applicable foreign laws, he shall provide the laws of this country. If foreign laws can not be ascertained or there are no provisions in the laws of this country, the laws of the People’s Republic of China shall apply."
+      }
+    },
+    {
+      "id": 16,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)、",
+      "original_numbers": {
+        "zh": "第二章",
+        "ja": "第二章",
+        "en": "Chapter II"
+      },
+      "texts": {
+        "zh": "民事主体",
+        "ja": "民事主体",
+        "en": "Civil Subjects"
+      }
+    },
+    {
+      "id": 17,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第11条",
+        "ja": "第11条",
+        "en": "Article 11"
+      },
+      "texts": {
+        "zh": "自然人的民事权利能力，适用经常居所地法律。",
+        "ja": "自然人の民事権利能力については，常居所地法を適用する。",
+        "en": "The laws at the habitual residence shall apply to the civil rights capacities of a natural person."
+      }
+    },
+    {
+      "id": 18,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第12条",
+        "ja": "第12条",
+        "en": "Article 12"
+      },
+      "texts": {
+        "zh": "自然人的民事行为能力，适用经常居所地法律。自然人从事民事活动，依照经常居所地法律为无民事行为能力，依照行为地法律为有民事行为能力的，适用行为地法律，但涉及婚姻家庭、继承的除外。",
+        "ja": "自然人の民事行為能力については，常居所地法を適用する。自然人が民事活動 に従事し，常居所地法に従えば民事行為無能力であるが，行為地法に従えば民事行為能 力がある場合には，行為地法を適用する。ただし，婚姻・家庭，相続に関わる場合を除 く。",
+        "en": "The laws at the habitual residence shall apply to the civil acts capacities of a natural person. Where a natural person conducting civil activities is determined as incompetent for civil acts in accordance with the laws at the habitual residence but is determined as competent for civil acts in accordance with the laws at the locality of the acts, the laws at the locality of the acts shall apply unless they are related to marriage, family or inheritance."
+      }
+    },
+    {
+      "id": 19,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第13条",
+        "ja": "第13条",
+        "en": "Article 13"
+      },
+      "texts": {
+        "zh": "宣告失踪或者宣告死亡，适用自然人经常居所地法律。",
+        "ja": "失踪宣告又は死亡宣告については，自然人の常居所地法を適用する。",
+        "en": "The laws at the habitual residence of a natural person shall apply to the declaration of missing or declaration of death."
+      }
+    },
+    {
+      "id": 20,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第14条",
+        "ja": "第14条",
+        "en": "Article 14"
+      },
+      "texts": {
+        "zh": "法人及其分支机构的民事权利能力、民事行为能力、组织机构、股东权利义务等事项，适用登记地法律。法人的主营业地与登记地不一致的，可以适用主营业地法律。法人的经常居所地，为其主营业地。",
+        "ja": "法人及びその分支機構の民事権利能力，民事行為能力，組織機構，株主の権利 義務等の事項については，登記地法を適用する。法人の主たる営業地と登記地とが一致しない場合には，主たる営業地の法を適用するこ とができる。法人の常居所地は，その主たる営業地とする。",
+        "en": "The laws at the locality of registration shall apply to such items as the civil rights capacities, civil acts capacities, organizational institutions, rights and obligations of shareholders, etc. of a legal person and its branch. If the main business place of a legal person is inconsistent with the locality of registration, the laws of the main business place may apply. The main business place of a legal person shall be its habitual residence."
+      }
+    },
+    {
+      "id": 21,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第15条",
+        "ja": "第15条",
+        "en": "Article 15"
+      },
+      "texts": {
+        "zh": "人格权的内容，适用权利人经常居所地法律。",
+        "ja": "人格権の内容については，権利者の常居所地法を適用する。",
+        "en": "The laws at the habitual residence of a right holder shall apply to the contents of his right of personality."
+      }
+    },
+    {
+      "id": 22,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第16条",
+        "ja": "第16条",
+        "en": "Article 16"
+      },
+      "texts": {
+        "zh": "代理适用代理行为地法律，但被代理人与代理人的民事关系，适用代理关系发生地法律。当事人可以协议选择委托代理适用的法律。",
+        "ja": "代理については，代理行為地法を適用する。ただし，被代理人と代理人との民事関係については，代理関係発生地法を適用する。当事者は，合意により委託代理に適用する法を選択することができる。",
+        "en": "The laws at the locality of agency act shall apply to agency, but the laws at the locality of agency relation shall apply to the civil relations between the principal and the agent. The parties concerned may choose the laws applicable to entrustment of agency by agreement."
+      }
+    },
+    {
+      "id": 23,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第17条",
+        "ja": "第17条",
+        "en": "Article 17"
+      },
+      "texts": {
+        "zh": "当事人可以协议选择信托适用的法律。当事人没有选择的，适用信托财产所在地法律或者信托关系发生地法律。",
+        "ja": "当事者は，合意により信託に適用する法を選択することができる。当事者が選択をしなかった場合には，信託財産所在地法又は信託関係発生地法を適用する。",
+        "en": "The parties concerned may choose the laws applicable to trust by agreement. If the parties do not choose, the laws at the locality of the trust or of the fiduciary relation shall apply."
+      }
+    },
+    {
+      "id": 24,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第18条",
+        "ja": "第18条",
+        "en": "Article 18"
+      },
+      "texts": {
+        "zh": "当事人可以协议选择仲裁协议适用的法律。当事人没有选择的，适用仲裁机构所在地法律或者仲裁地法律。",
+        "ja": "当事者は，合意により仲裁合意に適用する法を選択することができる。当事者が選択をしなかった場合には，仲裁機関の所在地法又は仲裁地法を適用する。",
+        "en": "The parties concerned may choose the laws applicable to arbitral agreement by agreement. If the parties do not choose, the laws at the locality of the arbitral authority or of the arbitration shall apply."
+      }
+    },
+    {
+      "id": 25,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第19条",
+        "ja": "第19条",
+        "en": "Article 19"
+      },
+      "texts": {
+        "zh": "依照本法适用国籍国法律，自然人具有两个以上国籍的，适用有经常居所的国籍国法律；在所有国籍国均无经常居所的，适用与其有最密切联系的国籍国法律。自然人无国籍或者国籍不明的，适用其经常居所地法律。",
+        "ja": "本法に従って国籍国法が適用される場合に，自然人が二つ以上の国籍を有するときは，常居所がある国籍国法を適用する。すべての国籍国のいずれにも常居所がない場合には，本人と最も密接な関係を有する国籍国法を適用する。自然人が無国籍又は国籍が不明である場合には，その常居所地法を適用する。",
+        "en": "If the laws of the state of nationality are to apply in accordance with this Law and a natural person has more than two nationalities, the laws of the state of nationality in which he has a habitual residence shall apply; if he has no habitual residence in any of the states of nationality, the laws of the state of nationality with which he has the closest relation shall apply. If a natural person has no nationality or his nationality is uncertain, the laws at his habitual residence shall apply."
+      }
+    },
+    {
+      "id": 26,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第20条",
+        "ja": "第20条",
+        "en": "Article 20"
+      },
+      "texts": {
+        "zh": "依照本法适用经常居所地法律，自然人经常居所地不明的，适用其现在居所地法律。",
+        "ja": "本法に従って常居所地法が適用される場合に，自然人の常居所地が不明であるときは，その現住所地法を適用する。",
+        "en": "If the laws at the habitual residence are to apply in accordance with this Law and a natural person’s habitual residence is uncertain, the laws at his current residence shall apply."
+      }
+    },
+    {
+      "id": 27,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第三章",
+        "ja": "第三章",
+        "en": "Chapter III"
+      },
+      "texts": {
+        "zh": "婚姻家庭",
+        "ja": "婚姻・家庭",
+        "en": "Marriage and Family"
+      }
+    },
+    {
+      "id": 28,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第21条",
+        "ja": "第21条",
+        "en": "Article 21"
+      },
+      "texts": {
+        "zh": "结婚条件，适用当事人共同经常居所地法律；没有共同经常居所地的，适用共同国籍国法律；没有共同国籍，在一方当事人经常居所地或者国籍国缔结婚姻的，适用婚姻缔结地法律。",
+        "ja": "結婚の条件については，当事者の共通の常居所地法を適用する。共通の常居所地がない場合には，共通の国籍国法を適用する。共通の国籍がなく，一方の当事者の常居所地又は国籍国において婚姻を締結した場合には，婚姻締結地法を適用する。",
+        "en": "The laws at the mutual habitual residence of the parties shall apply to the marriage qualifications; if there is no mutual habitual residence, the laws of the mutual state of nationality shall apply; if there is no mutual nationality and the marriage is established at the habitual residence or in the state of nationality of one party, the laws at the locality where the marriage is established shall apply."
+      }
+    },
+    {
+      "id": 29,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第22条",
+        "ja": "第22条",
+        "en": "Article 22"
+      },
+      "texts": {
+        "zh": "结婚手续，符合婚姻缔结地法律、一方当事人经常居所地法律或者国籍国法律的，均为有效。",
+        "ja": "結婚の手続は，婚姻締結地法，一方の当事者の常居所地法又は国籍国法に適合する場合には，いずれも有効である。",
+        "en": "Marriage formalities shall be valid if they conform to the laws at the locality where the marriage is established or the laws at the habitual residence or of the state of nationality of one party."
+      }
+    },
+    {
+      "id": 30,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第23条",
+        "ja": "第23条",
+        "en": "Article 23"
+      },
+      "texts": {
+        "zh": "夫妻人身关系，适用共同经常居所地法律；没有共同经常居所地的，适用共同国籍国法律。",
+        "ja": "夫婦の身分関係については，共通の常居所地法を適用する。共通の常居所地がない場合には，共通の国籍国法を適用する。",
+        "en": "The laws at the mutual habitual residence shall apply to the personal relation between husband and wife; if there is no mutual habitual residence, the laws of the mutual state of nationality shall apply."
+      }
+    },
+    {
+      "id": 31,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第24条",
+        "ja": "第24条",
+        "en": "Article 24"
+      },
+      "texts": {
+        "zh": "夫妻财产关系，当事人可以协议选择适用一方当事人经常居所地法律、国籍国法律或者主要财产所在地法律。当事人没有选择的，适用共同经常居所地法律；没有共同经常居所地的，适用共同国籍国法律。",
+        "ja": "夫婦の財産関係については，当事者は合意により一方の当事者の常居所地法，国籍国法又は主要な財産の所在地法を選択して適用することができる。当事者が選択をしなかった場合には，共通の常居所地法を適用する。共通の常居所地がない場合には，共通の国籍国法を適用する。",
+        "en": "As for the property relation between husband and wife, the parties concerned may choose the applicable laws at the habitual residence, of the state of nationality or at the locality of the main properties of one party by agreement. If the parties do not choose, the laws at the mutual habitual residence shall apply; if there is no mutual habitual residence, the laws of the mutual state of nationality shall apply."
+      }
+    },
+    {
+      "id": 32,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第25条",
+        "ja": "第25条",
+        "en": "Article 25"
+      },
+      "texts": {
+        "zh": "父母子女人身、财产关系，适用共同经常居所地法律；没有共同经常居所地的，适用一方当事人经常居所地法律或者国籍国法律中有利于保护弱者权益的法律。",
+        "ja": "親子の身分，財産関係については，共通の常居所地法を適用する。共通の常居所地がない場合には，一方の当事者の常居所地法又は国籍国法のうち弱者の権益の保護に有利な法を適用する。",
+        "en": "The laws at the mutual habitual residence shall apply to the personal and property relations between parents and children; if there is no mutual habitual residence, the laws in favor of protecting the rights and interests of the weak in the laws at the habitual residence or of the state of nationality of one party shall apply."
+      }
+    },
+    {
+      "id": 33,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第26条",
+        "ja": "第26条",
+        "en": "Article 26"
+      },
+      "texts": {
+        "zh": "协议离婚，当事人可以协议选择适用一方当事人经常居所地法律或者国籍国法律。当事人没有选择的，适用共同经常居所地法律；没有共同经常居所地的，适用共同国籍国法律；没有共同国籍的，适用办理离婚手续机构所在地法律。",
+        "ja": "協議離婚については，当事者は合意により一方の当事者の常居所地法又は国籍国法を選択して適用することができる。当事者が選択をしなかった場合には，共通の常居所地法を適用する。共通の常居所地がない場合には，共通の国籍国法を適用する。共通の国籍がない場合には，離婚手続を行った機関の所在地法を適用する。",
+        "en": "As for a divorce by agreement, the parties concerned may choose the applicable laws at the habitual residence or of the state of nationality of one party by agreement. If the parties do not choose, the laws at the mutual habitual residence shall apply; if there is no mutual habitual residence, the laws of the mutual state of nationality shall apply; if there is no mutual nationality, the laws at the locality of the institution handling the divorce formalities shall apply."
+      }
+    },
+    {
+      "id": 34,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第27条",
+        "ja": "第27条",
+        "en": "Article 27"
+      },
+      "texts": {
+        "zh": "诉讼离婚，适用法院地法律。",
+        "ja": "離婚訴訟については，法廷地法を適用する。",
+        "en": "The laws at the locality of the court shall apply to a divorce by litigation."
+      }
+    },
+    {
+      "id": 35,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第28条",
+        "ja": "第28条",
+        "en": "Article 28"
+      },
+      "texts": {
+        "zh": "收养的条件和手续，适用收养人和被收养人经常居所地法律。收养的效力，适用收养时收养人经常居所地法律。收养关系的解除，适用收养时被收养人经常居所地法律或者法院地法律。",
+        "ja": "養子縁組の条件及び手続については，養親となる者及び養子となる者の常居所地法を適用する。養子縁組の効力については，養子縁組の時の養親となる者の常居所地法を適用する。養子縁組関係の解除については，養子縁組の時の養子となる者の常居所地法又は法廷地法を適用する。",
+        "en": "The laws at the habitual residence of the adopter and the adoptee shall apply to the qualifications and formalities of adoption. The laws at the habitual residence of the adopter at the time of adoption shall apply to the validity of adoption. The laws at the habitual residence of the adoptee at the time of adoption or at the locality of the court shall apply to the termination of the adoptive relation."
+      }
+    },
+    {
+      "id": 36,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第29条",
+        "ja": "第29条",
+        "en": "Article 29"
+      },
+      "texts": {
+        "zh": "扶养，适用一方当事人经常居所地法律、国籍国法律或者主要财产所在地法律中有利于保护被扶养人权益的法律。",
+        "ja": "扶養については，一方の当事者の常居所地法，国籍国法又は主要な財産の所在地法のうち被扶養者の権益の保護に有利な法を適用する。",
+        "en": "The laws in favor of protecting the rights and interests of the persons being maintained in the laws at the habitual residence, of the state of nationality or at the locality of the main properties of one party shall apply to maintenance."
+      }
+    },
+    {
+      "id": 37,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第30条",
+        "ja": "第30条",
+        "en": "Article 30"
+      },
+      "texts": {
+        "zh": "监护，适用一方当事人经常居所地法律或者国籍国法律中有利于保护被监护人权益的法律。",
+        "ja": "監護については，一方の当事者の常居所地法又は国籍国法のうち被監護者の権益の保護に有利な法を適用する。",
+        "en": "The laws in favor of protecting the rights and interests of the persons under guardianship in the laws at the habitual residence or of the state of nationality of one party shall apply to guardianship."
+      }
+    },
+    {
+      "id": 38,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第四章",
+        "ja": "第四章",
+        "en": "Chapter IV"
+      },
+      "texts": {
+        "zh": "继承",
+        "ja": "相続",
+        "en": "Inheritance"
+      }
+    },
+    {
+      "id": 39,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第31条",
+        "ja": "第31条",
+        "en": "Article 31"
+      },
+      "texts": {
+        "zh": "法定继承，适用被继承人死亡时经常居所地法律，但不动产法定继承，适用不动产所在地法律。",
+        "ja": "法定相続については，被相続人が死亡した時の常居所地法を適用する。ただし，不動産の法定相続については，不動産所在地法を適用する。",
+        "en": "The laws at the habitual residence at the time of death of the deceased shall apply to legal inheritance, but the laws at the locality of the real estate shall apply to the legal inheritance of a real estate."
+      }
+    },
+    {
+      "id": 40,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第32条",
+        "ja": "第32条",
+        "en": "Article 32"
+      },
+      "texts": {
+        "zh": "遗嘱方式，符合遗嘱人立遗嘱时或者死亡时经常居所地法律、国籍国法律或者遗嘱行为地法律的，遗嘱均为成立。",
+        "ja": "遺言の方式については，遺言者が遺言をした時又は死亡した時の常居所地法，国籍国法又は遺言行為地法に適合する場合には，いずれも遺言は成立する。",
+        "en": "A testament shall be confirmed as valid if its form conforms to the laws at the habitual residence, of the state of nationality or at the locality of the testamentary acts when the testament is made or at the time of death of the testator."
+      }
+    },
+    {
+      "id": 41,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第33条",
+        "ja": "第33条",
+        "en": "Article 33"
+      },
+      "texts": {
+        "zh": "遗嘱效力，适用遗嘱人立遗嘱时或者死亡时经常居所地法律或者国籍国法律。",
+        "ja": "遺言の効力については，遺言者が遺言をした時又は死亡した時の常居所地法又は国籍国法を適用する。",
+        "en": "The laws at the habitual residence or of the state of nationality when the testament is made or at the time of death of the testator shall apply to the validity of a testament."
+      }
+    },
+    {
+      "id": 42,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第34条",
+        "ja": "第34条",
+        "en": "Article 34"
+      },
+      "texts": {
+        "zh": "遗产管理等事项，适用遗产所在地法律。",
+        "ja": "遺産管理等の事項については，遺産の所在地法を適用する。",
+        "en": "The laws at the locality of an estate shall apply to the administration of estates and related issues."
+      }
+    },
+    {
+      "id": 43,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第35条",
+        "ja": "第35条",
+        "en": "Article 35"
+      },
+      "texts": {
+        "zh": "无人继承遗产的归属，适用被继承人死亡时遗产所在地法律。",
+        "ja": "相続する者がいない遺産の帰属については，被相続人が死亡した時の遺産の所在地法を適用する。",
+        "en": "The laws at the locality of an estate at the time of death of the deceased shall apply to the disposition of a vacant estate."
+      }
+    },
+    {
+      "id": 44,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第五章",
+        "ja": "第五章",
+        "en": "Chapter V"
+      },
+      "texts": {
+        "zh": "物权",
+        "ja": "物权",
+        "en": "Real Right"
+      }
+    },
+    {
+      "id": 45,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第36条",
+        "ja": "第36条",
+        "en": "Article 36"
+      },
+      "texts": {
+        "zh": "不动产物权，适用不动产所在地法律。",
+        "ja": "不動産の物権については，不動産の所在地法を適用する。",
+        "en": "The laws at the locality of immovables shall apply to the right to immovables."
+      }
+    },
+    {
+      "id": 46,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第37条",
+        "ja": "第37条",
+        "en": "Article 37"
+      },
+      "texts": {
+        "zh": "当事人可以协议选择动产物权适用的法律。当事人没有选择的，适用法律事实发生时动产所在地法律。",
+        "ja": "当事者は，合意により動産の物権に適用する法を選択することができる。当事者が選択をしなかった場合には，法律事実が発生した時の動産の所在地法を適用する。",
+        "en": "The parties concerned may choose the laws applicable to the right over the movables by agreement. If the parties do not choose, the laws at the locality of the movables when the legal facts take place shall apply."
+      }
+    },
+    {
+      "id": 47,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第38条",
+        "ja": "第38条",
+        "en": "Article 38"
+      },
+      "texts": {
+        "zh": "当事人可以协议选择运输中动产物权发生变更适用的法律。当事人没有选择的，适用运输目的地法律。",
+        "ja": "当事者は，合意により運送中に動産の物権に生じた変更に適用する法を選択することができる。当事者が選択をしなかった場合には，運送目的地法を適用する。",
+        "en": "The parties concerned may choose the laws applicable to any change of the right over the movables taking place in transportation by agreement. If the parties do not choose, the laws at the destination of transportation shall apply."
+      }
+    },
+    {
+      "id": 48,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第39条",
+        "ja": "第39条",
+        "en": "Article 39"
+      },
+      "texts": {
+        "zh": "有价证券，适用有价证券权利实现地法律或者其他与该有价证券有最密切联系的法律。",
+        "ja": "有価証券については，有価証券の権利実現地法その他当該有価証券と最も密接な関係を有する法を適用する。",
+        "en": "The laws at the locality of the realization of the rights of negotiable securities or other laws which have the closest relation with the negotiable securities shall apply to negotiable securities."
+      }
+    },
+    {
+      "id": 49,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第40条",
+        "ja": "第40条",
+        "en": "Article 40"
+      },
+      "texts": {
+        "zh": "权利质权，适用质权设立地法律。",
+        "ja": "権利質権については，質権設定地法を適用する。",
+        "en": "The laws at the locality of the establishment of the right of pledge shall apply to the pledge of rights."
+      }
+    },
+    {
+      "id": 50,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第六章",
+        "ja": "第六章",
+        "en": "Chapter VI"
+      },
+      "texts": {
+        "zh": "债权",
+        "ja": "債権",
+        "en": "Creditor's Rights"
+      }
+    },
+    {
+      "id": 51,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第41条",
+        "ja": "第41条",
+        "en": "Article 41"
+      },
+      "texts": {
+        "zh": "当事人可以协议选择合同适用的法律。当事人没有选择的，适用履行义务最能体现该合同特征的一方当事人经常居所地法律或者其他与该合同有最密切联系的法律。",
+        "ja": "当事者は，合意により契約に適用する法を選択することができる。当事者が選択をしなかった場合には，履行義務が最も当該契約の特徴を体現することができる一方の当事者の常居所地法その他当該契約と最も密接な関係を有する法を適用する。",
+        "en": "The parties concerned may choose the laws applicable to contracts by agreement. If the parties do not choose, the laws at the habitual residence of the party whose fulfillment of obligations can best reflect the characteristics of this contract or other laws which have the closest relation with this contract shall apply."
+      }
+    },
+    {
+      "id": 52,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第42条",
+        "ja": "第42条",
+        "en": "Article 42"
+      },
+      "texts": {
+        "zh": "消费者合同，适用消费者经常居所地法律；消费者选择适用商品、服务提供地法律或者经营者在消费者经常居所地没有从事相关经营活动的，适用商品、服务提供地法律。",
+        "ja": "消費者契約については，消費者の常居所地法を適用する。消費者が商品，サービス提供地法の適用を選択し，又は経営者が消費者の常居所地において関連する経営活動に従事していなかった場合には，商品，サービス提供地法を適用する。",
+        "en": "The laws at the habitual residence of consumers shall apply to consumer contracts; If a consumer chooses the applicable laws at the locality of the provision of goods or services or an operator has no relevant business operations at the habitual residence of the consumer, the laws at the locality of the provision of goods or services shall apply."
+      }
+    },
+    {
+      "id": 53,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第43条",
+        "ja": "第43条",
+        "en": "Article 43"
+      },
+      "texts": {
+        "zh": "劳动合同，适用劳动者工作地法律；难以确定劳动者工作地的，适用用人单位主营业地法律。劳务派遣，可以适用劳务派出地法律。",
+        "ja": "労働契約については，労働者の勤務地法を適用する。労働者の勤務地を特定することが難しい場合には，雇用単位の主たる営業地の法を適用する。労務派遣については，労務派遣地法を適用することができる。",
+        "en": "The laws at the working locality of laborers shall apply to labor contracts; if it is difficult to determine the working locality of a laborer, the laws at the main business place of the employer shall apply. The laws at the dispatching place of labor services shall apply to labor dispatches."
+      }
+    },
+    {
+      "id": 54,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第44条",
+        "ja": "第44条",
+        "en": "Article 44"
+      },
+      "texts": {
+        "zh": "侵权责任，适用侵权行为地法律，但当事人有共同经常居所地的，适用共同经常居所地法律。侵权行为发生后，当事人协议选择适用法律的，按照其协议。",
+        "ja": "権利侵害責任については，権利侵害行為地法を適用する。ただし，当事者が共通の常居所地を有する場合には，共通の常居所地法を適用する。権利侵害行為の発生後に当事者が合意により適用する法を選択した場合には，その合意に従う。",
+        "en": "The laws at the place of tort shall apply to liabilities for tort, but if the parties have a mutual habitual residence, the laws at the mutual habitual residence shall apply. If the parties choose the applicable laws by agreement after any tort takes place, the agreement shall prevail."
+      }
+    },
+    {
+      "id": 55,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第45条",
+        "ja": "第45条",
+        "en": "Article 45"
+      },
+      "texts": {
+        "zh": "产品责任，适用被侵权人经常居所地法律；被侵权人选择适用侵权人主营业地法律、损害发生地法律的，或者侵权人在被侵权人经常居所地没有从事相关经营活动的，适用侵权人主营业地法律或者损害发生地法律。",
+        "ja": "製造物責任については，被権利侵害者の常居所地法を適用する。被権利侵害者が権利侵害者の主たる営業地の法若しくは損害発生地法の適用を選択し，又は権利侵害者が被権利侵害者の常居所地において関連の経営活動に従事していなかった場合には，権利侵害者の主たる営業地の法又は損害発生地法を適用する。",
+        "en": "The laws at the habitual residence of the infringed shall apply to product liabilities; if the infringed chooses the applicable laws at the main business place of the infringer or at the locality of the infringement, or the infringer has no relevant business operations at the habitual residence of the infringed, the laws at the main business place of the infringer or at the locality of the infringement shall apply."
+      }
+    },
+    {
+      "id": 56,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第46条",
+        "ja": "第46条",
+        "en": "Article 46"
+      },
+      "texts": {
+        "zh": "通过网络或者采用其他方式侵害姓名权、肖像权、名誉权、隐私权等人格权的，适用被侵权人经常居所地法律。",
+        "ja": "ネットワークを通じ，又はその他の方法を採用して，氏名権，肖像権，名誉権，プライバシー権等の人格権を侵害した場合には，被権利侵害者の常居所地法を適用する。",
+        "en": "If such personal rights as the right of name, right of portrait, right of reputation, right of privacy, etc. are infringed upon via the network or by other means, the laws at the habitual residence of the infringed shall apply."
+      }
+    },
+    {
+      "id": 57,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第47条",
+        "ja": "第47条",
+        "en": "Article 47"
+      },
+      "texts": {
+        "zh": "不当得利、无因管理，适用当事人协议选择适用的法律。当事人没有选择的，适用当事人共同经常居所地法律；没有共同经常居所地的，适用不当得利、无因管理发生地法律。",
+        "ja": "不当利得，事務管理については，当事者が合意により適用を選択した法を適用する。当事者が選択しなかった場合には，当事者の共通の常居所地法を適用する。共通の常居所地がない場合には，不当利得，事務管理の発生地法を適用する。",
+        "en": "The applicable laws chosen by the parties concerned by agreement shall apply to ill-gotten gains and negotiorum gestio. If the parties do not choose, the laws at the mutual habitual residence of the parties shall apply; if there is no mutual habitual residence, the laws at the locality of ill-gotten gains and negotiorum gestio shall apply."
+      }
+    },
+    {
+      "id": 58,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第七章",
+        "ja": "第七章",
+        "en": "Chapter VII"
+      },
+      "texts": {
+        "zh": "知识产权",
+        "ja": "知的財産権",
+        "en": "Intellectual Property Rights"
+      }
+    },
+    {
+      "id": 59,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第48条",
+        "ja": "第48条",
+        "en": "Article 48"
+      },
+      "texts": {
+        "zh": "知识产权的归属和内容，适用被请求保护地法律。",
+        "ja": "知的財産権の帰属及び内容については，保護が請求された地の法を適用する。",
+        "en": "The laws at the locality where protection is claimed shall apply to the ownership and contents of the intellectual property right."
+      }
+    },
+    {
+      "id": 60,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第49条",
+        "ja": "第49条",
+        "en": "Article 49"
+      },
+      "texts": {
+        "zh": "当事人可以协议选择知识产权转让和许可使用适用的法律。当事人没有选择的，适用本法对合同的有关规定。",
+        "ja": "当事者は，合意により知的財産権の譲渡及び使用許可に適用する法を選択することができる。当事者が選択をしなかった場合には，本法の契約についての関連規定を適用する。",
+        "en": "A party may choose the laws applicable to the assignment and licensed use of intellectual property right by agreement. If the parties do not choose, the relevant provisions on contracts of this Law shall apply."
+      }
+    },
+    {
+      "id": 61,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第50条",
+        "ja": "第50条",
+        "en": "Article 50"
+      },
+      "texts": {
+        "zh": "知识产权的侵权责任，适用被请求保护地法律，当事人也可以在侵权行为发生后协议选择适用法院地法律。",
+        "ja": "知的財産権の権利侵害責任については，保護が請求された地の法を適用する。当事者は，権利侵害行為が発生した後に合意により法廷地法の適用を選択することもできる。",
+        "en": "The laws at the locality where protection is claimed shall apply to the liabilities for tort for intellectual property, the parties concerned may also choose the applicable laws at the locality of the court by agreement after the tort takes place."
+      }
+    },
+    {
+      "id": 62,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第八章",
+        "ja": "第八章",
+        "en": "Chapter VIII"
+      },
+      "texts": {
+        "zh": "附则",
+        "ja": "付則",
+        "en": "Supplementary Provisions"
+      }
+    },
+    {
+      "id": 63,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第51条",
+        "ja": "第51条",
+        "en": "Article 51"
+      },
+      "texts": {
+        "zh": "《中华人民共和国民法通则》第146条、第一百四十七条，《中华人民共和国继承法》第36条，与本法的规定不一致的，适用本法。",
+        "ja": "「中華人民共和国民法通則」第146条及び第147条並びに「中華人民共和国相続法」第36条について，本法の規定と一致しないものは，本法を適用する。",
+        "en": "If the provisions in Article 146 and Article 147 of the General Principles of the Civil Law of the People’s Republic of China and Article 36 of the Law of Succession of the People’s Republic of China do not conform with the provisions in this Law, the provisions in this Law shall prevail."
+      }
+    },
+    {
+      "id": 64,
+      "source_file": "中华人民共和国涉外民事关系法律适用法(2010)",
+      "original_numbers": {
+        "zh": "第52条",
+        "ja": "第52条",
+        "en": "Article 52"
+      },
+      "texts": {
+        "zh": "本法自2011年4月1日起施行。",
+        "ja": "本法は，2011年4月1日より施行する。",
+        "en": "This Law shall come into force on April 1, 2011."
+      }
+    }
+  ]
+}

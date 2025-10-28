@@ -1,0 +1,858 @@
+{
+  "metadata": {
+    "law_name": "统计法",
+    "domain": "StatisticsLaw",
+    "year": 2009,
+    "source_file": "中华人民共和国统计法(2009).xlsx",
+    "total_entries": 60,
+    "processed_at": "2025-10-05T21:38:47.814651",
+    "languages": [
+      "zh",
+      "ja",
+      "en"
+    ],
+    "valid_entries": 60
+  },
+  "entries": [
+    {
+      "id": 1,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "法律名称",
+        "ja": "法令名",
+        "en": "Law Title"
+      },
+      "texts": {
+        "zh": "中华人民共和国统计法",
+        "ja": "中華人民共和国統計法",
+        "en": "Statistics Law of the People's Republic of China"
+      }
+    },
+    {
+      "id": 2,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "修订记录",
+        "ja": "改正記録",
+        "en": "Revision Record"
+      },
+      "texts": {
+        "zh": "（1983年12月8日第六届全国人民代表大会常务委员会第三次会议通过　根据1996年5月15日第八届全国人民代表大会常务委员会第十九次会议《关于修改〈中华人民共和国统计法〉的决定》第一次修正　2009年6月27日第十一届全国人民代表大会常务委员会第九次会议修订）",
+        "ja": "（1983 年 12 月 8 日第 6 期全国人民代表大会常務委員会第 3 回会議採択\n1996 年 5 月 15 日第 8 期全国人民代表大会常務委員会第 19 回会議『「中華人民共和国統 計法」の改正に関する決定』改正\n2009 年 6 月 27 日第 11 期全国人民代表大会常務委員会第 9 回会議改正）",
+        "en": "(Adopted at the 3rd Meeting of the Standing Committee of the Sixth National People's Congress on December 8, 1983, amended at the 19th Meeting of the Standing Committee of the Eighth National People's Congress in accordance with the Decision on Revising the Statistics Law of the People's Republic of China adopted on May 15, 1996, and revised at the 9th Meeting of the Standing Committee of the Eleventh National People's Congress on June 27, 2009)"
+      }
+    },
+    {
+      "id": 3,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "目录",
+        "ja": "目次",
+        "en": "Table of Contents"
+      },
+      "texts": {
+        "zh": "第一章 总则\n第二章 统计调查管理\n第三章 统计资料的管理和公布\n第四章 统计机构和统计人员\n第五章 监督检查\n第六章 法律责任\n第七章 附则",
+        "ja": "第一章 総則\n第二章 統計調査管理\n第三章 統計資料の管理及び公布 \n第四章 統計機構及び統計人員 \n第五章 監督検査\n第六章 法律責任\n第七章 附則",
+        "en": "Chapter I General Provisions\nChapter II Administration of Statistical Investigations\nChapter III Administration and Publication of Statistical Data\nChapter IV Statistics Institutions and Statisticians\nChapter V Supervision and Examination\nChapter VI Legal Liability\nChapter VII Supplementary Provisions"
+      }
+    },
+    {
+      "id": 4,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第一章 ",
+        "ja": "第一章",
+        "en": "Chapter I"
+      },
+      "texts": {
+        "zh": "第一章 总则",
+        "ja": "総則",
+        "en": "General Provisions"
+      }
+    },
+    {
+      "id": 5,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第1条",
+        "ja": "第1条",
+        "en": "Article 1"
+      },
+      "texts": {
+        "zh": "为了科学、有效地组织统计工作，保障统计资料的真实性、准确性、完整性和及时性，发挥统计在了解国情国力、服务经济社会发展中的重要作用，促进社会主义现代化建设事业发展，制定本法。",
+        "ja": "統計業務を科学的かつ有効に組織し、統計資料の真実性、正確性、完全性及び適時性を保障し、国情・国力の理解及び経済社会の発展への服務における統計の重要な役割を発揮させ、なお且つ社会主義現代化建設事業の発展を促進するため、本法を制定する。",
+        "en": "This Law is enacted for the purposes of organizing statistical work in a scientific and effective manner, ensuring authenticity, accuracy, completeness and timeliness of statistical data, bringing into play the important role of statistics in comprehending the actual condition and strength of the State as well as in serving economic and social development, and promoting the smooth progress of socialist modernization."
+      }
+    },
+    {
+      "id": 6,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第2条",
+        "ja": "第2条",
+        "en": "Article 2"
+      },
+      "texts": {
+        "zh": "本法适用于各级人民政府、县级以上人民政府统计机构和有关部门组织实施的统计活动。统计的基本任务是对经济社会发展情况进行统计调查、统计分析，提供统计资料和统计咨询意见，实行统计监督。",
+        "ja": "本法は、各級の人民政府、県級以上の人民政府の統計機構及び関係部門が実施を組織する統計活動に適用される。統計の基本任務は、経済社会の発展状況について統計調査及び統計分析をし、統計資料及び統計コンサルティング意見を提供し、統計監督を実行することである。",
+        "en": "This Law is applicable to statistics activities organized and carried out by the people's governments at all levels and statistics institutions and relevant departments under the people's governments at or above the county level. The fundamental task of statistical work is to statistically investigate and analyze economic and social development, to provide statistical data and advice, and to exercise statistical supervision."
+      }
+    },
+    {
+      "id": 7,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第3条",
+        "ja": "第3条",
+        "en": "Article 3"
+      },
+      "texts": {
+        "zh": "国家建立集中统一的统计系统，实行统一领导、分级负责的统计管理体制。",
+        "ja": "国は、集中して統一された統計システムを確立し、統一指導及び分級責任の統計管理体制を実行する。",
+        "en": "The State shall establish a centralized and unified statistical system, with a statistical administrative structure under unified leadership and with each level assuming responsibility for its own work."
+      }
+    },
+    {
+      "id": 8,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第4条",
+        "ja": "第4条",
+        "en": "Article 4"
+      },
+      "texts": {
+        "zh": "国务院和地方各级人民政府、各有关部门应当加强对统计工作的组织领导，为统计工作提供必要的保障。",
+        "ja": "国務院、地方各級の人民政府及び各関係部門は、統計業務に対する組織・指導を強化し、統計業務のため必要な保障を提供しなければならない。",
+        "en": "The State Council, local people's governments at all levels and all relevant departments shall strengthen the organization and leadership of statistical work and provide necessary guarantees for statistical work."
+      }
+    },
+    {
+      "id": 9,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第5条",
+        "ja": "第5条",
+        "en": "Article 5"
+      },
+      "texts": {
+        "zh": "国家加强统计科学研究，健全科学的统计指标体系，不断改进统计调查方法，提高统计的科学性。国家有计划地加强统计信息化建设，推进统计信息搜集、处理、传输、共享、存储技术和统计数据库体系的现代化。",
+        "ja": "国は、統計の科学的研究を強化し、科学的な統計指標システムを健全化し、統計調査方法を弛まず改良し、統計の科学性を向上させる。国は、統計情報化建設を計画的に強化し、統計情報の収集、処理、伝送及び共有、メモリ技術及び統計データベースシステムの現代化を推進する。",
+        "en": "The State shall strengthen statistical scientific research, improve the scientific system for statistical indicators and constantly improve the method of statistical investigation in order to make statistics more scientific. The State shall, in a planned way, strengthen statistical information construction and promote the techniques of gathering, processing, transmitting, sharing and storing statistical information as well as the establishment of a modernized statistical database system."
+      }
+    },
+    {
+      "id": 10,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第6条",
+        "ja": "第6条",
+        "en": "Article 6"
+      },
+      "texts": {
+        "zh": "统计机构和统计人员依照本法规定独立行使统计调查、统计报告、统计监督的职权，不受侵犯。地方各级人民政府、政府统计机构和有关部门以及各单位的负责人，不得自行修改统计机构和统计人员依法搜集、整理的统计资料，不得以任何方式要求统计机构、统计人员及其他机构、人员伪造、篡改统计资料，不得对依法履行职责或者拒绝、抵制统计违法行为的统计人员打击报复。",
+        "ja": "統計機構及び統計人員は、本法の規定により統計調査、統計報告及び統計監督の職権を独立して行使し、侵害を受けない。地方各級の人民政府、政府統計機構及び関係部門並びに各事業者の責任者は、統計機構及び統計人員が法により収集し、整理した統計資料を自ら変更してはならず、如何なる方式により、統計機構及び統計人員並びにその他の機構及び人員に統計資料を偽造し、又は改ざんするよう要求してはならず、法により職責を履行し、又は統計違法行為を拒絶し、若しくは制止する統計人員に対し打撃・報復してはならない。",
+        "en": "Statistics institutions and statisticians shall exercise, independently and without interference, their functions and powers with regard to statistical investigations, statistical reports and statistical supervision in accordance with the provisions of this Law. Leading persons of the local people's governments at all levels, statistics institutions or relevant departments of the people's governments or any entities shall not, without authorization, modify statistical data legally collected and sorted out by statistics institutions and statisticians. Such leading persons shall not, by any means, require statistics institutions, statisticians or other institutions or persons to forge or tamper with statistical data, nor retaliate against statisticians who perform their duties in accordance with the law or who refuse or oppose any illegal statistical act."
+      }
+    },
+    {
+      "id": 11,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第7条",
+        "ja": "第7条",
+        "en": "Article 7"
+      },
+      "texts": {
+        "zh": "国家机关、企业事业单位和其他组织以及个体工商户和个人等统计调查对象，必须依照本法和国家有关规定，真实、准确、完整、及时地提供统计调查所需的资料，不得提供不真实或者不完整的统计资料，不得迟报、拒报统计资料。",
+        "ja": "国家機関、企業・事業者その他の組織並びに個人経営者及び個人等の統計調査対象は、必ず本法及び国の関係規定により、真実、正確、完全かつ適時に統計調査に必要な資料を提供しなければならず、真実でなく、又は完全でない統計資料を提供してはならず、統計資料の報告を遅滞し、又は報告を拒絶してはならない。",
+        "en": "State organs, enterprises, public institutions and other organizations, sole proprietor businesses as well as individuals under statistical investigation shall, in accordance with this Law and relevant provisions of the State, provide authentic, accurate and complete data needed for statistical investigations in a timely manner. They shall not provide any false or incomplete statistical data, postpone the reporting of statistical data or refuse to submit statistical data."
+      }
+    },
+    {
+      "id": 12,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第8条",
+        "ja": "第8条",
+        "en": "Article 8"
+      },
+      "texts": {
+        "zh": "统计工作应当接受社会公众的监督。任何单位和个人有权检举统计中弄虚作假等违法行为。对检举有功的单位和个人应当给予表彰和奖励。",
+        "ja": "統計業務については、社会公衆の監督を受けなければならない。いかなる事業者及び個人も、統計における虚偽を弄する等の違法行為を摘発する権利を有する。摘発に功績のあった事業者及び個人に対しては、表彰及び報酬を与えなければならない。",
+        "en": "Statistical work shall be subject to public supervision. Any entity or individual shall have the right to report illegal activities in statistical work, such as fraud and deception. Any entity or individual that has rendered meritorious service by reporting such activities shall be commended and rewarded."
+      }
+    },
+    {
+      "id": 13,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第9条",
+        "ja": "第9条",
+        "en": "Article 9"
+      },
+      "texts": {
+        "zh": "统计机构和统计人员对在统计工作中知悉的国家秘密、商业秘密和个人信息，应当予以保密。",
+        "ja": "統計機構及び統計人員は、統計業務において知り得た国家機密、商業秘密及び個人情報について、秘密保持しなければならない。",
+        "en": "Statistics institutions and statisticians shall keep confidential State secrets, trade secrets and individual information learnt in the process of statistical work."
+      }
+    },
+    {
+      "id": 14,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第10条",
+        "ja": "第10条",
+        "en": "Article 10"
+      },
+      "texts": {
+        "zh": "任何单位和个人不得利用虚假统计资料骗取荣誉称号、物质利益或者职务晋升。",
+        "ja": "いかなる事業者及び個人も、虚偽の統計資料を利用して栄誉称号、物質的利益又は職務昇進を騙取してはならない。",
+        "en": "No entity or individual shall seek titles of honor, material benefits or job promotion by making use of false statistical data."
+      }
+    },
+    {
+      "id": 15,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第二章 ",
+        "ja": NaN,
+        "en": "Chapter II"
+      },
+      "texts": {
+        "zh": "统计调查管理",
+        "ja": "第2章統計調査管理",
+        "en": "Administration of Statistical Investigations"
+      }
+    },
+    {
+      "id": 16,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第11条",
+        "ja": "第11条",
+        "en": "Article 11"
+      },
+      "texts": {
+        "zh": "统计调查项目包括国家统计调查项目、部门统计调查项目和地方统计调查项目。国家统计调查项目是指全国性基本情况的统计调查项目。部门统计调查项目是指国务院有关部门的专业性统计调查项目。地方统计调查项目是指县级以上地方人民政府及其部门的地方性统计调查项目。国家统计调查项目、部门统计调查项目、地方统计调查项目应当明确分工，互相衔接，不得重复。",
+        "ja": "統計調査項目には、国家統計調査項目、部門統計調査項目及び地方統計調査項目が含まれる。「国家統計調査項目」とは、全国的基本状況の統計調査項目をいう。「部門統計調査項目」とは、国務院の関係部門の専門的統計調査項目をいう。「地方統計調査項目」とは、県級以上の地方人民政府及びその部門の地方的な統計調査項目をいう。国家統計調査項目、部門統計調査項目及び地方統計調査項目は、明確に分掌し、相互に連結しなければならず、重複してはならない。",
+        "en": "Statistical investigation projects shall include projects of State statistical investigations, departmental statistical investigations and local statistical investigations. State statistical investigation projects shall mean projects of statistical investigation in certain basic conditions in the whole country. Departmental statistical investigation projects shall mean projects of specialized statistical investigation carried out by the relevant departments of the State Council. Local statistical investigation projects shall mean projects of local statistical investigation carried out by the people's governments at or above the county level and their departments. State, departmental and local statistical investigation projects shall be explicitly divided in their functions. They shall interlink but not overlap."
+      }
+    },
+    {
+      "id": 17,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第12条",
+        "ja": "第12条",
+        "en": "Article 12"
+      },
+      "texts": {
+        "zh": "国家统计调查项目由国家统计局制定，或者由国家统计局和国务院有关部门共同制定，报国务院备案；重大的国家统计调查项目报国务院审批。部门统计调查项目由国务院有关部门制定。统计调查对象属于本部门管辖系统的，报国家统计局备案；统计调查对象超出本部门管辖系统的，报国家统计局审批。地方统计调查项目由县级以上地方人民政府统计机构和有关部门分别制定或者共同制定。其中，由省级人民政府统计机构单独制定或者和有关部门共同制定的，报国家统计局审批；由省级以下人民政府统计机构单独制定或者和有关部门共同制定的，报省级人民政府统计机构审批；由县级以上地方人民政府有关部门制定的，报本级人民政府统计机构审批。",
+        "ja": "国家統計調査項目は、国家統計局がこれを制定し、又は国家統計局及び国務院の関係部門が共同して制定し、国務院に届出る。重大な国家統計調査項目については、国務院に報告し審査承認を受ける。部門統計調査項目は、国務院の関係部門がこれを制定する。統計調査対象が当該部門の管轄系統に属する場合には、国家統計局に届出る。統計調査対象が当該部門の管轄系統を超える場合には、国家統計局に報告し審査承認を受ける。地方統計調査項目は、県級以上の地方人民政府の統計機構及び関係部門がそれぞれ制定し、又は共同して制定する。そのうち、省級の人民政府の統計機構が単独で制定し、又は関係部門と共同して制定する場合には、国家統計局に報告し審査承認を受ける。省級以下の人民政府の統計機構が単独で制定し、又は関係部門と共同して制定する場合には、省級の人民政府の統計機構に報告し審査承認を受ける。県級以上の地方人民政府の関係部門が制定する場合には、当該級の人民政府の統計機構に報告し審査承認を受ける。",
+        "en": "State statistical investigation projects shall be formulated by the National Bureau of Statistics independently or jointly with the relevant departments of the State Council, and shall be reported to the State Council for filing. All important State statistical investigation projects shall be reported to the State Council for examination and approval. Departmental statistical investigation projects shall be formulated by the relevant departments of the State Council. If the target under statistical investigation is within the jurisdiction of the relevant department, the project thereof shall be reported to the National Bureau of Statistics for filing; if the target under statistical investigation is beyond the jurisdiction of the relevant department, the project thereof shall be reported to the National Bureau of Statistics for examination and approval. Local statistical investigation projects shall be formulated separately by statistics institutions or the relevant departments of local people's governments at or above the county level, or by them jointly. If a statistical investigation project is formulated by the statistics institution of the people's government at the provincial level independently or jointly with other relevant departments, the project shall be reported to the National Bureau of Statistics for examination and approval. If a statistical investigation project is formulated by the statistics institution of the people's government below the provincial level independently or jointly with other relevant departments, the project shall be reported to the statistics institution of the people's government at the provincial level for examination and approval. If a statistical investigation project is formulated by the relevant departments of the people's government at or above the county level, the project shall be reported to the statistics institution of the people's government at the same level for examination and approval."
+      }
+    },
+    {
+      "id": 18,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第13条",
+        "ja": "第13条",
+        "en": "Article 13"
+      },
+      "texts": {
+        "zh": "统计调查项目的审批机关应当对调查项目的必要性、可行性、科学性进行审查，对符合法定条件的，作出予以批准的书面决定，并公布；对不符合法定条件的，作出不予批准的书面决定，并说明理由。",
+        "ja": "統計調査項目の審査承認機関は、調査項目の必要性、実行可能性及び科学性について審査をしなければならず、法定条件に合致するものについては、承認する旨の書面による決定をし、なお且つ公布する。法定条件に合致しないものについては、承認しない旨の書面による決定をし、なお且つ理由を説明する。",
+        "en": "The relevant authority in charge of examination and approval of statistical investigation projects shall examine whether a statistical investigation project is necessary, feasible and scientific. If a project meets statutory requirements, the authority shall grant an approval in writing and publish the same; if a project fails to meet statutory requirements, the authority shall make a decision of disapproval in writing and state the reasons thereof."
+      }
+    },
+    {
+      "id": 19,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第14条",
+        "ja": "第14条",
+        "en": "Article 14"
+      },
+      "texts": {
+        "zh": "制定统计调查项目，应当同时制定该项目的统计调查制度，并依照本法第十二条的规定一并报经审批或者备案。统计调查制度应当对调查目的、调查内容、调查方法、调查对象、调查组织方式、调查表式、统计资料的报送和公布等作出规定。统计调查应当按照统计调查制度组织实施。变更统计调查制度的内容，应当报经原审批机关批准或者原备案机关备案。",
+        "ja": "統計調査項目を制定する場合には、同時に当該項目の統計調査制度を制定し、なお且つ本法第12条の規定により一括して報告し審査承認又は届出・記録を経なければならない。統計調査制度には、調査目的、調査内容、調査方法、調査対象、調査組織方式、調査様式及び統計資料の報告・送付及び公布等について規定をしなければならない。統計調査は、統計調査制度に従い実施を組織しなければならない。統計調査制度の内容を変更する場合には、元の審査承認機関の承認又は元の届出機関の届出を経なければならない。",
+        "en": "The statistical investigation system for a statistical investigation project shall be established while the project is formulated. The investigation project shall be reported together with the investigation system for examination and approval or for filing in accordance with the provisions of Article 12 hereof. A statistical investigation system shall specify the purpose, contents, methods and target of investigation, methods of organizing the investigation, investigation forms, submission and publishing of statistical data, etc. A statistical investigation shall be organized and implemented in accordance with its statistical investigation system. Any changes to the content of a statistical investigation system shall be reported to the original examination and approval authority for approval or the original filing authority for filing."
+      }
+    },
+    {
+      "id": 20,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第15条",
+        "ja": "第15条",
+        "en": "Article 15"
+      },
+      "texts": {
+        "zh": "统计调查表应当标明表号、制定机关、批准或者备案文号、有效期限等标志。对未标明前款规定的标志或者超过有效期限的统计调查表，统计调查对象有权拒绝填报；县级以上人民政府统计机构应当依法责令停止有关统计调查活动。",
+        "ja": "統計調査表には、表番号、制定機関、承認又は届出文書番号及び有効期間等の標識を表示しなければならない。前項所定の標識が表示されておらず、又は有効期間を超える統計調査表については、統計調査対象は記入を拒絶する権利を有し、県級以上の人民政府の統計機構は法により関係する統計調査活動を停止するよう命じなければならない。",
+        "en": "Statistical questionnaires shall indicate the number, design department, approval or filing document number, valid period, and other marks. If a statistical questionnaire does not bear the indications specified in the preceding paragraph or exceeds the valid period, the entity or individual under statistical investigation shall have the right to refuse to fill out the questionnaire and the relevant statistics institution of the people's government at or above the county level shall issue an order to suspend the relevant statistical investigation activities in accordance with the law."
+      }
+    },
+    {
+      "id": 21,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第16条",
+        "ja": "第16条",
+        "en": "Article 16"
+      },
+      "texts": {
+        "zh": "搜集、整理统计资料，应当以周期性普查为基础，以经常性抽样调查为主体，综合运用全面调查、重点调查等方法，并充分利用行政记录等资料。重大国情国力普查由国务院统一领导，国务院和地方人民政府组织统计机构和有关部门共同实施。",
+        "ja": "統計資料を収集し、整理する場合には、周期的普遍調査を基礎として、経常的抽出調査を主体とし、全面調査及び重点調査等の方法を総合的に運用し、なお且つ行政記録等の資料を十分に利用しなければならない。重大な国情・国力普遍調査については、国務院が統一的に指導し、国務院及び地方人民政府が統計機構及び関係部門を組織して共同して実施させる。",
+        "en": "The collection and sorting out of statistical data shall be conducted on the basis of cyclical general surveys, mainly through regular sampling surveys and supplemented by the comprehensive use of overall surveys, major surveys or other means, and by making full use of administrative records and other materials. Important general surveys on national conditions and national strength shall, under the unified leadership of the State Council, be organized by the State Council and the local people's governments and implemented jointly by statistics institutions and the relevant departments."
+      }
+    },
+    {
+      "id": 22,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第17条",
+        "ja": "第17条",
+        "en": "Article 17"
+      },
+      "texts": {
+        "zh": "国家制定统一的统计标准，保障统计调查采用的指标涵义、计算方法、分类目录、调查表式和统计编码等的标准化。国家统计标准由国家统计局制定，或者由国家统计局和国务院标准化主管部门共同制定。国务院有关部门可以制定补充性的部门统计标准，报国家统计局审批。部门统计标准不得与国家统计标准相抵触。",
+        "ja": "国は、統一的統計標準を制定し、統計調査に採用される指標の定義、計算方法、分類目録、調査様式及び統計編成番号等の標準化を保障する。国家統計標準は、国家統計局がこれを制定し、又は国家統計局及び国務院の標準化主管部門が共同して制定する。国務院の関係部門は、補充的な部門統計標準を制定し、国家統計局に報告し審査承認を受けることができる。部門統計標準は、国家統計標準と抵触してはならない。",
+        "en": "The State shall formulate uniform statistical standards to ensure standardization of definitions of statistical items, computing methods, classification catalogues, investigation forms and statistical coding, etc., employed in statistical investigations. State statistical standards shall be formulated by the National Bureau of Statistics or jointly by the National Bureau of Statistics and the department in charge of standardization under the State Council. The relevant departments of the State Council may formulate supplementary departmental statistical standards, and shall submit such standards to the National Bureau of Statistics for examination and approval. No departmental statistical standards may conflict with State statistical standards."
+      }
+    },
+    {
+      "id": 23,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第18条",
+        "ja": "第18条",
+        "en": "Article 18"
+      },
+      "texts": {
+        "zh": "县级以上人民政府统计机构根据统计任务的需要，可以在统计调查对象中推广使用计算机网络报送统计资料。",
+        "ja": "県級以上の人民政府の統計機構は、統計任務の必要に基づき、統計調査対象においてコンピュータネットワークの使用を普及させて統計資料を報告・送付させることができる。",
+        "en": "Statistics institutions of the people's governments at or above the county level may, in accordance with the needs of its statistical work, encourage entities or individuals under statistical investigation to submit statistical data via a computer network."
+      }
+    },
+    {
+      "id": 24,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第19条",
+        "ja": "第19条",
+        "en": "Article 19"
+      },
+      "texts": {
+        "zh": "县级以上人民政府应当将统计工作所需经费列入财政预算。重大国情国力普查所需经费，由国务院和地方人民政府共同负担，列入相应年度的财政预算，按时拨付，确保到位。",
+        "ja": "県級以上の人民政府は、統計業務に必要な経費を財政予算に組み入れなければならない。重大な国情・国力普遍調査に必要な経費は、国務院及び地方人民政府が共同してこれを負担し、相応する年度の財政予算に組み入れ、期日どおりに割当て、確実な割当を確保する。",
+        "en": "Expenditures necessary for carrying out statistical work shall be included by the people's governments at or above the county level in financial budgets. Expenditures necessary for carrying out major general surveys of national conditions and national strength shall be borne jointly by the State Council and the relevant local people's governments. Such expenditures shall be listed in the financial budget of the relevant year and allocated on schedule to ensure they are in place when needed."
+      }
+    },
+    {
+      "id": 25,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第三章 ",
+        "ja": "第3章",
+        "en": "Chapter III"
+      },
+      "texts": {
+        "zh": "统计资料的管理和公布",
+        "ja": "統計資料の管理及び公布",
+        "en": "Administration and Publication of Statistical Data"
+      }
+    },
+    {
+      "id": 26,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第20条",
+        "ja": "第20条",
+        "en": "Article 20"
+      },
+      "texts": {
+        "zh": "县级以上人民政府统计机构和有关部门以及乡、镇人民政府，应当按照国家有关规定建立统计资料的保存、管理制度，建立健全统计信息共享机制。",
+        "ja": "県級以上の人民政府の統計機構及び関係部門並びに郷及び鎮の人民政府は、国の関係規定に従い統計資料の保存及び管理制度を確立し、統計情報共有メカニズムを確立して健全化しなければならない。",
+        "en": "Statistics institutions and relevant departments of the people's governments at or above the county level and the people's governments of townships and towns shall, in accordance with the relevant provisions of the State, establish a system for keeping and managing statistical data and a sound mechanism for sharing statistical information."
+      }
+    },
+    {
+      "id": 27,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第21条",
+        "ja": "第21条",
+        "en": "Article 21"
+      },
+      "texts": {
+        "zh": "国家机关、企业事业单位和其他组织等统计调查对象，应当按照国家有关规定设置原始记录、统计台账，建立健全统计资料的审核、签署、交接、归档等管理制度。统计资料的审核、签署人员应当对其审核、签署的统计资料的真实性、准确性和完整性负责。",
+        "ja": "国家機関、企業・事業者及びその他の組織等の統計調査対象は、国の関係規定に従い元の始記録及び統計台帳を設置し、統計資料の審査、署名、引継ぎ及び档案保存等の管理制度を確立して健全化しなければならない。統計資料の審査及び署名人員は、自らが審査し、署名する統計資料の真実性、正確性及び完全性に対し責任を負わなければならない。",
+        "en": "State organs, enterprises, public institutions and other organizations under statistical investigation shall, in accordance with the relevant provisions of the State, set up statistical records and statistical ledgers, and establish and improve a management system for reviewing, signing, handing-over and archiving statistical data. Persons responsible for reviewing or signing off statistical data shall be accountable for the authenticity, accuracy and completeness of the statistical data reviewed or signed by them."
+      }
+    },
+    {
+      "id": 28,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第22条",
+        "ja": "第22条",
+        "en": "Article 22"
+      },
+      "texts": {
+        "zh": "县级以上人民政府有关部门应当及时向本级人民政府统计机构提供统计所需的行政记录资料和国民经济核算所需的财务资料、财政资料及其他资料，并按照统计调查制度的规定及时向本级人民政府统计机构报送其组织实施统计调查取得的有关资料。县级以上人民政府统计机构应当及时向本级人民政府有关部门提供有关统计资料。",
+        "ja": "県級以上の人民政府の関係部門は、当該級の人民政府の統計機構に対し統計に必要な行政記録資料及び国民経済計算に必要な財務資料、財政資料及びその他の資料を遅滞なく提供し、なお且つ統計調査制度の規定に従い当該級の人民政府の統計機構に対し自らが統計調査の実施を組織して取得した関係資料を遅滞なく報告・送付しなければならない。県級以上の人民政府の統計機構は、当該級の人民政府の関係部門に対し関係する統計資料を遅滞なく提供しなければならない。",
+        "en": "Relevant departments of the people's government at or above the county level shall provide, in a timely manner, the statistics institution of the people's government at the same level with administrative records necessary for carrying out the relevant statistical work and financial and fiscal materials and other materials necessary for carrying out national economic accounting, and shall, in accordance with the provisions of the statistical investigation system, submit to the statistics institution of the people's government in a timely manner the relevant materials obtained through the statistical investigation that it organizes and carries out. The statistics institution of the people's government at or above the county level shall provide without delay the relevant departments of the people's government at the same level with relevant statistical data."
+      }
+    },
+    {
+      "id": 29,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第23条",
+        "ja": "第23条",
+        "en": "Article 23"
+      },
+      "texts": {
+        "zh": "县级以上人民政府统计机构按照国家有关规定，定期公布统计资料。国家统计数据以国家统计局公布的数据为准。",
+        "ja": "県級以上の人民政府の統計機構は、国の関係規定に従い、統計資料を定期的に公布する。国家統計データは、国家統計局の公布するデータを基準とする。",
+        "en": "The statistics institution of the people's government at or above the county level shall, in accordance with the relevant provisions of the State, regularly publish statistical data. Statistical data published by the National Bureau of Statistics shall be the standard national statistical data."
+      }
+    },
+    {
+      "id": 30,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第24条",
+        "ja": "第24条",
+        "en": "Article 24"
+      },
+      "texts": {
+        "zh": "县级以上人民政府有关部门统计调查取得的统计资料，由本部门按照国家有关规定公布。",
+        "ja": "県級以上の人民政府の関係部門が統計調査により取得した統計資料は、当該部門が国の関係規定に従いこれを公布する。",
+        "en": "Any statistical data obtained by the relevant departments of the people's governments at or above the county level through statistical investigation shall be published by the said departments in accordance with the relevant provisions of the State."
+      }
+    },
+    {
+      "id": 31,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第25条",
+        "ja": "第25条",
+        "en": "Article 25"
+      },
+      "texts": {
+        "zh": "统计调查中获得的能够识别或者推断单个统计调查对象身份的资料，任何单位和个人不得对外提供、泄露，不得用于统计以外的目的。",
+        "ja": "統計調査において取得した、単独の統計調査対象の身分を識別し、又は推定することのできる資料については、いかなる事業者及び個人も、対外的に提供し、又は漏洩してはならず、統計以外の目的に用いてはならない。",
+        "en": "No entity or individual shall provide or disclose any materials obtained in a statistical investigation which can identify or infer the identity of a single target under statistical investigation to any third party or use such materials for purposes other than statistics."
+      }
+    },
+    {
+      "id": 32,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第26条",
+        "ja": "第26条",
+        "en": "Article 26"
+      },
+      "texts": {
+        "zh": "县级以上人民政府统计机构和有关部门统计调查取得的统计资料，除依法应当保密的外，应当及时公开，供社会公众查询。",
+        "ja": "県級以上の人民政府の統計機構及び関係部門が統計調査により取得した統計資料については、法により秘密保持しなければならない場合を除き、遅滞なく公開し、社会公衆の照会に供しなければならない。",
+        "en": "Any statistical data, except data which shall be kept confidential in accordance with the law, obtained by statistics institutions and relevant departments of the people's governments at or above the county level through statistical investigation shall be made public in a timely manner for public inquiry."
+      }
+    },
+    {
+      "id": 33,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第四章",
+        "ja": "第4章",
+        "en": "Chapter IV"
+      },
+      "texts": {
+        "zh": "统计机构和统计人员",
+        "ja": "統計機構及び統計人員",
+        "en": "Statistics Institutions and Statisticians"
+      }
+    },
+    {
+      "id": 34,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第27条",
+        "ja": "第27条",
+        "en": "Article 27"
+      },
+      "texts": {
+        "zh": "国务院设立国家统计局，依法组织领导和协调全国的统计工作。国家统计局根据工作需要设立的派出调查机构，承担国家统计局布置的统计调查等任务。县级以上地方人民政府设立独立的统计机构，乡、镇人民政府设置统计工作岗位，配备专职或者兼职统计人员，依法管理、开展统计工作，实施统计调查。",
+        "ja": "国務院は、国家統計局を設立し、法により全国の統計業務を組織・指導させ、調整させる。国家統計局が業務の必要に基づき設立する派出調査機構は、国家統計局の割当てる統計調査等の任務を引き受ける。県級以上の地方人民政府は独立した統計機構を設立し、郷及び鎮の人民政府は統計業務職位を設置し、専任又は兼任の統計人員を配備し、法により統計業務を管理させ、展開させ、統計調査を実施させる。",
+        "en": "The National Bureau of Statistics is established by the State Council, to organize, guide and coordinate the statistical work nationwide in accordance with the law. A designated investigation institution established by the National Bureau of Statistics in accordance with the requirements of the work shall undertake statistical investigations and other tasks assigned to them by the National Bureau of Statistics. Independent statistics institutions shall be established under local people's governments at or above the county level and statistical posts shall be set up in people's governments of townships and towns, which shall be staffed with full-time or part-time statisticians who shall be responsible for managing and conducting statistical work and carrying out statistical investigations in accordance with the law."
+      }
+    },
+    {
+      "id": 35,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第28条",
+        "ja": "第28条",
+        "en": "Article 28"
+      },
+      "texts": {
+        "zh": "县级以上人民政府有关部门根据统计任务的需要设立统计机构，或者在有关机构中设置统计人员，并指定统计负责人，依法组织、管理本部门职责范围内的统计工作，实施统计调查，在统计业务上受本级人民政府统计机构的指导。",
+        "ja": "県級以上の人民政府の関係部門は、統計任務の必要に基づき統計機構を設立し、又は関係機構において統計人員を設置し、なお且つ統計責任者を指定し、法により当該部門の職責範囲内の統計業務を組織させ、管理させ、統計調査を実施させ、統計業務において当該級の人民政府の統計機構の指導を受けさせる。",
+        "en": "The relevant departments of people's governments at or above the county level shall establish statistical institutions in accordance with the needs of statistical assignments or set up a statistical post in the relevant institution, and shall designate responsible persons to organize and administer the statistical work within their functions and carry out statistical investigations in accordance with the law. Such responsible persons shall be subject to the guidance of statistics institutions of the people's governments at the same level when carrying out statistical work."
+      }
+    },
+    {
+      "id": 36,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第29条",
+        "ja": "第29条",
+        "en": "Article 29"
+      },
+      "texts": {
+        "zh": "统计机构、统计人员应当依法履行职责，如实搜集、报送统计资料，不得伪造、篡改统计资料，不得以任何方式要求任何单位和个人提供不真实的统计资料，不得有其他违反本法规定的行为。统计人员应当坚持实事求是，恪守职业道德，对其负责搜集、审核、录入的统计资料与统计调查对象报送的统计资料的一致性负责。",
+        "ja": "統計機構及び統計人員は、法により職責を履行し、統計資料を事実とおりに収集し、報告・送付しなければならず、統計資料を偽造し、又は改ざんしてはならず、如何なる方式により、いかなる事業者及び個人にも真実でない統計資料を提供するよう要求してはならず、本法の規定に違反するその他の行為があってはならない。統計人員は、事実に基づき真実を求めるということを堅持し、職業道徳を厳守し、自らが収集し、審査し、入力する責任を負う統計資料と統計調査対象が報告・送付する統計資料との一致性に対し責任を負わなければならない。",
+        "en": "Statistical institutions and statisticians shall perform their duties in accordance with the law and faithfully collect and submit statistical data. They shall not forge or tamper with statistical data, or require, by any means, any entity or individual to provide false statistical data. They shall not conduct any other acts violating the provisions of this Law. Statisticians shall adhere to the principle of seeking truth from facts, abide by professional ethics, and be accountable for the consistency of the statistical data collected, examined and input by them and data submitted by the entities or individuals under statistical investigation."
+      }
+    },
+    {
+      "id": 37,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第30条",
+        "ja": "第30条",
+        "en": "Article 30"
+      },
+      "texts": {
+        "zh": "统计人员进行统计调查时，有权就与统计有关的问题询问有关人员，要求其如实提供有关情况、资料并改正不真实、不准确的资料。统计人员进行统计调查时，应当出示县级以上人民政府统计机构或者有关部门颁发的工作证件；未出示的，统计调查对象有权拒绝调查。",
+        "ja": "統計人員は、統計調査をする際には、統計と関係する問題について関係人員に質問し、当該関係人員に関係状況及び資料を事実とおりに提供し、なお且つ真実でなく、又は正確でない資料を是正するよう要求する権利を有する。統計人員は、統計調査をする際には、県級以上の人民政府の統計機構又は関係部門が発行する業務証書を提示しなければならない。提示しない場合には、統計調査対象は、調査を拒絶する権利を有する。",
+        "en": "Statisticians shall, in carrying out statistical investigations, have the right to ask relevant personnel about any issues concerning statistics, and require them to provide truthful and relevant information and materials, and to correct any false or inaccurate data. Statisticians shall, in carrying out statistical investigations, present working certificates issued by the statistics institution or the relevant department of the people's government at or above the county level. If they fail to do so, any entity or individual shall have the right to refuse such investigation."
+      }
+    },
+    {
+      "id": 38,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第31条",
+        "ja": "第31条",
+        "en": "Article 31"
+      },
+      "texts": {
+        "zh": "国家实行统计专业技术职务资格考试、评聘制度，提高统计人员的专业素质，保障统计队伍的稳定性。统计人员应当具备与其从事的统计工作相适应的专业知识和业务能力。县级以上人民政府统计机构和有关部门应当加强对统计人员的专业培训和职业道德教育。",
+        "ja": "国は、統計専門業務技術職務資格試験及び評価招聘制度を実行し、統計人員の専門業務素質を向上させ、統計隊列の安定性を保障する。統計人員は、自らが従事する統計業務に適応する専門業務知識及び業務能力を有さなければならない。県級以上の人民政府の統計機構及び関係部門は、統計人員に対する専門業務養成訓練及び職業道徳教育を強化しなければならない。",
+        "en": "The State adopts the system of qualification examinations, appraisals and employment for professional technical positions to improve the professional competency of statisticians and ensure a stable statistical team. Statisticians shall possess professional knowledge and operational capacity corresponding to the statistical work in which they are engaged. Statistics institutions and relevant departments of the people's governments at or above the county level shall strengthen the professional training and professional ethics education of statisticians."
+      }
+    },
+    {
+      "id": 39,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第五章　",
+        "ja": "第5章",
+        "en": "Chapter V"
+      },
+      "texts": {
+        "zh": "监督检查",
+        "ja": "監督検査",
+        "en": "Supervision and Examination"
+      }
+    },
+    {
+      "id": 40,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第32条",
+        "ja": "第32条",
+        "en": "Article 32"
+      },
+      "texts": {
+        "zh": "县级以上人民政府及其监察机关对下级人民政府、本级人民政府统计机构和有关部门执行本法的情况，实施监督。",
+        "ja": "県級以上の人民政府及びその監察機関は、下級の人民政府、当該級の人民政府の統計機構及び関係部門が本法を執行する状況について、監督を実施する。",
+        "en": "All people's government at or above the county level and its supervisory organ shall supervise the implementation of this Law by the people’s government at the lower level and by the statistics institutions and relevant departments of the people's government at the same level."
+      }
+    },
+    {
+      "id": 41,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第33条",
+        "ja": "第33条",
+        "en": "Article 33"
+      },
+      "texts": {
+        "zh": "国家统计局组织管理全国统计工作的监督检查，查处重大统计违法行为。县级以上地方人民政府统计机构依法查处本行政区域内发生的统计违法行为。但是，国家统计局派出的调查机构组织实施的统计调查活动中发生的统计违法行为，由组织实施该项统计调查的调查机构负责查处。法律、行政法规对有关部门查处统计违法行为另有规定的，从其规定。",
+        "ja": "国家統計局は、全国統計業務の監督検査を組織・管理し、重大な統計違法行為を調査・処理する。県級以上の地方人民政府の統計機構は、法により当該行政区域において発生した統計違法行為を調査・処理する。ただし、国家統計局の派出する調査機構が実施を組織する統計調査活動において発生した統計違法行為については、当該統計調査の実施を組織する調査機構が調査・処理に責任を負う。法律又は行政法規に、関係部門による統計違法行為の調査・処理について別段の規定がある場合には、当該規定に従う。",
+        "en": "The National Bureau of Statistics shall organize and administer the supervision and inspection of statistical work nationwide, and investigate and punish any major illegal statistical acts. Statistics institutions of local people's governments at or above the county level shall, in accordance with the law, investigate and punish any illegal statistical acts that occur within their own administrative areas. However, for any illegal statistical acts that occur during statistical investigations organized and carried out by investigation institutions dispatched by the National Bureau of Statistics, the investigation institutions that organized and carried out such statistical investigations shall be responsible for the investigation and punishment thereof. Where laws and administrative regulations otherwise specify provisions for investigation into and punishment of illegal statistical acts by the relevant departments, such provisions shall prevail."
+      }
+    },
+    {
+      "id": 42,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第34条",
+        "ja": "第34条",
+        "en": "Article 34"
+      },
+      "texts": {
+        "zh": "县级以上人民政府有关部门应当积极协助本级人民政府统计机构查处统计违法行为，及时向本级人民政府统计机构移送有关统计违法案件材料。",
+        "ja": "県級以上の人民政府の関係部門は、当該級の人民政府の統計機構が統計違法行為を調査・処理するのに積極的に協力し、当該級の人民政府の統計機構に対し統計違法事件に関係する資料を遅滞なく移送しなければならない。",
+        "en": "The relevant departments of the people's governments at or above the county level shall take the initiative to assist the relevant statistics institutions of the people's governments at the same level in investigating and punishing any illegal statistical acts, and transfer relevant materials involving illegal statistical acts to the said statistics institutions in a timely manner."
+      }
+    },
+    {
+      "id": 43,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第35条",
+        "ja": "第35条",
+        "en": "Article 35"
+      },
+      "texts": {
+        "zh": "第三十五条 县级以上人民政府统计机构在调查统计违法行为或者核查统计数据时，有权采取下列措施：（一）发出统计检查查询书，向检查对象查询有关事项；（二）要求检查对象提供有关原始记录和凭证、统计台账、统计调查表、会计资料及其他相关证明和资料；（三）就与检查有关的事项询问有关人员；（四）进入检查对象的业务场所和统计数据处理信息系统进行检查、核对；（五）经本机构负责人批准，登记保存检查对象的有关原始记录和凭证、统计台账、统计调查表、会计资料及其他相关证明和资料；（六）对与检查事项有关的情况和资料进行记录、录音、录像、照相和复制。县级以上人民政府统计机构进行监督检查时，监督检查人员不得少于二人，并应当出示执法证件；未出示的，有关单位和个人有权拒绝检查。",
+        "ja": "県級以上の人民政府の統計機構は、統計違法行為を調査し、又は統計データを審査する際には、次に掲げる措置を講ずる権限を有する。(1)統計検査照会状を発送し、検査対象に対し関係事項を照会する。(2)検査対象に関係する元の始記録及び証憑、統計台帳、統計調査表、会計資料ならびにその他の関連する証明及び資料を提供するよう要求する。(3)検査と関係する事項について関係人員に質問する。(4)検査対象の業務場所及び統計データ処理情報システムに入って検査及び照合をする。(5)当該機構の責任者の承認を経て、検査対象の関係する元の始記録及び証憑、統計台帳、統計調査表、会計資料ならびにその他の関連する証明及び資料を登記保存する。(6)検査事項と関係する状況及び資料について、記録、録音、録画、撮影及び複製をする。県級以上の人民政府の統計機構が監督検査をする際には、監督検査人員は、2名を下回ってはならず、なお且つ法律執行証書を提示しなければならない。提示しない場合には、関係事業者及び個人は、検査を拒絶する権利を有する。",
+        "en": "Statistics institutions of the people's governments at or above the county level shall, in the process of investigating illegal statistical acts or checking statistical data, have the right to take the following measures: (1) Issue a statistical inspection inquiry notice to ask entities or individuals under investigation about relevant matters; (2) Require entities or individuals under investigation to provide relevant original records and vouchers, statistical ledgers, statistical questionnaires, accounting materials and other relevant certifications and materials; (3) Ask relevant personnel about matters relating to the investigation; (4) Conduct examinations and checks by entering the business premises of entities or individuals under investigation and accessing information systems for statistical data processing; (5) Upon approval of the leading person of the statistics institution, register and preserve the original records and vouchers, statistical ledgers, statistical questionnaires, accounting materials and other relevant certifications and materials related to the entity or individual under investigation; and (6) Carry out recording, sound recording, videotaping, photographing, and reproduction of information and materials relating to the matters investigated. When statistics institutions of the people's governments at or above the county level conduct supervision and inspection, such supervision and inspection shall be carried out by at least two persons, who shall present the permit for law enforcement; if relevant persons fail to present the said permit, the entity or individual concerned shall have the right to refuse such inspection."
+      }
+    },
+    {
+      "id": 44,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第36条",
+        "ja": "第36条",
+        "en": "Article 36"
+      },
+      "texts": {
+        "zh": "县级以上人民政府统计机构履行监督检查职责时，有关单位和个人应当如实反映情况，提供相关证明和资料，不得拒绝、阻碍检查，不得转移、隐匿、篡改、毁弃原始记录和凭证、统计台账、统计调查表、会计资料及其他相关证明和资料。",
+        "ja": "県級以上の人民政府の統計機構が監督検査職責を履行する際には、関係事業者及び個人は、状況を事実とおりに反映し、関連する証明及び資料を提供しなければならず、検査を拒絶し、又は妨害してはならず、原始記録及び証憑、統計台帳、統計調査表、会計資料その他の関連する証明及び資料を移転し、隠匿し、改ざんし、又は破棄してはならない。",
+        "en": "When statistics institutions of the people's governments at or above the county level perform their duties of supervision and inspection, the entities or individuals concerned shall faithfully report information and provide relevant certifications and materials, and shall not reject or hinder the inspection, or transfer, conceal, tamper with, destroy or discard original records and vouchers, statistical ledgers, statistical questionnaires, accounting materials or other relevant certifications and materials."
+      }
+    },
+    {
+      "id": 45,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第六章 ",
+        "ja": "第6章",
+        "en": "Chapter VI"
+      },
+      "texts": {
+        "zh": "法律责任",
+        "ja": "法律責任",
+        "en": "Legal Liability"
+      }
+    },
+    {
+      "id": 46,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第37条",
+        "ja": "第37条",
+        "en": "Article 37"
+      },
+      "texts": {
+        "zh": "地方人民政府、政府统计机构或者有关部门、单位的负责人有下列行为之一的，由任免机关或者监察机关依法给予处分，并由县级以上人民政府统计机构予以通报：（一）自行修改统计资料、编造虚假统计数据的；（二）要求统计机构、统计人员或者其他机构、人员伪造、篡改统计资料的；（三）对依法履行职责或者拒绝、抵制统计违法行为的统计人员打击报复的；（四）对本地方、本部门、本单位发生的严重统计违法行为失察的。",
+        "ja": "地方人民政府、政府統計機構若しくは関係部門又は事業者の責任者に次に掲げる行為の1つがある場合には、任免機関又は監察機関が法により処分をし、なお且つ県級以上の人民政府の統計機構が通報する。(1)統計資料を自ら修正し、又は虚偽の統計データを作成したとき。(2)統計機構若しくは統計人員又はその他の機構若しくは人員に統計資料を偽造し、又は改ざんするよう要求したとき。(3)法により職責を履行し、又は統計違法行為を拒絶し、若しくは制止する統計人員に対し打撃・報復したとき。(4)当該地方、当該部門又は当該事業者に発生した重大な統計違法行為について観察をしないとき。",
+        "en": "If a leading person of any local people's government, governmental statistics institution, relevant department or entity commits any of the following acts, the appointment and removal authority or the supervisory organ shall impose a penalty in accordance with the law, and the statistics institution of the people's government at or above the county level shall circulate a notice of the matter: (1) Modify statistical materials without authorization or fabricating false statistical data; (2) Demand statistics institutions, statisticians, other institutions or persons to forge or tamper with statistical data; (3) Retaliate against statisticians who perform their duties in accordance with the law, or refuse or oppose any illegal statistical act; or (4) Neglect his/her supervisory duties regarding any material illegal statistical acts occurred in the locality, department or entity within his/her jurisdiction."
+      }
+    },
+    {
+      "id": 47,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第38条",
+        "ja": "第38条",
+        "en": "Article 38"
+      },
+      "texts": {
+        "zh": "县级以上人民政府统计机构或者有关部门在组织实施统计调查活动中有下列行为之一的，由本级人民政府、上级人民政府统计机构或者本级人民政府统计机构责令改正，予以通报；对直接负责的主管人员和其他直接责任人员，由任免机关或者监察机关依法给予处分：（一）未经批准擅自组织实施统计调查的；（二）未经批准擅自变更统计调查制度的内容的；（三）伪造、篡改统计资料的；（四）要求统计调查对象或者其他机构、人员提供不真实的统计资料的；（五）未按照统计调查制度的规定报送有关资料的。统计人员有前款第三项至第五项所列行为之一的，责令改正，依法给予处分。",
+        "ja": "県級以上の人民政府の統計機構又は関係部門に、統計調査活動の実施組織において次に掲げる行為の1つがある場合には、当該級の人民政府、上級の人民政府の統計機構又は当該級の人民政府の統計機構が是正するよう命じ、通報する。直接に責任を負う主管人員及びその他の直接責任人員に対しては、任免機関又は監察機関が法により処分をする。(1)承認を経ずに無断で統計調査の実施を手配したとき。(2)承認を経ずに無断で統計調査制度の内容を変更したとき。(3)統計資料を偽造し、又は改ざんしたとき。(4)統計調査対象又はその他の機構若しくは人員に真実でない統計資料を提供するよう要求したとき。(5)統計調査制度の規定どおりに関係資料を報告・送付しないとき。統計人員に、前項第(3)号ないし第(5)号に掲げる行為の1つがある場合には、是正するよう命じ、法により処分をする。",
+        "en": "If statistics institutions or relevant departments of the people's governments at or above the county level commit any of the following acts in organizing or implementing statistical investigation activities, the people's governments at the same level or the statistics institutions of the people's governments at the same or higher level shall order such statistics institutions or departments to make rectifications and circulate a notice of the matter; the appointment and removal authority or the supervisory organ shall, in accordance with the law, impose penalties on the person directly in charge and the other persons directly responsible: (1) Organize or carry out a statistical investigation without approval; (2) Change the contents of the statistical investigation system without approval; (3) Forge or tamper with statistical data; (4) Demand entities or individuals under statistical investigation, or other institutions or personnel to provide false statistical data; or (5) Fail to submit relevant materials as required by the statistical investigation system. Where statisticians commit any of the acts as specified in Subparagraphs (3) to (5) of the preceding paragraph, such statisticians shall be ordered to make rectification and shall be given penalties in accordance with the law."
+      }
+    },
+    {
+      "id": 48,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第39条",
+        "ja": "第39条",
+        "en": "Article 39"
+      },
+      "texts": {
+        "zh": "县级以上人民政府统计机构或者有关部门有下列行为之一的，对直接负责的主管人员和其他直接责任人员由任免机关或者监察机关依法给予处分：（一）违法公布统计资料的；（二）泄露统计调查对象的商业秘密、个人信息或者提供、泄露在统计调查中获得的能够识别或者推断单个统计调查对象身份的资料的；（三）违反国家有关规定，造成统计资料毁损、灭失的。统计人员有前款所列行为之一的，依法给予处分。",
+        "ja": "県級以上の人民政府の統計機構又は関係部門に次に掲げる行為の1つがある場合には、直接的に責任を負う主管人員及びその他の直接責任人員に対し、任免機関又は監察機関が法により処分をする。(1)統計資料を違法に公布したとき。(2)統計調査対象の商業秘密若しくは個人情報を漏洩し、又は統計調査において取得した単独の統計調査対象の身分を識別し、若しくは推定することのできる資料を提供し、若しくは漏洩したとき。(3)国の関係規定に違反し、統計資料の毀損又は滅失をもたらしたとき。統計人員に前項に掲げる行為の1つがある場合には、法により処分をする。",
+        "en": "Where statistics institutions or relevant departments of the people's governments at or above the county level commit any of the following acts, the appointment and removal authority or the supervisory organ shall, in accordance with the law, impose penalties on the person directly in charge and the other persons directly responsible: (1) Illegally publish statistical data; (2) Disclose trade secrets or individual information of entities or individuals under investigation, or provide or disclose any materials, obtained in the investigation, which can identify or infer the identity of a single subject under statistical investigation; or (3) Violate the relevant provisions of the State, resulting in damage to or loss of statistical materials. Any statistician who commits any of the acts as specified in the preceding paragraph shall be imposed with a penalty in accordance with the law."
+      }
+    },
+    {
+      "id": 49,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第40条",
+        "ja": "第40条",
+        "en": "Article 40"
+      },
+      "texts": {
+        "zh": "统计机构、统计人员泄露国家秘密的，依法追究法律责任。",
+        "ja": "統計機構又は統計人員が国家機密を漏洩した場合には、法により法律責任を追及する。",
+        "en": "Statistical institutions or statisticians that disclose State secrets shall be held legally responsible in accordance with the law."
+      }
+    },
+    {
+      "id": 50,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第41条",
+        "ja": "第41条",
+        "en": "Article 41"
+      },
+      "texts": {
+        "zh": "作为统计调查对象的国家机关、企业事业单位或者其他组织有下列行为之一的，由县级以上人民政府统计机构责令改正，给予警告，可以予以通报；其直接负责的主管人员和其他直接责任人员属于国家工作人员的，由任免机关或者监察机关依法给予处分：（一）拒绝提供统计资料或者经催报后仍未按时提供统计资料的；（二）提供不真实或者不完整的统计资料的；（三）拒绝答复或者不如实答复统计检查查询书的；（四）拒绝、阻碍统计调查、统计检查的；（五）转移、隐匿、篡改、毁弃或者拒绝提供原始记录和凭证、统计台账、统计调查表及其他相关证明和资料的。企业事业单位或者其他组织有前款所列行为之一的，可以并处五万元以下的罚款；情节严重的，并处五万元以上二十万元以下的罚款。个体工商户有本条第一款所列行为之一的，由县级以上人民政府统计机构责令改正，给予警告，可以并处一万元以下的罚款。",
+        "ja": "統計調査対象とする国家機関、企業・事業者及びその他の組織に、次に掲げる行為の1つがある場合には、県級以上の人民政府の統計機構が是正するよう命じ、警告を与え、通報することができる。その直接的に責任を負う主管人員及びその他の直接責任人員が国家機関職員である場合には、任免機関又は監察機関が法により処分をする。(1)統計資料の提供を拒絶し、又は催告を経た後になお期日どおりに統計資料を提供しないとき。(2)真実でなく、又は完全でない統計資料を提供したとき。(3)統計検査照会状に対する回答を拒否し、又は事実とおりに回答しないとき。(4)統計調査又は統計検査を拒絶し、若しくは妨害したとき。(5)元の始記録若しくは証憑、統計台帳、統計調査表その他の関連する証明若しくは資料を移転し、隠匿し、改ざんし、破棄し、又は提供を拒絶したとき。企業・事業者及びその他の組織に前項に掲げる行為の1つがある場合には、5万元以下の罰金を併科することができる。事案が重大である場合には、5万元以上20万元以下の罰金を併科する。個人経営者に第1項に掲げる行為の1つがある場合には、県級以上の人民政府の統計機構が是正するよう命じ、警告を与え、1万元以下の罰金を併科することができる。",
+        "en": "Where State organs, enterprises, public institutions or other organizations, which are the target of statistical investigation, commit any of the following acts, the statistics institutions of the people's governments at or above the county level shall order such target to make rectifications and issue a warning thereto, and may circulate a notice of the matter; if the person directly in charge and the other persons directly responsible are State functionaries, the appointment and removal authority or the supervisory organ shall impose penalties thereon in accordance with the law: (1) Refuse to provide statistical data, or fail to provide statistical data on time after being urged to do so; (2) Provide false or incomplete statistical data; (3) Refuse to answer or make untruthful answers to the statistical inspection inquiry notice; (4) Reject or hinder statistical investigation or inspection; or (5) Transfer, conceal, tamper with, destroy or discard, or refuse to provide, original records and vouchers, statistical ledgers, statistical questionnaires or other relevant certifications or materials. Any enterprise, public institution or other organization that commits any of the acts specified in the preceding paragraph may concurrently be fined not more than RMB 50,000 yuan; if circumstances are serious, it shall concurrently be fined not less than RMB 50,000 yuan but not more than RMB 200,000 yuan. Where any sole proprietor business commits any of the acts as specified in the first paragraph of this Article, the statistics institution of the people's government at or above the county level shall order it to make rectifications and issue a warning thereto, and may concurrently impose a fine of not more than RMB 10,000 yuan."
+      }
+    },
+    {
+      "id": 51,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第42条",
+        "ja": "第42条",
+        "en": "Article 42"
+      },
+      "texts": {
+        "zh": "作为统计调查对象的国家机关、企业事业单位或者其他组织迟报统计资料，或者未按照国家有关规定设置原始记录、统计台账的，由县级以上人民政府统计机构责令改正，给予警告。企业事业单位或者其他组织有前款所列行为之一的，可以并处一万元以下的罚款。个体工商户迟报统计资料的，由县级以上人民政府统计机构责令改正，给予警告，可以并处一千元以下的罚款。",
+        "ja": "統計調査対象とする国家機関、企業・事業者及びその他の組織が統計資料の報告を遅滞し、又は国の関係規定どおりに元の始記録又は統計台帳を設置しない場合には、県級以上の人民政府の統計機構が是正するよう命じ、警告を与える。企業・事業者及びその他の組織に前項に掲げる行為の1つがある場合には、1万元以下の罰金を併科することができる。個人経営者が統計資料の報告を遅滞した場合には、県級以上の人民政府の統計機構が是正するよう命じ、警告を与え、1,000元以下の罰金を併科することができる。",
+        "en": "Where State organs, enterprises, public institutions or other organizations, which are the target of statistical investigation, postpone submission of the statistical data or fail to set up original records or statistical ledgers in accordance with the relevant provisions of the State, the statistics institutions of the people's governments at or above the county level shall order such target to make rectifications and issue a warning thereto. Where an enterprise, public institution or other organization commits any of the acts as specified in the preceding paragraph, a fine of not more than RMB 10,000 yuan may be imposed concurrently. Where a sole proprietor business is late in submitting statistical data, the statistics institution of the people's government at or above the county level shall order such sole proprietor business to make rectifications and issue a warning thereto, and may concurrently impose a fine of not more than RMB 1,000 yuan."
+      }
+    },
+    {
+      "id": 52,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第43条",
+        "ja": "第43条",
+        "en": "Article 43"
+      },
+      "texts": {
+        "zh": "县级以上人民政府统计机构查处统计违法行为时，认为对有关国家工作人员依法应当给予处分的，应当提出给予处分的建议；该国家工作人员的任免机关或者监察机关应当依法及时作出决定，并将结果书面通知县级以上人民政府统计机构。",
+        "ja": "県級以上の人民政府の統計機構は、統計違法行為を調査・処理する際に、関係する国家機関職員に対し法により処分をすべきであると認める場合には、処分をする旨の提言を行わなければならない。当該国家機関職員の任免機関又は監察機関は、法により遅滞なく決定をし、なお且つ結果を県級以上の人民政府の統計機構に書面により通知しなければならない。",
+        "en": "In the process of investigating and punishing illegal statistical acts, if statistics institutions of the people's governments at or above the county level believe that the relevant State functionaries should be subject to disciplinary penalties in accordance with the law, the statistics institutions shall propose to impose such penalties on such personnel; the appointment and removal authority or the supervisory organ shall make a decision without delay in accordance with the law and inform the relevant statistical institutions of the people's government at or above the county level in writing of the result."
+      }
+    },
+    {
+      "id": 53,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第44条",
+        "ja": "第44条",
+        "en": "Article 44"
+      },
+      "texts": {
+        "zh": "作为统计调查对象的个人在重大国情国力普查活动中拒绝、阻碍统计调查，或者提供不真实或者不完整的普查资料的，由县级以上人民政府统计机构责令改正，予以批评教育。",
+        "ja": "統計調査対象とする個人が重大な国情・国力普遍調査活動において統計調査を拒絶し、若しくは妨害し、又は真実でなく、若しくは完全でない普遍調査資料を提供した場合には、県級以上の人民政府の統計機構が是正するよう命じ、批判教育する。",
+        "en": "Where any individual under statistical investigation rejects or hinders the statistical investigation during a major general survey of national conditions or national strength, or provides false or incomplete materials for the general survey, the statistics institution of the people's governments at or above the county level shall order such individual to make rectifications and educate the individual through criticism."
+      }
+    },
+    {
+      "id": 54,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第45条",
+        "ja": "第45条",
+        "en": "Article 45"
+      },
+      "texts": {
+        "zh": "违反本法规定，利用虚假统计资料骗取荣誉称号、物质利益或者职务晋升的，除对其编造虚假统计资料或者要求他人编造虚假统计资料的行为依法追究法律责任外，由作出有关决定的单位或者其上级单位、监察机关取消其荣誉称号，追缴获得的物质利益，撤销晋升的职务。",
+        "ja": "本法の規定に違反し、虚偽の統計資料を利用して栄誉称号、物質的利益又は職務昇進を騙取した場合には、その虚偽の統計資料をねつ造し、又は他人に虚偽の統計資料をねつ造するよう要求した行為に対し法により法律責任を追及するほか、関係する決定をした機関、その上級機関又は監察機関がその栄誉称号を取り消し、取得した物質的利益を追徴し、昇級した職務を取り消す。",
+        "en": "Where any entity or individual obtains an honorary title, material benefits or job promotion through the use of false statistical data, which violates the provisions of this Law, the relevant authority shall, in accordance with the law, pursue legal liability of such entity or individual for fabricating false statistical materials or requiring others to fabricate false statistical materials; in addition, the entity making the relevant decision or its superior or the relevant supervisory organ shall deprive the entity or individual of the honorary title, confiscate material benefits or cancel the job promotion."
+      }
+    },
+    {
+      "id": 55,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第46条",
+        "ja": "第46条",
+        "en": "Article 46"
+      },
+      "texts": {
+        "zh": "当事人对县级以上人民政府统计机构作出的行政处罚决定不服的，可以依法申请行政复议或者提起行政诉讼。其中，对国家统计局在省、自治区、直辖市派出的调查机构作出的行政处罚决定不服的，向国家统计局申请行政复议；对国家统计局派出的其他调查机构作出的行政处罚决定不服的，向国家统计局在该派出机构所在的省、自治区、直辖市派出的调查机构申请行政复议。",
+        "ja": "当事者は、県級以上の人民政府の統計機構が下した行政処罰決定について不服である場合には、法により行政再議を申立て、又は行政訴訟を提起することができる。そのうち、国家統計局が省、自治区及び直轄市において派出する調査機構の下した行政処罰決定について不服であるときは、国家統計局に対し行政再議を申立てる。国家統計局の派出するその他の調査機構が下した行政処罰決定について不服であるときは、国家統計局が当該派出機構の所在する省、自治区及び直轄市において派出する調査機構に対し行政再議を申立てる。",
+        "en": "Where the parties concerned are dissatisfied with an administrative penalty imposed by statistics institutions of the people's governments at or above the county level, the parties may file an application for administrative reconsideration or file an administrative action in accordance with the law. In the event of dissatisfaction with an administrative penalty imposed by the investigation institution dispatched by the National Bureau of Statistics to the province, autonomous region, or municipality directly under the Central Government, the parties concerned shall file an application for administrative reconsideration with the National Bureau of Statistics; in the event of dissatisfaction with an administrative penalty imposed by another investigation institution dispatched by the National Bureau of Statistics, the parties concerned shall file an application for administrative reconsideration with the investigation institution dispatched by the National Bureau of Statistics to the province, autonomous region, or municipality directly under the Central Government where the said other investigation institution is located."
+      }
+    },
+    {
+      "id": 56,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第47条",
+        "ja": "第47条",
+        "en": "Article 47"
+      },
+      "texts": {
+        "zh": "违反本法规定，构成犯罪的，依法追究刑事责任。",
+        "ja": "本法の規定に違反し、犯罪を構成する場合には、法により刑事責任を追及する。",
+        "en": "Where any act in violation of this Law constitutes a crime, criminal liability shall be pursued."
+      }
+    },
+    {
+      "id": 57,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第七章",
+        "ja": "第7章",
+        "en": "Chapter VII "
+      },
+      "texts": {
+        "zh": "附则",
+        "ja": "附則",
+        "en": "Supplementary Provisions"
+      }
+    },
+    {
+      "id": 58,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第48条",
+        "ja": "第48条",
+        "en": "Article 48"
+      },
+      "texts": {
+        "zh": "本法所称县级以上人民政府统计机构，是指国家统计局及其派出的调查机构、县级以上地方人民政府统计机构。",
+        "ja": "本法にいう「県級以上の人民政府の統計機構」とは、国家統計局、その派出する調査機構及び県級以上の地方人民政府の統計機構を指す。",
+        "en": "For the purposes of this Law, statistics institutions of the people's governments at or above the county level shall mean the National Bureau of Statistics and its dispatched investigation institutions and the statistics institutions of local people's governments at or above the county level."
+      }
+    },
+    {
+      "id": 59,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第49条",
+        "ja": "第49条",
+        "en": "Article 49"
+      },
+      "texts": {
+        "zh": "民间统计调查活动的管理办法，由国务院制定。中华人民共和国境外的组织、个人需要在中华人民共和国境内进行统计调查活动的，应当按照国务院的规定报请审批。利用统计调查危害国家安全、损害社会公共利益或者进行欺诈活动的，依法追究法律责任。",
+        "ja": "民間統計調査活動の管理弁法は、国務院がこれを制定する。中華人民共和国国外の組織及び個人は、中華人民共和国国内において統計調査活動をする必要のある場合には、国務院の規定に従い審査認可を申請しなければならない。統計調査を利用して国の安全に危害を及ぼし、社会公共利益を損ない、又は詐欺活動をした場合には、法により法律責任を追及する。",
+        "en": "The measures for the administration of non-governmental statistical investigation activities shall be formulated by the State Council. If any organization or individual outside the territory of the People's Republic of China needs to carry out statistical investigation activities within the territory of the People's Republic of China, the organization or individual shall file an application for examination and approval in accordance with the provisions of the State Council. Any person, who jeopardizes national security, harms public interests, or commits fraud by making use of statistical investigation shall be held legally responsible in accordance with the law."
+      }
+    },
+    {
+      "id": 60,
+      "source_file": "中华人民共和国统计法(2009)",
+      "original_numbers": {
+        "zh": "第50条",
+        "ja": "第50条",
+        "en": "Article 50"
+      },
+      "texts": {
+        "zh": "本法自2011年1月1日起施行。",
+        "ja": "本法は、2010年1月1日より施行する。",
+        "en": "This Law shall go into effect as of January 1, 2010."
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+# 默认实验配置
+experiment:
+  name: "hcf_lt_full"
+  description: "完整HCF-LT框架实验"
+  
+# Agent服务器配置
+agent:
+  base_url: "http://localhost:8000"
+  token: ""  # 如果需要认证
+  timeout: 300  # 请求超时时间(秒)
+  max_retries: 3
+
+# 实验参数
+parameters:
+  directions: ["zh-en", "zh-ja"]  # 翻译方向
+  test_set: ["公司法", "侵权责任法", "商标法", "行政处罚法", "刑事诉讼法"]
+  
+  # 完整配置
+  full:
+    usePreprocess: true
+    hierarchical: true
+    useTermBase: true
+    useRuleTable: true
+    useTM: true
+    topK: 2
+    model: "gpt-4o"
+    temperature: 0
+
+# 消融实验配置
+ablations:
+  full:
+    usePreprocess: true
+    hierarchical: true
+    useTermBase: true
+    useRuleTable: true
+    useTM: true
+    topK: 2
+    model: "gpt-4o"
+    temperature: 0
+
+  no_preprocess:
+    usePreprocess: false
+    hierarchical: true
+    useTermBase: true
+    useRuleTable: true
+    useTM: true
+    
+  no_termbase:
+    hierarchical: true
+    useTermBase: false
+    useRuleTable: true
+    useTM: true
+    
+  no_rules:
+    hierarchical: true
+    useTermBase: true
+    useRuleTable: false
+    useTM: true
+    
+  no_tm:
+    hierarchical: true
+    useTermBase: true
+    useRuleTable: true
+    useTM: false
+
+# 输出配置
+output:
+  base_dir: "outputs"
+  cache: true  # 是否使用缓存
+  parallel: 4  # 并发数

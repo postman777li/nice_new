@@ -1,0 +1,732 @@
+{
+  "metadata": {
+    "law_name": "外商投资法",
+    "domain": "ForeignInvestmentLaw",
+    "year": 2019,
+    "source_file": "中华人民共和国外商投资法(2019).xlsx",
+    "total_entries": 51,
+    "processed_at": "2025-10-05T21:38:47.575765",
+    "languages": [
+      "zh",
+      "ja",
+      "en"
+    ],
+    "valid_entries": 51
+  },
+  "entries": [
+    {
+      "id": 1,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "法律名称",
+        "ja": "法令名",
+        "en": "Law Title"
+      },
+      "texts": {
+        "zh": "中华人民共和国外商投资法",
+        "ja": "中華人民共和国外商投資法",
+        "en": "Law of the People's Republic of China on Foreign Investment"
+      }
+    },
+    {
+      "id": 2,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "修订记录",
+        "ja": "改正記録",
+        "en": "Revision Record"
+      },
+      "texts": {
+        "zh": "（2019 年 3 月 15 日第十三届全国人民代表大会第二次会议通过）",
+        "ja": "(2019 年 3 月 15 日第 13 期全国人民代表大会第 2 回会議で可決)",
+        "en": "(Adopted at the Second Session of the Thirteenth National People's Congress of the People's Republic of China on March 15, 2019)"
+      }
+    },
+    {
+      "id": 3,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "目录",
+        "ja": "目次",
+        "en": "Table of Contents"
+      },
+      "texts": {
+        "zh": "第一章　总则\n第二章　投资促进\n第三章　投资保护\n第四章　投资管理\n第五章　法律责任\n第六章　附则",
+        "ja": "第一章 総則\n第二章 投資促進\n第三章 投資保護\n第四章 投資管理\n第五章 法律責任\n第六章 附則",
+        "en": "Chapter I General Provisions\nChapter II Investment Promotion \nChapter III Investment Protection\nChapter IV Investment Administration\nChapter V Legal Liability\nChapter VI Supplementary Provisions"
+      }
+    },
+    {
+      "id": 4,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第一章",
+        "ja": "第一章",
+        "en": "Chapter I"
+      },
+      "texts": {
+        "zh": "总则",
+        "ja": "総則",
+        "en": "General Provisions"
+      }
+    },
+    {
+      "id": 5,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 1 条",
+        "ja": "第 1 条",
+        "en": "Article 1"
+      },
+      "texts": {
+        "zh": "为了进一步扩大对外开放，积极促进外商投资，保护外商投资合法权益，规范外商投资管理，推动形成全面开放新格局，促进社会主义市场经济健康发展，根据宪法，制定本法。",
+        "ja": "対外開放のさらなる拡大、外商投資の一層の促進、外商投資の合法権益の保護、外商投資管理の規範化、全面的開放の新たな局面の形成促進、社会主義市場経済の健全な発展促進の為、憲法に基き本法を制定する。",
+        "en": "This Law is formulated in accordance with the Constitution for the purposes of further expanding opening up, actively promoting foreign investment, protecting the legitimate rights and interests of foreign investors, regulating foreign investment administration, striving to form a new structure in the pursuit of opening up on all fronts, and promoting the healthy development of the socialist market economy."
+      }
+    },
+    {
+      "id": 6,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 2 条",
+        "ja": "第 2 条",
+        "en": "Article 2"
+      },
+      "texts": {
+        "zh": "在中华人民共和国境内（以下简称中国境内）的外商投资，适用本法。本法所称外商投资，是指外国的自然人、企业或者其他组织（以下称外国投资者）直接或者间接在中国境内进行的投资活动，包括下列情形：（一）外国投资者单独或者与其他投资者共同在中国境内设立外商投资企业；（二）外国投资者取得中国境内企业的股份、股权、财产份额或者其他类似权益；（三）外国投资者单独或者与其他投资者共同在中国境内投资新建项目；（四）法律、行政法规或者国务院规定的其他方式的投资。本法所称外商投资企业，是指全部或者部分由外国投资者投资，依照中国法律在中国境内经登记注册设立的企业。",
+        "ja": "中華人民共和国域内(以下、中国域内)の外商投資に対し、本法を適用する。本法で言う外商投資とは、外国の自然人、企業またはその他組織(以下、外国投資者)が直接又は間接的に中国国内で行う投資活動を指し、以下の状況が含まれる:(1)外国投資者が単独またはその他の投資者と共同で中国域内において外商投資企業を設立する(2)外国投資者が中国域内企業の株式、出資持分、財産持分またはその他の類似権益を取得する(3)外国投資者が単独またはその他の投資者と共同で中国域内において新たなプロジェクトに投資(4)法律、行政法規または国務院が規定するその他の方式による投資本法で言う外商投資企業とは、全部または部分的に外国投資者が投資し、中国の法律に基き中国域内において登記・設立した企業を指す。",
+        "en": "This Law applies to foreign investment in the territory of the People's Republic of China (hereinafter referred to as \"in the territory of China\"). \n\n\"Foreign investment\" referred to in this Law means the investment activities conducted directly or indirectly by foreign natural persons, foreign enterprises or other foreign organizations (hereinafter referred to as \"foreign investors\") in the territory of China, including the following circumstances: \n\n(1) a foreign investor sets up a foreign-invested enterprise in the territory of China individually or jointly with any other investor; \n\n(2) a foreign investor acquires shares, equities, shares of property, or other similar rights and interests of an enterprise in the territory of China; \n\n(3) a foreign investor invests in a new project in the territory of China individually or jointly with any other investor; \n\n(4) investment in other ways as prescribed by laws, administrative regulations or prescribed by the State Council.\n\n\"A foreign-invested enterprise\" referred to in this Law means an enterprise that is wholly or partly invested by a foreign investor and registered in the territory of China in accordance with Chinese law."
+      }
+    },
+    {
+      "id": 7,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 3 条",
+        "ja": "第 3 条",
+        "en": "Article 3"
+      },
+      "texts": {
+        "zh": "国家坚持对外开放的基本国策，鼓励外国投资者依法在中国境内投资。国家实行高水平投资自由化便利化政策，建立和完善外商投资促进机制，营造稳定、透明、可预期和公平竞争的市场环境。",
+        "ja": "中国は対外開放の基本的な国策を堅持し、外国投資者が法に従い中国域内で投資することを奨励する。中国は高水準な投資の自由化・利便化政策を実施し、外商投資促進体制を構築・改善し、安定、透明、予測可能、公平な競争市場の環境を構築する。",
+        "en": "The State adheres to the fundamental national policy of opening up, and encourages foreign investors to invest in the territory of China in accordance with law. \n\nThe State implements policies of high-level investment liberalization and facilitation, establishes and improves foreign investment promotion mechanisms, and creates a stable, transparent, predictable, and fair market environment."
+      }
+    },
+    {
+      "id": 8,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 4 条",
+        "ja": "第 4 条",
+        "en": "Article 4"
+      },
+      "texts": {
+        "zh": "国家对外商投资实行准入前国民待遇加负面清单管理制度。前款所称准入前国民待遇，是指在投资准入阶段给予外国投资者及其投资不低于本国投资者及其投资的待遇；所称负面清单，是指国家规定在特定领域对外商投资实施的准入特别管理措施。国家对负面清单之外的外商投资，给予国民待遇。负面清单由国务院发布或者批准发布。中华人民共和国缔结或者参加的国际条约、协定对外国投资者准入待遇有更优惠规定的，可以按照相关规定执行。",
+        "ja": "中国は外商投資に対し参入前内国民待遇にネガティブリストを加えた管理制度を実施する。前項の参入前内国民待遇とは、投資参入の段階で外国投資者及びその投資に対し、中国投資者及びその投資を下回らない待遇を付与することを指す。ネガティブリストとは、国が特定分野において外商投資を対象に実施する参入特別管理措置を指す。ネガティブリスト以外の外商投資に対しては、内国民待遇を付与する。ネガティブリストは、国務院が発布または発布を承認する。中華人民共和国が締結または参加している国際条約・協定で、外国投資者の参入に対し更に優遇する規定がある場合は、関連規定に基づき執行することができる。",
+        "en": "The State implements a system of pre-establishment national treatment plus negative list for foreign investment.\n\"Pre-establishment national treatment\" referred to in the preceding paragraph means that the treatment accorded to foreign investors and their investments at the stage of investment access shall be no less favorable than that accorded to domestic investors and their investments; \"negative list\" referred to in the preceding paragraph means the special administrative measures for the access of foreign investment in specific sectors as stipulated by the State. The State accords national treatment to foreign investments outside the negative list. \n\nThe negative list shall be issued by, or with the approval of, the State Council. \n\nWhere the international treaties or agreements concluded or acceded to by the People's Republic of China provide for more favorable treatment for the access of foreign investment, the relevant provisions may be implemented."
+      }
+    },
+    {
+      "id": 9,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 5 条",
+        "ja": "第 5 条",
+        "en": "Article 5"
+      },
+      "texts": {
+        "zh": "国家依法保护外国投资者在中国境内的投资、收益和其他合法权益。",
+        "ja": "中国は法に従い外国投資者の中国域内における投資、収益及びその他の合法権益を保護する。",
+        "en": "The State protects the investment, income and other legitimate rights and interests of foreign investors in the territory of China in accordance with law."
+      }
+    },
+    {
+      "id": 10,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 6 条",
+        "ja": "第 6 条",
+        "en": "Article 6"
+      },
+      "texts": {
+        "zh": "在中国境内进行投资活动的外国投资者、外商投资企业，应当遵守中国法律法规，不得危害中国国家安全、损害社会公共利益。",
+        "ja": "中国域内で投資活動を行う外国投資者、外商投資企業は、中国の法律法規を遵守し、中国国家の安全を脅かし、社会の公共利益を損なってはならない。",
+        "en": "Foreign investors and foreign-invested enterprises that conduct investment activities in the territory of China shall abide by Chinese laws and regulations and shall neither endanger China's national security nor harm public interests."
+      }
+    },
+    {
+      "id": 11,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 7 条",
+        "ja": "第 7 条",
+        "en": "Article 7"
+      },
+      "texts": {
+        "zh": "国务院商务主管部门、投资主管部门按照职责分工，开展外商投资促进、保护和管理工作；国务院其他有关部门在各自职责范围内，负责外商投资促进、保护和管理的相关工作。县级以上地方人民政府有关部门依照法律法规和本级人民政府确定的职责分工，开展外商投资促进、保护和管理工作。",
+        "ja": "国務院商務主管部門、投資主管部門は職責分担に基き、外商投資の促進・保護・管理業務を行う。国務院のその他の関連部門は各自の職責範囲内で外商投資の促進・保護・管理の関連業務を行う。県級以上の地方人民政府の関連部門は法律法規と当該級の人民政府の職責分担に基き、外商投資の促進・保護・管理業務を行う。",
+        "en": "The department for commerce under the State Council and the department for investment under the same shall, in accordance with the division of responsibilities, carry out the work of promotion, protection, and administration of foreign investment; other relevant departments of the State Council shall, within the scope of respective responsibilities, be responsible for the relevant work of promotion, protection, and administration of foreign investment. Relevant departments of local people's governments at or above the county level shall, in accordance with laws, regulations and the division of responsibilities determined by the people's government at the same level, carry out the work of promotion, protection, and administration of foreign investment."
+      }
+    },
+    {
+      "id": 12,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 8 条",
+        "ja": "第 8 条",
+        "en": "Article 8"
+      },
+      "texts": {
+        "zh": "外商投资企业职工依法建立工会组织，开展工会活动，维护职工的合法权益。外商投资企业应当为本企业工会提供必要的活动条件。",
+        "ja": "外商投資企業の従業員は法に従い従業員組合組織を設立し、組合活動を行い、従業員の合法権益を保護する。外商投資企業は当該企業の組合活動に必要な活動条件を提供しなければならない。",
+        "en": "Employees of foreign-invested enterprises may establish trade unions in accordance with law, carry out trade union activities, and safeguard the legitimate rights and interests of the employees. Foreign-invested enterprises shall provide necessary conditions for the activities of their respective trade unions."
+      }
+    },
+    {
+      "id": 13,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第二章",
+        "ja": "第二章",
+        "en": "Chapter II"
+      },
+      "texts": {
+        "zh": "投资促进",
+        "ja": "投資促進",
+        "en": "Investment Promotion"
+      }
+    },
+    {
+      "id": 14,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 9 条",
+        "ja": "第 9 条",
+        "en": "Article 9"
+      },
+      "texts": {
+        "zh": "外商投资企业依法平等适用国家支持企业发展的各项政策。",
+        "ja": "外商投資企業には、法に従い国家の企業発展支援策を平等に適用する。",
+        "en": "State policies supporting the development of enterprises shall equally apply to foreign-invested enterprises in accordance with law."
+      }
+    },
+    {
+      "id": 15,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 10 条",
+        "ja": "第 10 条",
+        "en": "Article 10"
+      },
+      "texts": {
+        "zh": "制定与外商投资有关的法律、法规、规章，应当采取适当方式征求外商投资企业的意见和建议。与外商投资有关的规范性文件、裁判文书等，应当依法及时公布。",
+        "ja": "外商投資の関連法律、法規、規則を制定する際、適当な方式で外商投資企業から意見と建議を募集しなければならない。外商投資と関係がある規範性文書、裁判文書等は、法に従い遅滞なく公布しなければならない。",
+        "en": "Appropriate measures shall be taken to solicit opinions and suggestions from foreign-invested enterprises when formulating laws, regulations and rules related to foreign investment. Normative documents and adjudicative decisions, etc. related to foreign investment shall be published in a timely manner in accordance with law."
+      }
+    },
+    {
+      "id": 16,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 11 条",
+        "ja": "第 11 条",
+        "en": "Article 11"
+      },
+      "texts": {
+        "zh": "国家建立健全外商投资服务体系，为外国投资者和外商投资企业提供法律法规、政策措施、投资项目信息等方面的咨询和服务。",
+        "ja": "中国は外商投資サービス体制を構築・改善し、外国投資者と外商投資企業に対し、法律法規、政策措置、投資案件情報に関するコンサルティングとサービスを提供する。",
+        "en": "The State establishes and improves the service system for foreign investment, to provide counseling and services to foreign investors and foreign-invested enterprises on laws and regulations, policies and measures, and information of investment projects, etc."
+      }
+    },
+    {
+      "id": 17,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 12 条",
+        "ja": "第 12 条",
+        "en": "Article 12"
+      },
+      "texts": {
+        "zh": "国家与其他国家和地区、国际组织建立多边、双边投资促进合作机制，加强投资领域的国际交流与合作。",
+        "ja": "中国はその他の国・地域、国際組織とマルチラテラルまたはバイラテラルの投資促進合作の枠組を構築し、投資分野の国際交流と合作を強化する。",
+        "en": "The State establishes multilateral and bilateral cooperation mechanisms on investment promotion with other countries, regions and international organizations, to strengthen international exchanges and cooperation in the field of investment."
+      }
+    },
+    {
+      "id": 18,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 13 条",
+        "ja": "第 13 条",
+        "en": "Article 13"
+      },
+      "texts": {
+        "zh": "国家根据需要，设立特殊经济区域，或者在部分地区实行外商投资试验性政策措施，促进外商投资，扩大对外开放。",
+        "ja": "中国は需要に応じて、特別経済区域の設立または一部地域において外商投資の試験的な政策措置を実施し、外商投資を促進、対外開放を拡大する。",
+        "en": "The State, as needed, establishes special economic areas, or adopts pilot policies and measures on foreign investment in certain regions, so as to promote foreign investment and expand opening up."
+      }
+    },
+    {
+      "id": 19,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 14 条",
+        "ja": "第 14 条",
+        "en": "Article 14"
+      },
+      "texts": {
+        "zh": "国家根据国民经济和社会发展需要，鼓励和引导外国投资者在特定行业、领域、地区投资。外国投资者、外商投资企业可以依照法律、行政法规或者国务院的规定享受优惠待遇。",
+        "ja": "中国は国民経済と社会発展の需要に基き、外国投資者の特定業種、 分野、地区における投資を奨励・誘導する。外国投資者と外商投資企業は 法律、行政法規または国務院が定めた規定に基づき優遇を享受することが できる。",
+        "en": "The State, based on the needs of national economic and social development, encourages and guides foreign investors to invest in specific industries, sectors, and regions. Foreign investors and foreign-invested enterprises are entitled to preferential treatment in accordance with laws, administrative regulations, or provisions of the State Council."
+      }
+    },
+    {
+      "id": 20,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 15 条",
+        "ja": "第 15 条",
+        "en": "Article 15"
+      },
+      "texts": {
+        "zh": "国家保障外商投资企业依法平等参与标准制定工作，强化标准制定的信息公开和社会监督。国家制定的强制性标准平等适用于外商投资企业。",
+        "ja": "中国は外商投資企業が法に従い標準制定業務に平等に参与することを保障し、標準制定の際の情報公開と社会監督を強化する。中国が制定した強制性標準は外商投資企業に平等に適用する。",
+        "en": "The State ensures the equal participation of foreign-invested enterprises in the standard-setting in accordance with law, and strengthens information publication and public supervision related to the setting of standards.   Compulsory standards set by the State are equally applicable to foreign-invested enterprises."
+      }
+    },
+    {
+      "id": 21,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 16 条",
+        "ja": "第 16 条",
+        "en": "Article 16"
+      },
+      "texts": {
+        "zh": "国家保障外商投资企业依法通过公平竞争参与政府采购活动。政府采购依法对外商投资企业在中国境内生产的产品、提供的服务平等对待。",
+        "ja": "中国は外商投資企業が法に従い公平な競争を通じて政府調達活動に参与することを保障する。政府調達について、外商投資企業が中国域内で生産した製品、提供したサービスを平等に扱う。",
+        "en": "The State ensures that foreign-invested enterprises participate in government procurement activities through fair competition in accordance with law. Products produced and services provided by foreign-invested enterprises in the territory of China shall be treated equally in government procurement in accordance with law."
+      }
+    },
+    {
+      "id": 22,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 17 条",
+        "ja": "第 17 条",
+        "en": "Article 17"
+      },
+      "texts": {
+        "zh": "外商投资企业可以依法通过公开发行股票、公司债券等证券和其他方式进行融资。",
+        "ja": "外商投資企業は株式、社債等の証券の公開発行またはその他の方式を以って資金調達を行うことができる。",
+        "en": "Foreign-invested enterprises may raise funds through public offering of stocks, corporate bonds, and other securities, as well as through other means in accordance with law."
+      }
+    },
+    {
+      "id": 23,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 18 条",
+        "ja": "第 18 条",
+        "en": "Article 18"
+      },
+      "texts": {
+        "zh": "县级以上地方人民政府可以根据法律、行政法规、地方性法规的规定，在法定权限内制定外商投资促进和便利化政策措施。",
+        "ja": "県級以上の地方人民政府は法律、行政法規、地方法規に基き、法定権限内において外商投資の促進・利便化政策措置を制定することができる。",
+        "en": "Local people's governments at or above the county level may formulate policies and measures promoting and facilitating foreign investment within their statutory authority in accordance with the provisions of laws, administrative regulations, and local regulations."
+      }
+    },
+    {
+      "id": 24,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 19 条",
+        "ja": "第 19 条",
+        "en": "Article 19"
+      },
+      "texts": {
+        "zh": "各级人民政府及其有关部门应当按照便利、高效、透明的原则，简化办事程序，提高办事效率，优化政务服务，进一步提高外商投资服务水平。有关主管部门应当编制和公布外商投资指引，为外国投资者和外商投资企业提供服务和便利。",
+        "ja": "各級人民政府及びその関連部門は、便利・効率・透明の原則に基 づき、行政手続きの簡素化と効率化、行政サービスの向上を図り、外商投 資サービスの水準を一層高めなければならない。関連主管部門は外商投資 手引を作成・公布し、外国投資者と外商投資企業の為のサービスと利便性 を提供しなければならない。",
+        "en": "People's governments at all levels and their relevant departments shall, in accordance with the principles of convenience, efficiency, and transparency, streamline procedures, improve efficiency, optimize government services, and further improve the service for foreign investment. The relevant competent departments shall develop and publish foreign investment guidelines to provide services and facilities for foreign investors and foreign-invested enterprises. Chapter III Investment Protection"
+      }
+    },
+    {
+      "id": 25,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第三章　",
+        "ja": "第三章",
+        "en": "Chapter III"
+      },
+      "texts": {
+        "zh": "投资保护",
+        "ja": "投資保護",
+        "en": "Investment Protection"
+      }
+    },
+    {
+      "id": 26,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 20 条",
+        "ja": "第 20 条",
+        "en": "Article 20"
+      },
+      "texts": {
+        "zh": "国家对外国投资者的投资不实行征收。在特殊情况下，国家为了公共利益的需要，可以依照法律规定对外国投资者的投资实行征收或者征用。征收、征用应当依照法定程序进行，并及时给予公平、合理的补偿。",
+        "ja": "中国は外国投資者の投資に対し収用を実施しない。特別な状況において、中国は公共利益の為に、法律に基き外国投資者の投資を収用・強制使用することができる。収用・強制使用は法定手続きに基いて行い、且つ公平・合理的な補償を遅滞なく与えなければならない。",
+        "en": "The State shall not expropriate the investment of foreign investors. Under special circumstances, the State may expropriate or requisition the investment of foreign investors in accordance with law and for the needs of public interests. Such expropriation and requisition shall be conducted in accordance with legal procedures, and fair and reasonable compensation shall be paid in a timely manner."
+      }
+    },
+    {
+      "id": 27,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 21 条",
+        "ja": "第 21 条",
+        "en": "Article 21"
+      },
+      "texts": {
+        "zh": "外国投资者在中国境内的出资、利润、资本收益、资产处置所得、知识产权许可使用费、依法获得的补偿或者赔偿、清算所得等，可以依法以人民币或者外汇自由汇入、汇出。",
+        "ja": "外国投資者の中国域内における出資、利益、資本収益、資産処理所得、知的財産権使用料、法に従って取得した補償・賠償・清算所得等は、法に従い人民元または外貨により自由に被仕向・仕向送金を行うことができる。",
+        "en": "Foreign investors' contribution to capital, profits, capital gains, proceeds from assets disposal, intellectual property rights royalties, indemnity or compensation received in accordance with law, and proceeds from liquidation, etc. made or received in the territory of China, may be freely remitted inward or outward in RMB or foreign currencies in accordance with law."
+      }
+    },
+    {
+      "id": 28,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 22 条",
+        "ja": "第 22 条",
+        "en": "Article 22"
+      },
+      "texts": {
+        "zh": "国家保护外国投资者和外商投资企业的知识产权，保护知识产权权利人和相关权利人的合法权益；对知识产权侵权行为，严格依法追究法律责任。国家鼓励在外商投资过程中基于自愿原则和商业规则开展技术合作。技术合作的条件由投资各方遵循公平原则平等协商确定。行政机关及其工作人员不得利用行政手段强制转让技术。",
+        "ja": "中国は外国投資者と外商投資企業の知的財産権を保護し、知的財産権の権利者と関係する権利者の合法権益を保護する。知的財産権の侵害行為に対し、厳格に法に従い法律責任を追及する。中国は外商投資が行われる過程において、自由意志の原則と商業規則に基く技術合作を行うことを奨励する。技術合作の条件は投資の各当事者が公平な原則に基づき平等に協議して決める。行政機関及びその従業員は行政手段を利用して技術移転を強制してはならない。",
+        "en": "The State protects the intellectual property rights of foreign investors and foreign-invested enterprises, protects the legitimate rights and interests of intellectual property rights holders and related rights holders, and strictly pursues legal liability for infringements of intellectual property rights in accordance with law. The State encourages technical cooperation based on the voluntary principle and commercial rules in the process of foreign investment. The terms and conditions for technical cooperation are determined by the investing parties through negotiation on an equal basis in accordance with the principle of fairness. Administrative departments and their staff members shall not force the transfer of technology through administrative means."
+      }
+    },
+    {
+      "id": 29,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 23 条",
+        "ja": "第 23 条",
+        "en": "Article 23"
+      },
+      "texts": {
+        "zh": "行政机关及其工作人员对于履行职责过程中知悉的外国投资者、外商投资企业的商业秘密，应当依法予以保密，不得泄露或者非法向他人提供。",
+        "ja": "行政機関及びその職員は職責を履行することにより知り得た外国投資者と外商投資企業の商業秘密について、法に従って秘密保持を守らなければならず、漏洩または他人に対し提供してはならない。",
+        "en": "Administrative departments and their staff members shall keep confidential in accordance with law the trade secrets of foreign investors and foreign-invested enterprises they have obtained during the performance of their duties, and shall not disclose or illegally provide such trade secrets to others."
+      }
+    },
+    {
+      "id": 30,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 24 条",
+        "ja": "第 24 条",
+        "en": "Article 24"
+      },
+      "texts": {
+        "zh": "各级人民政府及其有关部门制定涉及外商投资的规范性文件，应当符合法律法规的规定；没有法律、行政法规依据的，不得减损外商投资企业的合法权益或者增加其义务，不得设置市场准入和退出条件，不得干预外商投资企业的正常生产经营活动。",
+        "ja": "各級人民政府及びその関連部門が制定した外商投資に関わる規範性文書は、法律法規の規定に合致しなければならない。法律や行政法規の根拠がない場合、外商投資企業の合法権益を損なったり、義務を増やしたり、市場参入・退出条件を設けたり、外商投資企業の正常な生産経営活動に干渉してはならない。",
+        "en": "People's governments at all levels and their relevant departments shall comply with the provisions of laws and regulations in formulating normative documents concerning foreign investment. Without a basis in laws or administrative regulations, such documents shall not impair the legitimate rights and interests of foreign-invested enterprises or add their obligations, or impose conditions for market access and exit, or interfere with normal production and operation activities of foreign-invested enterprises."
+      }
+    },
+    {
+      "id": 31,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 25 条",
+        "ja": "第 25 条",
+        "en": "Article 25"
+      },
+      "texts": {
+        "zh": "地方各级人民政府及其有关部门应当履行向外国投资者、外商投资企业依法作出的政策承诺以及依法订立的各类合同。因国家利益、社会公共利益需要改变政策承诺、合同约定的，应当依照法定权限和程序进行，并依法对外国投资者、外商投资企业因此受到的损失予以补偿。",
+        "ja": "各級地方人民政府及びその関連部門は外国投資者と外商投資企業に対し、法に基いて行った政策承諾及び法に基いて締結した各種契約を履行しなければならない。国家の利益、社会の公共利益の為に政策承諾、契約の約定を変更しなければならない場合には、法定権限・手続きに基き行なわなければならず、且つ外国投資者と外商投資企業がこれにより被った損失を補償しなければならない。",
+        "en": "Local people's governments at all levels and their relevant departments shall fulfill their policy commitments made to foreign investors or foreign-invested enterprises in accordance with law, and fulfill various types of contracts concluded in accordance with law. If the interests of the State or public interests warrant the need to amend policy commitments or contractual arrangements, such amendments shall be made in accordance with the statutory authority and procedures, and compensations shall be made in accordance with law for the losses incurred thereby on foreign investors or foreign-invested enterprises."
+      }
+    },
+    {
+      "id": 32,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 26 条",
+        "ja": "第 26 条",
+        "en": "Article 26"
+      },
+      "texts": {
+        "zh": "国家建立外商投资企业投诉工作机制，及时处理外商投资企业或者其投资者反映的问题，协调完善相关政策措施。外商投资企业或者其投资者认为行政机关及其工作人员的行政行为侵犯其合法权益的，可以通过外商投资企业投诉工作机制申请协调解决。外商投资企业或者其投资者认为行政机关及其工作人员的行政行为侵犯其合法权益的，除依照前款规定通过外商投资企业投诉工作机制申请协调解决外，还可以依法申请行政复议、提起行政诉讼。",
+        "ja": "各級地方人民政府及びその関連部門は外国投資者と外商投資企業に対し、法に基いて行った政策承諾及び法に基いて締結した各種契約を履行しなければならない。国家の利益、社会の公共利益の為に政策承諾、契約の約定を変更しなければならない場合には、法定権限・手続きに基き行なわなければならず、且つ外国投資者と外商投資企業がこれにより被った損失を補償しなければならない。",
+        "en": "The State establishes a complaints mechanism for foreign-invested enterprises to address the problems raised by foreign-invested enterprises or their investors in a timely manner, and coordinates and improves relevant policies and measures. If foreign-invested enterprises or their investors believe that their legitimate rights and interests are infringed due to the administrative actions of the administrative departments and their staff members, they may apply for coordination to resolve the problems through the complaints mechanism for foreign-invested enterprises. If foreign-invested enterprises or their investors believe that their legitimate rights and interests are infringed by the administrative actions of the administrative departments and their staff members, they may also apply for administrative reconsideration or bring administrative lawsuits in accordance with law, in addition to applying for coordination to resolve the problems through the complaints mechanism for foreign-invested enterprises in accordance with the preceding paragraph."
+      }
+    },
+    {
+      "id": 33,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 27 条",
+        "ja": "第 27 条",
+        "en": "Article 27"
+      },
+      "texts": {
+        "zh": "外商投资企业可以依法成立和自愿参加商会、协会。商会、协会依照法律法规和章程的规定开展相关活动，维护会员的合法权益。",
+        "ja": "外商投資企業は法に従い商会、協会を設立し、参加することができる。商会、協会は法律法規と定款の規定に基づき関連活動を行い、会員の合法権益を保護する。",
+        "en": "Foreign-invested enterprises may establish and voluntarily join chambers of commerce and associations in accordance with law. The chambers of commerce and associations shall carry out relevant activities in accordance with laws, regulations and their Articles of association, and safeguard the legitimate rights and interests of their members."
+      }
+    },
+    {
+      "id": 34,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第四章",
+        "ja": NaN,
+        "en": "Chapter IV"
+      },
+      "texts": {
+        "zh": "投资管理",
+        "ja": "nan",
+        "en": "Investment Administration"
+      }
+    },
+    {
+      "id": 35,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 28 条",
+        "ja": "第 28 条",
+        "en": "Article 28"
+      },
+      "texts": {
+        "zh": "外商投资准入负面清单规定禁止投资的领域，外国投资者不得投资。外商投资准入负面清单规定限制投资的领域，外国投资者进行投资应当符合负面清单规定的条件。外商投资准入负面清单以外的领域，按照内外资一致的原则实施管理。",
+        "ja": "外商投資参入ネガティブリストで投資を禁止する旨が規定されている分野について、外国投資者は投資してはならない。外商投資参入ネガティブリストで投資を制限する旨が規定されている分野について、外国投資者が行う投資は、ネガティブリストの規定する条件に適合しなければならない。外商投資参入ネガティブリストで定められているもの以外の分野については、内・外資一致の原則に基づき管理を実施する。",
+        "en": "Foreign investors shall not invest in the sectors where foreign investment is prohibited, as prescribed in the negative list for foreign investment access. If foreign investors invest in the sectors where foreign investment is restricted, as prescribed in the negative list for foreign investment access, the conditions set forth in the negative list shall be satisfied. Administration of foreign investment in the sectors not covered by the negative list for foreign investment access shall be implemented under the principle of equal treatment for domestic and foreign investment."
+      }
+    },
+    {
+      "id": 36,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 29 条",
+        "ja": "第 29 条",
+        "en": "Article 29"
+      },
+      "texts": {
+        "zh": "外商投资需要办理投资项目核准、备案的，按照国家有关规定执行。",
+        "ja": "外商投資が投資プロジェクトについて認可、届け出手続きを必要とする場合、国の関連規定に基づき執行する。",
+        "en": "If an investment project with foreign investment is subject to approval or filing, the relevant provisions issued by the State shall apply."
+      }
+    },
+    {
+      "id": 37,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 30 条",
+        "ja": "第 30 条",
+        "en": "Article 30"
+      },
+      "texts": {
+        "zh": "外国投资者在依法需要取得许可的行业、领域进行投资的，应当依法办理相关许可手续。有关主管部门应当按照与内资一致的条件和程序，审核外国投资者的许可申请，法律、行政法规另有规定的除外。",
+        "ja": "外国投資者が法に基づき許可を取得する必要のある業種、分野に投資を行う場合、法に基づき関連する許可手続きを行わなければならない。関連主管部門は、内資と同一の条件および手順に基づき、外国投資者の許可申請を審査・承認しなければならない。但し、法律、行政法規に別途規定のある場合を除く。",
+        "en": "If a foreign investor invests in an industry or sector where a license is required by law, relevant licensing procedures shall be followed in accordance with law. The relevant competent departments shall examine the applications of foreign investors under the same conditions and procedures as those for domestic investors, unless otherwise provided by laws and administrative regulations."
+      }
+    },
+    {
+      "id": 38,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 31 条",
+        "ja": "第 31 条",
+        "en": "Article 31"
+      },
+      "texts": {
+        "zh": "外商投资企业的组织形式、组织机构及其活动准则，适用《中华人民共和国公司法》、《中华人民共和国合伙企业法》等法律的规定。",
+        "ja": "外商投資企業の組織形態、組織機構およびその活動準則には、「中華人民共和国公司法」、「中華人民共和国パートナーシップ企業法」等の法律の規定を適用する。",
+        "en": "The organizational forms, organizational structures, and rules of activities of foreign-invested enterprises shall be governed by the provisions of the Company Law of the People's Republic of China, the Partnership Enterprise Law of the People's Republic of China, and other laws."
+      }
+    },
+    {
+      "id": 39,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 32 条",
+        "ja": "第 32 条",
+        "en": "Article 32"
+      },
+      "texts": {
+        "zh": "外商投资企业开展生产经营活动，应当遵守法律、行政法规有关劳动保护、社会保险的规定，依照法律、行政法规和国家有关规定办理税收、会计、外汇等事宜，并接受相关主管部门依法实施的监督检查。",
+        "ja": "外商投資企業が生産・経営活動を展開するに際しては、法律、行政法規の労働保護・社会保険に関する規定を遵守し、法律、行政法規および国の関連規定に基づき税、会計、外為等の事務を行うとともに、主管部門が法に基づき実施する監督・検査を受けなければならない。",
+        "en": "In the course of production and operation, foreign-invested enterprises shall comply with the provisions of laws and administrative regulations pertaining to labor protection and social insurance, handle taxation, accounting, foreign exchange, and other matters in accordance with laws, administrative regulations, and the relevant provisions issued by the State, and subject themselves to the supervision and inspection conducted by the relevant competent departments in accordance with law."
+      }
+    },
+    {
+      "id": 40,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 33 条",
+        "ja": "第 33 条",
+        "en": "Article 33"
+      },
+      "texts": {
+        "zh": "外国投资者并购中国境内企业或者以其他方式参与经营者集中的，应当依照\n《中华人民共和国反垄断法》的规定接受经营者集中审查。",
+        "ja": "外国投資者が中国域内の企業を合併・買収するか、またはその他の方法で事業者集中に参加する場合、「中華人民共和国独占禁止法」の規定する事業者集中審査を受けなければならない。",
+        "en": "If a foreign investor participates in the concentrations of undertakings by merger or acquisition of enterprises in the territory of China or in any other manner, the matter shall be subject to the review of concentrations of undertakings in accordance with the provisions of the Anti-Monopoly Law of the People's Republic of China."
+      }
+    },
+    {
+      "id": 41,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 34 条",
+        "ja": "第 34 条",
+        "en": "Article 34"
+      },
+      "texts": {
+        "zh": "国家建立外商投资信息报告制度。外国投资者或者外商投资企业应当通过企业登记系统以及企业信用信息公示系统向商务主管部门报送投资信息。外商投资信息报告的内容和范围按照确有必要的原则确定；通过部门信息共享能够获得的投资信息，不得再行要求报送。",
+        "ja": "国は外商投資情報報告制度を確立する。外国投資者または外商投資企業は、企業登記システムおよび企業信用情報公示システムを通じて、商務主管部門に投資情報を報告しなければならない。外商投資情報報告の内容と範囲は、確実に必要であることを原則として確定する。部門の情報共有を通じて入手可能な投資情報については、再度報告を求めてはならない。",
+        "en": "The State establishes a foreign investment information reporting system. Foreign investors or foreign-invested enterprises shall submit investment information to the departments for commerce through the enterprise registration system and the enterprise credit information system. The content and scope of foreign investment information to be reported shall be determined according to the principle of necessity. Investment information that can be obtained through inter-departmental information sharing shall not be required to be submitted again."
+      }
+    },
+    {
+      "id": 42,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 35 条",
+        "ja": "第 35 条",
+        "en": "Article 35"
+      },
+      "texts": {
+        "zh": "国家建立外商投资安全审查制度，对影响或者可能影响国家安全的外商投资进行安全审查。依法作出的安全审查决定为最终决定。",
+        "ja": "国は外商投資安全審査制度を確立し、国の安全に影響を及ぼすか、または及ぼす可能性のある外商投資に対し、安全審査を行う。法に基づき下された安全審査の決定は、最終決定とする。",
+        "en": "The State establishes a foreign investment security review system to conduct security reviews of the foreign investment that affects or may affect national security. Security review decisions made in accordance with law shall be final."
+      }
+    },
+    {
+      "id": 43,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第五章　",
+        "ja": "第五章",
+        "en": "Chapter V"
+      },
+      "texts": {
+        "zh": "法律责任",
+        "ja": "法律責任",
+        "en": "Legal Liability"
+      }
+    },
+    {
+      "id": 44,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 36 条",
+        "ja": "第 36 条",
+        "en": "Article 36"
+      },
+      "texts": {
+        "zh": "外国投资者投资外商投资准入负面清单规定禁止投资的领域的，由有关主管部门责令停止投资活动，限期处分股份、资产或者采取其他必要措施，恢复到实施投资前的状态；有违法所得的，没收违法所得。外国投资者的投资活动违反外商投资准入负面清单规定的限制性准入特别管理措施的，由有关主管部门责令限期改正，采取必要措施满足准入特别管理措施的要求；逾期不改正的，依照前款规定处理。外国投资者的投资活动违反外商投资准入负面清单规定的，除依照前两款规定处理外，还应当依法承担相应的法律责任。",
+        "ja": "外国投資者が外商投資参入ネガティブリストで投資を禁止する旨が規定されている分野に投資した場合、関連主管部門が、投資活動を停止し、期限つきで株式、資産を処分するか、またはその他必要な措置を講じて投資を実施する前の状態を回復するよう命ずる。違法所得がある場合、違法所得を没収する。外国投資者の投資活動が、外商投資参入ネガティブリストの規定する、制限つき参入特別管理措置に違反した場合、関連主管部門が、期限つきで是正し、参入特別管理措置の要件を充足するため必要な措置を講ずるよう命ずる。期限を過ぎて是正しない場合、前項の規定に基づき処理する。外国投資者の投資活動が、外商投資参入ネガティブリストの規定に違反した場合、前項の規定に基づき処理するほか、さらに法に基づき相応の法律責任を負わなければならない。",
+        "en": "If a foreign investor invests in a prohibited sector specified in the negative list for foreign investment access, the relevant competent departments shall order the foreign investor to cease investment activities and, within a specified period, dispose shares or assets or take other necessary measures to restore to the state as if the investment had not been made; and the illegal income, if any, shall be confiscated. If an investment activity of a foreign investor violates any special restrictive administrative measure as set out in the negative list for foreign investment access, the relevant competent departments shall order the foreign investor to make corrections and take necessary measures within a specified period and take necessary measures to meet the requirements of the special restrictive administrative measure for the access; and if it fails to make corrections within the specified period, the preceding paragraph shall apply. If an investment activity of a foreign investor violates the provisions of the negative list for foreign investment access, in addition to being held liable subject to the preceding two paragraphs, the foreign investor shall assume the corresponding legal liability in accordance with law."
+      }
+    },
+    {
+      "id": 45,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 37 条",
+        "ja": "第 37 条",
+        "en": "Article 37"
+      },
+      "texts": {
+        "zh": "外国投资者、外商投资企业违反本法规定，未按照外商投资信息报告制度的要求报送投资信息的，由商务主管部门责令限期改正；逾期不改正的，处十万元以上五十万元以下的罚款。",
+        "ja": "外国投資者、外商投資企業が本法の規定に違反し、外商投資情報報告制度の要求に基づき投資情報を報告しなかった場合、商務主管部門が期限つきで是正するよう命ずる。期限を過ぎて是正しない場合、10万元以上50万元以下の罰金を科す。",
+        "en": "A foreign investor or foreign-invested enterprise that, in violation of this Law, fails to submit investment information as required by the foreign investment information reporting system, shall be ordered by the department for commerce to make corrections within a specified period; and if the foreign investor or foreign-invested enterprise fails to make corrections within the specified period, a fine ranging from RMB100,000 yuan to RMB500,000 yuan shall be imposed thereupon."
+      }
+    },
+    {
+      "id": 46,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 38 条",
+        "ja": "第 38 条",
+        "en": "Article 38"
+      },
+      "texts": {
+        "zh": "对外国投资者、外商投资企业违反法律、法规的行为，由有关部门依法查处，并按照国家有关规定纳入信用信息系统。",
+        "ja": "外国投資者、外商投資企業による法律、法規違反行為に対しては、関連部門が法に基づき調査・処分を行うとともに、国の関連規定に照らして信用情報システムに組み入れる。",
+        "en": "Violations of laws and regulations by foreign investors or foreign-invested enterprises shall be investigated and punished by the relevant departments in accordance with law and shall be recorded in the credit information system in accordance with the relevant provisions of the State."
+      }
+    },
+    {
+      "id": 47,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 39 条",
+        "ja": "Supplementary Provisions",
+        "en": "Article 39"
+      },
+      "texts": {
+        "zh": "行政机关工作人员在外商投资促进、保护和管理工作中滥用职权、玩忽职守、徇私舞弊的，或者泄露、非法向他人提供履行职责过程中知悉的商业秘密的，依法给予处分；构成犯罪的，依法追究刑事责任。",
+        "ja": "行政機関の職員による、外商投資の促進、保護、管理業務における 職権乱用、職務怠慢、私利私欲による不正行為、または職責履行の過程で 知りえた商業秘密の漏洩または他者への不法な提供については、法に基づ き処分する。犯罪を構成する場合、刑事責任を追及する。",
+        "en": "If a staff member of an administrative department, in the promotion, protection, and administration of foreign investment, abuses powers, neglects duties, engages in malpractices for personal gain, or discloses or illegally provides others with any trade secret the staff  member has learned during the performance of his duties, a disciplinary action shall be taken against the staff member in accordance with law; and if the aforesaid conduct constitutes a crime, the staff member shall be held criminally liable in accordance with law."
+      }
+    },
+    {
+      "id": 48,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第六章",
+        "ja": NaN,
+        "en": "Chapter VI"
+      },
+      "texts": {
+        "zh": "附则",
+        "ja": "附則",
+        "en": "Supplementary Provisions"
+      }
+    },
+    {
+      "id": 49,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 40 条",
+        "ja": "第 40 条",
+        "en": "Article 40"
+      },
+      "texts": {
+        "zh": "任何国家或者地区在投资方面对中华人民共和国采取歧视性的禁止、限制或者其他类似措施的，中华人民共和国可以根据实际情况对该国家或者该地区采取相应的措施。",
+        "ja": "いかなる国または地域であれ、投資において、中華人民共和国に対し、差別的な禁止、制限またはその他類似の措置を取るものについて、中華人民共和国は、実際の状況に基づき、当該国または地域に対し、相応の措置を講ずることができる。",
+        "en": "In the event that any country or region applies discriminatory prohibitions, restrictions or other similar measures against the People's Republic of China in respect of investment, the People's Republic of China may take appropriate measures against the aforesaid country or region, depending on the actual circumstances."
+      }
+    },
+    {
+      "id": 50,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 41 条",
+        "ja": "第 41 条",
+        "en": "Article 41"
+      },
+      "texts": {
+        "zh": "对外国投资者在中国境内投资银行业、证券业、保险业等金融行业，或者在证券市场、外汇市场等金融市场进行投资的管理，国家另有规定的，依照其规定。",
+        "ja": "外国投資者が中国国内で銀行業、証券業、保険業等の金融業に投資する場合、または証券市場、外国為替市場等の金融市場で投資を行う場合の管理について、国に別途規定があるものは、その規定に従う。",
+        "en": "If the State stipulates otherwise on the administration of investment by foreign investors in the territory of China in financial industries such as banking, securities, insurance, etc., or in financial markets such as securities markets, foreign exchange markets, etc., such stipulations shall prevail."
+      }
+    },
+    {
+      "id": 51,
+      "source_file": "中华人民共和国外商投资法(2019)",
+      "original_numbers": {
+        "zh": "第 42 条",
+        "ja": "第 42 条",
+        "en": "Article 42"
+      },
+      "texts": {
+        "zh": "本法自2020年1月1日起施行。《中华人民共和国中外合资经营企业法》、《中华人民共和国外资企业法》、《中华人民共和国中外合作经营企业法》同时废止。本法施行前依照《中华人民共和国中外合资经营企业法》、《中华人民共和国外资企业法》、《中华人民共和国中外合作经营企业法》设立的外商投资企业，在本法施行后五年内可以继续保留原企业组织形式等。具体实施办法由国务院规定。",
+        "ja": "本法は2020年1月1日より施行する。「中華人民共和国中外合弁経営企業法」、「中華人民共和国外資企業法」、「中華人民共和国中外合作経営企業法」については、同時にこれらを廃止する。本法の施行前に「中華人民共和国中外合弁経営企業法」、「中華人民共和国外資企業法」、「中華人民共和国中外合作経営企業法」に基づき設立された外商投資企業は、本法の施行後5年間は元の企業の組織形態等を留保することができる。具体的な実施弁法は国務院が規定する。",
+        "en": "This Law shall come into force as of January 1, 2020. The Law of the People's Republic of China on Chinese-foreign Equity Joint Ventures, the Law of the People's Republic of China on Wholly Foreign-owned Enterprises and the Law of the People's Republic of China on Chinese-foreign Cooperative Joint Ventures are repealed simultaneously.  Foreign-invested enterprises established in accordance with the Law of the People's Republic of China on Chinese-foreign Equity Joint Ventures, the Law of the People's Republic of China on Wholly Foreign-owned Enterprises and the Law of the People's Republic of China on Chinese-foreign Cooperative Joint Ventures before this Law comes into force may retain their original organizational forms, etc., within five years after the entry into force of this Law. Specific implementation measures shall be stipulated by the State Council."
+      }
+    }
+  ]
+}

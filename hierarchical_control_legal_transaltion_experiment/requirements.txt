@@ -1,0 +1,29 @@
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+httpx>=0.24.0
+pyyaml>=6.0
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+jupyter>=1.0.0
+tqdm>=4.65.0
+asyncio-throttle>=1.0.2
+aiofiles>=23.0.0
+transformers>=4.44.0
+torch>=2.3.0
+sentencepiece>=0.1.99
+python-multipart>=0.0.9
+pymilvus>=2.3.0
+sentence-transformers>=2.2.0
+openai>=1.40.0
+rank-bm25>=0.2.2
+
+# 机器翻译评估指标
+sacrebleu>=2.3.1
+bert-score>=0.3.13
+unbabel-comet>=2.2.0
+python-dotenv>=1.0.0  # 从.env文件加载环境变量

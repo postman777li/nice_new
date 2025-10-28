@@ -1,0 +1,366 @@
+{
+  "summary": {
+    "processed_files": 35,
+    "failed_files": 0,
+    "total_entries": 5172,
+    "test_entries": 920,
+    "train_entries": 4252,
+    "total_terms": 8504,
+    "total_test_entries": 920,
+    "total_test_entries_zh_en": 920,
+    "total_test_entries_zh_ja": 920,
+    "total_train_entries": 4252,
+    "total_train_entries_zh_en": 4252,
+    "total_train_entries_zh_ja": 4252,
+    "all_domains": [
+      "DataProtectionLaw",
+      "SocialSecurityLaw",
+      "CompanyLaw",
+      "ImmigrationLaw",
+      "LaborLaw",
+      "AdvertisingLaw",
+      "AdministrativeLaw",
+      "SafetyLaw",
+      "EnvironmentalLaw",
+      "CulturalHeritageLaw",
+      "StandardizationLaw",
+      "ForeignInvestmentLaw",
+      "IntellectualPropertyLaw",
+      "ConstitutionalLaw",
+      "CriminalLaw",
+      "AgriculturalLaw",
+      "TechnologyLaw",
+      "StatisticsLaw",
+      "NationalSecurityLaw",
+      "TortLaw",
+      "CompetitionLaw",
+      "CivilLaw",
+      "ECommerceLaw",
+      "MaritimeLaw"
+    ],
+    "test_domains": [
+      "侵权责任法",
+      "商标法",
+      "刑事诉讼法",
+      "行政处罚法",
+      "公司法"
+    ],
+    "train_domains": [
+      "著作权法",
+      "非物质文化遗产法",
+      "标准化法",
+      "刑法",
+      "电子商务法",
+      "涉外民事关系法律适用法",
+      "可再生能源法",
+      "劳动法",
+      "反垄断法",
+      "种子法",
+      "专利法",
+      "数据安全法",
+      "海警法",
+      "外商投资法",
+      "工会法",
+      "统计法",
+      "广告法",
+      "循环经济促进法",
+      "反间谍法",
+      "科学技术进步法",
+      "反不正当竞争法",
+      "劳动合同法",
+      "出境入境管理法",
+      "民法典",
+      "安全生产法",
+      "劳动争议调解仲裁法",
+      "社会保险法",
+      "科技成果转化促进法",
+      "宪法",
+      "个人信息保护法"
+    ]
+  },
+  "details": {
+    "劳动合同法": {
+      "domain": "LaborLaw",
+      "files": 1,
+      "entries": 112,
+      "terms": 224,
+      "type": "train"
+    },
+    "刑事诉讼法": {
+      "domain": "CriminalLaw",
+      "files": 1,
+      "entries": 334,
+      "terms": 0,
+      "type": "test"
+    },
+    "著作权法": {
+      "domain": "IntellectualPropertyLaw",
+      "files": 1,
+      "entries": 84,
+      "terms": 168,
+      "type": "train"
+    },
+    "侵权责任法": {
+      "domain": "TortLaw",
+      "files": 1,
+      "entries": 107,
+      "terms": 0,
+      "type": "test"
+    },
+    "外商投资法": {
+      "domain": "ForeignInvestmentLaw",
+      "files": 1,
+      "entries": 51,
+      "terms": 102,
+      "type": "train"
+    },
+    "标准化法": {
+      "domain": "StandardizationLaw",
+      "files": 1,
+      "entries": 55,
+      "terms": 110,
+      "type": "train"
+    },
+    "个人信息保护法": {
+      "domain": "DataProtectionLaw",
+      "files": 1,
+      "entries": 88,
+      "terms": 176,
+      "type": "train"
+    },
+    "反不正当竞争法": {
+      "domain": "CompetitionLaw",
+      "files": 1,
+      "entries": 41,
+      "terms": 82,
+      "type": "train"
+    },
+    "广告法": {
+      "domain": "AdvertisingLaw",
+      "files": 1,
+      "entries": 83,
+      "terms": 166,
+      "type": "train"
+    },
+    "专利法": {
+      "domain": "IntellectualPropertyLaw",
+      "files": 1,
+      "entries": 93,
+      "terms": 186,
+      "type": "train"
+    },
+    "劳动争议调解仲裁法": {
+      "domain": "LaborLaw",
+      "files": 1,
+      "entries": 65,
+      "terms": 130,
+      "type": "train"
+    },
+    "行政处罚法": {
+      "domain": "AdministrativeLaw",
+      "files": 1,
+      "entries": 101,
+      "terms": 0,
+      "type": "test"
+    },
+    "出境入境管理法": {
+      "domain": "ImmigrationLaw",
+      "files": 1,
+      "entries": 108,
+      "terms": 216,
+      "type": "train"
+    },
+    "反垄断法": {
+      "domain": "CompetitionLaw",
+      "files": 1,
+      "entries": 81,
+      "terms": 162,
+      "type": "train"
+    },
+    "科学技术进步法": {
+      "domain": "TechnologyLaw",
+      "files": 1,
+      "entries": 86,
+      "terms": 172,
+      "type": "train"
+    },
+    "统计法": {
+      "domain": "StatisticsLaw",
+      "files": 1,
+      "entries": 60,
+      "terms": 120,
+      "type": "train"
+    },
+    "海警法": {
+      "domain": "MaritimeLaw",
+      "files": 1,
+      "entries": 98,
+      "terms": 196,
+      "type": "train"
+    },
+    "劳动法": {
+      "domain": "LaborLaw",
+      "files": 1,
+      "entries": 123,
+      "terms": 246,
+      "type": "train"
+    },
+    "非物质文化遗产法": {
+      "domain": "CulturalHeritageLaw",
+      "files": 1,
+      "entries": 54,
+      "terms": 108,
+      "type": "train"
+    },
+    "刑法": {
+      "domain": "CriminalLaw",
+      "files": 1,
+      "entries": 509,
+      "terms": 1018,
+      "type": "train"
+    },
+    "种子法": {
+      "domain": "AgriculturalLaw",
+      "files": 1,
+      "entries": 105,
+      "terms": 210,
+      "type": "train"
+    },
+    "科技成果转化促进法": {
+      "domain": "TechnologyLaw",
+      "files": 1,
+      "entries": 61,
+      "terms": 122,
+      "type": "train"
+    },
+    "反间谍法": {
+      "domain": "NationalSecurityLaw",
+      "files": 1,
+      "entries": 80,
+      "terms": 160,
+      "type": "train"
+    },
+    "循环经济促进法": {
+      "domain": "EnvironmentalLaw",
+      "files": 1,
+      "entries": 68,
+      "terms": 136,
+      "type": "train"
+    },
+    "社会保险法": {
+      "domain": "SocialSecurityLaw",
+      "files": 1,
+      "entries": 113,
+      "terms": 226,
+      "type": "train"
+    },
+    "宪法": {
+      "domain": "ConstitutionalLaw",
+      "files": 1,
+      "entries": 162,
+      "terms": 324,
+      "type": "train"
+    },
+    "数据安全法": {
+      "domain": "DataProtectionLaw",
+      "files": 1,
+      "entries": 66,
+      "terms": 132,
+      "type": "train"
+    },
+    "可再生能源法": {
+      "domain": "EnvironmentalLaw",
+      "files": 1,
+      "entries": 44,
+      "terms": 88,
+      "type": "train"
+    },
+    "公司法": {
+      "domain": "CompanyLaw",
+      "files": 1,
+      "entries": 293,
+      "terms": 0,
+      "type": "test"
+    },
+    "商标法": {
+      "domain": "IntellectualPropertyLaw",
+      "files": 1,
+      "entries": 85,
+      "terms": 0,
+      "type": "test"
+    },
+    "电子商务法": {
+      "domain": "ECommerceLaw",
+      "files": 1,
+      "entries": 102,
+      "terms": 204,
+      "type": "train"
+    },
+    "民法典": {
+      "domain": "CivilLaw",
+      "files": 1,
+      "entries": 1400,
+      "terms": 2800,
+      "type": "train"
+    },
+    "工会法": {
+      "domain": "LaborLaw",
+      "files": 1,
+      "entries": 67,
+      "terms": 134,
+      "type": "train"
+    },
+    "安全生产法": {
+      "domain": "SafetyLaw",
+      "files": 1,
+      "entries": 129,
+      "terms": 258,
+      "type": "train"
+    },
+    "涉外民事关系法律适用法": {
+      "domain": "CivilLaw",
+      "files": 1,
+      "entries": 64,
+      "terms": 128,
+      "type": "train"
+    }
+  },
+  "processed_files": [
+    "中华人民共和国劳动合同法(2007).xlsx",
+    "中华人民共和国刑事诉讼法(2012).xlsx",
+    "中华人民共和国著作权法(2020).xlsx",
+    "中华人民共和国侵权责任法(2010).xlsx",
+    "中华人民共和国外商投资法(2019).xlsx",
+    "中华人民共和国标准化法(2017).xlsx",
+    "中华人民共和国个人信息保护法(2021).xlsx",
+    "中华人民共和国反不正当竞争法(2019).xlsx",
+    "中华人民共和国广告法(2021).xlsx",
+    "中华人民共和国专利法(2020).xlsx",
+    "中华人民共和国劳动争议调解仲裁法(2008).xlsx",
+    "中华人民共和国行政处罚法(2021).xlsx",
+    "中华人民共和国出境入境管理法(2012).xlsx",
+    "中华人民共和国反垄断法(2022).xlsx",
+    "中华人民共和国科学技术进步法(2007).xlsx",
+    "中华人民共和国统计法(2009).xlsx",
+    "中华人民共和国海警法(2021).xlsx",
+    "中华人民共和国劳动法(1995).xlsx",
+    "中华人民共和国非物质文化遗产法(2011).xlsx",
+    "中华人民共和国刑法(2011).xlsx",
+    "中华人民共和国种子法(2021).xlsx",
+    "中华人民共和国科技成果转化促进法(2015).xlsx",
+    "中华人民共和国反间谍法(2023).xlsx",
+    "中华人民共和国循环经济促进法(2008).xlsx",
+    "中华人民共和国社会保险法(2011).xlsx",
+    "中华人民共和国宪法(2018).xlsx",
+    "中华人民共和国数据安全法(2021).xlsx",
+    "中华人民共和国可再生能源法(2009).xlsx",
+    "中华人民共和国公司法(2023).xlsx",
+    "中华人民共和国商标法(2020).xlsx",
+    "中华人民共和国电子商务法(2018).xlsx",
+    "中华人民共和国民法典(2021).xlsx",
+    "中华人民共和国工会法(2001).xlsx",
+    "中华人民共和国安全生产法(2021).xlsx",
+    "中华人民共和国涉外民事关系法律适用法(2010).xlsx"
+  ],
+  "failed_files": []
+}

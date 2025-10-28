@@ -1,0 +1,176 @@
+{
+  "entries": [
+    {
+      "law": "公司法",
+      "domain": "CompanyLaw",
+      "year": 2023,
+      "id": 24,
+      "source": "公司从事经营活动，应当充分考虑公司职工、消费者等利益相关者的利益以及生态环境保护等社会公共利益，承担社会责任。国家鼓励公司参与社会公益活动，公布社会责任报告。",
+      "target": "When a company engages in business activities, it shall fully consider the interests of its employees, consumers and other stakeholders as well as social public interests such as ecological and environmental protection, and assume social responsibilities. The state encourages companies to participate in social welfare activities and publish social responsibility reports."
+    },
+    {
+      "law": "刑事诉讼法",
+      "domain": "CriminalLaw",
+      "year": 2012,
+      "id": 31,
+      "source": "几个同级人民法院都有权管辖的案件，由最初受理的人民法院审判。在必要的时候，可以移送主要犯罪地的人民法院审判。",
+      "target": "Where two or more people’s courts at the same level all have jurisdiction over a case, the case shall be tried by the people’s court which first accepts the case. When necessary, the case may be transferred for trial by the people’s court at the principal place of crime."
+    },
+    {
+      "law": "侵权责任法",
+      "domain": "TortLaw",
+      "year": 2010,
+      "id": 37,
+      "source": "因紧急避险造成损害的，由引起险情发生的人承担责任。如果危险是由自然原因引起的，紧急避险人不承担责任或者给予适当补偿。紧急避险采取措施不当或者超过必要的限度，造成不应有的损害的，紧急避险人应当承担适当的责任。",
+      "target": "Where any harm is caused by any conduct of necessity, the person causing the occurrence of danger shall be liable. If the danger is as the result of a natural cause, the person causing the harm for necessity shall not be liable or shall make proper compensation. If improper measures of necessity are taken or a necessary limit is exceeded, causing any undue harm, the person causing the harm for necessity shall assume proper liability."
+    },
+    {
+      "law": "侵权责任法",
+      "domain": "TortLaw",
+      "year": 2010,
+      "id": 40,
+      "source": "完全民事行为能力人对自己的行为暂时没有意识或者失去控制造成他人损害有过错的，应当承担侵权责任；没有过错的，根据行为人的经济状况对受害人适当补偿。完全民事行为能力人因醉酒、滥用麻醉药品或者精神药品对自己的行为暂时没有意识或者失去控制造成他人损害的，应当承担侵权责任。",
+      "target": "Where a person with full civil conduct capacity causes any harm to another person as the result of his temporary loss of consciousness or control of his conduct, if he is at fault, he shall assume the tort liability; or if he is not at fault, the victim shall be compensated properly according to the economic condition of the person causing the harm. Where a person with full civil conduct capacity causes any harm to another person as the result of his temporary loss of consciousness or control of his conduct due to alcohol intoxication or abuse of narcotic or psychoactive drug, he shall assume the tort liability."
+    },
+    {
+      "law": "公司法",
+      "domain": "CompanyLaw",
+      "year": 2023,
+      "id": 63,
+      "source": "有限责任公司应当置备股东名册，记载下列事项：（一）股东的姓名或者名称及住所；（二）股东认缴和实缴的出资额、出资方式和出资日期；（三）\n出资证明书编号；（四）取得和丧失股东资格的日期。记载于股东名册的股东，可以依股东名册主张行使股东权利。",
+      "target": "A limited liability company shall prepare a shareholder register and record the following matters: (1) Name and address of the shareholder; (2) The amount of capital contribution subscribed and paid by shareholders, the method of capital contribution and the date of capital contribution; (3) Investment certificate number; (4) Dates of obtaining and losing shareholder qualifications. Shareholders recorded in the shareholder register may claim to exercise shareholder rights in accordance with the shareholder register."
+    },
+    {
+      "law": "商标法",
+      "domain": "IntellectualPropertyLaw",
+      "year": 2020,
+      "id": 73,
+      "source": "县级以上工商行政管理部门根据已经取得的违法嫌疑证据或者举报，对涉嫌侵犯他人注册商标专用权的行为进行查处时，可以行使下列职权：（一）询问有关当事人，调查与侵犯他人注册商标专用权有关的情况（二）查阅、复制当事人与侵权活动有关的合同、发票、账簿以及其他有关资料；（三）对当事人涉嫌从事侵犯他人注册商标专用权活动的场所实施现场检查；（四）检查与侵权活动有关的物品；对有证据证明是侵犯他人注册商标专用权的物品，可以查封或者扣押。工商行政管理部门依法行使前款规定的职权时，当事人应当予以协助、配合，不得拒绝、阻挠。在查处商标侵权案件过程中，对商标权属存在争议或者权利人同时向人民法院提起商标侵权诉讼的，工商行政管理部门可以中止案件的查处。中止原因消除后，应当恢复或者终结案件查处程序。",
+      "target": "The administrative department for industry and commerce at or above the county level may, based on the available evidence of illegal conduct or information supplied by a member of the public, may exercise the following power in investigating activities suspected of infringing upon others' exclusive right to use a registered trademark: 1. Question the parties concerned and investigate the circumstances in connection with the infringement of others' exclusive right to use a registered trademark; 2. Look up and copy the contracts, invoices, books, and other materials pertaining to the trademark-infringing activities of the parties concerned; 3. Conduct an on-site inspection of the premises where the party concerned is suspected of carrying out activities that have infringed upon others' exclusive right to use a registered trademark; 4. Inspect the articles involved in trademark-infringing activities. Articles that are proven to have infringed upon others' exclusive right to use a registered trademark may be sealed and taken into custody. The parties concerned shall assist in and cooperate with the administrative department for industry and commerce when the latter exercises the powers provided for in the preceding paragraph in accordance with the law and shall not refuse or obstruct. During the process of investigating and handling a trademark infringement case, in case that any dispute arises with respect to the trademark ownership or the right owner files a lawsuit regarding such infringement before the People's Court, the administrative department for industry and commerce may suspend the aforesaid process. As the cause for suspension is eliminated, the process shall be restored or closed."
+    },
+    {
+      "law": "公司法",
+      "domain": "CompanyLaw",
+      "year": 2023,
+      "id": 77,
+      "source": "有限责任公司可以按照公司章程的规定在董事会中设置由董事组成的审计委员会，行使本法规定的监事会的职权，不设监事会或者监事。公司董事会成员中的职工代表可以成为审计委员会成员。",
+      "target": "A limited liability company may set up an audit committee composed of directors on the board of directors in accordance with the provisions of the company’s articles of association to exercise the powers of the board of supervisors stipulated in this law without having a board of supervisors or supervisors. Employee representatives who are members of the company’s board of directors can become members of the audit committee."
+    },
+    {
+      "law": "刑事诉讼法",
+      "domain": "CriminalLaw",
+      "year": 2012,
+      "id": 90,
+      "source": "公安机关对于现行犯或者重大嫌疑分子，如果有下列情形之一的，可以先行拘留：（一）正在预备犯罪、实行犯罪或者在犯罪后即时被发觉的；（二）被害人或者在场亲眼看见的人指认他犯罪的；（三）在身边或者住处发现有犯罪证据的；（四）犯罪后企图自杀、逃跑或者在逃的；（五）有毁灭、伪造证据或者串供可能的；（六）不讲真实姓名、住址，身份不明的；（七）有流窜作案、多次作案、结伙作案重大嫌疑的。",
+      "target": "Under any of the following circumstances, a public security authority may first detain a person who is committing a crime or is a major criminal suspect: (1) the person is preparing to commit a crime, is committing a crime, or is discovered immediately after committing a crime; (2) a victim or an eyewitness identifies the person as the one committing the crime; (3) criminal evidence is discovered from the person’s body or residence; (4) the person attempts to commit suicide or escape after committing a crime or is fugitive; (5) the person may destroy or forge evidence or make a false confession in collusion; (6) the identify of the person is unknown because the person refuses to disclose his or her true name and residence address; or (7) the person is a strongly suspected of committing crimes from place to place, repeatedly, or in a gang."
+    },
+    {
+      "law": "刑事诉讼法",
+      "domain": "CriminalLaw",
+      "year": 2012,
+      "id": 104,
+      "source": "人民法院、人民检察院和公安机关如果发现对犯罪嫌疑人、被告人采取强制措施不当的，应当及时撤销或者变更。公安机关释放被逮捕的人或者变更逮捕措施的，应当通知原批准的人民检察院。",
+      "target": "Where a people’s court, a people’s procuratorate, or a public security authority discovers that the compulsory measure taken against a criminal suspect or defendant is inappropriate, the measure shall be revoked or modified in a timely manner. A public security authority which releases an arrestee or replaces arrest with another compulsory measure shall notify the people’s procuratorate originally approving the arrest."
+    },
+    {
+      "law": "公司法",
+      "domain": "CompanyLaw",
+      "year": 2023,
+      "id": 124,
+      "source": "本法第59条第一款、第二款关于有限责任公司股东会职权的规定，适用于股份有限公司股东会。本法第60条关于只有一个股东的有限责任公司不设股东会的规定，适用于只有一个股东的股份有限公司。",
+      "target": "The provisions of paragraphs 1 and 2 of Article 59 of this Law regarding the powers of the shareholders’ meeting of a limited liability company shall apply to the shareholders’ meeting of a joint stock company. Article 60 of this Law stipulates that a limited liability company with only one shareholder shall not have a shareholders’ meeting, shall apply to a joint stock limited company with only one shareholder."
+    },
+    {
+      "law": "公司法",
+      "domain": "CompanyLaw",
+      "year": 2023,
+      "id": 136,
+      "source": "董事会每年度至少召开两次会议，每次会议应当于会议召开十日前通知全体董事和监事。代表十分之一以上表决权的股东、三分之一以上董事或者监事会，可以提议召开临时董事会会议。董事长应当自接到提议后十日内，召集和主持董事会会议。董事会召开临时会议，可以另定召集董事会的通知方式和通知时限。",
+      "target": "The board of directors shall hold at least two meetings every year, and all directors and supervisors shall be notified of each meeting ten days before the meeting. Shareholders representing more than one-tenth of the voting rights, more than one-third of the directors or the board of supervisors may propose to convene an extraordinary board meeting. The chairman of the board of directors shall convene and preside over a board meeting within ten days after receiving the proposal. When the Board of Directors convenes an extraordinary meeting, it may separately determine the method and time limit for notification of convening the Board of Directors."
+    },
+    {
+      "law": "公司法",
+      "domain": "CompanyLaw",
+      "year": 2023,
+      "id": 158,
+      "source": "股份发行",
+      "target": "Share Issuance"
+    },
+    {
+      "law": "公司法",
+      "domain": "CompanyLaw",
+      "year": 2023,
+      "id": 177,
+      "source": "股票的转让，由股东以背书方式或者法律、行政法规规定的其他方式进行；转让后由公司将受让人的姓名或者名称及住所记载于股东名册。股东会会议召开前二十日内或者公司决定分配股利的基准日前五日内，不得变更股东名册。法律、行政法规或者国务院证券监督管理机构对上市公司股东名册变更另有规定的，从其规定。",
+      "target": "The transfer of stocks shall be carried out by shareholders by endorsement or other methods stipulated by laws and administrative regulations; after the transfer, the company shall record the name and address of the transferee in the shareholder register. No changes to the shareholder list shall be made within twenty days before the shareholders’ meeting or within five days before the base date on which the company decides to distribute dividends. If laws, administrative regulations or the securities regulatory authority of the State Council have other provisions on changes to the shareholder list of listed companies, such provisions shall prevail."
+    },
+    {
+      "law": "刑事诉讼法",
+      "domain": "CriminalLaw",
+      "year": 2012,
+      "id": 197,
+      "source": "人民检察院对于公安机关移送起诉的案件，应当在一个月以内作出决定，重大、复杂的案件，可以延长半个月。人民检察院审查起诉的案件，改变管辖的，从改变后的人民检察院收到案件之日起计算审查起诉期限。",
+      "target": "A people’s procuratorate shall, within one month, make a decision on a case transferred by a public security authority for prosecution; and, in a significant or complicated case, the period may be extended for half a month. Where the jurisdiction of a people’s procuratorate over a case being examined for prosecution is changed, the period of examination and prosecution shall be counted from the day when the people’s procuratorate having jurisdiction receives the case after the change."
+    },
+    {
+      "law": "公司法",
+      "domain": "CompanyLaw",
+      "year": 2023,
+      "id": 217,
+      "source": "公司以纸面形式发行公司债券的，应当在债券上载明公司名称、债券票面金额、利率、偿还期限等事项，并由法定代表人签名，公司盖章。",
+      "target": "If a company issues corporate bonds in paper form, the company name, face value of the bonds, interest rate, repayment period and other matters shall be stated on the bonds, and shall be signed by the legal representative and stamped by the company."
+    },
+    {
+      "law": "公司法",
+      "domain": "CompanyLaw",
+      "year": 2023,
+      "id": 218,
+      "source": "公司债券应当为记名债券。",
+      "target": "Corporate bonds shall be registered bonds."
+    },
+    {
+      "law": "刑事诉讼法",
+      "domain": "CriminalLaw",
+      "year": 2012,
+      "id": 226,
+      "source": "在法庭审判过程中，如果诉讼参与人或者旁听人员违反法庭秩序，审判长应当警告制止。对不听制止的，可以强行带出法庭；情节严重的，处以一千元以下的罚款或者十五日以下的拘留。罚款、拘留必须经院长批准。被处罚人对罚款、拘留的决定不服的，可以向上一级人民法院申请复议。复议期间不停止执行。对聚众哄闹、冲击法庭或者侮辱、诽谤、威胁、殴打司法工作人员或者诉讼参与人，严重扰乱法庭秩序，构成犯罪的，依法追究刑事责任。",
+      "target": "Where, during a court session, any litigation participant or observer violates the order of the courtroom, the presiding judge shall warn the person and order desistance. If the person refuses to desist, the person may be forced out of the courtroom. If the violation is serious, the person shall be fined not more than 1,000 yuan or detained for not more than 15 days. The fine or detention must be subject to the approval of the president of the people’s court. Against the fine or detention decision, the person may apply to the people’s court at the next higher level for reconsideration. Execution of the fine or detention shall not be suspended pending reconsideration. Whoever assembles a crowd to interrupt or impact a court session or insults, defames, intimidates, or batters judicial personnel or litigation participants, seriously disturbing the order of the courtroom and constituting a crime, shall be subject to criminal liability in accordance with law."
+    },
+    {
+      "law": "公司法",
+      "domain": "CompanyLaw",
+      "year": 2023,
+      "id": 250,
+      "source": "有限责任公司增加注册资本时，股东在同等条件下有权优先按照实缴的出资比例认缴出资。但是，全体股东约定不按照出资比例优先认缴出资的除外。股份有限公司为增加注册资本发行新股时，股东不享有优先认购权，公司章程另有规定或者股东会决议决定股东享有优先认购权的除外。",
+      "target": "When a limited liability company increases its registered capital, shareholders, under the same conditions, have the right to give priority to subscribe for capital in proportion to the actual capital contribution. However, this is excepted if all shareholders agree not to give priority to subscribe for capital in proportion to their capital contribution. When a joint-stock company issues new shares to increase its registered capital, shareholders do not have preemptive subscription rights, unless otherwise provided in the company’s articles of association or the shareholders’ meeting decides that shareholders have preemptive subscription rights."
+    },
+    {
+      "law": "刑事诉讼法",
+      "domain": "CriminalLaw",
+      "year": 2012,
+      "id": 282,
+      "source": "人民法院按照审判监督程序重新审判的案件，由原审人民法院审理的，应当另行组成合议庭进行。如果原来是第一审案件，应当依照第一审程序进行审判，所作的判决、裁定，可以上诉、抗诉；如果原来是第二审案件，或者是上级人民法院提审的案件，应当依照第二审程序进行审判，所作的判决、裁定，是终审的判决、裁定。人民法院开庭审理的再审案件，同级人民检察院应当派员出席法庭。",
+      "target": "Where a people’s court retries a case under the trial supervision procedure, a new collegial panel shall be formed if the retrial is conducted by the original trial court. If the case is originally tried by a people’s court of first instance, it shall be retried under procedures at first instance and the sentence or ruling rendered may be appealed. If the case is originally tried by a people’s court of second instance or is a case directly retried under the trial supervision procedures by a people’s court at a higher level, it shall be retried under procedures at second instance and the sentence or ruling rendered shall be final. When a people’s court retries a case in a court session, the people’s procuratorate at the same level shall send procurators to appear before the court."
+    },
+    {
+      "law": "公司法",
+      "domain": "CompanyLaw",
+      "year": 2023,
+      "id": 287,
+      "source": "外国公司违反本法规定，擅自在中华人民共和国境内设立分支机构的，由公司登记机关责令改正或者关闭，可以并处五万元以上二十万元以下的罚款。",
+      "target": "If a foreign company violates the provisions of this Law and establishes a branch within the territory of the People’s Republic of China without authorization, the company registration authority shall order it to make corrections or close it down, and may also impose a fine of not less than RMB 50,000 but not more than RMB 200,000."
+    }
+  ],
+  "metadata": {
+    "pair": "zh-en",
+    "total_entries": 20,
+    "domains": [
+      "CompanyLaw",
+      "TortLaw",
+      "CriminalLaw",
+      "IntellectualPropertyLaw"
+    ],
+    "sampled_from": "test_set_zh_en_sample100.json",
+    "random_seed": 42
+  }
+}

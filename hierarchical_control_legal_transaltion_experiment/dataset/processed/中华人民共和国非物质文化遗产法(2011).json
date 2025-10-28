@@ -1,0 +1,774 @@
+{
+  "metadata": {
+    "law_name": "非物质文化遗产法",
+    "domain": "CulturalHeritageLaw",
+    "year": 2011,
+    "source_file": "中华人民共和国非物质文化遗产法(2011).xlsx",
+    "total_entries": 54,
+    "processed_at": "2025-10-05T21:38:47.883063",
+    "languages": [
+      "zh",
+      "ja",
+      "en"
+    ],
+    "valid_entries": 54
+  },
+  "entries": [
+    {
+      "id": 1,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "法律名称",
+        "ja": "法令名",
+        "en": "Law Title"
+      },
+      "texts": {
+        "zh": "中华人民共和国非物质文化遗产法",
+        "ja": "中華人民共和国無形文化遺産法",
+        "en": "Law of the People's Republic of China on Intangible Cultural Heritage"
+      }
+    },
+    {
+      "id": 2,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "修订记录",
+        "ja": "改正記録",
+        "en": "Revision Record"
+      },
+      "texts": {
+        "zh": "2011 年 2 月 25 日第十一届全国人民代表大会常务委员会第十九次会议通过",
+        "ja": "（2011 年 2 月 25 日に第十一期全国人民代表大会常務委員会第十九回会議で可決）",
+        "en": "Adopted at the 19th Meeting of the Standing Committee of the Ninth National People’s Congress on February 25, 2011"
+      }
+    },
+    {
+      "id": 3,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "目录",
+        "ja": "目次",
+        "en": "Table of Contents"
+      },
+      "texts": {
+        "zh": "第一章 总 则\n第二章 非物质文化遗产的调查\n第三章 非物质文化遗产代表性项目名录\n第四章 非物质文化遗产的传承与传播\n第五章 法律责任\n第六章 附 则",
+        "ja": "第一章 総 則\n第二章 無形文化遺産の調査\n第三章 無形文化遺産の代表的項目一覧表\n第四章 無形文化遺産の伝承と伝播\n第五章 法的責任\n第六章 附 則",
+        "en": "Chapter 1: General Provisions\nChapter 2: Investigations of Intangible Cultural Heritage\nChapter 3: Catalogue of the Representative Items of Intangible Cultural Heritage\nChapter 4: Inheritance and Spread of Intangible Cultural Heritage\nChapter 5: Legal Liabilities\nChapter 6: Supplementary Provisions"
+      }
+    },
+    {
+      "id": 4,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第一章 ",
+        "ja": "第一章",
+        "en": "Chapter 1 "
+      },
+      "texts": {
+        "zh": "第一章 总 则",
+        "ja": "総則",
+        "en": "General Provisions"
+      }
+    },
+    {
+      "id": 5,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 1 条",
+        "ja": "第 1 条",
+        "en": "Article 1"
+      },
+      "texts": {
+        "zh": "为了继承和弘扬中华民族优秀传统文化，促进社会主义精神文明建设，加强非物质文化遗产保护、保存工作，制定本法。",
+        "ja": "中華民族の優秀な伝統文化を継承、拡大し、社会主義精神文明の建設を促進し、無形文化遺産の保護、保存を強化するために、本法を制定する。",
+        "en": "This Law is formulated for the purposes of inheriting and promoting the distinguished traditional culture of the Chinese nation, promoting the building of the socialist spiritual civilization and strengthening the protection and preservation of intangible cultural heritage."
+      }
+    },
+    {
+      "id": 6,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 2 条",
+        "ja": "第 2 条",
+        "en": "Article 2"
+      },
+      "texts": {
+        "zh": "本法所称非物质文化遗产，是指各族人民世代相传并视为其文化遗产组成部分的各种传统文化表现形式，以及与传统文化表现形式相关的实物和场所。包括：（一）传统口头文学以及作为其载体的语言；（二）传统美术、书法、音乐、舞蹈、戏剧、曲艺和杂技；（三）传统技艺、医药和历法；（四）传统礼仪、节庆等民俗；（五）传统体育和游艺；（六）其他非物质文化遗产。属于非物质文化遗产组成部分的实物和场所，凡属文物的，适用《中华人民共和国文物保护法》的有关规定。",
+        "ja": "本法で称する無形文化遺産とは、各民族の人民が代々伝承し、またその文化遺産の構成部分と認める各種伝統文化の表現形式及び伝統文化の表現形式に関連する実物、場所のことをいい、以下のものを含む。（一）伝統的な口頭文学及びその媒体としての言語。（二）伝統的な美術、書道、音楽、舞踏、劇曲、演劇と雑技。（三）伝統的な技芸、医薬と暦法。（四）伝統的な儀礼、祭り等の民俗。（五）伝統的なスポーツと娯楽・演芸。1（六）その他の無形文化遺産。無形文化遺産の構成部分である実物と場所は文物に属する場合、「中華人民共和国文物保護法」の関連規定を適用する。",
+        "en": "For the purposes of this Law, intangible cultural heritage shall mean various traditional cultural manifestations which are handed down by the people of all ethnicities from generation to generation and regarded as a constituent part of their cultural heritage, and physical objects and premises related to the traditional cultural manifestations, including: (1) Traditional oral literature and the language as a carrier thereof; (2) Traditional fine arts, calligraphy, music, dance, drama, folk art and acrobatics; (3) Traditional artistry, medicine and calendar; (4) Traditional rituals, festivals and other folk customs; (5) Traditional sports and entertainment; and (6) Other intangible cultural heritage. The relevant provisions of the Law of the People's Republic of China on the Protection of Cultural Relics shall apply to the physical objects and premises that are a constituent part of the intangible cultural heritage and falling under the category of cultural relics."
+      }
+    },
+    {
+      "id": 7,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 3 条",
+        "ja": "第 3 条",
+        "en": "Article 3"
+      },
+      "texts": {
+        "zh": "国家对非物质文化遗产采取认定、记录、建档等措施予以保存，对体现中华民族优秀传统文化，具有历史、文学、艺术、科学价值的非物质文化遗产采取传承、传播等措施予以保护。",
+        "ja": "国は、無形文化遺産に対して認定、記録、登記等の措置をもって保存し、中華民族の優秀な伝統文化を体現し、歴史的、文化的、芸術的、科学的価値を有する無形文化遺産に対して伝承、伝播等の措置をもって保護する。",
+        "en": "The State shall preserve the intangible cultural heritage by adopting measures such as affirmation, recording and filing and protect the intangible cultural heritage that reflects the distinguished traditional culture of the Chinese nation and has historical, literary, artistic or scientific value by adopting measures such as the inheritance and promotion of such heritage."
+      }
+    },
+    {
+      "id": 8,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 4 条",
+        "ja": "第 4 条",
+        "en": "Article 4"
+      },
+      "texts": {
+        "zh": "保护非物质文化遗产，应当注重其真实性、整体性和传承性，有利于增强中华民族的文化认同，有利于维护国家统一和民族团结，有利于促进社会和谐和可持续发展。",
+        "ja": "無形文化遺産に対する保護は、その真実性、全体性と伝承性を重要視し、中華民族の文化的アイデンティティの強化、国家統一と民族団結の擁護、社会の調和と持続可能な発展の促進に有益である。",
+        "en": "When protecting intangible cultural heritage, focus shall be laid on its authenticity, integrity and inheritance and such protection shall be conducive to strengthening the recognition of the culture of the Chinese nation, maintaining the unification of the country and the unity of the nation and promoting social harmony and sustainable development."
+      }
+    },
+    {
+      "id": 9,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 5 条",
+        "ja": "第 5 条",
+        "en": "Article 5"
+      },
+      "texts": {
+        "zh": "使用非物质文化遗产，应当尊重其形式和内涵。禁止以歪曲、贬损等方式使用非物质文化遗产。",
+        "ja": "無形文化遺産を使用するとき、その形式と内容を尊重しなければならない。歪曲、貶し等の方式による無形文化遺産の使用を禁止する。",
+        "en": "The form and content of the intangible cultural heritage shall be respected when using the intangible cultural heritage. The use of intangible cultural heritage in a distorted or derogatory way is prohibited."
+      }
+    },
+    {
+      "id": 10,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 6 条",
+        "ja": "第 6 条",
+        "en": "Article 6"
+      },
+      "texts": {
+        "zh": "县级以上人民政府应当将非物质文化遗产保护、保存工作纳入本级国民经济和社会发展规划，并将保护、保存经费列入本级财政预算。国家扶持民族地区、边远地区、贫困地区的非物质文化遗产保护、保存工作。",
+        "ja": "県級以上の人民政府は、無形文化遺産の保護、保存業務を本級国民経済及び社会発展計画に組み入れ、また保護、保存のための経費を本級の財政予算に計上しなければならない。国は、民族地区、辺境地区、貧困地区における無形文化遺産の保護、保存業務を支援する。",
+        "en": "The people's governments above the county level shall include the protection and preservation of intangible cultural heritage in the national economic and social development plans at their same levels and include the protection and preservation funding into the financial budgets at their same levels. The State supports the work concerning the protection and preservation of intangible cultural heritage in ethnic regions, remote regions and poor regions."
+      }
+    },
+    {
+      "id": 11,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 7 条",
+        "ja": "第 7 条",
+        "en": "Article 7"
+      },
+      "texts": {
+        "zh": "国务院文化主管部门负责全国非物质文化遗产的保护、保存工作；县级以上地方人民政府文化主管部门负责本行政区域内非物质文化遗产的保护、保存工作。县级以上人民政府其他有关部门在各自职责范围内，负责有关非物质文化遗产的保护、保存工作。",
+        "ja": "国務院の文化主管部門は、全国範囲の無形文化遺産の保護、保存業務に責任を負い、県級以上の地方人民政府の文化主管部門は本行政地域内の無形文化遺産の保護、保存業無に責任を負う。県級以上の人民政府のその他の関係部門は、各自の職責範囲内において、無形文化遺産の保護、保存業務に責任を負う。",
+        "en": "The department in charge of culture under the State Council shall be responsible for the work concerning the protection and preservation of intangible cultural heritage throughout the country. The departments in charge of culture of the local people's governments above the country level are responsible for the work concerning the protection and preservation of intangible cultural heritage within their own administrative regions. The other relevant departments of the people's governments above the county level are responsible for the work concerning the protection and preservation of intangible cultural heritage within the scope of their respective duties."
+      }
+    },
+    {
+      "id": 12,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 8 条",
+        "ja": "第 8 条",
+        "en": "Article 8"
+      },
+      "texts": {
+        "zh": "县级以上人民政府应当加强对非物质文化遗产保护工作的宣传，提高全社会保护非物质文化遗产的意识。",
+        "ja": "県級以上の人民政府は、無形文化遺産の保護事業に対する宣伝を強化し、無形文化遺産保護に対する全社会の意識を高めなければならない。",
+        "en": "The people's governments above the county level shall strengthen the publicity of the work concerning the protection of intangible cultural heritage and raise the awareness of the whole society in protecting intangible cultural heritage."
+      }
+    },
+    {
+      "id": 13,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 9 条",
+        "ja": "第 9 条",
+        "en": "Article 9"
+      },
+      "texts": {
+        "zh": "国家鼓励和支持公民、法人和其他组织参与非物质文化遗产保护工作。",
+        "ja": "国は、公民、法人及びその他の組織が無形文化遺産の保護業務に参与するこ2とを激励、支持する。",
+        "en": "The State shall encourage and support its citizens, legal persons and other organizations to participate in the work concerning the protection of intangible cultural heritage."
+      }
+    },
+    {
+      "id": 14,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 10 条",
+        "ja": "第 10 条",
+        "en": "Article 10"
+      },
+      "texts": {
+        "zh": "对在非物质文化遗产保护工作中做出显著贡献的组织和个人，按照国家有关规定予以表彰、奖励。",
+        "ja": "無形文化遺産の保護事業において顕著に貢献する組織及び個人に対し、国の関連規定に基づき表彰と褒賞を与える。",
+        "en": "The organizations and individuals that make significant contribution to the work concerning the protection of intangible cultural heritage shall be commended and rewarded in accordance with the relevant provisions of the State."
+      }
+    },
+    {
+      "id": 15,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第二章 ",
+        "ja": "第二章",
+        "en": "Chapter 2"
+      },
+      "texts": {
+        "zh": "非物质文化遗产的调查",
+        "ja": "無形文化遺産の調査",
+        "en": "Investigations of Intangible Cultural Heritage"
+      }
+    },
+    {
+      "id": 16,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 11 条",
+        "ja": "第 11 条",
+        "en": "Article 11"
+      },
+      "texts": {
+        "zh": "县级以上人民政府根据非物质文化遗产保护、保存工作需要，组织非物质文化遗产调查。非物质文化遗产调查由文化主管部门负责进行。县级以上人民政府其他有关部门可以对其工作领域内的非物质文化遗产进行调查。",
+        "ja": "県級以上の人民政府は、無形文化遺産保護、保存業務の必要に応じて、無形文化遺産の調査を構成する。無形文化遺産調査は文化主管部門が行うものとする。県級以上の人民政府のその他の関係部門は、その担当分野内の無形文化遺産に対して調査を行うことができる。",
+        "en": "The people's governments above the county level shall organize investigations of intangible cultural heritage based on the need of the work concerning the protection and preservation of intangible cultural heritage. The departments in charge of culture are responsible for conducting investigations of intangible cultural heritage. The other relevant departments of the people's governments above the county level may conduct investigations of the intangible cultural heritage within the scope of their work."
+      }
+    },
+    {
+      "id": 17,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 12 条",
+        "ja": "第 12 条",
+        "en": "Article 12"
+      },
+      "texts": {
+        "zh": "文化主管部门和其他有关部门进行非物质文化遗产调查，应当对非物质文化遗产予以认定、记录、建档，建立健全调查信息共享机制。文化主管部门和其他有关部门进行非物质文化遗产调查，应当收集属于非物质文化遗产组成部分的代表性实物，整理调查工作中取得的资料，并妥善保存，防止损毁、流失。其他有关部门取得的实物图片、资料复制件，应当汇交给同级文化主管部门。",
+        "ja": "文化主管部門及びその他の関係部門は、無形文化遺産の調査を行う際、無形文化遺産に対して認定、記録、登記を行い、調査情報の共有体制を確立し、健全化しなければならない。文化主管部門とその他の関係部門は、無形文化遺産の調査を行う際、無形文化遺産の構成部分である代表的な実物を収集し、調査で入手した資料を整理し、また適切に保存して、破損、流出を防止しなければならない。その他の関係部門が入手した実物の図面、資料のコピーを纏めたうえで同級の文化主管部門に提出しなければならない。",
+        "en": "When conducting investigations of intangible cultural heritage, the departments in charge of culture and other relevant departments shall recognize, record and file the intangible cultural heritage and shall establish a sound investigation information sharing mechanism. When conducting investigations of intangible cultural heritage, the departments in charge of culture and other relevant departments shall collect representative objects that are a constituent part of the intangible cultural heritage, organize the information obtained from the investigation work, properly keep the objects and information and prevent the damage or loss of the objects and information. The pictures of the physical objects and the duplicate copies of information obtained by other relevant departments shall be submitted to the departments in charge of culture at their same levels."
+      }
+    },
+    {
+      "id": 18,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 13 条",
+        "ja": "第 13 条",
+        "en": "Article 13"
+      },
+      "texts": {
+        "zh": "文化主管部门应当全面了解非物质文化遗产有关情况，建立非物质文化遗产档案及相关数据库。除依法应当保密的外，非物质文化遗产档案及相关数据信息应当公开，便于公众查阅。",
+        "ja": "文化主管部門は、無形文化遺産の関連状況を全面的に把握し、無形文化遺産の情報登記書及び関連データベースを設けなければならない。法により秘密保持の必要があるものを除き、無形文化遺産の情報登記書及び関連データ情報は公衆が閲覧しやすいように公開しなければならない。",
+        "en": "The departments in charge of culture shall fully understand the relevant status of the intangible cultural heritage, establish records and relevant databases of the intangible cultural heritage. Except for the information that shall be kept confidential in accordance with the law, the information in the records and relevant databases of intangible cultural heritage shall be made public and be available for inspection by the public."
+      }
+    },
+    {
+      "id": 19,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 14 条",
+        "ja": "第 14 条",
+        "en": "Article 14"
+      },
+      "texts": {
+        "zh": "公民、法人和其他组织可以依法进行非物质文化遗产调查。",
+        "ja": "公民、法人及びその他の組織は、法により無形文化遺産の調査を行うことができる。",
+        "en": "Citizens, legal persons and other organizations may conduct investigations of intangible cultural heritage in accordance with the law."
+      }
+    },
+    {
+      "id": 20,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 15 条",
+        "ja": "第 15 条",
+        "en": "Article 15"
+      },
+      "texts": {
+        "zh": "境外组织或者个人在中华人民共和国境内进行非物质文化遗产调查，应当报经省、自治区、直辖市人民政府文化主管部门批准；调查在两个以上省、自治区、直辖市行政区域进行的，应当报经国务院文化主管部门批准；调查结束后，应当向批准调查的文化主管部门提交调查报告和调查中取得的实物图片、资料复制件。境外组织在中华人民共和国境内进行非物质文化遗产调查，应当与境内非物质文化遗产学术研究机构合作进行。",
+        "ja": "外国の組織又は個人が中華人民共和国国内で無形文化遺産の調査を行う場合は、省、自治区、直轄市人民政府の文化主管部門に報告して許可を得なければならない。2つ以上の省、自治区、直轄市の行政区域で調査を行う場合、国務院の文化主管3部門に報告して許可を得なければならない。調査終了後、調査を許可した文化主管部門に対して調査報告及び調査で入手した実物の図面、資料のコピーを提出しなければならない。外国の組織が中華人民共和国国内で無形文化遺産の調査を行う場合、国内の無形文化遺産の学術研究機構と協力して行わなければならない。",
+        "en": "The overseas organizations or individuals conducting investigations of intangible cultural heritage within the territory of the People's Republic of China shall report to the departments in charge of culture of the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government for approval. If the investigation is carried out in more than two administrative regions of a province, autonomous region or municipality directly under the Central Government, the approval from the department in charge of culture under the State Council shall be obtained. After the completion of the investigation, the investigation report and the pictures of the physical objects and the duplicate copies of information obtained in the investigation shall be submitted to the department in charge of culture that has approved the investigation. Overseas organizations that conduct the investigations of intangible cultural heritage within the territory of China shall conduct the investigations in cooperation with the domestic institutions engaging in the academic research of intangible cultural heritage."
+      }
+    },
+    {
+      "id": 21,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 16 条",
+        "ja": "第 16 条",
+        "en": "Article 16"
+      },
+      "texts": {
+        "zh": "进行非物质文化遗产调查，应当征得调查对象的同意，尊重其风俗习惯，不得损害其合法权益。",
+        "ja": "無形文化遺産の調査を行うとき、調査対象の許可を得て、風俗習慣を尊重しなければならず、合法的権益を損ねてはならない。",
+        "en": "When conducting investigations of intangible cultural heritage, the consent from the investigation targets shall be obtained, their customs shall be respected and their lawful rights and interests shall not be prejudiced."
+      }
+    },
+    {
+      "id": 22,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 17 条",
+        "ja": "第 17 条",
+        "en": "Article 17"
+      },
+      "texts": {
+        "zh": "对通过调查或者其他途径发现的濒临消失的非物质文化遗产项目，县级人民政府文化主管部门应当立即予以记录并收集有关实物，或者采取其他抢救性保存措施；对需要传承的，应当采取有效措施支持传承。",
+        "ja": "調査又はその他のルートで発見した消滅に瀕している無形文化遺産項目については、県級人民政府の文化主管部門は直ちにそれを記録し、また関連の実物を収集し、又はその他の緊急保存措置を取らなければならない。伝承が必要とする場合、有効な措置を取り、伝承を支援しなければならない。",
+        "en": "With regard to the items of intangible cultural heritage that are on the verge of extinction as discovered by investigation or other means, the departments in charge of culture of the people's governments at the county level shall immediately record and collect the relevant physical objects or adopt other rescue and preservation measures. If inheritance is needed, effective measures that support inheritance shall be adopted."
+      }
+    },
+    {
+      "id": 23,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第三章",
+        "ja": "第三章",
+        "en": "Chapter 3"
+      },
+      "texts": {
+        "zh": "非物质文化遗产代表性项目名录",
+        "ja": "無形文化遺産の代表的項目一覧表",
+        "en": "Catalogue of the Representative Items of Intangible Cultural Heritage"
+      }
+    },
+    {
+      "id": 24,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 18 条",
+        "ja": "第 18 条",
+        "en": "Article 18"
+      },
+      "texts": {
+        "zh": "国务院建立国家级非物质文化遗产代表性项目名录，将体现中华民族优秀传统文化，具有重大历史、文学、艺术、科学价值的非物质文化遗产项目列入名录予以保护。省、自治区、直辖市人民政府建立地方非物质文化遗产代表性项目名录，将本行政区域内体现中华民族优秀传统文化，具有历史、文学、艺术、科学价值的非物质文化遗产项目列入名录予以保护。",
+        "ja": "国務院は、国家級無形文化遺産の代表的項目一覧表を作成し、中華民族の優秀な伝統文化を体現し、重大な歴史的、文学的、芸術的、科学的価値を有する無形文化遺産項目を一覧表に組み入れ、保護を与える。省、自治区、直轄市人民政府は、地方の無形文化遺産の代表的項目一覧表を作成し、本行政区域内における中華民族の優秀な伝統文化を体現し、歴史的、文学的、芸術的、科学的価値を有する無形文化遺産項目を一覧表に組み入れ、保護を与える。",
+        "en": "The State Council shall establish the catalogue of the representative items of intangible cultural heritage at the national level and include items of intangible cultural heritage that reflect the distinguished traditional culture of the Chinese nation and has significant historical, literary, artistic or scientific value in the catalogue for protection. The people's governments of the provinces, autonomous regions and municipalities directly under the Central Government shall establish the catalogue of the representative items of local intangible cultural heritage and include items of intangible cultural heritage within their own administrative regions that reflect the distinguished traditional culture of the Chinese nation and has historical, literary, artistic or scientific value in the catalogue for protection."
+      }
+    },
+    {
+      "id": 25,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 19 条",
+        "ja": "第 19 条",
+        "en": "Article 19"
+      },
+      "texts": {
+        "zh": "省、自治区、直辖市人民政府可以从本省、自治区、直辖市非物质文化遗产代表性项目名录中向国务院文化主管部门推荐列入国家级非物质文化遗产代表性项目名录的项目。推荐时应当提交下列材料：（一）项目介绍，包括项目的名称、历史、现状和价值；（二）传承情况介绍，包括传承范围、传承谱系、传承人的技艺水平、传承活动的社会影响；（三）保护要求，包括保护应当达到的目标和应当采取的措施、步骤、管理制度；（四）有助于说明项目的视听资料等材料。",
+        "ja": "省、自治区、直轄市人民政府は、本省、自治区、直轄市の無形文化遺産の代表的項目一覧表から国家級無形文化遺産の代表的項目一覧表に入れるべき項目を、国務院の文化主管部門に推薦することができる。推薦にあたり、次に掲げる資料を提出しなければならない。（一）項目紹介。項目の名称、歴史、現状及び価値を含む。（二）伝承状況の紹介。伝承の範囲、伝承の系譜、伝承人の技芸レベル、伝承活動による社会への影響を含む。（三）保護要求。保護により達成すべき目標及び取るべき措置、ステップと管理制4度を含む。（四）項目の説明に役立つ視聴覚資料等の材料。",
+        "en": "The people's governments of the provinces, autonomous regions and municipalities directly under the Central Government may recommend to the department in charge of culture under the State Council items in the catalogue of the representative items of intangible cultural heritage in their own provinces, autonomous regions and municipalities directly under the Central Government to be included in the catalogue of the representative items of intangible cultural heritage at the national level. The following materials shall be submitted when making the recommendation: (1) The introduction of the items, including the name, history, current conditions and value of the items; (2) The introduction of the inheritance situation, including the inheritance scope, the inheritance pedigree, the artistry standard of the inheritor and the social impact of the inheritance activities; (3) The protection requirements, including the objectives that shall be realized by the protection and the measures, steps and management system that shall be adopted; and (4) Materials such as the visual and audio information that may help to explain the items."
+      }
+    },
+    {
+      "id": 26,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 20 条",
+        "ja": "第 20 条",
+        "en": "Article 20"
+      },
+      "texts": {
+        "zh": "公民、法人和其他组织认为某项非物质文化遗产体现中华民族优秀传统文化，具有重大历史、文学、艺术、科学价值的，可以向省、自治区、直辖市人民政府或者国务院文化主管部门提出列入国家级非物质文化遗产代表性项目名录的建议。",
+        "ja": "公民、法人及びその他の組織は、ある無形文化遺産が中華民族の優秀な伝統文化を体現し、重大な歴史的、文学的、芸術的、科学的価値を有すると認める場合、省、自治区、直轄市人民政府又は国務院の文化主管部門に対して、国家級無形文化遺産の代表的項目一覧表に組み入れるよう提案することができる。",
+        "en": "If a citizen, legal person and other organizations believe that an item of intangible cultural heritage reflects the distinguished traditional culture of the Chinese nation and has significant historical, literary, artistic or scientific value, they may recommend to the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government or the department in charge of culture under the State Council to include the said item in the catalogue of the representative items of intangible cultural heritage at the national level."
+      }
+    },
+    {
+      "id": 27,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 21 条",
+        "ja": "第 21 条",
+        "en": "Article 21"
+      },
+      "texts": {
+        "zh": "相同的非物质文化遗产项目，其形式和内涵在两个以上地区均保持完整的，可以同时列入国家级非物质文化遗产代表性项目名录。",
+        "ja": "同一の無形文化遺産項目について、形式と内容が2つ以上の地区においてみな完全に保持されている場合、同時に国家級無形文化遺産の代表的項目一覧表に入れることができる。",
+        "en": "The same items of intangible cultural heritage with its form and content fully preserved in more than two regions may simultaneously be included in the catalogue of the representative items of intangible cultural heritage at the national level."
+      }
+    },
+    {
+      "id": 28,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 22 条",
+        "ja": "第 22 条",
+        "en": "Article 22"
+      },
+      "texts": {
+        "zh": "国务院文化主管部门应当组织专家评审小组和专家评审委员会，对推荐或者建议列入国家级非物质文化遗产代表性项目名录的非物质文化遗产项目进行初评和审议。初评意见应当经专家评审小组成员过半数通过。专家评审委员会对初评意见进行审议，提出审议意见。评审工作应当遵循公开、公平、公正的原则。",
+        "ja": "国務院の文化主管部門は、専門家による審査評価チーム及び専門家による評審委員会を組織し、国家級無形文化遺産の代表的項目一覧表に入れるべきと推薦又は提案された無形文化遺産項目に対し、初歩的な評価と審議を行わなければならない。初歩的な評価意見は専門家審査評価チームメンバーの過半数の同意を得なければならない。専門家評審委員会は初歩的な評価意見を審議し、審議意見を出す。評審業務は公開、公平、公正の原則に従わなければならない。",
+        "en": "The department in charge of culture under the State Council shall organize the expert review team and the expert review committee to conduct preliminary evaluation and review of the item of intangible cultural heritage that is recommended or suggested to be included in the catalogue of the representative items of intangible cultural heritage at the national level. The preliminary evaluation opinions shall be adopted subject to more than half of the members of the expert review team. The expert review committee shall review the preliminary evaluation opinions and issue review opinions. The review work shall follow the principles of openness, fairness and impartiality."
+      }
+    },
+    {
+      "id": 29,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 23 条",
+        "ja": "第 23 条",
+        "en": "Article 23"
+      },
+      "texts": {
+        "zh": "国务院文化主管部门应当将拟列入国家级非物质文化遗产代表性项目名录的项目予以公示，征求公众意见。公示时间不得少于二十日。",
+        "ja": "国務院文化主管部門は、国家級無形文化遺産の代表的項目一覧表に入れる予定の項目を公表して、公衆の意見を募集しなければならない。公表期間は20日を下回ってはならない。",
+        "en": "The department in charge of culture under the State Council shall make a public notice to publish the items intended to be included in the catalogue of the representative items of intangible cultural heritage at the national level to solicit opinions from the public. The time for public notice shall not be less than 20 days."
+      }
+    },
+    {
+      "id": 30,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 24 条",
+        "ja": "第 24 条",
+        "en": "Article 24"
+      },
+      "texts": {
+        "zh": "国务院文化主管部门根据专家评审委员会的审议意见和公示结果，拟订国家级非物质文化遗产代表性项目名录，报国务院批准、公布。",
+        "ja": "国務院文化主管部門は、専門家評審委員会の審議意見と公表結果に基づいて、国家級無形文化遺産の代表的項目一覧表を起草し、国務院に提出して許可、公布する。",
+        "en": "The department in charge of culture under the State Council shall prepare the catalogue of the representative items of intangible cultural heritage at the national level based on the review opinions of the expert review committee and the result of the public notice and submit the catalogue to the State Council for approval and publication."
+      }
+    },
+    {
+      "id": 31,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 25 条",
+        "ja": "第 25 条",
+        "en": "Article 25"
+      },
+      "texts": {
+        "zh": "国务院文化主管部门应当组织制定保护规划，对国家级非物质文化遗产代表性项目予以保护。省、自治区、直辖市人民政府文化主管部门应当组织制定保护规划，对本级人民政府批准公布的地方非物质文化遗产代表性项目予以保护。制定非物质文化遗产代表性项目保护规划，应当对濒临消失的非物质文化遗产代表性项目予以重点保护。",
+        "ja": "国務院文化主管部門は、保護計画の制定を組織し、国家級無形文化遺産の代表的項目の保護を図らなければならない。省、自治区、直轄市人民政府の文化主管部門は、保護計画の制定を組織し、本級人民政府が許可・公布した地方の無形文化遺産の代表的項目の保護を図らなければならな5い。無形文化遺産の代表的項目の保護計画を制定するとき、消滅に瀕している無形文化遺産の代表的項目に対して重点的な保護を与えなければならない。",
+        "en": "The department in charge of culture under the State Council shall organize the formulation of the protection plan and protect the representative items of intangible cultural heritage at the national level. The departments in charge of culture of the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government shall organize the formulation of the protection plans and shall protect the representative items of local intangible cultural heritage approved by the people's governments at the same levels for publication. The protection plan of the representative items of intangible cultural heritage shall focus on the protection of representative items of intangible cultural heritage that are on the verge of extinction."
+      }
+    },
+    {
+      "id": 32,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 26 条",
+        "ja": "第 26 条",
+        "en": "Article 26"
+      },
+      "texts": {
+        "zh": "对非物质文化遗产代表性项目集中、特色鲜明、形式和内涵保持完整的特定区域，当地文化主管部门可以制定专项保护规划，报经本级人民政府批准后，实行区域性整体保护。确定对非物质文化遗产实行区域性整体保护，应当尊重当地居民的意愿，并保护属于非物质文化遗产组成部分的实物和场所，避免遭受破坏。实行区域性整体保护涉及非物质文化遗产集中地村镇或者街区空间规划的，应当由当地城乡规划主管部门依据相关法规制定专项保护规划。",
+        "ja": "無形文化遺産の代表的項目が集中し、特色が鮮明で、形式と内容が完全に保持されている特定地域に対して、当該地域の文化主管部門は特別保護計画を制定し、本級人民政府に報告して許可を得た後、地域全体の保護を行うことができる。無形文化遺産に対し地域全体の保護の実施を決定する際、当該地域の住民の意思を尊重し、また無形文化遺産の構成部分である実物と場所が破壊されないよう保護しなければならない。地域全体の保護の実施が無形文化遺産の集中地である村、鎮又は街区の空間企画に関連する場合、当該地域の城郷企画主管部門が関連の法令に従って特別保護計画を制定するものとする。",
+        "en": "With regard to specific regions where the representative items of intangible cultural heritage are concentrated, have distinct features and the form and content thereof are fully preserved, the local departments in charge of culture may formulate special protection plans. The regional overall protection shall be implemented after the plans are approved by the people's governments at the same levels. If it is confirmed that regional overall protection shall be implemented for the intangible cultural heritage, the wishes of the local residents shall be respected, the physical objects and premises that are a constituent part of the intangible cultural heritage shall be protected to avoid any damage thereof. If the implementation of regional overall protection involves the spatial planning of the village, town or street where the intangible cultural heritage clusters together, the local department in charge of urban and rural planning shall formulate the special protection plan in accordance with the relevant regulations."
+      }
+    },
+    {
+      "id": 33,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 27 条",
+        "ja": "第 27 条",
+        "en": "Article 27"
+      },
+      "texts": {
+        "zh": "国务院文化主管部门和省、自治区、直辖市人民政府文化主管部门应当对非物质文化遗产代表性项目保护规划的实施情况进行监督检查；发现保护规划未能有效实施的，应当及时纠正、处理。",
+        "ja": "国務院の文化主管部門と省、自治区、直轄市人民政府の文化主管部門は、無形文化遺産の代表的項目の保護計画の実施状況を監督、審査し、保護計画が有効に実施されていない状況を発見した場合、直ちに是正、処理しなければならない。",
+        "en": "The department in charge of culture under the State Council and the departments in charge of culture of the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government shall supervise and examine the implementation of the plan for protecting the representative items of intangible cultural heritage and shall rectify and handle the case in a timely manner if it is discovered that the protection plan is not effectively implemented."
+      }
+    },
+    {
+      "id": 34,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第四章 ",
+        "ja": "第四章",
+        "en": "Chapter 4"
+      },
+      "texts": {
+        "zh": "非物质文化遗产的传承与传播",
+        "ja": "無形文化遺産の伝承と伝播",
+        "en": "Inheritance and Spread of Intangible Cultural Heritage"
+      }
+    },
+    {
+      "id": 35,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 28 条",
+        "ja": "第 28 条",
+        "en": "Article 28"
+      },
+      "texts": {
+        "zh": "国家鼓励和支持开展非物质文化遗产代表性项目的传承、传播。",
+        "ja": "国は、無形文化遺産の代表的項目の伝承、伝播を展開することを奨励、支援する。",
+        "en": "The State encourages and supports the inheritance and spread of the representative items of intangible cultural heritage."
+      }
+    },
+    {
+      "id": 36,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 29 条",
+        "ja": "第 29 条",
+        "en": "Article 29"
+      },
+      "texts": {
+        "zh": "国务院文化主管部门和省、自治区、直辖市人民政府文化主管部门对本级人民政府批准公布的非物质文化遗产代表性项目，可以认定代表性传承人。非物质文化遗产代表性项目的代表性传承人应当符合下列条件：（一）熟练掌握其传承的非物质文化遗产；（二）在特定领域内具有代表性，并在一定区域内具有较大影响；（三）积极开展传承活动。认定非物质文化遗产代表性项目的代表性传承人，应当参照执行本法有关非物质文化遗产代表性项目评审的规定，并将所认定的代表性传承人名单予以公布。",
+        "ja": "国務院の文化主管部門と省、自治区、直轄市人民政府の文化主管部門は、本級人民政府が許可、公布した無形文化遺産の代表的項目に対して、代表的伝承人を認定することができる。無形文化遺産の代表的項目の代表的伝承人は以下の条件を満たさなければならない。（一）伝承している無形文化遺産に熟練している。（二）特定分野で代表的であり、また一定の地域内でより大きな影響力を持っている。（三）伝承活動を積極的に展開している。6無形文化遺産の代表的項目の代表的伝承人を認定するには、本法における無形文化遺産の代表的項目の審査評価に関する規定を参照し、また認定された代表的伝承人の名簿を公表しなければならない。",
+        "en": "The department in charge of culture under the State Council and the departments in charge of culture of the people's governments of the provinces, autonomous regions and municipalities directly under the Central Government may determine the representative inheritors of the representative items of intangible cultural heritage approved by the people's governments at their same levels for publication. The representative inheritors of the representative items of intangible cultural heritage shall meet the following conditions: (1) Familiar with the intangible cultural heritage they inherit; (2) Are representative in the specific area and have more significant influence in certain areas; and (3) Actively carry out inheritance activities. The provisions of this Law in relation to the review of the representative items of intangible cultural heritage shall apply as the reference and be implemented in determining the representative inheritors of the representative items of intangible cultural heritage and the list of representative inheritors determined shall be published."
+      }
+    },
+    {
+      "id": 37,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 30 条",
+        "ja": "第 30 条",
+        "en": "Article 30"
+      },
+      "texts": {
+        "zh": "县级以上人民政府文化主管部门根据需要，采取下列措施，支持非物质文化遗产代表性项目的代表性传承人开展传承、传播活动：（一）提供必要的传承场所；（二）提供必要的经费资助其开展授徒、传艺、交流等活动；（三）支持其参与社会公益性活动；（四）支持其开展传承、传播活动的其他措施。",
+        "ja": "県級以上の人民政府の文化主管部門は、必要に応じて下記の措置を取り、無形文化遺産の代表的項目の代表的伝承人が伝承、伝播活動を展開することを支持する。（一）必要な伝承場所を提供する。（二）弟子教育、技芸伝授、交流等の活動展開に必要な経費を援助として提供する。（三）社会の公益的活動の参加を支援する。（四）伝承、伝播活動を展開することを支援するその他の措置。",
+        "en": "The departments in charge of culture of the people's governments above the county level shall, based on their needs, adopt the following measures to support the representative inheritors of the representative items of intangible cultural heritage to carry out the activities of the inheritance and spread of intangible cultural heritage. (1) Provide the requisite inheritance premises; (2) Provide the necessary funding to support the representative inheritors to carry out activities such as teaching, imparting skills or exchanges; (3) Support the representative inheritors to participate in charitable activities in the society; and (4) Support the representative inheritors to carry out other measures for the activities of the inheritance and spread of intangible cultural heritage."
+      }
+    },
+    {
+      "id": 38,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 31 条",
+        "ja": "第 31 条",
+        "en": "Article 31"
+      },
+      "texts": {
+        "zh": "非物质文化遗产代表性项目的代表性传承人应当履行下列义务：（一）开展传承活动，培养后继人才；（二）妥善保存相关的实物、资料；（三）配合文化主管部门和其他有关部门进行非物质文化遗产调查；（四）参与非物质文化遗产公益性宣传。非物质文化遗产代表性项目的代表性传承人无正当理由不履行前款规定义务的，文化主管部门可以取消其代表性传承人资格，重新认定该项目的代表性传承人；丧失传承能力的，文化主管部门可以重新认定该项目的代表性传承人。",
+        "ja": "無形文化遺産の代表的項目の代表的伝承人は、以下の義務を履行しなければならない。（一）伝承活動を行い、後継人材を育成する。（二）関連の実物、資料を適切に保存する。（三）文化主管部門及びその他の関係部門による無形文化遺産の調査活動に協力する。（四）無形文化遺産の公益的宣伝に参加する。無形文化遺産の代表的項目の代表的伝承人が、正当な理由なく前項に定めた義務を履行しない場合、文化主管部門はその代表的伝承人の資格を取消し、当該項目の代表的伝承人を改めて認定することができる。伝承能力を失った場合、文化主管部門は当該項目の代表的伝承人を改めて認定することができる。",
+        "en": "The representative inheritors of the representative items of intangible cultural heritage shall perform the following obligations: (1) Carry out inheritance activities and cultivate talented successors; (2) Properly keep the relevant physical objects and information; (3) Cooperate with the departments in charge of culture and other relevant departments in the investigations of intangible cultural heritage; and (4) Participate in public welfare publicity for intangible cultural heritage. If a representative inheritor of a representative item of intangible cultural heritage does not perform the obligations prescribed in the preceding paragraph without legitimate grounds, the department in charge of culture may revoke his qualification as the representative inheritor and re-determine the representative inheritor of that item. If the inheritance ability is lost, the department in charge of culture may re-determine the representative inheritor of that item."
+      }
+    },
+    {
+      "id": 39,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 32 条",
+        "ja": "第 32 条",
+        "en": "Article 32"
+      },
+      "texts": {
+        "zh": "县级以上人民政府应当结合实际情况，采取有效措施，组织文化主管部门和其他有关部门宣传、展示非物质文化遗产代表性项目。",
+        "ja": "県級以上の人民政府は、実際の状況と合わせて有効な措置を取り、文化主管部門及びその他の関係部門が無形文化遺産の代表的項目を宣伝、展示することを組織しなければならない。",
+        "en": "The people's governments above the county level shall, based on the actual situations, adopt effective measures to organize the departments in charge of culture and other relevant departments to publicize and display the representative items of intangible cultural heritage."
+      }
+    },
+    {
+      "id": 40,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 33 条",
+        "ja": "第 33 条",
+        "en": "Article 33"
+      },
+      "texts": {
+        "zh": "国家鼓励开展与非物质文化遗产有关的科学技术研究和非物质文化遗产保护、保存方法研究，鼓励开展非物质文化遗产的记录和非物质文化遗产代表性项目的整理、出版等活动。",
+        "ja": "国は、無形文化遺産に関る科学技術の研究と無形文化遺産の保護、保存方法の研究を展開することを奨励し、無形文化遺産の記録と無形文化遺産の代表的項目の整理、出版等の活動を展開することを奨励する。",
+        "en": "The State encourages activities such as scientific and technical research related to intangible cultural heritage, the research of the methods of protecting and preserving intangible cultural heritage, the record of intangible cultural heritage and the compilation and publication of the representative items of intangible cultural heritage.`"
+      }
+    },
+    {
+      "id": 41,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 34 条",
+        "ja": "第 34 条",
+        "en": "Article 34"
+      },
+      "texts": {
+        "zh": "学校应当按照国务院教育主管部门的规定，开展相关的非物质文化遗产教育。新闻媒体应当开展非物质文化遗产代表性项目的宣传，普及非物质文化遗产知识。",
+        "ja": "学校は、国務院の教育主管部門の規定に従って、関連の無形文化遺産教育を展開しなければならない。マスコミは、無形文化遺産の代表的項目の宣伝を行い、無形文化遺産に関する知識を普及させなければならない。",
+        "en": "Schools shall carry out education relating to intangible cultural heritage in accordance with the provisions of the department in charge of education under the State Council. The news media shall carry out the publicity of the representative items of intangible cultural heritage and popularize knowledge of intangible cultural heritage."
+      }
+    },
+    {
+      "id": 42,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 35 条",
+        "ja": "第 35 条",
+        "en": "Article 35"
+      },
+      "texts": {
+        "zh": "图书馆、文化馆、博物馆、科技馆等公共文化机构和非物质文化遗产学术研究机构、保护机构以及利用财政性资金举办的文艺表演团体、演出场所经营单位等，应当根据各自业务范围，开展非物质文化遗产的整理、研究、学术交流和非物质文化遗产代表性项目的宣传、展示。",
+        "ja": "図書館、文化館、博物館、科学技術館等の公共文化機構、無形文化遺産の学術研究機構、保護機構及び財政的資金を利用して開設した文芸演出団体、演出場所の経営機構等は、各自の業務範囲により、無形文化遺産の整理、研究、学術交流及び無形文化遺産の代表的項目の宣伝、展示を行わなければならない。",
+        "en": "Public cultural institutions such as libraries, cultural centers, museums and science and technology museums, academic research institutions and protection institutions of intangible cultural heritage and artistic and cultural performance groups and entities operating venues for performance that are organized with fiscal funding shall carry out the compilation, research and academic exchange of intangible cultural heritage and the publicity and exhibition of the representative items of intangible cultural heritage according to their respective business scope."
+      }
+    },
+    {
+      "id": 43,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 36 条",
+        "ja": "第 36 条",
+        "en": "Article 36"
+      },
+      "texts": {
+        "zh": "国家鼓励和支持公民、法人和其他组织依法设立非物质文化遗产展示场所和传承场所，展示和传承非物质文化遗产代表性项目。",
+        "ja": "国は、公民、法人及びその他の組織が法により無形文化遺産の展示場所と伝承場所を設立して、無形文化遺産の代表的項目を展示、伝承することを奨励、支持する。",
+        "en": "The State encourages and supports the citizens, legal persons and other organizations to set up display premises and inheritance premises for intangible cultural heritage and exhibit and inherit the representative items of intangible cultural heritage in accordance with the law."
+      }
+    },
+    {
+      "id": 44,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 37 条",
+        "ja": "第 37 条",
+        "en": "Article 37"
+      },
+      "texts": {
+        "zh": "国家鼓励和支持发挥非物质文化遗产资源的特殊优势，在有效保护的基础上，合理利用非物质文化遗产代表性项目开发具有地方、民族特色和市场潜力的文化产品和文化服务。开发利用非物质文化遗产代表性项目的，应当支持代表性传承人开展传承活动，保护属于该项目组成部分的实物和场所。县级以上地方人民政府应当对合理利用非物质文化遗产代表性项目的单位予以扶持。单位合理利用非物质文化遗产代表性项目的，依法享受国家规定的税收优惠。",
+        "ja": "国は、無形文化遺産という資源の特殊な優勢を発揮させ、それを有効に保護した上、無形文化遺産の代表的項目を適切に利用して、地域的、民族的特色及び市場潜在力がある文化商品と文化役務を開発することを奨励、支持する。無形文化遺産の代表的項目を開発、利用する場合、代表的伝承人が伝承活動を行うことを支持し、当該項目の構成部分である実物と場所を保護しなければならない。県級以上の地方人民政府は、無形文化遺産の代表的項目を適切に利用する組織を支援しなければならない。団体組織が適切に無形文化遺産の代表的項目を利用する場合、法により国が規定した税金の優遇を享受する。",
+        "en": "The State encourages and supports the leveraging of the special advantages of intangible cultural heritage resources and the reasonable utilization of the representative items of intangible cultural heritage to develop cultural products and cultural services with local and ethnical features and market potential on the basis of effective protection of those items. When developing and utilizing a representative item of intangible cultural heritage, the representative inheritor shall be supported to carry out inheritance activities and protect the physical objects and premises that are a constituent part of that item. The local people's governments above the county level shall support the entities that use the representative items of intangible cultural heritage in a reasonable manner. Entities that use the representative items of intangible cultural heritage in a reasonable manner may be entitled to the preferential tax polices prescribed by the State in accordance with the law."
+      }
+    },
+    {
+      "id": 45,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第五章 ",
+        "ja": "第五章",
+        "en": "Chapter 5"
+      },
+      "texts": {
+        "zh": "法律责任",
+        "ja": "法的責任",
+        "en": "Legal Liabilities"
+      }
+    },
+    {
+      "id": 46,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 38 条",
+        "ja": "第 38 条",
+        "en": "Article 38"
+      },
+      "texts": {
+        "zh": "文化主管部门和其他有关部门的工作人员在非物质文化遗产保护、保存工作中玩忽职守、滥用职权、徇私舞弊的，依法给予处分。",
+        "ja": "文化主管部門及びその他の関係部門の公務員が無形文化遺産の保護、保存に当たって職務怠慢、職権濫用、情実による不正があった場合、法により処分を与える。",
+        "en": "The staff of the departments in charge of culture and other relevant departments who are derelict in duties, abuse powers, practice favoritism or commit irregularities in the work concerning the protection and preservation of intangible cultural heritage shall be punished in accordance with the law."
+      }
+    },
+    {
+      "id": 47,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 39 条",
+        "ja": "第 39 条",
+        "en": "Article 39"
+      },
+      "texts": {
+        "zh": "文化主管部门和其他有关部门的工作人员进行非物质文化遗产调查时侵犯调查对象风俗习惯，造成严重后果的，依法给予处分。",
+        "ja": "文化主管部門及びその他の関係部門の公務員が無形文化遺産の調査を実施した時に、調査対象の風俗習慣を侵害して、深刻な結果を招いた場合、法により処8分を与える。",
+        "en": "The staff of the departments in charge of culture and other relevant departments who offend against the customs of the investigation target when conducting the investigation of intangible cultural heritage and cause serious consequences shall be punished in accordance with the law."
+      }
+    },
+    {
+      "id": 48,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 40 条",
+        "ja": "第 40 条",
+        "en": "Article 40"
+      },
+      "texts": {
+        "zh": "违反本法规定，破坏属于非物质文化遗产组成部分的实物和场所的，依法承担民事责任；构成违反治安管理行为的，依法给予治安管理处罚。",
+        "ja": "本法の規定に違反して、無形文化遺産の構成部分である実物と場所を破壊した場合、法により民事責任を負う。治安管理違反行為を構成した場合、法により治安管理処罰を与える。",
+        "en": "A party that violates the provisions of this Law and damages the physical objects and premises that are a constituent part of the intangible cultural heritage shall assume civil liability in accordance with the law. If such act constitutes an act in violation of the administration of public security, the penalty for offenses against public security administration shall be imposed in accordance with the law."
+      }
+    },
+    {
+      "id": 49,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 41 条",
+        "ja": "第 41 条",
+        "en": "Article 41"
+      },
+      "texts": {
+        "zh": "境外组织违反本法第15条规定的，由文化主管部门责令改正，给予警告，没收违法所得及调查中取得的实物、资料；情节严重的，并处十万元以上五十万元以下的罚款。境外个人违反本法第15条第一款规定的，由文化主管部门责令改正，给予警告，没收违法所得及调查中取得的实物、资料；情节严重的，并处一万元以上五万元以下的罚款。",
+        "ja": "外国の組織が本法第15条の規定に違反した場合、文化主管部門が是正を命じ、警告を与え、違法所得及び調査で入手した実物、資料を没収する。情状が重大な場合、十万元以上ないし五十万元以下の罰金を併科する。外国の個人が本法第15条第一項の規定に違反した場合、文化主管部門が是正を命じ、警告を与え、違法所得及び調査で入手した実物、資料を没収する。情状が重大な場合、一万元以上ないし五万元以下の罰金を併科する。",
+        "en": "An overseas organization that violates the provisions of Article 15 of this Law shall be ordered to make rectification, issued a warning and have the illegal gains and the physical objects and information obtained in the investigation confiscated by the department in charge of culture. Under serious cases, a fine of no less than RMB100,000 but no more than RMB500,000 shall be imposed."
+      }
+    },
+    {
+      "id": 50,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 42 条",
+        "ja": "第 42 条",
+        "en": "Article 42"
+      },
+      "texts": {
+        "zh": "违反本法规定，构成犯罪的，依法追究刑事责任。",
+        "ja": "本法に違反し、犯罪を構成した場合、法により刑事責任を追及する。",
+        "en": "A party that violates the provision of this Law shall be subject to criminal liability in accordance with the law if such act constitutes a criminal offense."
+      }
+    },
+    {
+      "id": 51,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第六章 ",
+        "ja": "第六章 ",
+        "en": "Chapter 6"
+      },
+      "texts": {
+        "zh": "附 则",
+        "ja": "附 則",
+        "en": "Supplementary Provisions"
+      }
+    },
+    {
+      "id": 52,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 43 条",
+        "ja": "第 43 条",
+        "en": "Article 43"
+      },
+      "texts": {
+        "zh": "建立地方非物质文化遗产代表性项目名录的办法，由省、自治区、直辖市参照本法有关规定制定。",
+        "ja": "地方の無形文化遺産の代表的項目一覧表を作成する方法については、省、自治区、直轄市が本法の関連規定を参照して制定する。",
+        "en": "The measures for establishing the catalogue of the representative items of local intangible cultural heritage shall be formulated by the provinces, autonomous regions and municipalities directly under the Central Government by applying the relevant provisions of this Law as a reference."
+      }
+    },
+    {
+      "id": 53,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 44 条",
+        "ja": "第 44 条",
+        "en": "Article 44"
+      },
+      "texts": {
+        "zh": "使用非物质文化遗产涉及知识产权的，适用有关法律、行政法规的规定。对传统医药、传统工艺美术等的保护，其他法律、行政法规另有规定的，依照其规定。",
+        "ja": "無形文化遺産の利用が知的財産権に関する場合、関連法律、行政法規の規定を適用する。伝統的医薬、伝統的工芸・美術等の保護については、その他の法律、行政法規に別途規定がある場合、その規定に従う。",
+        "en": "If the use of intangible cultural heritage involves intellectual property right, theprovisions of the relevant laws and administrative regulations shall apply. If other laws and administrative regulations prescribe otherwise concerning the protection of traditional medicine and traditional arts and handicrafts, etc., those provisions shall prevail."
+      }
+    },
+    {
+      "id": 54,
+      "source_file": "中华人民共和国非物质文化遗产法(2011)",
+      "original_numbers": {
+        "zh": "第 45 条",
+        "ja": "第 45 条",
+        "en": "Article 45"
+      },
+      "texts": {
+        "zh": "本法自2011年6月1日起施行。",
+        "ja": "本法は2011年6月1日より施行する。9",
+        "en": "This Law shall come into force on June 1, 2011."
+      }
+    }
+  ]
+}

@@ -1,0 +1,788 @@
+{
+  "metadata": {
+    "law_name": "标准化法",
+    "domain": "StandardizationLaw",
+    "year": 2017,
+    "source_file": "中华人民共和国标准化法(2017).xlsx",
+    "total_entries": 55,
+    "processed_at": "2025-10-05T21:38:47.591158",
+    "languages": [
+      "zh",
+      "ja",
+      "en"
+    ],
+    "valid_entries": 55
+  },
+  "entries": [
+    {
+      "id": 1,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "法律名称",
+        "ja": "法令名",
+        "en": "Law Title"
+      },
+      "texts": {
+        "zh": "中华人民共和国标准化法",
+        "ja": "中華人民共和国標準化法",
+        "en": "Standardization Law of the People’s Republic of China"
+      }
+    },
+    {
+      "id": 2,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "修订记录",
+        "ja": "改正記録",
+        "en": "Revision Record"
+      },
+      "texts": {
+        "zh": "中华人民共和国主席令 \n第七十八号 \n《中华人民共和国标准化法》已由中华人民共和国第十二届全国人民代表大会常务委员会第三十次会议于2017年11月4日修订通过，现将修订后的《中华人民共和国标准化法》公布，自2018年1月1日起施行。 \n中华人民共和国主席 \n习近平 \n2017年11月4日",
+        "ja": "中華人民共和国主席令\n第七十八号\n「中華人民共和国標準化法」は、2017年11月4日に開催された中華人民共和国第十二期全国人民代表大会常務委員会第三十回会議において改正可決された。ここに改正後の「中華人民共和国標準化法」を公布し、2018年1月1日から施行する。\n中華人民共和国主席\n習近平\n2017年11月4日",
+        "en": "Order of the President of the People’s Republic of China \nNo. 78\nThe Standardization Law of the People’s Republic of China, revised and adopted at the 30th Meeting of the Standing Committee of the Twelfth National People's Congress on November 4, 2017, is hereby promulgated and shall come into force on January 1, 2018. \nXi Jinping\nPresident of the People's Republic of China\nNovember 4, 2017"
+      }
+    },
+    {
+      "id": 3,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "修订时间",
+        "ja": "改正時間",
+        "en": "Revision Datetime"
+      },
+      "texts": {
+        "zh": "（1988年 12 月29日第七届全国人民代表大会常务委员会第五次会议通过 2017年11月 4\n日第十二届全国人民代表大会常务委员会第三十次会议修订）",
+        "ja": "（1988年12 月29日第7期全国人民代表大会常務委員会第5回会議で可決、2017 年11月4 日第12 期全国人民代表大会常務委員会第30回会議にて改正）",
+        "en": "(Adopted at the 5th Meeting of the Standing Committee of the Seventh National People's Congress on December 29, 1988 and revised at the 30th Meeting of the Standing Committee of the Twelfth National People's Congress on November 4, 2017)"
+      }
+    },
+    {
+      "id": 4,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "目录",
+        "ja": "目次",
+        "en": "Contents"
+      },
+      "texts": {
+        "zh": "第一章 总则\n第二章 标准的制定\n第三章 标准的实施\n第四章 监督管理\n第五章 法律责任\n第六章 附则",
+        "ja": "第 1 章 総則\n第 2 章 標準の制定\n第 3 章 標準の実施\n第 4 章 管理・監督\n第 5 章 法的責任\n第 6 章 付則",
+        "en": "Chapter I General Provisions\nChapter II Developing Standards\nChapter III Implementing Standards \nChapter IV Supervision and Administration \nChapter V Legal Liability\nChapter VI Supplementary Provisions"
+      }
+    },
+    {
+      "id": 4,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第一章",
+        "ja": "第 1 章",
+        "en": "Chapter I"
+      },
+      "texts": {
+        "zh": "总则",
+        "ja": "総則",
+        "en": "General Provisions"
+      }
+    },
+    {
+      "id": 5,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第1条",
+        "ja": "第1条",
+        "en": "Article 1"
+      },
+      "texts": {
+        "zh": "为了加强标准化工作，提升产品和服务质量，促进科学技术进步，保障人身健康和生命财产安全，维护国家安全、生态环境安全，提高经济社会发展水平，制定本法。",
+        "ja": "標準化事業を強化し、製品とサービスの品質を高め、科学技術の進歩を促進し、人身の健康と生命、財産の安全を保障し、国の安全、生態環境の安全を保護し、経済・社会の発展水準の向上を図るため、本法を制定する。",
+        "en": "This Law is enacted to strengthen standardization work, enhance the quality of products and services, promote scientific and technological progress, ensure human health and the security of people’s lives and property, safeguard national and eco-environmental security, and raise the level of economic and social development."
+      }
+    },
+    {
+      "id": 6,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第2条",
+        "ja": "第2条",
+        "en": "Article 2"
+      },
+      "texts": {
+        "zh": "本法所称标准（含标准样品），是指农业、工业、服务业以及社会事业等领域需要统一的技术要求。标准包括国家标准、行业标准、地方标准和团体标准、企业标准。国家标准分为强制性标准、推荐性标准，行业标准、地方标准是推荐性标准。强制性标准必须执行。国家鼓励采用推荐性标准。",
+        "ja": "本法でいう標準（標準サンプルを含む）とは、農業、工業、サービス業、社会事業等の分野において統一が必要な技術要件をいう。標準は、国家標準、業界標準、地方標準、団体標準、企業標準を含む。国家標準は、強制標準、推奨標準に分けられ、業界標準、地方標準は推奨標準である。強制標準は、必ず適用しなければならない。国は、推奨標準の採用を推奨する。",
+        "en": "For the purposes of this Law, standards (including reference materials) refer to technical requirements that need to be unified in agriculture, industry, services, social undertakings and other fields. Standards include national standards, sector standards, local standards, association standards and enterprise standards. National standards are divided into mandatory standards and voluntary standards. Both sector standards and local standards are voluntary standards. Mandatory standards must be implemented. The State shall encourage the adoption of voluntary standards."
+      }
+    },
+    {
+      "id": 7,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第3条",
+        "ja": "第3条",
+        "en": "Article 3"
+      },
+      "texts": {
+        "zh": "标准化工作的任务是制定标准、组织实施标准以及对标准的制定、实施进行监督。县级以上人民政府应当将标准化工作纳入本级国民经济和社会发展规划，将标准化工作经费纳入本级预算。",
+        "ja": "標準化事業の任務は標準を制定し、標準の実施を手配し、標準の制定、実施に対する監督を行うことである。県級以上の人民政府は、標準化事業を同級の国民経済社会発展計画に組み入れ、標準化事業の経費をその予算に組み入れなければならない。",
+        "en": "Standardization work includes developing standards, organizing the implementation of standards, and overseeing the development and implementation of standards. People’s governments at or above the county level shall incorporate standardization work in their economic and social development plans, and include relevant expenditure in their budget."
+      }
+    },
+    {
+      "id": 8,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第4条",
+        "ja": "第4条",
+        "en": "Article 4"
+      },
+      "texts": {
+        "zh": "制定标准应当在科学技术研究成果和社会实践经验的基础上，深入调查论证，广泛征求意见，保证标准的科学性、规范性、时效性，提高标准质量。",
+        "ja": "標準の制定は、科学技術研究の成果と社会の実践経験を基礎とし、入念な調査・検討を行い、広く意見を募集し、標準の科学性、規範性、適時性を保証し、標準の質を高めなければならない。",
+        "en": "The development of standards shall be based on scientific and technological research and practical experience, while in-depth investigations and demonstrations shall be carried out and opinions be widely solicited, to ensure that standards are reasonable, normative and updated, and to ensure their quality."
+      }
+    },
+    {
+      "id": 9,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第5条",
+        "ja": "第5条",
+        "en": "Article 5"
+      },
+      "texts": {
+        "zh": "国务院标准化行政主管部门统一管理全国标准化工作。国务院有关行政主管部门分工管理本部门、本行业的标准化工作。县级以上地方人民政府标准化行政主管部门统一管理本行政区域内的标准化工作。县级以上地方人民政府有关行政主管部门分工管理本行政区域内本部门、本行业的标准化工作。",
+        "ja": "国務院の標準化行政主管部門は全国の標準化事業を一元的に管理する。国務院の関係行政主管部門はその部門、その業界の標準化事業を管理する。県級以上の地方人民政府の標準化行政主管部門は所轄行政区域内の標準化事業を一元的に管理する。県級以上の地方人民政府の関係行政主管部門は、所轄行政区域内のその部門、その所轄業種の標準化事業を管理する。",
+        "en": "The administrative department in charge of standardization under the State Council shall uniformly administer national standardization work. Relevant administrative departments under the State Council shall be responsible for the standardization work within their sectors and industries. Departments in charge of standardization work of local people’s governments at or above the county level shall uniformly administer standardization work within their respective administrative areas. Relevant administrative departments of local people’s governments at or above the county level shall be responsible for the standardization work of the relevant sectors and industries within their administrative areas."
+      }
+    },
+    {
+      "id": 10,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第6条",
+        "ja": "第6条",
+        "en": "Article 6"
+      },
+      "texts": {
+        "zh": "国务院建立标准化协调机制，统筹推进标准化重大改革，研究标准化重大政策，对跨部门跨领域、存在重大争议标准的制定和实施进行协调。设区的市级以上地方人民政府可以根据工作需要建立标准化协调机制，统筹协调本行政区域内标准化工作重大事项。",
+        "ja": "国務院は、標準化に関する協調の仕組みを構築し、標準化重大改革を一元的に推進し、標準化に関する重大政策を研究し、部門、分野に跨る、重大な論争のある標準の制定及び実施について協調を図る。設区市（市轄区が設置された地級市――訳注）以上の地方人民政府は、業務遂行上の必要性に応じて、標準化に関する協調の仕組みを構築し、所轄行政区域内の標準化事業の重大事項を統制、調整することができる。",
+        "en": "The State Council shall establish a standardization coordination mechanism to plan major reforms of standardization, research major standardization policies, and coordinate the development and implementation of inter-ministerial and cross-sectoral standards when disagreements arise. Local people’s governments at or above the level of a city divided into districts may, where necessary, establish standardization coordination mechanisms to coordinate major items concerning standardization work within their administrative areas."
+      }
+    },
+    {
+      "id": 11,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第7条",
+        "ja": "第7条",
+        "en": "Article 7"
+      },
+      "texts": {
+        "zh": "国家鼓励企业、社会团体和教育、科研机构等开展或者参与标准化工作。",
+        "ja": "国は、企業、社会団体、教育・科学研究機関等が標準化事業を実施し、又はこれに参加することを奨励する。",
+        "en": "The State shall encourage enterprises, social organizations, and educational institutions, research institutes, and other organizations to carry out or participate in standardization work."
+      }
+    },
+    {
+      "id": 12,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第8条",
+        "ja": "第8条",
+        "en": "Article 8"
+      },
+      "texts": {
+        "zh": "国家积极推动参与国际标准化活动，开展标准化对外合作与交流，参与制定国际标准，结合国情采用国际标准，推进中国标准与国外标准之间的转化运用。国家鼓励企业、社会团体和教育、科研机构等参与国际标准化活动。",
+        "ja": "国は、国際標準化活動への関与を積極的に促し、標準化に関する対外協力及び交流を実施し、国際標準の制定に関与し、国情を加味して国際標準を取り入れ、中国の国内標準と国外の標準の間での転換、活用を推進する。国は、企業、社会団体、教育・科学研究機関等が国際標準化活動に関与することを奨励する。",
+        "en": "The State shall promote participation in international standardization activities, engagement in international cooperation and exchanges on standardization, participation in the development of international standards, adoption of international standards in the Chinese context, and harmonization of Chinese and foreign standards. The State shall encourage enterprises, social organizations, educational institutions, research institutes and other organizations to participate in international standardization activities."
+      }
+    },
+    {
+      "id": 13,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第9条",
+        "ja": "第9条",
+        "en": "Article 9"
+      },
+      "texts": {
+        "zh": "对在标准化工作中做出显著成绩的单位和个人，按照国家有关规定给予表彰和奖励。",
+        "ja": "標準化事業において顕著な業績を収めた組織と個人に対し、国の関係規定に従って表彰及び褒章を与える。",
+        "en": "Organizations and individuals shall be commended and rewarded for their outstanding contributions to standardization work in accordance with relevant State regulations."
+      }
+    },
+    {
+      "id": 14,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第二章",
+        "ja": "第 2 章",
+        "en": "Chapter II"
+      },
+      "texts": {
+        "zh": "标准的制定",
+        "ja": "標準の制定",
+        "en": "Chapter II Developing Standards"
+      }
+    },
+    {
+      "id": 15,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第10条",
+        "ja": "第10条",
+        "en": "Article 10"
+      },
+      "texts": {
+        "zh": "对保障人身健康和生命财产安全、国家安全、生态环境安全以及满足经济社会管理基本需要的技术要求，应当制定强制性国家标准。国务院有关行政主管部门依据职责负责强制性国家标准的项目提出、组织起草、征求意见和技术审查。国务院标准化行政主管部门负责强制性国家标准的立项、编号和对外通报。国务院标准化行政主管部门应当对拟制定的强制性国家标准是否符合前款规定进行立项审查，对符合前款规定的予以立项。省、自治区、直辖市人民政府标准化行政主管部门可以向国务院标准化行政主管部门提出强制性国家标准的立项建议，由国务院标准化行政主管部门会同国务院有关行政主管部门决定。社会团体、企业事业组织以及公民可以向国务院标准化行政主管部门提出强制性国家标准的立项建议，国务院标准化行政主管部门认为需要立项的，会同国务院有关行政主管部门决定。强制性国家标准由国务院批准发布或者授权批准发布。法律、行政法规和国务院决定对强制性标准的制定另有规定的，从其规定。",
+        "ja": "人身の健康及び生命、財産の安全、国の安全、生態環境の安全並びに経済・社会の管理の基本的な需要を満たす技術要件について、強制国家標準を制定しなければならない。国務院の関係行政主管部門は、職責に基づき、強制国家標準のプロジェクト提起、起草、意見募集、技術審査の手配を担う。国務院の標準化行政主管部門は、強制国家標準の立案、付番、対外報告を担う。国務院の標準化行政主管部門は、制定しようとする強制国家標準が前項の規定に適合するか否かについて立案審査を行い、前項の規定に適合する場合は立案しなければならない。省、自治区、直轄市の人民政府の標準化行政主管部門は、国務院の標準化行政主管部門に強制国家標準に関する立案を提案することができ、国務院の標準化行政主管部門は、国務院の関係行政主管部門と共同で決定する。社会団体、企業及び事業組織並びに公民は、国務院の標準化行政主管部門に強制国家標準の立案を提案することができ、国務院の標準化行政主管部門は、立案が必要と考える場合は、国務院の関係行政主管部門と共同で決定する。強制国家標準は、国務院が承認、公布し、又は承認、公布を許可する。法律、行政法規、国務院の決定に、強制標準の制定について別段の規定がある場合はその規定に従う。",
+        "en": "Article 10 Mandatory national standards shall be developed to address technical requirements for ensuring people’s health and the security of their lives and property, safeguarding national and eco-environmental security, and meeting the basic need of economic and social management. Relevant administrative departments under the State Council shall, according to their duties and responsibilities, propose mandatory national standards and organize drafts, solicit opinions and conduct technical reviews thereof. The administrative department in charge of standardization under the State Council shall be responsible for proposal approval, the numbering and notification of mandatory national standards. The administrative department in charge of standardization under the State Council shall assess whether proposed mandatory national standards conform with the provisions in the preceding paragraph and grant approval for proposals found to conform with the provisions. Departments in charge of standardization under people’s governments of provinces, autonomous regions and municipalities directly under the central government may submit recommendations for proposing mandatory national standards to the administrative department in charge of standardization under the State Council, and the administrative department in charge of standardization under the State Council shall make decisions in conjunction with relevant administrative departments under the State Council. Social organizations, enterprises, public institutions and citizens may submit recommendations for proposing mandatory national standards to the administrative department in charge of standardization under the State Council. Where the department in charge of standardization under the State Council believes a recommendation should be approved, it shall make a decision in conjunction with relevant administrative departments under the State Council. Mandatory national standards shall be approved and published, or authorized for approval and publication, by the State Council. Where laws, administrative regulations and decisions of the State Council otherwise provide concerning developing mandatory national standards, those provisions shall prevail."
+      }
+    },
+    {
+      "id": 16,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第11条",
+        "ja": "第11条",
+        "en": "Article 11"
+      },
+      "texts": {
+        "zh": "对满足基础通用、与强制性国家标准配套、对各有关行业起引领作用等需要的技术要求，可以制定推荐性国家标准。推荐性国家标准由国务院标准化行政主管部门制定。",
+        "ja": "基礎的、汎用的であり、強制国家標準に関連し、関係各業界に対して先導的な役割を果たす等の需要を満たす技術要件について、推奨国家標準を制定することができる。推奨国家標準は、国務院の標準化行政主管部門が制定する。",
+        "en": "Voluntary national standards may be developed to address technical requirements that are needed to serve basic and generic purposes, support mandatory national standards or play a leading role in relevant industries. Voluntary national standards shall be developed by the administrative department in charge of standardization under the State Council."
+      }
+    },
+    {
+      "id": 17,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第12条",
+        "ja": "第12条",
+        "en": "Article 12"
+      },
+      "texts": {
+        "zh": "对没有推荐性国家标准、需要在全国某个行业范围内统一的技术要求，可以制定行业标准。行业标准由国务院有关行政主管部门制定，报国务院标准化行政主管部门备案。",
+        "ja": "推奨国家標準がなく、全国の特定の業界内で統一が必要な技術要件について、業界標準を制定することができる。業界標準は、国務院の関係行政主管部門が制定し、国務院の標準化行政主管部門に届出を行う。",
+        "en": "Where, in the absence of voluntary national standards, national unified technical requirements within a sector are needed, sector standards may be developed.Sector standards shall be developed by relevant administrative departments under the State Council and submitted to the administrative department in charge of standardization under the State Council for registration."
+      }
+    },
+    {
+      "id": 18,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第13条",
+        "ja": "第13条",
+        "en": "Article 13"
+      },
+      "texts": {
+        "zh": "为满足地方自然条件、风俗习惯等特殊技术要求，可以制定地方标准。地方标准由省、自治区、直辖市人民政府标准化行政主管部门制定；设区的市级人民政府标准化行政主管部门根据本行政区域的特殊需要，经所在地省、自治区、直辖市人民政府标准化行政主管部门批准，可以制定本行政区域的地方标准。地方标准由省、自治区、直辖市人民政府标准化行政主管部门报国务院标准化行政主管部门备案，由国务院标准化行政主管部门通报国务院有关行政主管部门。",
+        "ja": "地方の自然環境、風俗習慣等の特別な技術要件を満たすため、地方標準を制定することができる。地方標準は、省、自治区、直轄市の人民政府の標準化行政主管部門が制定する。設区市の人民政府の標準化行政主管部門は、所轄行政区域の特殊な需要に応じて、所在地の省、自治区、直轄市の人民政府の標準化行政主管部門の承認を経て、所轄行政区域の地方標準を制定することができる。地方標準は、省、自治区、直轄市の人民政府の標準化行政主管部門が国務院の標準化行政主管部門に届出を行い、国務院の標準化行政主管部門が国務院の関係行政主管部門に報告する。",
+        "en": "Local standards may be developed to address local special technical requirements, such as natural conditions and customs. Local standards shall be developed by administrative departments in charge of standardization of people’s governments of provinces, autonomous regions and municipalities directly under the central government. Administrative departments in charge of standardization of people’s governments of cities divided into districts may, in accordance with special requirements of their respective administrative areas, develop local standards for their administrative areas with the approval of the local administrative department in charge of standardization of a people’s government of the province, autonomous region or municipality where they are located. Local standards shall be submitted by administrative departments in charge of standardization of people’s governments of provinces, autonomous regions and municipalities directly under the central government to the administrative department in charge of standardization under the State Council for its registration, and the administrative department in charge of standardization under the State Council shall circulate the same to relevant administrative departments under the State Council."
+      }
+    },
+    {
+      "id": 19,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第14条",
+        "ja": "第14条",
+        "en": "Article 14"
+      },
+      "texts": {
+        "zh": "对保障人身健康和生命财产安全、国家安全、生态环境安全以及经济社会发展所急需的标准项目，制定标准的行政主管部门应当优先立项并及时完成。",
+        "ja": "人身の健康及び生命・財産の安全、国の安全、生態環境の安全並びに経済・社会の発展にとって緊急に必要とされる標準プロジェクトについて、標準を制定する行政主管部門は、優先的に立案し、速やかに完成させなければならない。",
+        "en": "Administrative departments in charge of developing standards shall prioritize the proposal approval and development of standards that address human health, the security of people’s lives and property, national and eco-environmental security as well as the urgent need of economic and social development."
+      }
+    },
+    {
+      "id": 20,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第15条",
+        "ja": "第15条",
+        "en": "Article 15"
+      },
+      "texts": {
+        "zh": "制定强制性标准、推荐性标准，应当在立项时对有关行政主管部门、企业、社会团体、消费者和教育、科研机构等方面的实际需求进行调查，对制定标准的必要性、可行性进行论证评估；在制定过程中，应当按照便捷有效的原则采取多种方式征求意见，组织对标准相关事项进行调查分析、实验、论证，并做到有关标准之间的协调配套。",
+        "ja": "強制標準、推奨標準の制定にあたり、立案時に、関係行政主管部門、企業、社会団体、消費者、教育・科学研究機関等の実際の需要に対する調査を行い、標準制定の必要性、実行可能性について検証・評価を行わなければならない。制定にあたり、利便性、有効性の重視を原則とし、さまざまな方式を用いて意見を募集し、標準にかかわる事項について調査・分析、実験、検証を手配し、関係標準の間に協調性、関連性を持たせなければならない。",
+        "en": "When developing mandatory standards and voluntary standards, investigations into the actual needs of relevant administrative departments, enterprises, social organizations, consumers, educational institutions and research institutes shall be carried out during the proposal approval stage to evaluate and demonstrate the necessity and feasibility of developing the standards. In the process of developing standards, various methods shall be used to solicit opinions in accordance with the principles of convenience and efficacy; analysis, experiments and demonstrations of relevant items of standards shall be carried out; and efforts shall be made to coordinate relevant standards."
+      }
+    },
+    {
+      "id": 21,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第16条",
+        "ja": "第16条",
+        "en": "Article 16"
+      },
+      "texts": {
+        "zh": "制定推荐性标准，应当组织由相关方组成的标准化技术委员会，承担标准的起草、技术审查工作。制定强制性标准，可以委托相关标准化技术委员会承担标准的起草、技术审查工作。未组成标准化技术委员会的，应当成立专家组承担相关标准的起草、技术审查工作。标准化技术委员会和专家组的组成应当具有广泛代表性。",
+        "ja": "推奨標準の制定にあたり、関係者で構成される標準化技術委員会を組織し、標準の起草、技術審査業務を担わせなければならない。強制標準の制定にあたり、関係標準化技術委員会に標準の起草、技術審査活動を委託することができる。標準化技術委員会が組織されていない場合は、関係標準の起草、技術審査活動を担う専門家グループを設立しなければならない。標準化技術委員会と専門家グループの組織は、広範囲において代表性を有さなければならない。",
+        "en": "For developing voluntary standards, a standardization technical committee composed of stakeholders shall be established for the drafting and technical review of such standards. For developing mandatory standards, a relevant standardization technical committee may be entrusted with the drafting and technical review. In the absence of a standardization technical committee, an expert panel shall be set up for the aforementioned work. Such standardization technical committees and expert panels shall be broadly representative."
+      }
+    },
+    {
+      "id": 22,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第17条",
+        "ja": "第17条",
+        "en": "Article 17"
+      },
+      "texts": {
+        "zh": "强制性标准文本应当免费向社会公开。国家推动免费向社会公开推荐性标准文本。",
+        "ja": "強制標準の文書は、無償で社会に公開しなければならない。国は、無償で社会に推奨標準の文書を公開することを促進する。",
+        "en": "The texts of mandatory standards shall be made available to the public for free. The State encourages free availability of the texts of voluntary standards to the public."
+      }
+    },
+    {
+      "id": 23,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第18条",
+        "ja": "第18条",
+        "en": "Article 18"
+      },
+      "texts": {
+        "zh": "国家鼓励学会、协会、商会、联合会、产业技术联盟等社会团体协调相关市场主体共同制定满足市场和创新需要的团体标准，由本团体成员约定采用或者按照本团体的规定供社会自愿采用。制定团体标准，应当遵循开放、透明、公平的原则，保证各参与主体获取相关信息，反映各参与主体的共同需求，并应当组织对标准相关事项进行调查分析、实验、论证。国务院标准化行政主管部门会同国务院有关行政主管部门对团体标准的制定进行规范、引导和监督。",
+        "ja": "国は、学会、協会、商会、連合会、産業技術連盟等の社会団体が関連の市場主体と協力し、市場及びイノベーションに必要な団体標準を共同で制定し、その団体の構成員が取り決めにより採用し、又はその団体の規定に従い、任意で採用できる標準として社会に提供することを推奨する。団体標準の制定にあたり、開放性、透明性、公平性の遵守を原則とし、各参加主体が関係情報を取得することを保証し、各参加主体の共通の需要を反映し、かつ標準にかかわる事項に対する調査、分析、実験、検証を手配しなければならない。国務院の標準化行政主管部門は、国務院の関係行政主管部門と共同で、団体標準制定の規範化、誘導、監督を行う。",
+        "en": "The State encourages societies, associations, chambers of commerce, federations, industrial technology alliances and other social organizations to coordinate with relevant market stakeholders in jointly developing association standards that meet market and innovation requirements. These standards shall be adopted by their members upon agreement or, as stipulated by such organizations, may be made publicly available for voluntary adoption by others. The development of association standards shall adhere to the principles of openness, transparency and fairness to ensure that all participating stakeholders can obtain relevant information and reflect their common requirements, and analysis, experiments and demonstrations shall be conducted of relevant items of standards. The administrative department in charge of standardization under the State Council shall in conjunction with relevant administrative departments under the State Council regulate, guide and supervise the development of association standards."
+      }
+    },
+    {
+      "id": 24,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第19条",
+        "ja": "第19条",
+        "en": "Article 19"
+      },
+      "texts": {
+        "zh": "企业可以根据需要自行制定企业标准，或者与其他企业联合制定企业标准。",
+        "ja": "企業は、必要に応じて企業標準を自発的に制定し、又は他の企業と共同で企業標準を制定することができる。",
+        "en": "Enterprises may, where necessary, develop their own enterprise standards or work with other enterprises to develop enterprise standards."
+      }
+    },
+    {
+      "id": 25,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第20条",
+        "ja": "第20条",
+        "en": "Article 20"
+      },
+      "texts": {
+        "zh": "国家支持在重要行业、战略性新兴产业、关键共性技术等领域利用自主创新技术制定团体标准、企业标准。",
+        "ja": "国は、主要産業、戦略的新興産業、基幹・基盤技術等の分野において、自主イノベーション技術を利用し、団体標準、企業標準を制定することを支援する。",
+        "en": "The State supports the use of independent innovative technologies to develop association standards and enterprise standards for important industries, strategic emerging industries, key generic technologies and other areas."
+      }
+    },
+    {
+      "id": 26,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第21条",
+        "ja": "第21条",
+        "en": "Article 21"
+      },
+      "texts": {
+        "zh": "推荐性国家标准、行业标准、地方标准、团体标准、企业标准的技术要求不得低于强制性国家标准的相关技术要求。国家鼓励社会团体、企业制定高于推荐性标准相关技术要求的团体标准、企业标准。",
+        "ja": "推奨国家標準、業界標準、地方標準、団体標準、企業標準の技術要件は、強制国家標準の関連技術要件の水準を下回ってはならない。国は、社会団体、企業が推奨標準にかかわる技術要件の水準を上回る団体標準、企業標準を制定することを推奨する。",
+        "en": "Technical requirements of voluntary national standards, sector standards, local standards, association standards and enterprise standards must not be less strict than relevant technical requirements of mandatory national standards. The State encourages social organizations and enterprises to develop association standards and enterprise standards that are stricter than relevant technical requirements of voluntary standards."
+      }
+    },
+    {
+      "id": 27,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第22条",
+        "ja": "第22条",
+        "en": "Article 22"
+      },
+      "texts": {
+        "zh": "制定标准应当有利于科学合理利用资源，推广科学技术成果，增强产品的安全性、通用性、可替换性，提高经济效益、社会效益、生态效益，做到技术上先进、经济上合理。禁止利用标准实施妨碍商品、服务自由流通等排除、限制市场竞争的行为。",
+        "ja": "標準の制定は、資源の科学的かつ合理的な利用、科学技術の成果の普及、製品の安全性、汎用性、代替可能性の強化、経済効果、社会効果、環境効果の向上に役立つものとし、技術的な先進性、経済的な合理性を持たせなければならない。標準を利用して、商品、サービスの自由な流通を妨害する等、市場における競争を排除、制限する行為を禁止する。",
+        "en": "Standards shall be conducive to the effective and rational use of resources, promote applications of scientific and technological achievements, enhance the security, compatibility and interoperability of products, improve economic, social and ecological benefits, and be technologically advanced and economically viable. Standards shall not be used to obstruct the free flow of goods and services or to promote other behavior that prevents or restrains market competition."
+      }
+    },
+    {
+      "id": 28,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第23条",
+        "ja": "第23条",
+        "en": "Article 23"
+      },
+      "texts": {
+        "zh": "国家推进标准化军民融合和资源共享，提升军民标准通用化水平，积极推动在国防和军队建设中采用先进适用的民用标准，并将先进适用的军用标准转化为民用标准。",
+        "ja": "国は、標準化された軍民融合と資源共有を推進し、軍民の標準の汎用化の度合いを高め、国防及び軍隊建設において先進的で有用な民用標準を採用し、先進的で有用な軍用標準の民用標準への転換を積極的に促進する。",
+        "en": "The State shall promote standards that encourage civil-military integration and resource sharing, increase the harmonization of civil and military standards, and promote the use of advanced and appropriate civilian standards in the development of national defense and the military, and it shall convert advanced and appropriate military standards into civilian standards."
+      }
+    },
+    {
+      "id": 29,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第24条",
+        "ja": "第24条",
+        "en": "Article 24"
+      },
+      "texts": {
+        "zh": "标准应当按照编号规则进行编号。标准的编号规则由国务院标准化行政主管部门制定并公布。",
+        "ja": "標準は、付番規則に従って付番を行わなければならない。標準の付番規則は、国務院の標準化行政主管部門が制定し、公布する。",
+        "en": "Standards shall be numbered in accordance with numbering rules. Numbering rules for standards shall be developed and promulgated by the administrative department in charge of standardization under the State Council."
+      }
+    },
+    {
+      "id": 30,
+      "source_file": NaN,
+      "original_numbers": {
+        "zh": "第三章",
+        "ja": "第 3 章",
+        "en": "Chapter III"
+      },
+      "texts": {
+        "zh": "标准的实施",
+        "ja": "標準の実施",
+        "en": "Implementing Standards"
+      }
+    },
+    {
+      "id": 31,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第25条",
+        "ja": "第25条",
+        "en": "Article 25"
+      },
+      "texts": {
+        "zh": "不符合强制性标准的产品、服务，不得生产、销售、进口或者提供。",
+        "ja": "強制標準に適合しない製品、サービスについて、生産、販売、輸入し、又は提供してはならない。",
+        "en": "Products and services that do not meet mandatory standards shall not be manufactured, sold, imported or provided."
+      }
+    },
+    {
+      "id": 32,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第26条",
+        "ja": "第26条",
+        "en": "Article 26"
+      },
+      "texts": {
+        "zh": "出口产品、服务的技术要求，按照合同的约定执行。",
+        "ja": "輸出製品、サービスの技術基準は、契約の取り決めに基づいて適用する。",
+        "en": "Technical requirements for export products and services shall be in accordance with contractual obligations."
+      }
+    },
+    {
+      "id": 33,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第27条",
+        "ja": "第27条",
+        "en": "Article 27"
+      },
+      "texts": {
+        "zh": "国家实行团体标准、企业标准自我声明公开和监督制度。企业应当公开其执行的强制性标准、推荐性标准、团体标准或者企业标准的编号和名称；企业执行自行制定的企业标准的，还应当公开产品、服务的功能指标和产品的性能指标。国家鼓励团体标准、企业标准通过标准信息公共服务平台向社会公开。企业应当按照标准组织生产经营活动，其生产的产品、提供的服务应当符合企业公开标准的技术要求。",
+        "ja": "国は、団体標準、企業標準の自己表明による公開及び監督制度を適用する。企業は、自身が適用する強制標準、推奨標準、団体標準又は企業標準の番号と名称を公開しなければならない。企業は、自ら制定した企業標準を適用する場合は、さらに製品、サービスの機能指標と製品の性能指標を公開しなければならない。国は、団体標準、企業標準について、標準情報公共サービスプラットフォームを通じて社会に公開することを推奨する。企業は、標準に従って生産・経営活動を手配しなければならない。企業が生産する製品、提供するサービスは、企業が公開する標準の技術要件に適合しなければならない。",
+        "en": "The State shall implement a self-declaration disclosure and supervision system with regard to association standards and enterprise standards. Enterprises shall disclose the number and name of the mandatory standards, voluntary standards, association standards or enterprise standards that they implement. Where enterprises implement enterprise standards they have developed themselves, they shall also disclose the functional indicators of products and services and the performance indicators of products. The State encourages the disclosure of association standards and enterprise standards to the public via public service platforms for standardization information. Enterprises shall organize production and business activities in accordance with standards, and the products they make and the services they provide shall meet the technical requirements of the standards they have disclosed."
+      }
+    },
+    {
+      "id": 34,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第28条",
+        "ja": "第28条",
+        "en": "Article 28"
+      },
+      "texts": {
+        "zh": "企业研制新产品、改进产品，进行技术改造，应当符合本法规定的标准化要求。",
+        "ja": "企業が新製品を研究開発し、製品を改善し、技術改善を行う場合は、本法に定められた標準化の基準に適合しなければならない。",
+        "en": "Where enterprises improve their products, develop new products, or upgrade technology, they shall meet standardization requirements as stipulated in this Law."
+      }
+    },
+    {
+      "id": 35,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第29条",
+        "ja": "第29条",
+        "en": "Article 29"
+      },
+      "texts": {
+        "zh": "国家建立强制性标准实施情况统计分析报告制度。国务院标准化行政主管部门和国务院有关行政主管部门、设区的市级以上地方人民政府标准化行政主管部门应当建立标准实施信息反馈和评估机制，根据反馈和评估情况对其制定的标准进行复审。标准的复审周期一般不超过五年。经过复审，对不适应经济社会发展需要和技术进步的应当及时修订或者废止。",
+        "ja": "国は、強制標準実施状況統計分析の報告制度を構築する。国務院の標準化行政主管部門と国務院の関係行政主管部門、設区市以上の地方人民政府の標準化行政主管部門は、標準実施情報のフィードバック及び評価の仕組みを構築し、フィードバック及び評価の状況に基づいて、それらが制定した標準について再審査を行わなければならない。標準の再審査期間は通3常、5年を超えない。再審査を経て、経済・社会の発展の需要及び技術の進歩に適応しない場合は、速やかに改定又は廃止しなければならない。",
+        "en": "The State shall establish a statistical analysis and report system to monitor the implementation of mandatory standards. The administrative department in charge of standardization under the State Council, other relevant departments under the State Council and administrative departments in charge of standardization of local people’s governments at or above the level of cities divided into districts shall establish feedback and evaluation mechanisms on the implementation of standards, and review the standards they have developed based on such feedback and evaluations. The review cycle for standards shall not exceed five years. Following reviews, standards that do not meet the needs of economic and social development and technological progress shall be revised or withdrawn."
+      }
+    },
+    {
+      "id": 36,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第30条",
+        "ja": "第30条",
+        "en": "Article 30"
+      },
+      "texts": {
+        "zh": "国务院标准化行政主管部门根据标准实施信息反馈、评估、复审情况，对有关标准之间重复交叉或者不衔接配套的，应当会同国务院有关行政主管部门作出处理或者通过国务院标准化协调机制处理。",
+        "ja": "国務院の標準化行政主管部門は、標準実施情報のフィードバック、評価、再審査の状況に基づき、関係標準間の重複、交錯があり、又は連動性、関連性がない場合は、国務院の関係行政主管部門と共同で処理し、又は国務院の標準化の協調の仕組みを通じて処理しなければならない。",
+        "en": "The administrative department in charge of standardization under the State Council shall, on the basis of feedback, evaluations and reviews on the implementation of standards, handle overlaps or inconsistencies between standards with relevant administrative departments under the State Council or via the State Council’s standardization coordination mechanism."
+      }
+    },
+    {
+      "id": 37,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第31条",
+        "ja": "第31条",
+        "en": "Article 31"
+      },
+      "texts": {
+        "zh": "县级以上人民政府应当支持开展标准化试点示范和宣传工作，传播标准化理念，推广标准化经验，推动全社会运用标准化方式组织生产、经营、管理和服务,发挥标准对促进转型升级、引领创新驱动的支撑作用。",
+        "ja": "県級以上の人民政府は、標準化に関する試行・モデル事業及び周知活動の実施を支援し、標準化の理念を伝達し、標準化の経験を広め、社会全体が標準化の方式を活用して生産、経営、管理、サービスを手配するよう後押しし、構造転換・高度化の促進、イノベーション主導型の発展の主導に対する標準の下支え役としての役割を発揮しなければならない。",
+        "en": "People’s governments at or above the county level shall support pilot and demonstration projects and publicity work concerning standardization, disseminate standardization concepts, spread standardization experiences, promote the use of standardization methods throughout society for organizing production, business, management and services, and make the most of the supporting role of standards for encouraging industrial transformation and upgrading and driving innovation."
+      }
+    },
+    {
+      "id": 38,
+      "source_file": NaN,
+      "original_numbers": {
+        "zh": "第四章",
+        "ja": "第 4 章",
+        "en": "Chapter IV"
+      },
+      "texts": {
+        "zh": "监督管理",
+        "ja": "管理・監督",
+        "en": "Supervision and Administration"
+      }
+    },
+    {
+      "id": 39,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第32条",
+        "ja": "第32条",
+        "en": "Article 32"
+      },
+      "texts": {
+        "zh": "县级以上人民政府标准化行政主管部门、有关行政主管部门依据法定职责,对标准的制定进行指导和监督，对标准的实施进行监督检查。",
+        "ja": "県級以上の人民政府の標準化行政主管部門、関係行政主管部門は、法定の職責に基づき、標準の制定について指導及び監督を行い、標準の実施について監督・検査を行う。",
+        "en": "Administrative departments in charge of standardization and relevant administrative departments of people’s governments at or above the county level shall, in accordance with their statutory duties, guide and supervise the development of standards, and inspect and supervise the implementation of standards."
+      }
+    },
+    {
+      "id": 40,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第33条",
+        "ja": "第33条",
+        "en": "Article 33"
+      },
+      "texts": {
+        "zh": "国务院有关行政主管部门在标准制定、实施过程中出现争议的，由国务院标准化行政主管部门组织协商；协商不成的，由国务院标准化协调机制解决。",
+        "ja": "国務院の関係行政主管部門による標準の制定、実施の過程で論争が生じた場合は、国務院の標準化行政主管部門が協議を手配する。協議が調わない場合は、国務院の標準化に関する協調の仕組みにより解決を図る。",
+        "en": "Where disagreements arise among relevant administrative departments under the State Council in the course of developing or implementing standards, the administrative department in charge of standardization under the State Council shall arrange consultations. Where consultations fail, such matters shall be resolved using the State Council’s standardization coordination mechanism."
+      }
+    },
+    {
+      "id": 41,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第34条",
+        "ja": "第34条",
+        "en": "Article 34"
+      },
+      "texts": {
+        "zh": "国务院有关行政主管部门、设区的市级以上地方人民政府标准化行政主管部门未依照本法规定对标准进行编号、复审或者备案的，国务院标准化行政主管部门应当要求其说明情况，并限期改正。",
+        "ja": "国務院の関係行政主管部門、設区市以上の地方人民政府の標準化行政主管部門が本法の規定による標準に対する付番、再審査又は届出を行わない場合において、国務院の標準化行政主管部門は、それらに状況の説明、指定した期限までに是正するよう求めなければならない。",
+        "en": "Where relevant administrative departments under the State Council or administrative departments in charge of standardization of local people’s governments at or above the level of a city divided into districts fail to carry out numbering, reviews or registration of standards in accordance with this Law, the administrative department in charge of standardization under the State Council shall require them to clarify the situations and make rectifications within a prescribed time limit."
+      }
+    },
+    {
+      "id": 42,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第35条",
+        "ja": "第35条",
+        "en": "Article 35"
+      },
+      "texts": {
+        "zh": "任何单位或者个人有权向标准化行政主管部门、有关行政主管部门举报、投诉违反本法规定的行为。标准化行政主管部门、有关行政主管部门应当向社会公开受理举报、投诉的电话、信箱或者电子邮件地址，并安排人员受理举报、投诉。对实名举报人或者投诉人，受理举报、投诉的行政主管部门应当告知处理结果，为举报人保密，并按照国家有关规定对举报人给予奖励。",
+        "ja": "いかなる組織又は個人も、標準化行政主管部門、関係行政主管部門に対し、本法の規定に違反する行為について通報、苦情を申し立てる権利を有する。標準化行政主管部門、関係行政主管部門は、通報、苦情の受理のための電話番号、苦情受付箱又はメールアドレスを社会に公開し、通報、苦情の受付担当者を手配しなければならない。通報者又は苦情申立人の実名での通報、苦情申立てについて、通報、苦情を受理する行政主管部門は、処理結果を告知し、通報者の秘密を守り、国の関係規定に従って通報者に褒章を与えなければならない。",
+        "en": "Any organization or individual shall have the right to report or submit a complaint concerning a violation of a provision of this Law to an administrative department in charge of standardization or a relevant administrative department Administrative departments in charge of standardization or relevant administrative departments shall make public their telephone numbers, mailing addresses or email addresses for receiving reports or complaints, and arrange for staff to respond to these reports or complaints. Administrative departments that receive reports or complaints from people using their real names shall keep their personal information confidential and inform them of how matters have been handled, and awards shall be given to people who submit reports in accordance with relevant provisions of the State."
+      }
+    },
+    {
+      "id": 43,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第五章",
+        "ja": "第 5 章",
+        "en": "Chapter V "
+      },
+      "texts": {
+        "zh": "法律责任",
+        "ja": "法的責任",
+        "en": "Legal Liability"
+      }
+    },
+    {
+      "id": 44,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第36条",
+        "ja": "第36条",
+        "en": "Article 36"
+      },
+      "texts": {
+        "zh": "生产、销售、进口产品或者提供服务不符合强制性标准，或者企业生产的产品、提供的服务不符合其公开标准的技术要求的，依法承担民事责任。",
+        "ja": "製品の生産、販売、輸入又はサービスの提供が強制標準に適合しない、又は企業が生産する製品、提供するサービスがその公開する標準の技術要件に適合しない場合は、法により民事責任を負う。",
+        "en": "Civil liability shall be borne by organizations or individuals who produce, sell or import products or provide services that do not meet mandatory standards, or by enterprises that produce products or provide services that do not meet the technical requirements of the enterprise standards they have disclosed."
+      }
+    },
+    {
+      "id": 45,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第37条",
+        "ja": "第37条",
+        "en": "Article 37"
+      },
+      "texts": {
+        "zh": "生产、销售、进口产品或者提供服务不符合强制性标准的，依照《中华人民共和国产品质量法》、《中华人民共和国进出口商品检验法》、《中华人民共和国消费者权益保护法》等法律、行政法规的规定查处，记入信用记录，并依照有关法律、行政法规的规定予以公示；构成犯罪的，依法追究刑事责任。",
+        "ja": "製品の生産、販売、輸入又はサービスの提供が強制標準に適合しない場合は、「中華人民共和国製品質量法（中華人民共和国製品品質法）」、「中華人民共和国進出口商品検験法（中華人民共和国輸出入商品検査法）」、「中華人民共和国消費者権益保護法」等の法律、行政法規の規定により調査、処理を行い、信用記録に記入し、関係する法律、行政法規の規定により公示する。犯罪を構成する場合は、法により刑事責任を追及する。",
+        "en": "Any organization or individual who produces, sells or imports products or provides services that do not meet mandatory standards shall be investigated and dealt with in accordance with the Product Quality Law of the People’s Republic of China, the Law of the People’s Republic of China on Import and Export Commodity Inspection, the Law of the People’s Republic of China on the Protection of Consumer Rights and Interests and other laws and administrative regulations. The same shall be recorded on their credit history and made public in accordance with relevant laws and administrative regulations. Where a crime is constituted, criminal liability shall be investigated in accordance with the law."
+      }
+    },
+    {
+      "id": 46,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第38条",
+        "ja": "第38条",
+        "en": "Article 38"
+      },
+      "texts": {
+        "zh": "企业未依照本法规定公开其执行的标准的，由标准化行政主管部门责令限期改正；逾期不改正的，在标准信息公共服务平台上公示。",
+        "ja": "企業が、自身が適用する標準について、本法の規定による公開を行わない場合は、標準化行政主管部門が指定した期限までに是正するよう命じる。所定期限内に是正を完了しない場合は、標準情報公共サービスプラットフォームにおいて公示する。",
+        "en": "Where an enterprise fails to disclose the standards it implements in accordance with the provisions of this Law, an administrative department in charge of standardization shall order it to make rectifications within a prescribed time limit. Those enterprises failing to make the rectifications shall be announced on a public service platform for standardization information."
+      }
+    },
+    {
+      "id": 47,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第39条",
+        "ja": "第39条",
+        "en": "Article 39"
+      },
+      "texts": {
+        "zh": "国务院有关行政主管部门、设区的市级以上地方人民政府标准化行政主管部门制定的标准不符合本法第21条第一款、第22条第一款规定的，应当及时改正；拒不改正的，由国务院标准化行政主管部门公告废止相关标准；对负有责任的领导人员和直接责任人员依法给予处分。社会团体、企业制定的标准不符合本法第21条第一款、第22条第一款规定的，由标准化行政主管部门责令限期改正；逾期不改正的，由省级以上人民政府标准化行政主管部门废止相关标准，并在标准信息公共服务平台上公示。违反本法第22条第二款规定，利用标准实施排除、限制市场竞争行为的，依照《中华人民共和国反垄断法》等法律、行政法规的规定处理。",
+        "ja": "国務院の関係行政主管部門、設区市以上の地方人民政府の標準化行政主管部門が制定した標準が本法の第21第1項、第22条第1項の規定に適合しない場合は、速やかに是正しなければならない。是正を拒否した場合は、国務院の標準化行政主管部門が当該標準の廃止を公告する。責任を負う指導者及び直接責任者に対しては、法により処分を下す。社会団体、企業が制定した標準が本法第21条第1項、第22条第1項の規定に適合しない場合は、標準化行政主管部門が指定した期限までに是正するよう命じる。所定期限内に是正を完了しない場合は、省以上の人民政府の標準化行政主管部門が当該標準を廃止し、標準情報公共サービスプラットフォームにおいて公示する。4本法第22条第2項の規定に違反し、標準を利用して市場における競争を排除、制限する行為を実施した場合は、「中華人民共和国反壟断法（中華人民共和国独占禁止法）」等の法律、行政法規の規定により処理する。",
+        "en": "Where standards developed by relevant administrative departments of the State Council or administrative departments in charge of standardization of local people’s governments at or above the level of a city divided into districts are not in compliance with the provisions of the first paragraph of Article 21 and the first paragraph of Article 22 of this Law, the said departments shall promptly rectify the situation. Where the said departments refuse to rectify, such standards shall be abolished through an announcement by the administrative department in charge of standardization under the State Council, and responsible leaders and the directly responsible personnel shall be punished in accordance with the law. Where standards developed by social organizations or enterprises are not in compliance with the provisions of the first paragraph of Article 21 and the first paragraph of Article 22 of this Law, the said social organizations or enterprises shall be ordered by relevant administrative departments in charge of standardization to rectify the situation within a prescribed time limit. Where the said social organizations or enterprises refuse to rectify within the prescribed time limit, such standards shall be abolished by relevant administrative departments in charge of standardization of people’s governments at or above the provincial level and the matter shall be announced on a public service platform for standardization information. Any organization or individual who, in violation of the second paragraph of Article 22 of this Law, uses standards to prevent or restrain market competition shall be dealt with in accordance with the provisions of the Anti-Monopoly Law of the People’s Republic of China and other relevant laws and administrative regulations."
+      }
+    },
+    {
+      "id": 48,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第40条",
+        "ja": "第40条",
+        "en": "Article 40"
+      },
+      "texts": {
+        "zh": "国务院有关行政主管部门、设区的市级以上地方人民政府标准化行政主管部门未依照本法规定对标准进行编号或者备案，又未依照本法第三十四条的规定改正的，由国务院标准化行政主管部门撤销相关标准编号或者公告废止未备案标准；对负有责任的领导人员和直接责任人员依法给予处分。国务院有关行政主管部门、设区的市级以上地方人民政府标准化行政主管部门未依照本法规定对其制定的标准进行复审，又未依照本法第34条的规定改正的，对负有责任的领导人员和直接责任人员依法给予处分。",
+        "ja": "国務院の関係行政主管部門、設区市以上の地方人民政府の標準化行政主管部門が本法の規定による標準に対する付番又は届出を行わず、さらに本法第34条の規定による是正を行わない場合は、国務院の標準化行政主管部門が当該標準の番号を抹消し、又は届出を行っていない標準の廃止を公告する。責任を負う指導者及び直接責任者に対して、法により処分を下す。国務院の関係行政主管部門、設区市以上の地方人民政府の標準化行政主管部門が本法の規定によるそれらが制定した標準に対する再審査を行わず、さらに本法第34条の規定による是正を行わない場合は、責任を負う指導者及び直接責任者に対して、法に基づき処分を行う。",
+        "en": "Where relevant administrative departments of the State Council and administrative departments in charge of standardization of local people’s governments at or above the level of a city divided into districts fail to carry out numbering or registration of standards in accordance with the provisions of this Law, and they fail to make rectifications in accordance with the provisions of Article 34 of this Law, the administrative department in charge of standardization under the State Council shall withdraw numbers of relevant standards or announce the abolition of standards that have not been registered, and the responsible leaders and directly responsible personnel shall be punished in accordance with the law. Where relevant administrative departments of the State Council and administrative departments in charge of standardization of local people’s governments at or above the level of a city divided into districts fail to review the standards they have developed in accordance with the provisions of this Law, and they fail to make rectifications in accordance with the provisions of Article 34 of this Law, responsible leaders and directly responsible personnel shall be punished in accordance with the law."
+      }
+    },
+    {
+      "id": 49,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第41条",
+        "ja": "第41条",
+        "en": "Article 41"
+      },
+      "texts": {
+        "zh": "国务院标准化行政主管部门未依照本法第10条第二款规定对制定强制性国家标准的项目予以立项，制定的标准不符合本法第21条第一款、第22条第一款规定，或者未依照本法规定对标准进行编号、复审或者予以备案的，应当及时改正；对负有责任的领导人员和直接责任人员可以依法给予处分。",
+        "ja": "国務院の標準化行政主管部門は、本法第10条第2項の規定による強制国家標準の制定に関するプロジェクトの立案を行わない、又は制定した標準が本法第21条第1項、第22条第1項の規定に適合しない、又は本法の規定による標準に対する付番、再審査若しくは届出を行わない場合は、速やかに是正しなければならない。責任を負う指導者及び直接責任者に対しては、法に基づき処分を行うことができる。",
+        "en": "Where the administrative department in charge of standardization under the State Council fails to approve proposals for developing mandatory national standards in accordance with the second paragraph of Article 10 of this Law, or the standards it has developed fail to conform to the provisions of the first paragraph of Article 21 and the first paragraph of Article 22 of this Law, or it fails to number, review or register standards in accordance with the provisions of this Law, it shall promptly make rectifications, and responsible leaders and directly responsible personnel shall be punished in accordance with the law."
+      }
+    },
+    {
+      "id": 50,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第42条",
+        "ja": "第42条",
+        "en": "Article 42"
+      },
+      "texts": {
+        "zh": "社会团体、企业未依照本法规定对团体标准或者企业标准进行编号的，由标准化行政主管部门责令限期改正；逾期不改正的，由省级以上人民政府标准化行政主管部门撤销相关标准编号，并在标准信息公共服务平台上公示。",
+        "ja": "社会団体、企業が本法の規定による団体標準又は企業標準に対する付番を行わない場合は、標準化行政主管部門は、指定した期限までに是正するよう命じる。所定期限内に是正を完了しない場合は、省以上の人民政府の標準化行政主管部門が当該標準番号を抹消し、標準情報公共サービスプラットフォームにおいて公示する。",
+        "en": "Where social organizations and enterprises fail to have their association standards or enterprise standards numbered in accordance with the provision of this Law, administrative departments in charge of standardization shall order them to make rectifications within a prescribed time limit. Where they fail to make rectifications, administrative departments in charge of standardization of people’s governments at or above the provincial level shall withdraw numbers of relevant standards and announce the same on a public service platform for standardization information."
+      }
+    },
+    {
+      "id": 51,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第43条",
+        "ja": "第43条",
+        "en": "Article 43"
+      },
+      "texts": {
+        "zh": "标准化工作的监督、管理人员滥用职权、玩忽职守、徇私舞弊的，依法给予处分；构成犯罪的，依法追究刑事责任。",
+        "ja": "標準化事業の監督、管理の担当者が職権濫用、職責怠慢、不正行為を実施した場合は、法に基づき処分を行う。犯罪を構成する場合は、法により刑事責任を追及する。",
+        "en": "Where persons in charge of supervision and administration of standardization are involved in the abuse of power, dereliction of duty, favoritism and malpractice, they shall be punished in accordance with the law, and where a crime is constituted, they shall be investigated for criminal liability in accordance with the law."
+      }
+    },
+    {
+      "id": 52,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第六章",
+        "ja": "第 6 章",
+        "en": "Chapter VI"
+      },
+      "texts": {
+        "zh": "附则",
+        "ja": "付則",
+        "en": "Supplementary Provisions"
+      }
+    },
+    {
+      "id": 53,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第44条",
+        "ja": "第44条",
+        "en": "Article 44"
+      },
+      "texts": {
+        "zh": "军用标准的制定、实施和监督办法，由国务院、中央军事委员会另行制定。",
+        "ja": "軍用標準の制定、実施、監督に関する弁法について、国務院、中央軍事委員会が別途制定する。",
+        "en": "The measures for developing, implementing and supervising military standards shall be formulated by the State Council and the Central Military Commission."
+      }
+    },
+    {
+      "id": 54,
+      "source_file": "中华人民共和国标准化法(2017)",
+      "original_numbers": {
+        "zh": "第45条",
+        "ja": "第45条",
+        "en": "Article 45"
+      },
+      "texts": {
+        "zh": "本法自2018年1月1日起施行。",
+        "ja": "本法は、2018年1月1日から施行する。",
+        "en": "This Law shall come into force on January 1, 2018."
+      }
+    }
+  ]
+}

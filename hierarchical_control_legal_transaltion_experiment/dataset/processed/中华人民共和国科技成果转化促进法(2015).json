@@ -1,0 +1,872 @@
+{
+  "metadata": {
+    "law_name": "科技成果转化促进法",
+    "domain": "TechnologyLaw",
+    "year": 2015,
+    "source_file": "中华人民共和国科技成果转化促进法(2015).xlsx",
+    "total_entries": 61,
+    "processed_at": "2025-10-05T21:38:48.021104",
+    "languages": [
+      "zh",
+      "ja",
+      "en"
+    ],
+    "valid_entries": 61
+  },
+  "entries": [
+    {
+      "id": 1,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "法律名称",
+        "ja": "法令名",
+        "en": "Law Title"
+      },
+      "texts": {
+        "zh": "中华人民共和国科技成果转化促进法",
+        "ja": "中華人民共和国科学技術成果転化促進法",
+        "en": "Law of the People's Republic of China on Promoting the Transformation of Scientific and Technological Achievements"
+      }
+    },
+    {
+      "id": 2,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "修订记录",
+        "ja": "改正記録",
+        "en": "Revision Record"
+      },
+      "texts": {
+        "zh": "(1996年5月15日第八届全国人民代表大会常务委员会第十九次会议通过根 据2015年8月29日第十二届全国人民代表大会常务委员会第十六次会议《关于修 改〈中华人民共和国促进科技成果转化法〉的决定》修正)",
+        "ja": "(1996 年 5 月 15 日第8回全国人民代表大会常務委員会第19回会議で採択。2015 年 8 月 29 日第12回全国人民代表大会常務委員会第16回会議「中華人民共和国科学技術 成果転化促進法」の改正に関する決定により改正)",
+        "en": "(Adopted at the 19th Session of the Standing Committee of the 8th National People's Congress on May 15, 1996; and revised according to the Decision of the Standing Committee of the National People's Congress on Revising the Law of the People's Republic of China on Promoting the Transformation of Scientific and Technological Achievements at the 16th Session of the Standing Committee of the 12th National People's Congress on August 29, 2015)"
+      }
+    },
+    {
+      "id": 3,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "目录",
+        "ja": "目次",
+        "en": "Table of Contents"
+      },
+      "texts": {
+        "zh": "第一章 总 则 \n第二章 组织实施 \n第三章 保障措施 \n第四章 技术权益 \n第五章 法律责任 \n第六章 附 则",
+        "ja": "第一章 総則 \n第二章 組織・実施 \n第三章 保障措置 \n第四章 技術権益 \n第五章 法律責任 \n第六章 附則",
+        "en": "Chapter 1 General Provisions\nChapter 2 Organization and Implementation\nChapter 3 Guarantee Measures\nChapter 4 Technical Interests\nChapter 5 Legal Liabilities\nChapter 6 Supplementary Provisions"
+      }
+    },
+    {
+      "id": 4,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第一章 ",
+        "ja": "第一章",
+        "en": "Chapter 1 "
+      },
+      "texts": {
+        "zh": "第一章 总 则",
+        "ja": "総則",
+        "en": "General Provisions"
+      }
+    },
+    {
+      "id": 5,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 1 条",
+        "ja": "第 1 条",
+        "en": "Article 1"
+      },
+      "texts": {
+        "zh": "为了促进科技成果转化为现实生产力，规范科技成果转化活动，加速科学技术进步，推动经济建设和社会发展，制定本法。",
+        "ja": "科学技術成果を現実の生産力に転化させることを促進し、科学技術成果転化の促進活動を規範化し、科学技術進歩を速め、経済建設及び社会発展を推進するために，本法を制定する。",
+        "en": "This Law is enacted for the purpose of promoting the transformation of scientific and technological achievements into real productive forces, standardizing such transformation, hastening scientific and technological progress and promoting economic and social development."
+      }
+    },
+    {
+      "id": 6,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 2 条",
+        "ja": "第 2 条",
+        "en": "Article 2"
+      },
+      "texts": {
+        "zh": "本法所称科技成果，是指通过科学研究与技术开发所产生的具有实用价值的成果。职务科技成果，是指执行研究开发机构、高等院校和企业等单位的工作任务，或者主要是利用上述单位的物质技术条件所完成的科技成果。本法所称科技成果转化，是指为提高生产力水平而对科技成果所进行的后续试验、开发、应用、推广直至形成新技术、新工艺、新材料、新产品，发展新产业等活动。",
+        "ja": "本法において科学技術成果とは、科学研究及び技術開発により生じた、実用価値をもつ成果をいう。職務科学技術成果とは、研究開発機関、高等教育機関及び企業等の組織の業務上の任務を遂行して、又は主に上述の組織の物的、技術的条件を利用して完成した科学技術成果をいう。本法において科学技術成果の転化とは、生産力レベルを高めるために科学技術成果に対して行う継続実験、開発、応用、普及が直接新技術、新製法、新材料、新製品を成し、新産業を発展させる等の活動をいう。",
+        "en": "The phrase \"scientific and technological achievements\" as used in this Law means achievements made as a result of scientific research and technological development which have practical value. Service technological achievements shall mean technological achievements obtained from performance of work assignments from research and development institutes, tertiary institutions and enterprises, or from utilising mainly the material and technical conditions of the aforesaid organisations. The term \"transformation of scientific and technological achievements\" as used in this Law means the entire process of the follow-up tests, development, application, and widespread use of the applicable scientific and technological achievements, through to the final creation of new technologies, new techniques, new materials, new products, and new industries - all for the purpose of enhancing the productive forces."
+      }
+    },
+    {
+      "id": 7,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 3 条",
+        "ja": "第 3 条",
+        "en": "Article 3"
+      },
+      "texts": {
+        "zh": "科技成果转化活动应当有利于加快实施创新驱动发展战略，促进科技与经济的结合，有利于提高经济效益、社会效益和保护环境、合理利用资源，有利于促进经济建设、社会发展和维护国家安全。科技成果转化活动应当尊重市场规律，发挥企业的主体作用，遵循自愿、互利、公平、诚实信用的原则，依照法律法规规定和合同约定，享有权益，承担风险。科技成果转化活动中的知识产权受法律保护。科技成果转化活动应当遵守法律法规，维护国家利益，不得损害社会公共利益和他人合法权益。",
+        "ja": "科学技術成果の転化活動は、イノベーション主導型発展戦略の実施の加速に有益で、科学技術と経済との結び付けを促進し、経済的便益・社会的便益の向上及び環境の保護、合理的な資源利用に有益で、経済建設、社会発展及び国家安全の促進に有益なものでなければならない。科学技術成果の転化活動は、企業の主体的役割を発揮させ、市場法則を尊重し、自由意思、互恵、公平、誠実信用の原則に従い、法令の規定及び契約の約定により、利益を享受しリスクを負担するものでなければならない。科学技術成果の転化における知的財産権は法律から保護を受ける。科学技術成果の転化活動は、国の法律法規を遵守し、国家利益を擁護しなければならず、社会公共の利益及び他人の合法的権益を損なってはならない。",
+        "en": "Transformation of scientific and technological achievements shall be instrumental to accelerating the implementation of the innovation-driven development strategy, to promoting the combination of science, technology and economy, to increasing economic and social results, to protecting the environment and reasonably using natural resources, as well as to promoting economic and social development and safeguarding national security. In transforming scientific and technological achievements, the persons concerned shall respect the law of the market, let the enterprises play the main role, abide by the principle of voluntariness, mutual benefit, fairness and good faith, and shall, in accordance with law or contractual agreement, enjoy interests and bear risks. Intellectual property involved in the transformation of scientific and technological achievements shall be protected by the law. In the transformation of scientific and technological achievements, laws shall be observed and State interests safeguarded, and no public interests or legitimate rights and interests of others shall be damaged."
+      }
+    },
+    {
+      "id": 8,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 4 条",
+        "ja": "第 4 条",
+        "en": "Article 4"
+      },
+      "texts": {
+        "zh": "国家对科技成果转化合理安排财政资金投入，引导社会资金投入，推动科技成果转化资金投入的多元化。",
+        "ja": "国は、科学技術成果の転化に対する財政資金の投入を合理的に手配し、社会資金の投入を導き、科学技術成果の転化への資金投入の多元化を促進する。",
+        "en": "The State shall reasonably allocate financial funds to the transformation of scientific and technological achievements, guide the investment of social funds in the transformation of scientific and technological achievements, and promote the investment of funds in the transformation of scientific and technological achievements from diversified sources."
+      }
+    },
+    {
+      "id": 9,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 5 条",
+        "ja": "第 5 条",
+        "en": "Article 5"
+      },
+      "texts": {
+        "zh": "国务院和地方各级人民政府应当加强科技、财政、投资、税收、人才、产业、金融、政府采购、军民融合等政策协同，为科技成果转化创造良好环境。地方各级人民政府根据本法规定的原则，结合本地实际，可以采取更加有利于促进科技成果转化的措施。",
+        "ja": "国務院及び地方の各級の人民政府は、科学技術、財政、投資、租税、人材、産業、金融、政府調達、軍民融合等政策間の連動を強化して、科学技術成果の転化のために良き環境作りを図らなければならない。地方の各級の人民政府は、本法に定める原則に基づき、当地の実態に合わせて、科学技術成果の転化促進により有益な措置を講じることができる。",
+        "en": "The State Council and local people's governments at various levels shall strengthen the coordination of their policies of science and technology, public finance, investment, taxation, talents, industries, finance, government procurement, military and civilian integration, and other policies so as to create a sound environment for transformation of scientific and technological achievements. The local people's governments at various levels may, in accordance with the principles specified herein and in light of local conditions, take measures which can better facilitate the transformation of scientific and technological achievements."
+      }
+    },
+    {
+      "id": 10,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 6 条",
+        "ja": "第 6 条",
+        "en": "Article 6"
+      },
+      "texts": {
+        "zh": "国家鼓励科技成果首先在中国境内实施。中国单位或者个人向境外的组织、个人转让或者许可其实施科技成果的，应当遵守相关法律、行政法规以及国家有关规定。",
+        "ja": "国は、科学技術の成果が最初に中国国内で実施されることを奨励する。中国の機関又は個人が、国外の組織や個人に科学技術成果を譲渡し、又は独占的に実施することを許諾する場合、関連の法律、行政法規及び国の関係の規定を遵守しなければならない。",
+        "en": "The State encourages the scientific and technological achievements to be implemented in China first. Relevant laws and administrative regulations as well as relevant provisions of the State shall be followed when Chinese entities or individuals transfer their scientific and technological achievements to overseas organizations or individuals, or license them to implement such scientific and technological achievements."
+      }
+    },
+    {
+      "id": 11,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 7 条",
+        "ja": "第 7 条",
+        "en": "Article 7"
+      },
+      "texts": {
+        "zh": "国家为了国家安全、国家利益和重大社会公共利益的需要，可以依法组织实施或者许可他人实施相关科技成果。",
+        "ja": "国は、国家安全、国家利益及び重要な社会公共の利益上の必要性から、法により、関連の科学技術成果の実施を組織し、又は他人に実施を許諾することができる。",
+        "en": "For the needs of national security, national interests, and major public interests, the State may legally organize the implementation of or license others to implement relevant scientific and technological achievements."
+      }
+    },
+    {
+      "id": 12,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 8 条",
+        "ja": "第 8 条",
+        "en": "Article 8"
+      },
+      "texts": {
+        "zh": "国务院科学技术行政部门、经济综合管理部门和其他有关行政部门依照国务院规定的职责，管理、指导和协调科技成果转化工作。地方各级人民政府负责管理、指导和协调本行政区域内的科技成果转化工作。",
+        "ja": "国務院科学技術行政部門、経済総合管理部門及びその他の関係行政部門は、国務院の規定する職権の範囲に基づいて、科学技術成果転化業務を管理し指導し、調整する。各級地方人民政府は本行政区域における科学技術成果転化業務に対する管理、指導及び調整に責任を負う。",
+        "en": "The administrative department for science and technology, the administrative department for comprehensive economic and trade affairs, and other relevant administrative departments under the State Council shall, within their functions and responsibilities as prescribed by the State Council, administer, guide, and coordinate efforts for the transformation of scientific and technological achievements. The local people's governments at various levels shall be responsible for administering, guiding, and coordinating efforts for the transformation of scientific and technological achievements within their respective administrative regions."
+      }
+    },
+    {
+      "id": 13,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第二章",
+        "ja": "第2章",
+        "en": "Chapter 2"
+      },
+      "texts": {
+        "zh": "组织实施",
+        "ja": "組織・実施",
+        "en": "Organization and Implementation"
+      }
+    },
+    {
+      "id": 14,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 9 条",
+        "ja": "第 9 条",
+        "en": "Article 9"
+      },
+      "texts": {
+        "zh": "国务院和地方各级人民政府应当将科技成果的转化纳入国民经济和社会发展计划，并组织协调实施有关科技成果的转化。",
+        "ja": "国務院及び地方各級人民政府は、科学技術成果転化を国民経済及び社会発展計画に組み入れ、関係する科学技術成果の転化実施を組織し調整しなければならない。",
+        "en": "The State Council and the local people's governments at various levels shall incorporate the transformation of scientific and technological achievements in their notional economic and social development plans and make arrangements and coordinate efforts for the transformation of relevant scientific and technological achievements."
+      }
+    },
+    {
+      "id": 15,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 10 条",
+        "ja": "第 10 条",
+        "en": "Article 10"
+      },
+      "texts": {
+        "zh": "利用财政资金设立应用类科技项目和其他相关科技项目，有关行政部门、管理机构应当改进和完善科研组织管理方式，在制定相关科技规划、计划和编制项目指南时应当听取相关行业、企业的意见；在组织实施应用类科技项目时，应当明确项目承担者的科技成果转化义务，加强知识产权管理，并将科技成果转化和知识产权创造、运用作为立项和验收的重要内容和依据。",
+        "ja": "財政資金を利用して応用系科学技術プロジェクト及びその他関連の科学技術プロジェクトを設立する場合、関係の行政部門、管理機関は、科学研究の組織・管理の方式を改善し完備させなければならず、関連の科学技術プラン、計画を制定し、プロジェクトガイドラインを作成するにあたっては、関連の業界、企業から意見を聴取しなければならない。応用系科学技術プロジェクトの実施組織にあたっては、プロジェクト担当者の科学技術成果の転化に関する義務を明確にしなければならず、知的財産権の管理を強化し、且つ、科学技術成果の転化及び知的財産権の創出・運用を起案や検収上の重要な内容及び根拠とする。",
+        "en": "Fiscal funds shall be used to set up the application type of scientific and technological projects and other relevant scientific and technological projects. Relevant administrative departments and management agencies shall improve and perfect their organization and management mode of scientific research, and shall hear the opinions of relevant industries and enterprises when formulating relevant scientific and technological plans and preparing project guides; in organizing the implementation of the application type of scientific and technological projects, the project undertaker's obligation of transformation of scientific and technological achievements shall be made clear, the management of intellectual property shall be strengthened, and the transformation of scientific and technological achievements as well as the creation and use of intellectual property shall be made as an important basis and content of project approval and acceptance."
+      }
+    },
+    {
+      "id": 16,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 11 条",
+        "ja": "第 11 条",
+        "en": "Article 11"
+      },
+      "texts": {
+        "zh": "国家建立、完善科技报告制度和科技成果信息系统，向社会公布科技项目实施情况以及科技成果和相关知识产权信息，提供科技成果信息查询、筛选等公益服务。公布有关信息不得泄露国家秘密和商业秘密。对不予公布的信息，有关部门应当及时告知相关科技项目承担者。利用财政资金设立的科技项目的承担者应当按照规定及时提交相关科技报告，并将科技成果和相关知识产权信息汇交到科技成果信息系统。国家鼓励利用非财政资金设立的科技项目的承担者提交相关科技报告，将科技成果和相关知识产权信息汇交到科技成果信息系统，县级以上人民政府负责相关工作的部门应当为其提供方便。",
+        "ja": "国は、科学技術報告書制度及び科学技術成果情報システムを確立し、完備させ、科学技術プロジェクトの実施の状況及び科学技術の成果、関連の知的財産権の情報を一般に公布し、科学技術の成果の情報照会、選別等の公益サービスを提供する。関係情報の公布に当たって、国家秘密及び営業秘密を漏えいしてはならない。公布しない情報は、関係部門が関連の科学技術プロジェクト担当者に速やかに告知しなければならない。財政資金を利用して設立された科学技術プロジェクトの担当者は、規定に従って速やかに関連の科学技術報告書を提出し、科学技術の成果及び関連の知的財産権の情報を科学技術成果情報システムに総括して提出しなければならない。国は、財政以外の資金を利用して設立された科学技術プロジェクトの担当者が、関連の科学技術報告書を提出し、科学技術の成果及び関連の知的財産権の情報を科学技術成果情報システムに総括して提出することを奨励する。県級以上の人民政府の関連業務の担当部門は、便宜を図らなければならない。",
+        "en": "The State shall establish and improve upon a technological reporting system and technological achievements information system, announce information on implementation of technological projects, technological achievements and the relevant intellectual property to the public, and provide community services such as enquiry and screening of technological achievements. Information released shall not divulge any State secret or trade secret. For information not to be disclosed, relevant departments shall inform undertakers of relevant scientific and technological projects in a timely manner. The undertakers of scientific and technological projects which are set up using fiscal funds shall timely submit relevant scientific and technological reports according to regulations and summarize and deliver information regarding scientific and technological achievements and intellectual property to the system of scientific and technological achievements. The State encourages undertakers of scientific and technological projects which are set up using non-fiscal funds to submit relevant scientific and technological reports and summarize and deliver information regarding scientific and technological achievements and intellectual property to the system of scientific and technological achievements, for which the responsible departments of the people's governments of county level or above shall provide conveniences."
+      }
+    },
+    {
+      "id": 17,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 12 条",
+        "ja": "第 12 条",
+        "en": "Article 12"
+      },
+      "texts": {
+        "zh": "对下列科技成果转化项目，国家通过政府采购、研究开发资助、发布产业技术指导目录、示范推广等方式予以支持：（一）能够显著提高产业技术水平、经济效益或者能够形成促进社会经济健康发展的新产业的；（二）能够显著提高国家安全能力和公共安全水平的；（三）能够合理开发和利用资源、节约能源、降低消耗以及防治环境污染、保护生态、提高应对气候变化和防灾减灾能力的；（四）能够改善民生和提高公共健康水平的；（五）能够促进现代农业或者农村经济发展的；（六）能够加快民族地区、边远地区、贫困地区社会经济发展的。",
+        "ja": "以下に掲げる科学技術成果の転化プロジェクトについて、国は政府調達、研究開発の資金援助、産業技術ガイド目録の発表、実証普及等の方式で支援を与える。（1）産業技術のレベル、経済的便益を著しく高めることができるもの又は社会・経済の健全な発展を促進する新規産業を形成できるもの（2）国の安全能力及び公共の安全レベルを著しく高めることができるもの（3）合理的な資源開発と利用、エネルギー節減、消費削減、並びに環境汚染の防止、生態系の保全、気候変動への対応力及び防災・減災力の向上につながるもの（4）人民の生活の改善及び公共の健康レベルの向上につながるもの（5）現代農業又は農村経済の発展を促進できるもの（6）民族地域、へき地、貧困地域での社会・経済の発展の加速につながるもの。",
+        "en": "The State shall support the following projects for the transformation of scientific and technological achievements by such means as government procurement, research and development subsidies, publishing of guide catalogs of industries and technologies, and demonstration and promotion: 1. projects that will be able to noticeably help raise the industrial and technical level and increase economic results, or will form new industries which promote the healthy development of society and the economy; 2. projects that will be able to noticeably increase national security capabilities and the level of public security; 3. projects that can help rationally develop and utilize natural resources, conserve energy, reduce material consumption, prevent and control environmental pollution, protect the ecology, enhance the capabilities in response to climate change, and prevent disasters and reduce damage; 4. projects that can improve people's livelihood and enhance the level of public health; 5. projects that can promote modern agriculture or the economic development in the rural areas; and 6. projects that can help accelerate the social and economic development in areas inhabited by ethnic minorities and outlying and poverty-stricken areas."
+      }
+    },
+    {
+      "id": 18,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 13 条",
+        "ja": "第 13 条",
+        "en": "Article 13"
+      },
+      "texts": {
+        "zh": "国家通过制定政策措施，提倡和鼓励采用先进技术、工艺和装备，不断改进、限制使用或者淘汰落后技术、工艺和装备。",
+        "ja": "国が政策措置を制定し、先進的な技術・工程及び設備の採用、立ち後れる技術の開発、工程及び設備のたゆまない革新、不備なものに対する使用制限又は使用停止を提唱し奨励する。",
+        "en": "The State, by developing appropriate policies and measures, promotes and encourages the adoption of advanced technologies, techniques, and equipment and the continuous improvement, restricted use, or elimination of backward technologies, techniques, and equipment."
+      }
+    },
+    {
+      "id": 19,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 14 条",
+        "ja": "第 14 条",
+        "en": "Article 14"
+      },
+      "texts": {
+        "zh": "国家加强标准制定工作，对新技术、新工艺、新材料、新产品依法及时制定国家标准、行业标准，积极参与国际标准的制定，推动先进适用技术推广和应用。国家建立有效的军民科技成果相互转化体系，完善国防科技协同创新体制机制。军品科研生产应当依法优先采用先进适用的民用标准，推动军用、民用技术相互转移、转化。",
+        "ja": "国は、標準の制定を強化し、新技術、新製法、新材料、新製品について法により国家標準、業界標準を速やかに制定し、国際標準の制定に積極的に参加し、先進的な適正技術のプロモーションと応用を促進する。国は、有効な軍民の科学技術成果の相互転化体系を確立し、国防に関する科学技術の革新を協同で実施する体制・システムの整備を図る。軍需品の科学研究、生産では、法により、先進的で適正な民用標準を優先して採用しなければならず、軍用・民用技術の相互移転、転化の促進を図る。",
+        "en": "The State shall strengthen its efforts in standard setting, set national or industrial standards for new technologies, new techniques, new materials, and new products according to law and in a timely manner, and actively participate in the setting of international standards so as to promote the spread and application of advanced and applicable technologies. The State shall establish an effective system for the mutual transformation between military and civilian scientific and technological achievements and shall improve the systems and mechanisms for the collaboration and innovation of defense-related science and technology. Advanced and applicable civilian standards shall be given priority of use according to law during the scientific research and production of military products so as to promote the mutual transfer or transformation of military and civilian technologies."
+      }
+    },
+    {
+      "id": 20,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 15 条",
+        "ja": "第 15 条",
+        "en": "Article 15"
+      },
+      "texts": {
+        "zh": "各级人民政府组织实施的重点科技成果转化项目，可以由有关部门组织采用公开招标的方式实施转化。有关部门应当对中标单位提供招标时确定的资助或者其他条件。",
+        "ja": "各級人民政府は重要な科学技術成果転化項目の実施を組織する場合、関係部門が公開入札の方式をとり転化を実施することができる。関係部門は落札の時に確定した資金助成又はその他の条件を落札者に提供しなければならない。",
+        "en": "When making arrangements for transformation of major scientific and technological achievements, the people's governments at various levels may have relevant departments arrange for the transformation through open tendering. The relevant departments shall provide the bid winner with the subsidies or other conditions as determined at the time of bidding."
+      }
+    },
+    {
+      "id": 21,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 16 条",
+        "ja": "第 16 条",
+        "en": "Article 16"
+      },
+      "texts": {
+        "zh": "科技成果持有者可以采用下列方式进行科技成果转化：（一）自行投资实施转化；（二）向他人转让该科技成果；（三）许可他人使用该科技成果；（四）以该科技成果作为合作条件，与他人共同实施转化；（五）以该科技成果作价投资，折算股份或者出资比例；（六）其他协商确定的方式。",
+        "ja": "科学技術成果の保有者は以下に記載する方式により科学技術成果の転化を行うことができる。（1）自ら投資して転化を実施する。（2）他人に科学技術成果を譲渡する。（3）他人に科学技術成果の使用を許諾する。（4）当該科学技術成果を合作条件とし、他人とともに転化を実施する。（5）当該科学技術成果を評価し出資して株式又は出資持分に換価する。（6）その他協議のうえ決定した方式",
+        "en": "Holders of scientific and technological achievements may have their achievements transformed in the following ways: 1. investing in the transformation themselves; 2. transferring their achievements to another; 3. allowing another to use their achievements; 4. working together with another for the transformation with their achievements as the conditions for cooperation; and 5. investing with their achievements as converted shares or as proportions of capital contributions; 6. other methods determined through negotiations."
+      }
+    },
+    {
+      "id": 22,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 17 条",
+        "ja": "第 17 条",
+        "en": "Article 17"
+      },
+      "texts": {
+        "zh": "国家鼓励研究开发机构、高等院校采取转让、许可或者作价投资等方式，向企业或者其他组织转移科技成果。国家设立的研究开发机构、高等院校应当加强对科技成果转化的管理、组织和协调，促进科技成果转化队伍建设，优化科技成果转化流程，通过本单位负责技术转移工作的机构或者委托独立的科技成果转化服务机构开展技术转移。",
+        "ja": "国は、研究開発機関、高等教育機関が、譲渡、許諾又は評価出資等の方式により、企業又はその他の組織に対し科学技術成果を移転することを奨励する。国によって設立された研究開発機関や高等教育機関は、科学技術成果の転化の管理、組織、調整を強化し、科学技術成果の転化のチーム作りを促進し、科学技術成果の転化のプロセスを最適化し、自機関の技術移転業務の担当組織を介し、又は独立した科学技術成果転化サービス機関に委託して技術移転を行わなければならない。",
+        "en": "The State encourages research and development institutions or institutions of higher learning to transfer their scientific and technological achievements to enterprises or other organizations by means of assignment, licensing, contribution as an investment, or other means. Research and development institutions or institutions of higher learning established by the State shall strengthen the management, organization, and coordination of the transformation of their scientific and technological achievements, promote the building of teams for the transformation of scientific and technological achievements, optimize the transformation process of scientific and technological achievements, and carry out the transfer of technologies through their own entities which are in charge of technology transfer or by entrusting an independent service agency for the transformation of scientific and technological achievements."
+      }
+    },
+    {
+      "id": 23,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 18 条",
+        "ja": "第 18 条",
+        "en": "Article 18"
+      },
+      "texts": {
+        "zh": "国家设立的研究开发机构、高等院校对其持有的科技成果，可以自主决定转让、许可或者作价投资，但应当通过协议定价、在技术交易市场挂牌交易、拍卖等方式确定价格。通过协议定价的，应当在本单位公示科技成果名称和拟交易价格。",
+        "ja": "国によって設立された研究開発機関、高等教育機関は、保有する科学技術の成果について譲渡、許諾又は評価出資を自分の意思で決定することができるが、合意に基づく価格設定や技術取引市場における公示取引、競売等の方式により価格を定めなければならない。合意に基づく価格設定の場合、自機関において科学技術成果の名称及び取引予定価格を公示しなければならない。",
+        "en": "Research and development institutions or institutions of higher learning established by the State may, at their own discretion, decide to transfer, license, or contribute as an investment scientific and technological achievements held by them provided, however, that a price shall be determined by agreement, listing for sale at an exchange market for technologies, auction, or by other means. If the price is determined through agreement, the name of the scientific and technological achievements and the proposed transaction price shall be publicly announced within the entity concerned."
+      }
+    },
+    {
+      "id": 24,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 19 条",
+        "ja": "第 19 条",
+        "en": "Article 19"
+      },
+      "texts": {
+        "zh": "国家设立的研究开发机构、高等院校所取得的职务科技成果，完成人和参加人在不变更职务科技成果权属的前提下，可以根据与本单位的协议进行该项科技成果的转化，并享有协议规定的权益。该单位对上述科技成果转化活动应当予以支持。科技成果完成人或者课题负责人，不得阻碍职务科技成果的转化，不得将职务科技成果及其技术资料和数据占为己有，侵犯单位的合法权益。",
+        "ja": "国の設立する研究開発機関、高等教育機関が取得した職務科学技術成果は、創造者及び参与者がその職務科学技術成果の財産権帰属を変更しないことで本機関との合意に基づき当該科学技術成果の転化を行うことができ、かつ合意で定める権益を享有する。所属する機構は上述科学技術成果の転化活動に支持を与えなければならない。科学技術成果の創造者又は研究課題の責任者は、職務科学技術成果の転化を阻害してはならず、職務科学技術成果及び技術資料、データを占有し所属する機構の合法的な権益を侵害してはならない。",
+        "en": "With regard to scientific and technological achievements that are made by persons while holding positions in the research and development institutions or institutions of higher learning established by the State, the persons who made the achievements and the participants may, on condition that ownership of the achievements remains unchanged and in accordance with the agreement they reached with the units they belong to, transform the achievements, and they shall enjoy the rights and interests as stipulated in the agreement. The units concerned should assist in the transformation of the scientific and technological achievements mentioned above. Persons who made the scientific and technological achievements or leading members of a research project may neither obstruct the transformation of the scientific and technological achievements they made while holding positions in the entities nor take possession of such achievements, thus encroaching upon the lawful rights and interests of the entities they belong to."
+      }
+    },
+    {
+      "id": 25,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 20 条",
+        "ja": "第 20 条",
+        "en": "Article 20"
+      },
+      "texts": {
+        "zh": "研究开发机构、高等院校的主管部门以及财政、科学技术等相关行政部门应当建立有利于促进科技成果转化的绩效考核评价体系，将科技成果转化情况作为对相关单位及人员评价、科研资金支持的重要内容和依据之一，并对科技成果转化绩效突出的相关单位及人员加大科研资金支持。国家设立的研究开发机构、高等院校应当建立符合科技成果转化工作特点的职称评定、岗位管理和考核评价制度，完善收入分配激励约束机制。",
+        "ja": "研究開発機関、高等教育機関の主管部門及び財政、科学技術等関連の行政部門は、科学技術成果の転化促進に資する業績考査評価体制を確立し、科学技術成果の転化の状況を、関連の機関及び要員に対する評価や科学研究資金の援助を行う上での重要内容及び根拠の一つとし、さらに、科学技術成果の転化の業績が著しい関連の機関や要員に科学研究対する資金の援助を強化しなければならない。国によって設立された研究開発機関、高等教育機関は、科学技術成果の転化業務の特徴に合致した職階査定、職位管理、考査評価の制度を確立し、収入の配分によるインセンティブ・拘束の仕組みを完備させなければならない。",
+        "en": "The departments under which these research and development institutions or institutions of higher learning are administered and relevant administrative departments, including departments of finance and science and technology, shall establish a performance assessment and evaluation system in favor of promoting the transformation of scientific and technological achievements, make the transformation of scientific and technological achievements one of the important contents and basis for evaluating and granting scientific research funds to relevant entities and individuals, and increase the support of scientific research funds for relevant entities and individuals with outstanding performance in the transformation of scientific and technological achievements. Research and development institutions or institutions of higher learning established by the State shall establish a system of professional title appraisal, position management, and assessment and evaluation commensurate with the characteristics of transformation of scientific and technological achievements, and improve the mechanism of income distribution, incentive, and restriction."
+      }
+    },
+    {
+      "id": 26,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 21 条",
+        "ja": "第 21 条",
+        "en": "Article 21"
+      },
+      "texts": {
+        "zh": "国家设立的研究开发机构、高等院校应当向其主管部门提交科技成果转化情况年度报告，说明本单位依法取得的科技成果数量、实施转化情况以及相关收入分配情况，该主管部门应当按照规定将科技成果转化情况年度报告报送财政、科学技术等相关行政部门。",
+        "ja": "国によって設立された研究開発機関、高等教育機関は、その主管部門に科学技術成果の転化状況に関する年間報告書を提出して、自機関の法により取得した科学技術成果の数や転化の実施状況及び関連の収入の配分の状況を説明しなければならない。当該主管部門は、規定に従い、科学技術成果の転化状況に関する年間報告書を財政、科学技術等関連の行政部門に報告送付しなければならない。",
+        "en": "Research and development institutes and tertiary institutions established by the State shall submit an annual report on commercialisation of technological achievements to their administrative authorities, stating the quantity of technological achievements they have obtained pursuant to the law, status of implementation of commercialisation, and the relevant income distribution; the administrative authorities shall submit the annual report on commercialisation of technological achievements to the relevant administrative authorities such as finance authorities and science and technology authorities pursuant to the provisions."
+      }
+    },
+    {
+      "id": 27,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 22 条",
+        "ja": "第 22 条",
+        "en": "Article 22"
+      },
+      "texts": {
+        "zh": "企业为采用新技术、新工艺、新材料和生产新产品，可以自行发布信息或者委托科技中介服务机构征集其所需的科技成果，或者征寻科技成果转化的合作者。县级以上地方各级人民政府科学技术行政部门和其他有关部门应当根据职责分工，为企业获取所需的科技成果提供帮助和支持。",
+        "ja": "企業は、新技術、新製法、新材料を採用し又は新製品を生産するために、自ら情報を発表し、又は科学技術仲介サービス機関に委託して必要な科学技術成果を募集するか、又は科学技術成果の転化の提携者を招くことができる。県級以上の地方人民政府の科学技術行政部門及びその他の関係部門は、職責の分担に基づき、企業の必要な科学技術成果の取得に協力、援助しなければならない。",
+        "en": "An enterprise may, for the purpose of adopting new technology, new techniques and new materials and manufacturing new products, publish information on its own or entrust an intermediate institution engaged in trade of technology to solicit the scientific and technological achievements that it needs or to find collaborators for the transformation of scientific and technological achievements. The administrative departments for science and technology and other relevant departments of the local people's governments at or above the county level shall, according to the division of their duties and responsibilities, provide help and support for the enterprises to obtain the scientific and technological achievements needed."
+      }
+    },
+    {
+      "id": 28,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 23 条",
+        "ja": "第 23 条",
+        "en": "Article 23"
+      },
+      "texts": {
+        "zh": "企业依法有权独立或者与境内外企业、事业单位和其他合作者联合实施科技成果转化。企业可以通过公平竞争，独立或者与其他单位联合承担政府组织实施的科技研究开发和科技成果转化项目。",
+        "ja": "企業は法により独立して又は国内国外の企業・事業組織及びその他の合作者と連合して、科学技術成果の転化を実施する権利を有する。企業は公平的な競争を通じて、独立して又はその他の組織と連合して、政府の組織する科学研究開発及び科学技術成果転化項目の実施を負担することができる。",
+        "en": "An enterprise, in accordance with the law, has the right to transform scientific and technological achievements independently or jointly with domestic or foreign enterprises, public institutions, and other collaborators. An enterprise may, through fair competition, undertake the projects, arranged by the government, for the scientific and technological research and development or for the transformation of scientific and technological achievements independently or jointly with another."
+      }
+    },
+    {
+      "id": 29,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 24 条",
+        "ja": "第 24 条",
+        "en": "Article 24"
+      },
+      "texts": {
+        "zh": "对利用财政资金设立的具有市场应用前景、产业目标明确的科技项目，政府有关部门、管理机构应当发挥企业在研究开发方向选择、项目实施和成果应用中的主导作用，鼓励企业、研究开发机构、高等院校及其他组织共同实施。",
+        "ja": "財政資金を利用して設立された、市場における応用の見通しがあり、産業目標が明確な科学技術プロジェクトについて、政府の関係部門、管理機関は、研究開発の方向性の選定、プロジェクトの実施及び成果の応用における企業の主導的な役割を発揮させ、企業や研究開発機関、高等教育機関及びその他の組織の共同実施を奨励しなければならない。",
+        "en": "As for scientific and technological projects set up with fiscal funds which have market application prospects and clear industrial targets, relevant departments and administrative organs of the government shall let the enterprises play the leading role in selecting the direction of research and development, implementing the project and applying the achievements, and encourage the enterprises, research and development institutions, institutions of higher learning, and other organizations to jointly implement such projects."
+      }
+    },
+    {
+      "id": 30,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 25 条",
+        "ja": "第 25 条",
+        "en": "Article 25"
+      },
+      "texts": {
+        "zh": "国家鼓励研究开发机构、高等院校与企业相结合，联合实施科技成果转化。研究开发机构、高等院校可以参与政府有关部门或者企业实施科技成果转化的招标投标活动。",
+        "ja": "国は、研究開発機関、高等教育機関が企業と結び付いて、科学技術成果の転化を連合して実施することを奨励する。研究開発機関、高等教育機関は、政府関係部門又は企業による科学技術成果の転化実施に関する入札募集・入札活動に参加することができる。",
+        "en": "The State encourages research and development institutions and institutions of higher learning to join efforts with enterprises for the transformation of scientific and technological achievements. Research and development institutions and institutions of higher learning may participate in the tendering or bidding conducted by relevant departments of the government or enterprises for transformation of scientific and technological achievements."
+      }
+    },
+    {
+      "id": 31,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 26 条",
+        "ja": "第 26 条",
+        "en": "Article 26"
+      },
+      "texts": {
+        "zh": "国家鼓励企业与研究开发机构、高等院校及其他组织采取联合建立研究开发平台、技术转移机构或者技术创新联盟等产学研合作方式，共同开展研究开发、成果应用与推广、标准研究与制定等活动。合作各方应当签订协议，依法约定合作的组织形式、任务分工、资金投入、知识产权归属、权益分配、风险分担和违约责任等事项。",
+        "ja": "国は、企業が研究開発機関、高等教育機関及びその他の組織と連合して研究開発プラットフォーム、技術移転機関又は技術イノベーションコンソーシアムを設立する等産学研提携の方式により、研究開発や成果の応用・プロモーション、標準の研究・制定等の活動を共同で行うことを奨励する。各提携者は、合意書を締結し、提携における組織の形態、任務の分掌、資金の投入、知的財産権の帰属、権益の配分、リスクの分担及び違約責任等を法により約定しなければならない。",
+        "en": "The State shall encourage enterprises to cooperate with research and development institutions, institutions of higher learning, and other organizations by jointly establishing research and development platforms, technological transfer institutions, or technological innovation alliances or other means of industry-university-research cooperation, in jointly carrying out such activities as research and development, application and promotion of achievements, and research and setting of standards. All parties to the cooperation shall sign an agreement specifying according to law such matters as organizational form of the cooperation, division of tasks, capital investment, ownership of intellectual property, distribution of rights and interests, sharing of risks, and liability for breach of agreement."
+      }
+    },
+    {
+      "id": 32,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 27 条",
+        "ja": "第 27 条",
+        "en": "Article 27"
+      },
+      "texts": {
+        "zh": "国家鼓励研究开发机构、高等院校与企业及其他组织开展科技人员交流，根据专业特点、行业领域技术发展需要，聘请企业及其他组织的科技人员兼职从事教学和科研工作，支持本单位的科技人员到企业及其他组织从事科技成果转化活动。",
+        "ja": "国は、研究開発機関、高等教育機関が企業及びその他の組織との科学技術要員の交流を行い、専門業務の特徴や業種の分野の技術の発展に基づいて、企業及びその他の組織の科学技術要員を招聘して授業や科学研究業務を兼任させ、自機関の科学技術要員が企業及びその他の組織で科学技術成果の転化活動に従事するようサポートすることを奨励する。",
+        "en": "The State shall encourage research and development institutions, institutions of higher learning, and other organizations to conduct exchange of scientific and technical personnel, to hire scientific and technical personnel of enterprises and other organizations to engage in teaching and scientific research work on a part-time basis according to the professional characteristics and the technological development needs of the industries, and to support their own scientific and technical personnel to engage in the transformation of scientific and technological achievements in enterprises and other organizations."
+      }
+    },
+    {
+      "id": 33,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 28 条",
+        "ja": "第 28 条",
+        "en": "Article 28"
+      },
+      "texts": {
+        "zh": "国家支持企业与研究开发机构、高等院校、职业院校及培训机构联合建立学生实习实践培训基地和研究生科研实践工作机构，共同培养专业技术人才和高技能人才。",
+        "ja": "国は、企業が研究開発機関、高等教育機関、職業教育機関及びトレーニング機関と連合して学生向け実習実践トレーニング基地や大学院生向け科学研究実践業務機関を設立し、共同で専門技術人材及びハイスキルな人材を養成することを支持する。",
+        "en": "The State supports enterprises to work together with research and development institutions, institutions of higher learning, vocational colleges, and training institutions to establish bases for practice and training of students and institutions for scientific research and practice of postgraduates, in order to jointly foster professional and technical talents and highly skilled ones."
+      }
+    },
+    {
+      "id": 34,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 29 条",
+        "ja": "第 29 条",
+        "en": "Article 29"
+      },
+      "texts": {
+        "zh": "国家鼓励农业科研机构、农业试验示范单位独立或者与其他单位合作实施农业科技成果转化。",
+        "ja": "国は農業科学研究機構、農業実験模範組織が独立して又はその他の組織と協力して農業科学技術成果転化を実施することを奨励する。",
+        "en": "The State encourages agricultural scientific research institutions and agricultural experiment and demonstration units to transform scientific and technological achievements independently or in cooperation with another."
+      }
+    },
+    {
+      "id": 35,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 30 条",
+        "ja": "第 30 条",
+        "en": "Article 30"
+      },
+      "texts": {
+        "zh": "国家培育和发展技术市场，鼓励创办科技中介服务机构，为技术交易提供交易场所、信息平台以及信息检索、加工与分析、评估、经纪等服务。科技中介服务机构提供服务，应当遵循公正、客观的原则，不得提供虚假的信息和证明，对其在服务过程中知悉的国家秘密和当事人的商业秘密负有保密义务。",
+        "ja": "国は、テクノロジー市場を育成し、発展させ、技術取引に取引の場所、情報プラットフォーム及び情報加工・分析、評価、ブローカー等のサービスを提供する科学技術仲介サービス機関の創設を奨励する。科学技術仲介サービス機関はサービスの提供にあたって、公正性、客観性の原則を順守しなければならず、虚偽の情報・証明を提供してはならない。サービスを行う過程に知り得た国家秘密及び当事者の営業秘密について守秘義務を負う。",
+        "en": "The State fosters and develops technology markets and encourages the creation of intermediate service agencies for technologies that provide trading places, information platforms and information retrieval, processing and analysis, evaluation, brokerage, and other services for the transaction of technologies. In providing services, the intermediate service agencies for technologies shall comply with the principles of impartiality and objectiveness and may not provide false information or certification; also they shall be obligated to keep confidential state secrets and the trade secrets of the parties concerned which come to their knowledge in the course of providing services."
+      }
+    },
+    {
+      "id": 36,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 31 条",
+        "ja": "第 31 条",
+        "en": "Article 31"
+      },
+      "texts": {
+        "zh": "国家支持根据产业和区域发展需要建设公共研究开发平台，为科技成果转化提供技术集成、共性技术研究开发、中间试验和工业性试验、科技成果系统化和工程化开发、技术推广与示范等服务。",
+        "ja": "国は、産業及び地域の発展上の必要性に応じ、科学技術成果の転化のための技術統合、共通技術の研究開発、中間試験と工業的試験、科学技術成果の系統化・エンジニアリング化の開発、技術プロモーション・モデル等のサービスを提供する公的研究開発プラットフォームを構築することを支持する。",
+        "en": "The State supports the building of public research and development platforms according to the development needs of industries and regions to provide technology integration, research and development of generic technology, intermediate and industrial experiments, development for the systematization and engineering of scientific and technological achievements, technology promotion and demonstration, and other services for the transformation of scientific and technological achievements."
+      }
+    },
+    {
+      "id": 37,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 32 条",
+        "ja": "第 32 条",
+        "en": "Article 32"
+      },
+      "texts": {
+        "zh": "国家支持科技企业孵化器、大学科技园等科技企业孵化机构发展，为初创期科技型中小企业提供孵化场地、创业辅导、研究开发与管理咨询等服务。",
+        "ja": "国は、科学技術企業インキュベーション、大学科学技術パーク等の科学技術企業インキュベーション機関を発展させ、創業期にある科学技術型中小企業にインキュベーションの場所や創業指導、研究開発・管理面でのコンサルティング等のサービスを提供することを支持する。",
+        "en": "The State supports the development of technology business incubator institutions, such as technology business incubators and university science parks, and provides premises, business counselling, research and development, management consultancy, and other services to small- and medium-sized technology startups."
+      }
+    },
+    {
+      "id": 38,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第三章",
+        "ja": "第三章 ",
+        "en": "Chapter 3 "
+      },
+      "texts": {
+        "zh": "保障措施",
+        "ja": "保障措置",
+        "en": "Guarantee Measures"
+      }
+    },
+    {
+      "id": 39,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 33 条",
+        "ja": "第 33 条",
+        "en": "Article 33"
+      },
+      "texts": {
+        "zh": "科技成果转化财政经费，主要用于科技成果转化的引导资金、贷款贴息、补助资金和风险投资以及其他促进科技成果转化的资金用途。",
+        "ja": "科学技術成果の転化に用いる財政経費は、主に、科学技術成果の転化の促進ファンドや、貸付金利息助成、補助資金、ベンチャーキャピタル及びその他の科学技術成果の転化促進のための資金用途に充当する。",
+        "en": "Fiscal funds for the transformation of scientific and technological achievements shall be mainly used as initiation funds, discount loans, subsidy funds, risk investment, and other funds for promoting the transformation of scientific and technological achievements."
+      }
+    },
+    {
+      "id": 40,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 34 条",
+        "ja": "第 34 条",
+        "en": "Article 34"
+      },
+      "texts": {
+        "zh": "国家依照有关税收法律、行政法规规定对科技成果转化活动实行税收优惠。",
+        "ja": "国は租税に関する法律、行政法規の規定に従い科学技術成果の転化活動に対し租税優遇政策を実施する。",
+        "en": "The State adopts a preferential tax policy regarding the transformation of scientific and technological achievements according to the provisions of relevant tax laws and administrative regulations."
+      }
+    },
+    {
+      "id": 41,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 35 条",
+        "ja": "第 35 条",
+        "en": "Article 35"
+      },
+      "texts": {
+        "zh": "国家鼓励银行业金融机构在组织形式、管理机制、金融产品和服务等方面进行创新，鼓励开展知识产权质押贷款、股权质押贷款等贷款业务，为科技成果转化提供金融支持。国家鼓励政策性金融机构采取措施，加大对科技成果转化的金融支持。",
+        "ja": "国は、銀行業金融機関が組織の形態、管理体制、金融商品・サービス等で革新を行うことを奨励し、知的財産権の質権担保貸付、持分の質権担保貸付等の貸付業務を行い、科学技術成果の転化に金融的サポートを与えることを奨励する。国は、政策性金融機関が科学技術成果の転化に対する金融的サポートを強める措置を講じることを奨励する。",
+        "en": "The State encourages banking financial institutions to innovate in terms of organizational form, management mechanism, financial products, and services, encourages loan businesses to offer loans such as intellectual property pledge loans and equity pledge loans so as to provide financial support for the transformation of scientific and technological achievements. The State encourages policy financial institutions to take measures to increase their financial support for such transformation."
+      }
+    },
+    {
+      "id": 42,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 36 条",
+        "ja": "第 36 条",
+        "en": "Article 36"
+      },
+      "texts": {
+        "zh": "国家鼓励保险机构开发符合科技成果转化特点的保险品种，为科技成果转化提供保险服务。",
+        "ja": "国は、保険機関が科学技術成果の転化の特徴に合致する保険種目を開発し、科学技術成果の転化に保険サービスを提供することを奨励する。",
+        "en": "The State shall encourage insurance institutions to develop insurance products commensurate with the characteristics of the transformation of scientific and technological achievements and provide insurance services for such transformation."
+      }
+    },
+    {
+      "id": 43,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 37 条",
+        "ja": "第 37 条",
+        "en": "Article 37"
+      },
+      "texts": {
+        "zh": "国家完善多层次资本市场，支持企业通过股权交易、依法发行股票和债券等直接融资方式为科技成果转化项目进行融资。",
+        "ja": "国は、多層化した資本市場を完備させ、企業が持分取引、法による株式・債券の発行等の直接融資方式により科学技術成果の転化プロジェクトの融資を行うことを支持する。",
+        "en": "The State shall improve the multi-level capital market, and support enterprises to finance transformation projects of scientific and technological achievements through direct financing such as equity transaction, issuance of stocks and bonds in accordance with the law and other ways."
+      }
+    },
+    {
+      "id": 44,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 38 条",
+        "ja": "第 38 条",
+        "en": "Article 38"
+      },
+      "texts": {
+        "zh": "国家鼓励创业投资机构投资科技成果转化项目。国家设立的创业投资引导基金，应当引导和支持创业投资机构投资初创期科技型中小企业。",
+        "ja": "国は、ベンチャー投資機関の科学技術成果転化プロジェクトへの投資を奨励する。国によって設立された創業投資促進ファンドは、ベンチャー投資機関が創業期の科学技術型中小企業に投資するよう勧誘、支持しなければならない。",
+        "en": "The State encourages venture capital institutions to invest in the transformation projects of scientific and technological achievements. Venture capital guidance funds set up by the State shall guide and support venture capital institutions to invest in hi-tech small- and medium-sized startups."
+      }
+    },
+    {
+      "id": 45,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 39 条",
+        "ja": "第 39 条",
+        "en": "Article 39"
+      },
+      "texts": {
+        "zh": "国家鼓励设立科技成果转化基金或者风险基金，其资金来源由国家、地方、企业、事业单位以及其他组织或者个人提供，用于支持高投入、高风险、高产出的科技成果的转化，加速重大科技成果的产业化。科技成果转化基金和风险基金的设立及其资金使用，依照国家有关规定执行。",
+        "ja": "国は科学技術成果転化基金又はリスク基金の設立を奨励する。当該資金の拠出は国・地方・企業・事業組織及びその他の組織、個人が負担して、多額投資、高リスク、高産出の科学技術成果の転化を支持し、重要な科学技術成果の産業化を速める。科学技術成果転化基金及びリスク基金の設立及び資金の運用は、国の関係規定に基づき執行する。",
+        "en": "The State encourages the establishment of funds or risk funds for the transformation of scientific and technological achievements. Such funds shall be provided by the State, local authorities, enterprises, institutions, and other organizations or individuals and shall be used to aid the transformation of such scientific and technological achievements as need substantial investment, involve considerable risks, and promise high yields and to accelerate the application of major scientific and technological achievements in industrial production. Funds and risk funds for the transformation of scientific and technological achievements shall be established and used in accordance with relevant provisions of the State."
+      }
+    },
+    {
+      "id": 46,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第四章",
+        "ja": "第四章 ",
+        "en": "Chapter 4 "
+      },
+      "texts": {
+        "zh": "技术权益",
+        "ja": "技術権益",
+        "en": "Technical Interests"
+      }
+    },
+    {
+      "id": 47,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 40 条",
+        "ja": "第 40 条",
+        "en": "Article 40"
+      },
+      "texts": {
+        "zh": "科技成果完成单位与其他单位合作进行科技成果转化的，应当依法由合同约定该科技成果有关权益的归属。合同未作约定的，按照下列原则办理：（一）在合作转化中无新的发明创造的，该科技成果的权益，归该科技成果完成单位；（二）在合作转化中产生新的发明创造的，该新发明创造的权益归合作各方共有；（三）对合作转化中产生的科技成果，各方都有实施该项科技成果的权利，转让该科技成果应经合作各方同意。",
+        "ja": "科学技術成果を創造する組織は、その他の組織と協力して科学技術成果の転化を行う場合は、法により契約で当該科学技術成果の関係権利及び利益の帰属を約定しなければならない。契約は約定をしなかった場合は、次の原則に従い処理する。（1）協力による転化の中において新しい発明創造が生じない場合、当該科学技術成果の権益は当該科学技術成果を創造した組織に帰属する。（2）協力による転化の中において新しい発明創造が生じた場合は、当該新発明創造の権益は各方の協力者の共有となる。（3）協力による転化の中において生じた科学技術成果については、協力者各方は当該科学技術成果を実施する権利を有する。当該科学技術成果を譲渡する場合には、協力者の他方の同意を得なければならない。",
+        "en": "Where an entity that made scientific and technological achievements and another entity make join efforts to transform the achievements, the ownership of rights and interests related to the achievements shall be stipulated in a contract in accordance with the law. If it is not stipulated in the contract, the following principles shall be followed: 1. where no invention or creation ensues from the transformation of scientific and technological achievements, the rights and interests related to the scientific or technological achievements shall belong to the entity that made the achievements; 2. where inventions or creations ensue from the collaborated transformation of scientific and technological achievements, the rights and interests related to the inventions or creations shall belong to both parties to collaboration; and 3. as to the scientific and technological achievements made through collaborated transformation, both parties have the right to put into practice the achievements thus made, provided that consent shall be obtained from both parties to collaboration for the transfer of the said achievements."
+      }
+    },
+    {
+      "id": 48,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 41 条",
+        "ja": "第 41 条",
+        "en": "Article 41"
+      },
+      "texts": {
+        "zh": "科技成果完成单位与其他单位合作进行科技成果转化的，合作各方应当就保守技术秘密达成协议；当事人不得违反协议或者违反权利人有关保守技术秘密的要求，披露、允许他人使用该技术。",
+        "ja": "科学技術成果を創造する組織は、その他の組織と協力して科学技術成果の転化を行う場合は、協力者各方が技術秘密の保持につき合意に達しなければならない。当事者が合意に違反し、又は権利者の技術秘密保持に関する要求に違反して他人に当該技術を披露し使用を許諾してはならない。",
+        "en": "Where an entity that made scientific and technological achievements and another entity collaborate to transform the achievements, both parties shall reach an agreement on the protection of the know-how; the parties may not, running counter to the agreement or the requirements of the right holder for keeping the know-how confidential, disclose or allow another to use the know-how."
+      }
+    },
+    {
+      "id": 49,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 42 条",
+        "ja": "第 42 条",
+        "en": "Article 42"
+      },
+      "texts": {
+        "zh": "企业、事业单位应当建立健全技术秘密保护制度，保护本单位的技术秘密。职工应当遵守本单位的技术秘密保护制度。企业、事业单位可以与参加科技成果转化的有关人员签订在职期间或者离职、离休、退休后一定期限内保守本单位技术秘密的协议；有关人员不得违反协议约定，泄露本单位的技术秘密和从事与原单位相同的科技成果转化活动。职工不得将职务科技成果擅自转让或者变相转让。",
+        "ja": "企業、事業組織は技術秘密保持制度を確立し完備させ、本組織の技術秘密を保護しなければならない。従業員は本組織の技術秘密保持制度を遵守しなければならない。企業・事業組織は、科学技術成果の転化活動に参加する関係要員と、在職期間中、又は離職・退官・退職後、一定期間内に本組織の技術秘密保持の取決めを締結することができる。関係要員は取決めの約定に違反し本組織の技術秘密をもらし、及び原組織と同一の科学技術成果の転化活動をしてはならない。従業員は職務科学技術成果を勝手に譲渡し又は変則的に譲渡してはならない。",
+        "en": "Enterprises and institutions shall establish a system for the protection of the know-how and keep improving it, in order to protect the know-how of their own. Employees shall comply with the employer's rules on protection of the know-how. Enterprises and public institutions may sign an agreement on the protection of their know-how with the employees who participate in the transformation of scientific and technological achievements during the period when they remain in employment or within a specified period of time after they leave office or retire; the said employees may not, in violation of the agreement, disclose the know-how of their own units or engage in transforming the scientific and technological achievements same as those of their own units. No employees may transfer, without authorization, the scientific and technological achievements they made while holding positions in their entities or do so in disguised form."
+      }
+    },
+    {
+      "id": 50,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 43 条",
+        "ja": "第 43 条",
+        "en": "Article 43"
+      },
+      "texts": {
+        "zh": "国家设立的研究开发机构、高等院校转化科技成果所获得的收入全部留归本单位，在对完成、转化职务科技成果做出重要贡献的人员给予奖励和报酬后，主要用于科学技术研究开发与成果转化等相关工作。",
+        "ja": "国によって設立された研究開発機関、高等教育機関において、科学技術成果の転化によって取得する収入は、すべて自機関に属する。職務科学技術成果の完成、転化に重要な貢献をした者に対し報奨と報酬を給付した後、主に科学技術の研究開発及び成果の転化等の関連業務に利用する。",
+        "en": "Income derived by research and development institutions or institutions of higher learning established by the State from the transformation of scientific and technological achievements shall be retained by such institutions, and after giving rewards and remuneration to persons who have made important contributions to the completion or transformation of scientific and technological achievements while holding positions in such institutions or institutions, the income shall be mainly used for work related to the research and development of science and technology and the transformation of scientific and technological achievements."
+      }
+    },
+    {
+      "id": 51,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 44 条",
+        "ja": "第 44 条",
+        "en": "Article 44"
+      },
+      "texts": {
+        "zh": "职务科技成果转化后，由科技成果完成单位对完成、转化该项科技成果做出重要贡献的人员给予奖励和报酬。科技成果完成单位可以规定或者与科技人员约定奖励和报酬的方式、数额和时限。单位制定相关规定，应当充分听取本单位科技人员的意见，并在本单位公开相关规定。",
+        "ja": "職務科学技術成果の転化が行われた後、科学技術成果を完成した機構は、当該科学技術成果の完成、転化に重要な貢献をした者に報奨と報酬を給付する。科学技術成果を完成した機構は、報奨と報酬の方式と金額及び期間を定めるか、又は科学技術要員とこれを約定することができる。機構は関連の規定を制定する際に、自機関の科学技術要員の意見を十分に聴取し、かつ、関連の規定を自機関内に公開しなければならない。",
+        "en": "After the transformation of scientific and technological achievements, the units which complete such achievements shall give rewards and remuneration to persons who have made important contributions to the completion or transformation of such achievements. The organisation which fulfils a technological achievement may stipulate or agree with the technical personnel on the method, amount and timeframe for reward and remuneration. In formulating relevant regulations, these units shall fully take into account the opinions of the scientific and technological personnel and such regulations shall be made public within the units."
+      }
+    },
+    {
+      "id": 52,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 45 条",
+        "ja": "第 45 条",
+        "en": "Article 45"
+      },
+      "texts": {
+        "zh": "科技成果完成单位未规定、也未与科技人员约定奖励和报酬的方式和数额的，按照下列标准对完成、转化职务科技成果做出重要贡献的人员给予奖励和报酬：（一）将该项职务科技成果转让、许可给他人实施的，从该项科技成果转让净收入或者许可净收入中提取不低于百分之五十的比例；（二）利用该项职务科技成果作价投资的，从该项科技成果形成的股份或者出资比例中提取不低于百分之五十的比例；（三）将该项职务科技成果自行实施或者与他人合作实施的，应当在实施转化成功投产后连续三至五年，每年从实施该项科技成果的营业利润中提取不低于百分之五的比例。国家设立的研究开发机构、高等院校规定或者与科技人员约定奖励和报酬的方式和数额应当符合前款第一项至第三项规定的标准。国有企业、事业单位依照本法规定对完成、转化职务科技成果做出重要贡献的人员给予奖励和报酬的支出计入当年本单位工资总额，但不受当年本单位工资总额限制、不纳入本单位工资总额基数。",
+        "ja": "科学技術成果を完成した機構は科学技術要員と報奨と報酬の方式と金額について規定も約定もしていない場合には、以下に掲げる基準に従って職務科学技術成果の完成、転化に重要な貢献をした者に報奨と報酬を給付する。（1）当該職務科学技術成果を他人に譲渡し、それの実施を他人に許諾した場合、当該科学技術成果の譲渡又は許諾による純収入から50％以上の割合で引き出すこと（2）当該職務科学技術成果をもって評価出資する場合、当該科学技術成果によって形成された持分又は出資の比率から50％以上の割合で引き出すこと（3）当該職務科学技術成果を自ら実施するか、又は他人と協力して実施する場合には、転化を実施し操業に成功した後、連続して3年間ないし5年間、毎年当該科学技術成果の実施による営業利益から5％以上の割合で引き出すこと国によって設立された研究開発機関、高等教育機関が報奨と報酬の方式及び金額について規定する又は科学技術要員と取り決める場合、前項第1号から第3号の規定の標準に合致しなければならない。国有企業、事業機構が本法の規定に従い、職務科学技術成果の転化に重要な貢献をした者に給付する報奨と報酬の支出は、当年度の自機関の給与総額に計上するが、当年度の自機関の給与総額の制限は受けず、自機関の給与総額の基数に盛り込まない。",
+        "en": "Where the units which complete the scientific and technological achievements fail to stipulate and fail to agree with the scientific and technological personnel on the form and amount of rewards and remuneration, rewards and remuneration shall be given to persons who have made significant contributions to the completion or transformation of such achievements while holding positions in such units according to the following standards: 1. Not less than 50 percent of the net income from the transfer or licensing of the scientific and technological achievements shall be taken if such achievements are transferred or licensed to others for implementation; 2. Not less than 50 percent of the shareholding or contribution resulting from the scientific and technological achievements shall be taken if such achievements are contributed as an investment; 3. For scientific and technological achievements being made by their owners or in cooperation with others, no less than 5 percent of business profit from such achievements shall be taken annually for a consecutive three to five years after such achievements are made and successfully put into production. The form and amount of rewards and remuneration stipulated by research and development institutions or institutions of higher learning established by the State or agreed upon with scientific and technical personnel shall meet the standards specified in the preceding paragraphs 1 to 3. Expenses of state-owned enterprises and institutions resulting from giving rewards and remuneration to persons who have made important contributions to the completion or transformation of scientific and technological achievements while holding positions in such units according to the provisions of this Law shall be included in the total amount of salary of these units, but shall not be limited by the total amount of salary of these units, nor shall they be included in the total amount of salary base of these units."
+      }
+    },
+    {
+      "id": 53,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第五章",
+        "ja": "第五章 ",
+        "en": "Chapter 5 "
+      },
+      "texts": {
+        "zh": "法律责任",
+        "ja": "法律責任",
+        "en": "Legal Liabilities"
+      }
+    },
+    {
+      "id": 54,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 46 条",
+        "ja": "第 46 条",
+        "en": "Article 46"
+      },
+      "texts": {
+        "zh": "利用财政资金设立的科技项目的承担者未依照本法规定提交科技报告、汇交科技成果和相关知识产权信息的，由组织实施项目的政府有关部门、管理机构责令改正；情节严重的，予以通报批评，禁止其在一定期限内承担利用财政资金设立的科技项目。国家设立的研究开发机构、高等院校未依照本法规定提交科技成果转化情况年度报告的，由其主管部门责令改正；情节严重的，予以通报批评。",
+        "ja": "財政資金を利用して設立された科学技術プロジェクトの担当者が、本法の規定に従って科学技術報告書の提出、科学技術の成果及び関連の知的財産権の情報の総括提出を行わなかった場合、プロジェクトの実施を組織する政府の関係部門や管理機関は、是正を命じる。情状が重大な場合、通達をもって批評を行い、一定の期間内において科学技術プロジェクトの担当を禁止する。国によって設立された研究開発機関、高等教育機関が、本法の規定に従って科学技術成果転化状況年度報告書の提出を行わなかった場合、その主管部門は、是正を命じる。情状が重大な場合、通達をもって批評を行う。",
+        "en": "Where the undertakers of scientific and technological projects which are set up using fiscal funds fail to submit scientific and technological reports, or to summarize and deliver information regarding scientific and technological achievements and intellectual property to the system of scientific and technological achievements according to the provisions of this Law, relevant departments or administrative organs of the government which organize and implement such projects shall order them to rectify the situation; if the case is serious, a notice of criticism shall be circulated and such undertakers shall be prohibited from undertaking scientific and technological projects which are set up using fiscal funds within a certain period of time. Where research and development institutions or institutions of higher learning established by the State fail to submit an annual report on the transformation of scientific and technological achievements according to the provisions of this Law, their competent authorities shall order them to rectify the situation; if the case is serious, a notice of criticism shall be circulated."
+      }
+    },
+    {
+      "id": 55,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 47 条",
+        "ja": "第 47 条",
+        "en": "Article 47"
+      },
+      "texts": {
+        "zh": "违反本法规定，在科技成果转化活动中弄虚作假，采取欺骗手段，骗取奖励和荣誉称号、诈骗钱财、非法牟利的，由政府有关部门依照管理职责责令改正，取消该奖励和荣誉称号，没收违法所得，并处以罚款。给他人造成经济损失的，依法承担民事赔偿责任。构成犯罪的，依法追究刑事责任。",
+        "ja": "本法の規定に違反し、科学技術成果の転化活動において虚偽の行為をし、奨励及び栄誉称号を騙し取り、詐欺により金銭及び財産の不法な収入を取得した場合は、政府の関係部門は、管理の職責に基づいて是正を命じ、当該奨励及び栄誉称号を取消し、違法所得を没収し、かつ科料を科する。他人に経済損失をもたらした場合は、法により民事賠償責任を負う。犯罪を構成する場合は、法により刑事責任を追及する。",
+        "en": "Where any person who, in violation of the provisions of the Law, resorts to deception in the transformation of scientific and technological achievements and thus gets an award and honorary title, fraudulent money, or illegal profits, the person shall be ordered by relevant departments of the government according to their administrative duties and responsibilities to rectify the situation, with the award and honorary title annulled, the illegal gains confiscated, and a fine concurrently imposed thereon. If economic losses are caused to another, civil liability for compensation shall be borne in accordance with law. If a crime is constituted, the criminal liability shall be investigated according to law."
+      }
+    },
+    {
+      "id": 56,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 48 条",
+        "ja": "第 48 条",
+        "en": "Article 48"
+      },
+      "texts": {
+        "zh": "科技服务机构及其从业人员违反本法规定，故意提供虚假的信息、实验结果或者评估意见等欺骗当事人，或者与当事人一方串通欺骗另一方当事人的，由政府有关部门依照管理职责责令改正，没收违法所得，并处以罚款；情节严重的，由工商行政管理部门依法吊销营业执照。给他人造成经济损失的，依法承担民事赔偿责任；构成犯罪的，依法追究刑事责任。科技中介服务机构及其从业人员违反本法规定泄露国家秘密或者当事人的商业秘密的，依照有关法律、行政法规的规定承担相应的法律责任。",
+        "ja": "科学技術サービス機関及びその勤務者が本法の規定に違反して、故意に虚偽の情報や実験の結果又は評価の意見等を提供して当事者を騙し、又は片方の当事者と通謀して他方の当事者を騙した場合、政府の関係部門は管理の職責に基づいて是正を命じ、違法所得を没収するとともに、罰金を科する。情状が重大な場合、工商行政管理部門が法により営業許可証を取り上げる。他人に経済的損害を与えた場合、法により民事賠償責任を負う。犯罪に当たる場合、法により刑事責任を追及する。科学技術仲介サービス機関及びその勤務者が本法の規定に違反して、国家秘密又は当事者の営業秘密を漏えいした場合、関連の法律、行政法規の規定に照らして相応の法的責任を負う。",
+        "en": "Where scientific and technological service institutions and their employees, in violation of the provisions of this Law, deliberately provide false information, experimental results, or evaluation opinions to deceive a party or collude with one party to deceive another party, they shall be ordered to rectify the situation by the relevant departments of the government according to their administrative duties and responsibilities, their illegal gains shall be confiscated, and a fine shall be imposed. If the case is serious, their business license shall be revoked by the industrial and commercial authorities according to law. If economic losses are caused to another, civil liability for compensation shall be borne in accordance with law. If the case constitutes a crime, criminal responsibility shall be investigated in accordance with law. Where scientific and technological intermediate service institutions and their employees, in violation of the provisions of this Law, disclose state secrets or trade secrets of the parties concerned, they shall bear corresponding legal liabilities according to the provisions of the relevant laws and administrative regulations."
+      }
+    },
+    {
+      "id": 57,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 49 条",
+        "ja": "第 49 条",
+        "en": "Article 49"
+      },
+      "texts": {
+        "zh": "科学技术行政部门和其他有关部门及其工作人员在科技成果转化中滥用职权、玩忽职守、徇私舞弊的，由任免机关或者监察机关对直接负责的主管人员和其他直接责任人员依法给予处分；构成犯罪的，依法追究刑事责任。",
+        "ja": "科学技術行政部門及びその他の関係部門とその職員が、科学技術成果の転化において職権を濫用し、職務をおろそかにし、私利をむさぼり汚職をはたらいた場合、任免を行う機関又は監察機関は、直接責任を負う主管要員及びその他の直接要員に対し、法により処分を与える。犯罪を構成する場合は、法により刑事責任を追及する。",
+        "en": "Where administrative departments for science and technology or other relevant departments or their staff members, in transforming scientific and technological achievements, abuse their powers, neglect their duties, or engage in malpractices for personal gain, sanctions shall be imposed on the directly responsible persons in charge and other directly responsible persons by the authorities which have the power to appoint or remove them or by the supervisory authorities according to law; if the case constitutes a crime, criminal responsibility shall be investigated according to law."
+      }
+    },
+    {
+      "id": 58,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 50 条",
+        "ja": "第 50 条",
+        "en": "Article 50"
+      },
+      "texts": {
+        "zh": "违反本法规定，以唆使窃取、利诱胁迫等手段侵占他人的科技成果，侵犯他人合法权益的，依法承担民事赔偿责任，可以处以罚款；构成犯罪的，依法追究刑事责任。",
+        "ja": "本法の規定に違反し、示唆、窃取、利益による誘導、脅迫等の手段をとり他人の科学技術成果を侵害し占有して他人の合法的な権益を侵害した場合は、法により民事賠償責任を負い、科料を科することができる。犯罪を構成する場合は、法により刑事責任を追及する。",
+        "en": "Where any person, in violation of the provisions of the Law, usurps another's scientific or technological achievement by means of instigation, luring or coercion and thus encroaches upon the rights and interests of that person shall bear civil liability for compensation in accordance with law and may be imposed with a fine. If the case constitutes a crime, criminal responsibility shall be investigated in accordance with law."
+      }
+    },
+    {
+      "id": 59,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 51 条",
+        "ja": "第 51 条",
+        "en": "Article 51"
+      },
+      "texts": {
+        "zh": "违反本法规定，职工未经单位允许，泄露本单位的技术秘密，或者擅自转让、变相转让职务科技成果的，参加科技成果转化的有关人员违反与本单位的协议，在离职、离休、退休后约定的期限内从事与原单位相同的科技成果转化活动，给本单位造成经济损失的，依法承担民事赔偿责任；构成犯罪的，依法追究刑事责任。",
+        "ja": "本法の規定に違反して、従業員が所属機関の許可を得ずに自機関の技術秘密を漏えいし、又は職務科学技術成果を無断で譲渡し、形を変えて譲渡した場合、或いは科学技術成果の転化活動に参加した関係要員が自機関との取決めに違反して、離職・退官・退職の約定した期間内に元の機関と同一の科学技術成果の転化活動を行い、自機関に経済的損害を与えた場合には、法により民事賠償責任を負う。犯罪に当たる場合、法により刑事責任を追及する。",
+        "en": "If, in violation of the provisions of this Law, an employee who, without permission of his unit, discloses the technical know-how of the unit or, without authorization, transfers a scientific or technological achievement made while holding a position in the unit or does so in disguised form, or if a person who took part in the transformation of a scientific or technological achievement, running counter to the agreement reached with his unit, engages in transforming the scientific or technological achievement same as that of his unit during the agreed period of time after leaving office or retiring, and thus causes economic losses to the unit, he shall bear civil liability for compensation according to law; if the case constitutes a crime, criminal responsibility shall be investigated according to law."
+      }
+    },
+    {
+      "id": 60,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第六章",
+        "ja": "第六章",
+        "en": "Chapter 6 "
+      },
+      "texts": {
+        "zh": "附 则",
+        "ja": "附則",
+        "en": "Supplementary Provisions"
+      }
+    },
+    {
+      "id": 61,
+      "source_file": "中华人民共和国科技成果转化促进法(2015)",
+      "original_numbers": {
+        "zh": "第 52 条",
+        "ja": "第 52 条",
+        "en": "Article 52"
+      },
+      "texts": {
+        "zh": "本法自1996年10月1日起施行。",
+        "ja": "本法は1996年10月1日から施行する。",
+        "en": "This Law shall go into effect as of October 1, 1996."
+      }
+    }
+  ]
+}

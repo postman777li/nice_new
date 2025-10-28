@@ -1,0 +1,634 @@
+{
+  "metadata": {
+    "law_name": "可再生能源法",
+    "domain": "EnvironmentalLaw",
+    "year": 2009,
+    "source_file": "中华人民共和国可再生能源法(2009).xlsx",
+    "total_entries": 44,
+    "processed_at": "2025-10-05T21:38:48.155358",
+    "languages": [
+      "zh",
+      "ja",
+      "en"
+    ],
+    "valid_entries": 44
+  },
+  "entries": [
+    {
+      "id": 1,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "法律名称",
+        "ja": "法令名",
+        "en": "Law Title"
+      },
+      "texts": {
+        "zh": "中华人民共和国可再生能源法",
+        "ja": "中華人⺠共和国再生可能エネルギー法",
+        "en": "Law of the People's Republic of China on Renewable Energy"
+      }
+    },
+    {
+      "id": 2,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "修订记录",
+        "ja": "改正記録",
+        "en": "Revision Record"
+      },
+      "texts": {
+        "zh": "（2005年2月28日第十届全国人民代表大会常务委员会第十四次会议通过　根据2009年12月26日第十一届全国人民代表大会常务委员会第十二次会议《关于修改〈中华人民共和国可再生能源法〉的决定》修正）",
+        "ja": "(2005 年 2 月 28 日第 10 期全国人⺠代表大会常務委員会第 14 回会議 にて採択。 2009年 12月 26日第 11期全国人⺠代表大会常務委員会第 12 回会議『「中華人⺠共和国再生可能エネルギー法」の改正に関する決定』 に基づき改正。)",
+        "en": "(Adopted at the 14th session of the Standing Committee of the 10th National People's Congress of the People's Republic of China on February 28, 2005, and amended in accordance with the Decision on Amending the Law of the People's Republic of China on Renewable Energy adopted at the 12th session of the Standing Committee of the 11th National People's Congress of the People's Republic of China on December 26, 2009)"
+      }
+    },
+    {
+      "id": 3,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "目录",
+        "ja": "目次",
+        "en": "Table of Contents"
+      },
+      "texts": {
+        "zh": "第一章 总 则\n第二章 资源调查与发展规划 \n第三章 产业指导与技术支持 \n第四章 推广与应用\n第五章 价格管理与费用补偿 \n第六章 经济激励与监督措施 \n第七章 法律责任\n第八章 附 则",
+        "ja": "第一章 総 則\n第二章 資源調査及び発展計画\n第三章 産業指導及び技術サポート\n第四章 普及及び応用 \n第五章 価格管理及び費用補償\n第六章 経済インセンティブ及び監督措置 \n第七章 法的責任\n第八章 附 則",
+        "en": "Chapter 1 General Provisions\nChapter 2 Resources Investigation and Development Planning \nChapter 3 Industrial Guidance and Technical Support\nChapter 4 Promotion and Application\nChapter 5 Price Control and Cost Compensation\nChapter 6 Economic Incentives and Supervision Measures \nChapter 7 Legal Liabilities\nChapter 8 Supplementary Provisions"
+      }
+    },
+    {
+      "id": 4,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第一章",
+        "ja": "第 1 章",
+        "en": "Chapter I "
+      },
+      "texts": {
+        "zh": "总 则",
+        "ja": "総則",
+        "en": "General Provisions"
+      }
+    },
+    {
+      "id": 1569,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 1 条",
+        "ja": "第 1 条",
+        "en": "Article 1"
+      },
+      "texts": {
+        "zh": "为了促进可再生能源的开发利用，增加能源供应，改善能源结构，保障能源安全，保护环境，实现经济社会的可持续发展，制定本法。",
+        "ja": "再⽣可能エネルギーの開発利⽤を促進し、エネルギーの供給を増やし、エネルギー構造を改善し、エネルギーの安全性を保障し、環境を保護し、経済社会の持続可能な発展を実現するため、本法を制定する。",
+        "en": "This Law is enacted in order to promote the development and utilization of renewable energy, increase the supply of energy, improve the energy structure, ensure energy safety, protect the environment, and realize sustainable economic and social development."
+      }
+    },
+    {
+      "id": 1570,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 2 条",
+        "ja": "第 2 条",
+        "en": "Article 2"
+      },
+      "texts": {
+        "zh": "本法所称可再生能源，是指风能、太阳能、水能、生物质能、地热能、海洋能等非化石能源。水力发电对本法的适用，由国务院能源主管部门规定，报国务院批准。通过低效率炉灶直接燃烧方式利用秸秆、薪柴、粪便等，不适用本法。",
+        "ja": "本法にいう再⽣可能エネルギーとは、⾵⼒エネルギー、太陽エネルギー、⽔⼒エネルギー、バイオマスエネルギー、地熱エネルギー及び海洋エネルギーなど⾮化⽯エネルギーを指す。⽔⼒発電への本法適⽤については、国務院エネルギー主管部⾨より規定し、国務院に報告・申請してその承認を受ける。低効率焼却炉での直接燃焼⽅式により藁類、薪、糞便などを利⽤することについては、本法を適⽤しない。",
+        "en": "For the purposes of this Law, renewable energy means non- fossil energy, including wind energy, solar energy, water energy, biomass energy, geothermal energy and ocean energy. Application of this Law to hydropower shall be regulated by energy authorities of the State Council and approved by the State Council. This Law does not apply to the direct burning of straw, firewood and dejecta, etc on an inefficient stove."
+      }
+    },
+    {
+      "id": 1571,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 3 条",
+        "ja": "第 3 条",
+        "en": "Article 3"
+      },
+      "texts": {
+        "zh": "本法适用于中华人民共和国领域和管辖的其他海域。",
+        "ja": "本法は、中華⼈⺠共和国の領域及び管轄するその他海域において適⽤する。",
+        "en": "This Law shall apply to the territory of the People's Republic of China and other sea areas under its jurisdiction."
+      }
+    },
+    {
+      "id": 1572,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 4 条",
+        "ja": "第 4 条",
+        "en": "Article 4"
+      },
+      "texts": {
+        "zh": "国家将可再生能源的开发利用列为能源发展的优先领域，通过制定可再生能源开发利用总量目标和采取相应措施，推动可再生能源市场的建立和发展。国家鼓励各种所有制经济主体参与可再生能源的开发利用，依法保护可再生能源开发利用者的合法权益。",
+        "ja": "国は、再⽣可能エネルギーの開発利⽤をエネルギー発展の優先領域とし、再⽣可能エネルギーの開発利⽤総量⽬標を制定し、相応する措置を講じることにより、再⽣可能エネルギー市場の建設及び発展を促進する。国は、各種所有制の経済主体が再⽣可能エネルギーの開発利⽤に参与することを奨励し、法により再⽣可能エネルギーの開発利⽤者の合法的利益を保護する。",
+        "en": "The State shall give priority to the development and utilization of renewable energy in energy development and promote the establishment and development of the renewable energy market by setting objectives for the total volume of the development and utilization of renewable energy and taking corresponding measures. The State encourages economic entities of all ownerships to participate in the development and utilization of renewable energy and protects the lawful rights and interests of the developers and users of renewable energy in accordance with law."
+      }
+    },
+    {
+      "id": 1573,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 5 条",
+        "ja": "第 5 条",
+        "en": "Article 5"
+      },
+      "texts": {
+        "zh": "国务院能源主管部门对全国可再生能源的开发利用实施统一管理。国务院有关部门在各自的职责范围内负责有关的可再生能源开发利用管理工作。县级以上地方人民政府管理能源工作的部门负责本行政区域内可再生能源开发利用的管理工作。县级以上地方人民政府有关部门在各自的职责范围内负责有关的可再生能源开发利用管理工作。",
+        "ja": "国務院エネルギー主管部⾨は、全国の再⽣可能エネルギーの開発利⽤に対し、統⼀管理を実施する。国務院の関連部⾨は、各⾃の職責の範囲内で、再⽣可能エネルギーの開発利⽤に関する管理活動に責任を負う。県級以上の地⽅⼈⺠政府のエネルギー管理部⾨は、本⾏政区域内における再⽣可能エネルギーの開発利⽤に関する管理活動に責任を負う。県級以上の地⽅政府の関連部⾨は、各⾃の職責範囲において関連する再⽣可能エネルギーの開発利⽤に関する管理活動に責任を負う。第⼆章資源調査及び発展計画",
+        "en": "The energy administration department under the State Council exercises unified control over the exploitation of renewable energy throughout the country. Relevant departments of the State Council are responsible for the management of relevant development and utilisation of renewable energy within their authorities. The energy administration departments of the local people's governments at or above the county level are responsible for the administration of the exploitation of renewable energy within their respective administrative areas. Relevant departments of local people's governments above the county level are responsible for the management of relevant development and utilisation of renewable energy within their authorities."
+      }
+    },
+    {
+      "id": 10,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第二章 ",
+        "ja": "第二章",
+        "en": "Chapter 2"
+      },
+      "texts": {
+        "zh": "资源调查与发展规划",
+        "ja": "資源調査及び発展計画",
+        "en": "Resources Investigation and Development Planning"
+      }
+    },
+    {
+      "id": 1574,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 6 条",
+        "ja": "第 6 条",
+        "en": "Article 6"
+      },
+      "texts": {
+        "zh": "国务院能源主管部门负责组织和协调全国可再生能源资源的调查，并会同国务院有关部门组织制定资源调查的技术规范。国务院有关部门在各自的职责范围内负责相关可再生能源资源的调查，调查结果报国务院能源主管部门汇总。可再生能源资源的调查结果应当公布；但是，国家规定需要保密的内容除外。",
+        "ja": "国務院のエネルギー主管部⾨は、全国における再⽣可能エネルギー資源に関する調査を⼿配し、調整し、ならびに国務院の関連部⾨とともに資源調査にかかる技術規範の制定を⼿配する。国務院の関連部⾨は、各⾃の職責範囲内で再⽣可能エネルギー資源に関する調査に責任を負い、調査の結果を国務院エネルギー主管部⾨に報告する。再⽣可能エネルギー資源の調査結果は、公布しなければならない。但し、国が秘密を保持すべきであると規定する内容を除く。",
+        "en": "The energy administration department under the State Council is responsible for organizing and coordinating surveys of renewable energy resources throughout the country, and work with the relevant departments under the State Council to lay down technical specifications for resource surveys. The relevant departments under the State Council are responsible for related renewable energy investigations within the limits of their duties and submit the results of the investigations to the competent department of energy under the State Council. The results of the survey of renewable energy shall be released to the public, with the exception of confidential contents as stipulated by the government."
+      }
+    },
+    {
+      "id": 1575,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 7 条",
+        "ja": "第 7 条",
+        "en": "Article 7"
+      },
+      "texts": {
+        "zh": "国务院能源主管部门根据全国能源需求与可再生能源资源实际状况，制定全国可再生能源开发利用中长期总量目标，报国务院批准后执行，并予公布。国务院能源主管部门根据前款规定的总量目标和省、自治区、直辖市经济发展与可再生能源资源实际状况，会同省、自治区、直辖市人民政府确定各行政区域可再生能源开发利用中长期目标，并予公布。",
+        "ja": "国務院エネルギー主管部⾨は、全国におけるエネルギーの需要及び再⽣可能エネルギー資源の実際の状況を踏まえ、全国における再⽣可能エネルギーの開発利⽤に関する中⻑期的な総量⽬標を制定し、国務院に報告してその承認を受けた後に執⾏し、公布する。国務院のエネルギー主管部⾨は、前項に規定された総量⽬標と、省、⾃治区及び直轄市における経済発展ならびに再⽣可能エネルギー資源の実際の状況を踏まえ、省、⾃治区及び直轄市⼈⺠政府とともに各⾏政区域における再⽣可能エネルギーの開発利⽤に関する中⻑期的な⽬標を確定し、公布する。",
+        "en": "The energy administration department under the State Council shall, on the basis of the demand for energy and the actual conditions of the renewable energy throughout the country, set medium-to-long term objectives for the total volumes of the renewable energy to be exploited throughout the country, submit them to the State Council for approval, and publish them upon approval. The energy administration department under the State Council shall, on the basis of the objectives for total volumes mentioned in the preceding paragraph and the economic development and the actual conditions of the renewable energy resources of the provinces, autonomous regions, and municipalities directly under the Central Government, work with the people's governments of the provinces, autonomous regions, and municipalities directly under the Central Government to set medium-to-long term objectives for the exploitation of renewable energy in their respective administrative areas and publish them."
+      }
+    },
+    {
+      "id": 1576,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 8 条",
+        "ja": "第 8 条",
+        "en": "Article 8"
+      },
+      "texts": {
+        "zh": "国务院能源主管部门会同国务院有关部门，根据全国可再生能源开发利用中长期总量目标和可再生能源技术发展状况，编制全国可再生能源开发利用规划，报国务院批准后实施。国务院有关部门应当制定有利于促进全国可再生能源开发利用中长期总量目标实现的相关规划。省、自治区、直辖市人民政府管理能源工作的部门会同本级人民政府有关部门，依据全国可再生能源开发利用规划和本行政区域可再生能源开发利用中长期目标，编制本行政区域可再生能源开发利用规划，经本级人民政府批准后，报国务院能源主管部门和国家电力监管机构备案，并组织实施。经批准的规划应当公布；但是，国家规定需要保密的内容除外。经批准的规划需要修改的，须经原批准机关批准。",
+        "ja": "国務院のエネルギー主管部⾨は、国務院の関連部⾨とともに、全国における再⽣可能エネルギーの開発利⽤に関する中⻑期総量⽬標及び再⽣可能エネルギー技術の発展状況を踏まえ、全国における再⽣可能エネルギーの開発利⽤計画を作成し、国務院に報告してその承認を受けた後に実施する。国務院の関連部⾨は、全国における再⽣可能エネルギーの開発利⽤に関する中⻑期総量⽬標の実現に有利となる関連計画を制定しなければならない。省、⾃治区及び直轄市⼈⺠政府においてエネルギー管理活動を⾏う部⾨は、本級⼈⺠政府の関連部⾨とともに、全国における再⽣可能エネルギーの開発利⽤計画及び本⾏政区域内における再⽣可能エネルギーの開発利⽤に関する中⻑期⽬標を踏まえ、本⾏政区域における再⽣可能エネルギーの開発利⽤計画を作成し、本級⼈⺠政府の承認を受けた後、国務院のエネルギー主管部⾨及び国家電⼒監督管理機構に報告・届出をし、ならびに実施を⼿配する。承認を経た計画は公布しなければならない。但し、国が秘密を保持すべきであると規定する内容を除く。承認を経た計画に修正を加える必要がある場合には、元の審査機関より承認を受けなければならない。",
+        "en": "The energy administration department under the State Council shall, in conjunction with the relevant departments under the State Council and on the basis of the nationwide medium- and long-term total volume target for the exploitation of renewable energy and the development of the renewable energy technology, work out a national plan for exploitation of renewable energy which shall be implemented after being submitted to and approved by the State Council. Relevant departments of the State Council shall formulate relevant plans which are favorable for promoting the realization of medium and long-term targets for the total volume of renewable energy throughout the country. The energy administration departments of the people's governments of provinces, autonomous regions, and municipalities directly under the Central Government shall, together with the relevant departments of the people's governments at the corresponding level, on the basis of the national plan for the exploitation of renewable energy and the medium-to-long term objectives for the exploitation of renewable energy for their respective administrative areas, draw up plans for the exploitation of renewable energy for their respective administrative areas, submit them to the people's governments at the corresponding levels for approval, submit them to the energy administration department under the State Council and the State Electricity Regulatory Commission for the record, and organize their implementation. The approved plans shall be released to the public, with the exception of the contents which should be kept confidential according to State regulations. Any amendment to an approved plan shall be subject to the approval of the original approving authority."
+      }
+    },
+    {
+      "id": 1577,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 9 条",
+        "ja": "第 9 条",
+        "en": "Article 9"
+      },
+      "texts": {
+        "zh": "编制可再生能源开发利用规划，应当遵循因地制宜、统筹兼顾、合理布局、有序发展的原则，对风能、太阳能、水能、生物质能、地热能、海洋能等可再生能源的开发利用作出统筹安排。规划内容应当包括发展目标、主要任务、区域布局、重点项目、实施进度、配套电网建设、服务体系和保障措施等。组织编制机关应当征求有关单位、专家和公众的意见，进行科学论证。",
+        "ja": "再⽣可能エネルギーの開発利⽤計画の作成にあたり、各地の実状に応じ、統⼀して計画して各⽅⾯に配慮し、合理的に配置し、秩序ある発展を図るという原則に則り、⾵⼒エネルギー、太陽エネルギー、⽔⼒エネルギー、バイオマスエネルギー、地熱エネルギー及び海洋エネルギーなど再⽣可能エネルギーの開発利⽤について統⼀⼿配を⾏う。計画内容には、発展⽬標、主な任務、区域配置、重点プロジェクト、実施の進度、周辺電⼒網の建設、サービスシステム及び保障措置などを含まなければならない。編成を⼿配する機関は、関連する事業者、専⾨家及び公衆の意⾒を聴取し、科学的な論証をしなければならない。",
+        "en": "In preparing the plan for the development and utilisation of renewable energy, it is necessary to make comprehensive arrangements for the development and utilisation of renewable energy such as wind energy, solar energy, water energy, biomass energy, geothermal energy and ocean energy by following the principle of adapting to local conditions, making overall plans, taking all factors into consideration, promoting rational layout and developing systematically. The content of the plan shall include development goals, major tasks, regional distribution, key projects, implementation progress, construction of supplementary grids, service systems, and guarantee measures. The organ organizing the establishment shall solicit opinions from relevant entities, experts and the general public, and conduct scientific demonstrations."
+      }
+    },
+    {
+      "id": 15,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第三章 ",
+        "ja": "第三章",
+        "en": "Chapter 3"
+      },
+      "texts": {
+        "zh": "产业指导与技术支持",
+        "ja": "産業指導及び技術サポート",
+        "en": "Industrial Guidance and Technical Support"
+      }
+    },
+    {
+      "id": 1578,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 10 条",
+        "ja": "第 10 条",
+        "en": "Article 10"
+      },
+      "texts": {
+        "zh": "国务院能源主管部门根据全国可再生能源开发利用规划，制定、公布可再生能源产业发展指导目录。",
+        "ja": "国務院のエネルギー主管部⾨は、全国における再⽣可能エネルギーの開発利⽤計画に基づき、再⽣可能エネルギー産業の発展指導⽬録を制定し、公布する。",
+        "en": "The energy administration department under the State Council shall, on the basis of the national plan for exploitation of renewable energy, compile and publish a development guidance catalogue of the renewable energy industry."
+      }
+    },
+    {
+      "id": 1579,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 11 条",
+        "ja": "第 11 条",
+        "en": "Article 11"
+      },
+      "texts": {
+        "zh": "国务院标准化行政主管部门应当制定、公布国家可再生能源电力的并网技术标准和其他需要在全国范围内统一技术要求的有关可再生能源技术和产品的国家标准。对前款规定的国家标准中未作规定的技术要求，国务院有关部门可以制定相关的行业标准，并报国务院标准化行政主管部门备案。",
+        "ja": "国務院標準化⾏政主管部⾨は、国の再⽣可能エネルギー電⼒網接続の技術基準及びその他全国範囲において技術要求を統⼀する必要のある再⽣可能エネルギー技術及び製品に関する国家基準を制定し、公布しなければならない。前項に規定される国家基準において規定されていない技術要求については、国務院の関連部⾨は関連する業界基準を制定し、国務院の基準化⾏政主管部⾨に報告・届出をすることができる。",
+        "en": "The administrative department for standardization under the State Council shall formulate and publish the national technical standards for grid synchronization of electricity generated by renewable energy and the national standards for other technologies and products relating to renewable energy for which the technical requirements need to be unified throughout the country. With regard to those technical requirements which are not covered by the standards of the State as mentioned in the preceding paragraph, the relevant departments under the State Council may formulate relevant industrial standards and submit them to the administrative department for standardization under the State Council for the record."
+      }
+    },
+    {
+      "id": 1580,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 12 条",
+        "ja": "第 12 条",
+        "en": "Article 12"
+      },
+      "texts": {
+        "zh": "国家将可再生能源开发利用的科学技术研究和产业化发展列为科技发展与高技术产业发展的优先领域，纳入国家科技发展规划和高技术产业发展规划，并安排资金支持可再生能源开发利用的科学技术研究、应用示范和产业化发展，促进可再生能源开发利用的技术进步，降低可再生能源产品的生产成本，提高产品质量。国务院教育行政部门应当将可再生能源知识和技术纳入普通教育、职业教育课程。",
+        "ja": "国は、再⽣可能エネルギーの開発利⽤に関する科学技術研究及び産業化への発展を、科学技術発展とハイテク技術産業の発展における優先的分野とし、国家科学技術の発展計画及びハイテク産業発展計画に組⼊れるとともに、資⾦を⼿配して再⽣可能エネルギーの開発利⽤に関する科学技術研究、適⽤モデル及び産業化発展をサポートし、再⽣可能エネルギーの開発利⽤に関する技術進歩を促進し、再⽣可能エネルギー製品の⽣産コストを引下げ、製品の品質を向上させる。国務院の教育⾏政部⾨は、再⽣可能エネルギーに関する知識及び技術を普通教育及び職業教育課程に取⼊れなければならない。",
+        "en": "The State shall give priority to scientific and technological research in, and the industrialized development of, the exploitation of renewable energy as one of the fields for scientific and technological development and the development of the hi-tech industry, incorporate the same into the national plan for scientific and technological development and the development of the hi-tech industry, and shall allocate funds to support scientific and technological research in, and application, demonstration and industrialized development of, the exploitation of renewable energy, promote technological progress in the exploitation of renewable energy, reduce the production cost of renewable energy products and enhance product quality. The administrative department for education under the State Council shall incorporate the knowledge and technology relating to renewable energy into the curricula of general and vocational education."
+      }
+    },
+    {
+      "id": 19,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第四章 ",
+        "ja": "第四章",
+        "en": "Chapter 4"
+      },
+      "texts": {
+        "zh": "推广与应用",
+        "ja": "普及及び応用",
+        "en": "Promotion and Application"
+      }
+    },
+    {
+      "id": 1581,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 13 条",
+        "ja": "第 13 条",
+        "en": "Article 13"
+      },
+      "texts": {
+        "zh": "国家鼓励和支持可再生能源并网发电。建设可再生能源并网发电项目，应当依照法律和国务院的规定取得行政许可或者报送备案。建设应当取得行政许可的可再生能源并网发电项目，有多人申请同一项目许可的，应当依法通过招标确定被许可人。",
+        "ja": "国は、再⽣可能エネルギーの電⼒網接続による発電を奨励する。再⽣可能エネルギーの電⼒網接続による発電プロジェクトの建設にあたり、法律及び国務院の規定に基づき、⾏政許可を取得するか⼜は報告・送付して届出をしなければならない。⾏政許可を取得すべき再⽣可能エネルギーの電⼒網接続による発電プロジェクトの建設にあたり、複数の者が同⼀プロジェクトについて許可を申請した場合、法により⼊札募集を通じて被許可⼈を確定しなければならない。",
+        "en": "The State encourages and supports grid-connected power generation with renewable energy. For construction of projects for grid-connected power generation with renewable energy, administrative license shall be obtained, or the matter shall be reported for the record, in accordance with law and the regulations of the State Council. Where two or more persons apply for an identical project as mentioned above which is subject to administrative licensing, the licensee shall be determined through bid invitation."
+      }
+    },
+    {
+      "id": 1582,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 14 条",
+        "ja": "第 14 条",
+        "en": "Article 14"
+      },
+      "texts": {
+        "zh": "国家实行可再生能源发电全额保障性收购制度。国务院能源主管部门会同国家电力监管机构和国务院财政部门，按照全国可再生能源开发利用规划，确定在规划期内应当达到的可再生能源发电量占全部发电量的比重，制定电网企业优先调度和全额收购可再生能源发电的具体办法，并由国务院能源主管部门会同国家电力监管机构在年度中督促落实。电网企业应当与按照可再生能源开发利用规划建设，依法取得行政许可或者报送备案的可再生能源发电企业签订并网协议，全额收购其电网覆盖范围内符合并网技术标准的可再生能源并网发电项目的上网电量。发电企业有义务配合电网企业保障电网安全。电网企业应当加强电网建设，扩大可再生能源电力配置范围，发展和应用智能电网、储能等技术，完善电网运行管理，提高吸纳可再生能源电力的能力，为可再生能源发电提供上网服务。",
+        "ja": "国は、再⽣可能エネルギー発電について保障性のある全額買取制度を実施する。国務院のエネルギー主管部⾨は、国家電⼒監督管理機構及び国務院の財政部⾨とともに、全国における再⽣可能エネルギーの開発利⽤計画に基づき、計画期間において到達すべき再⽣可能エネルギー発電量が全ての発電量に占める⽐重を確定し、電⼒網企業が再⽣可能エネルギーを優先的に調整し、全額を買取り発電することにかかる具体的な⽅法を制定し、ならびに国務院のエネルギー主管部⾨が国家電⼒監督管理機構とともに年度内に具体的に実施することを督促する。電⼒網企業は、再⽣可能エネルギーの開発利⽤計画に基づいて建設され、法により⾏政許可を取得するか⼜は報告・送付届出済みである再⽣可能エネルギー発電企業との間で電⼒網接続協議を締結し、その電⼒網が網羅する範囲における電⼒網接続技術基準に合致する再⽣可能エネルギーの電⼒網接続による発電プロジェクトの電⼒網連接電⼒量を全額買取る。発電企業は、電⼒網企業に協⼒し、電⼒網の安全を保障する義務を有する。電⼒網企業は、電⼒網の建設を強化し、再⽣可能エネルギー電⼒の配置範囲を拡⼤し、インテリジェンス電⼒網及びエネルギー備蓄などの技術を発展させ、これを応⽤し、電⼒網の運⾏管理をよりいっそう充実させ、再⽣可能エネルギー電⼒を吸収する能⼒を⾼め、再⽣可能エネルギー発電のために電⼒網連接サービスを提供する。",
+        "en": "The State shall practice the system of guaranteed purchase of electricity generated by renewable energy. The energy administration department of the State Council shall, in conjunction with the State Electricity Regulatory Commission and the finance department of the State Council and in accordance with the national plan for the development and utilisation of renewable energy resources, determine the proportion of the electricity generated by renewable energy resources required to be achieved in the total electricity generated during the period of the plan, formulate specific measures for grid enterprises to give priority to the scheduling of electricity generated by renewable energy resources and purchase electricity generated by renewable energy resources in full amount; the energy administration department of the State Council shall, in conjunction with the State Electricity Regulatory Commission, supervise the implementation of such measures in the year. Power grid enterprises shall enter into grid-connection agreements with renewable energy power generation enterprises which have been built in accordance with the renewable energy development and utilisation plan and which have obtained administrative license or which have been submitted for filing in accordance with law, so as to purchase the grid-connected power produced with renewable energy that conforms to the technical standards of grid-connection within the coverage of their power grids. Electricity generation enterprises are obliged to cooperate with power grid enterprises in protecting grid security. Power grid enterprises shall strengthen the construction of power grids, expand the scope of distribution of electricity generated by renewable energy, develop and apply smart grid and energy storage technologies, etc., improve the operation and management of power grids, enhance the capacity for absorbing electricity generated by renewable energy, and provide grid-connection services for electricity generated by renewable energy."
+      }
+    },
+    {
+      "id": 1583,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 15 条",
+        "ja": "第 15 条",
+        "en": "Article 15"
+      },
+      "texts": {
+        "zh": "国家扶持在电网未覆盖的地区建设可再生能源独立电力系统，为当地生产和生活提供电力服务。",
+        "ja": "国は、電⼒網が網羅されていない地区における再⽣可能エネルギーの独⽴電⼒システムの建設をサポートし、現地における⽣産及び⽣活のために電⼒サービスを提供する。",
+        "en": "The State supports the construction of independent renewable power systems in areas not covered by the power grids to provide power services for local production and livelihood."
+      }
+    },
+    {
+      "id": 1584,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 16 条",
+        "ja": "第 16 条",
+        "en": "Article 16"
+      },
+      "texts": {
+        "zh": "国家鼓励清洁、高效地开发利用生物质燃料，鼓励发展能源作物。利用生物质资源生产的燃气和热力，符合城市燃气管网、热力管网的入网技术标准的，经营燃气管网、热力管网的企业应当接收其入网。国家鼓励生产和利用生物液体燃料。石油销售企业应当按照国务院能源主管部门或者省级人民政府的规定，将符合国家标准的生物液体燃料纳入其燃料销售体系。",
+        "ja": "国は、バイオマス燃料のクリーンでなお且つ効率の⾼い開発利⽤を奨励し、エネルギー作物の発展を奨励する。バイオマス資源を利⽤して⽣産した天然ガス及び熱が、都市天然ガスパイプライン網及び熱パイプラインの連接に関する技術基準に合致する場合、天然ガスパイプライン網及び熱パイプラインを経営する企業は、その連接を受け⼊れなければならない。国は、バイオ液体燃料の⽣産及び利⽤を奨励する。⽯油販売企業は、国務院のエネルギー主管部⾨⼜は省級⼈⺠法院の規定に基づき、国の基準に合致するバイオ液体燃料をその燃料販売システムに組⼊れなければならない。",
+        "en": "The State encourages clean and efficient exploitation of biomass fuels and the development of energy crops. If the gas and heat produced with biomass resources conform to the technical standards for connection with urban gas pipeline networks or heat pipeline networks, enterprises operating gas pipeline networks or heat pipeline networks shall accept them into the networks. The State shall encourage the production and utilization of biological liquid fuels. Petroleum sales enterprises shall, in accordance with regulations of energy administration department under the State Council or people's government at the provincial level, include biological liquid fuel conforming to national standard in their fuel-selling system."
+      }
+    },
+    {
+      "id": 1585,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 17 条",
+        "ja": "第 17 条",
+        "en": "Article 17"
+      },
+      "texts": {
+        "zh": "国家鼓励单位和个人安装和使用太阳能热水系统、太阳能供热采暖和制冷系统、太阳能光伏发电系统等太阳能利用系统。国务院建设行政主管部门会同国务院有关部门制定太阳能利用系统与建筑结合的技术经济政策和技术规范。房地产开发企业应当根据前款规定的技术规范，在建筑物的设计和施工中，为太阳能利用提供必备条件。对已建成的建筑物，住户可以在不影响其质量与安全的前提下安装符合技术规范和产品标准的太阳能利用系统；但是，当事人另有约定的除外。",
+        "ja": "国は、事業者及び個⼈が太陽エネルギー熱⽔システム、太陽エネルギー暖房・冷房システム及び太陽光発電システム等太陽エネルギーを利⽤するシステムを据付け、使⽤することを奨励する。国務院の建設⾏政主管部⾨は、国務院の関連部⾨とともに、太陽エネルギーの利⽤システムと建築を結合させた技術経済政策及び技術規範を制定する。不動産開発企業は、前項に規定する技術規範に基づき、建物の設計及び施⼯において、太陽エネルギー利⽤のために必要となる条件を提供しなければならない。既に建設済みの建物について、住⺠はその品質及び安全に影響しないことを前提として、技術規範及び製品基準に合致した太陽エネルギー利⽤システムを据付けることができる。但し、当事者が別途約定している場合を除く。",
+        "en": "The State shall encourage units and individuals to install and use solar energy utilization systems, such as solar water-heating system, solar heating and cooling system and solar photovoltaic system. The administrative department for construction under the State Council shall, in conjunction with the relevant departments under the State Council, formulate technical and economic policies and specifications for the combination of solar energy utilisation system with the buildings. In the design and construction of buildings, real estate development enterprises shall, in compliance with the technical specifications mentioned in the preceding paragraph, provide the necessary conditions for the utilization of solar energy. For buildings already built, residents may, on condition that its quality and safety is not affected, install solar energy utilization systems that conform to the technical specifications and product standards, unless the parties have agreed otherwise."
+      }
+    },
+    {
+      "id": 1586,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 18 条",
+        "ja": "第 18 条",
+        "en": "Article 18"
+      },
+      "texts": {
+        "zh": "国家鼓励和支持农村地区的可再生能源开发利用。县级以上地方人民政府管理能源工作的部门会同有关部门，根据当地经济社会发展、生态保护和卫生综合治理需要等实际情况，制定农村地区可再生能源发展规划，因地制宜地推广应用沼气等生物质资源转化、户用太阳能、小型风能、小型水能等技术。县级以上人民政府应当对农村地区的可再生能源利用项目提供财政支持。",
+        "ja": "国は、農村地区における再⽣可能エネルギーの開発利⽤を奨励し、サポートする。県級以上の⼈⺠政府のエネルギー管理部⾨は、関連部⾨とともに、現地経済及び社会の発展、⽣態保護ならびに衛⽣⾯における総合統治の必要性など実際の状況に基づき、農村地区の再⽣可能エネルギーの発展計画を制定し、現地に即したメタンガスの応⽤などバイオマス資源への転化、個⼈住宅⽤太陽エネルギー、⼩型⾵⼒エネルギー及び⼩型⽔⼒エネルギーなどの技術を推進する。県級以上の⼈⺠政府は、農村地区における再⽣可能エネルギーの利⽤プロジェクトに対して財政サポートを提供しなければならない。",
+        "en": "The Government encourages and supports the development and utilisation of renewable energy in rural areas. Energy authorities of local people's governments above the county level shall, on the basis of local economic and social development, ecological protection and health need, and other actual conditions, prepare renewable energy development plan for the rural areas and promote biomass energy like marsh gas conversion, household solar energy, small-scale wind energy and small-scale hydroenergy. People's governments at or above the county level shall provide financial support for renewable energy utilization projects in rural areas."
+      }
+    },
+    {
+      "id": 26,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第五章 ",
+        "ja": "第五章",
+        "en": "Chapter 5"
+      },
+      "texts": {
+        "zh": "价格管理与费用补偿",
+        "ja": "価格管理及び費用補償",
+        "en": "Price Control and Cost Compensation"
+      }
+    },
+    {
+      "id": 1587,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 19 条",
+        "ja": "第 19 条",
+        "en": "Article 19"
+      },
+      "texts": {
+        "zh": "可再生能源发电项目的上网电价，由国务院价格主管部门根据不同类型可再生能源发电的特点和不同地区的情况，按照有利于促进可再生能源开发利用和经济合理的原则确定，并根据可再生能源开发利用技术的发展适时调整。上网电价应当公布。依照本法第13条第三款规定实行招标的可再生能源发电项目的上网电价，按照中标确定的价格执行；但是，不得高于依照前款规定确定的同类可再生能源发电项目的上网电价水平。",
+        "ja": "再⽣可能エネルギー発電プロジェクトの電⼒網連接電気価格について、国務院の価格主管部⾨より類型ごとに、再⽣可能エネルギー発電の特徴及び地区ごとの状況を踏まえ、再⽣可能エネルギーの開発利⽤の促進に有利となることならびに経済合理原則に基づいて確定し、再⽣可能エネルギーの開発利⽤技術の発展状況を踏まえて適時調整する。電⼒網連接電気価格は、公布しなければならない。本法第13条第3項の規定に基づいて⼊札募集した再⽣可能エネルギー発電プロジェクトの電⼒網連接電気価格について、落札により確定された価格に照らして執⾏する。但し、前項の規定に基づいて確定した同類の再⽣可能エネルギー発電プロジェクトの電⼒網連接電気価格のレベルを上回ってはならない。",
+        "en": "The price of on-grid electricity generated by renewable energy shall be determined by the competent department of price under the State Council in light of the characteristics of power generated by different types of renewable energy and the conditions of different regions and according to the principle of promoting the development and utilization of renewable energy and the principles of economy and rationality. The price shall be adjusted in a timely manner according to the development of the technology for the development and utilization of renewable energy. The price for grid-connected power shall be made public. The price of grid-connected power generated by renewable energy power projects decided on through tender as stipulated in the third paragraph of Article 13 of this Law shall be the bid-winning price; however, it shall not exceed the price level of grid-connected power of similar renewable energy power generation projects determined in accordance with the provisions of the preceding paragraph."
+      }
+    },
+    {
+      "id": 1588,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 20 条",
+        "ja": "第 20 条",
+        "en": "Article 20"
+      },
+      "texts": {
+        "zh": "电网企业依照本法第19条规定确定的上网电价收购可再生能源电量所发生的费用，高于按照常规能源发电平均上网电价计算所发生费用之间的差额，由在全国范围对销售电量征收可再生能源电价附加补偿。",
+        "ja": "電⼒網企業が本法第19条の規定により確定された電⼒網連接電気価格に基づいて再⽣可能エネルギー電⼒量を買取るために発⽣する費⽤が、通常のエネルギー発電の平均電⼒網連接電気価格に照らして計算する発⽣費⽤を上回る差額については、全国範囲において、電⼒量の販売により徴収された再⽣可能エネルギー電気価格に付加して補償する。",
+        "en": "The excess between the expenses that power grid enterprises purchase renewable power on the basis of the price determined in Article 19 hereof and the expenses incurred in the purchase of average power price generated with conventional energy shall be compensated by the added renewable power price levied from the selling price collected from across the country."
+      }
+    },
+    {
+      "id": 1589,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 21 条",
+        "ja": "第 21 条",
+        "en": "Article 21"
+      },
+      "texts": {
+        "zh": "电网企业为收购可再生能源电量而支付的合理的接网费用以及其他合理的相关费用，可以计入电网企业输电成本，并从销售电价中回收。",
+        "ja": "電⼒網企業が再⽣可能エネルギー電量を買付けるために⽀払う合理的な電⼒網連接費⽤ならびにその他合理的な関連費⽤については、電⼒網企業の送電コストに組⼊れるともに、販売電⼒価格から回収することができる。",
+        "en": "The reasonable grid connection expenses paid by power grid enterprises for the purchase of electricity generated by renewable energy and other reasonable expenses concerned may be included into the power transmission cost of the power grid enterprises and recovered from the selling price."
+      }
+    },
+    {
+      "id": 1590,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 22 条",
+        "ja": "第 22 条",
+        "en": "Article 22"
+      },
+      "texts": {
+        "zh": "国家投资或者补贴建设的公共可再生能源独立电力系统的销售电价，执行同一地区分类销售电价，其合理的运行和管理费用超出销售电价的部分，依照本法第20条的规定补偿。",
+        "ja": "国が投資⼜は補助して建設する公共再⽣可能エネルギーの独⽴電⼒システムの販売電気価格については、同⼀地区の分類販売電気価格を執⾏し、その合理的な運⾏及び管理費⽤が販売電気価格を超過する部分については、本法第20条の規定に基づいて補償する。",
+        "en": "For the selling price of power generated from independent renewable energy power system invested or subsidised by the Government, classified selling price of the same area shall be adopted, and the excess between its reasonable operation, management expenses and the selling price shall be compensated on the basis of the method as specified in Article 20 hereof."
+      }
+    },
+    {
+      "id": 1591,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 23 条",
+        "ja": "第 23 条",
+        "en": "Article 23"
+      },
+      "texts": {
+        "zh": "进入城市管网的可再生能源热力和燃气的价格，按照有利于促进可再生能源开发利用和经济合理的原则，根据价格管理权限确定。",
+        "ja": "都市パイプラインに⼊る再⽣可能エネルギー熱⼒及び天然ガスの価格については、再⽣可能エネルギーの開発利⽤の促進に有利となることならびに経済合理原則に基づいて、価格管理権限に照らして確定する。",
+        "en": "The price of heat or gas produced by renewable energy and put in an urban pipe network shall be determined according to the principle of promoting the development and utilization of renewable energy and the principle of economy and rationality as well as relevant provisions concerning price control power limits."
+      }
+    },
+    {
+      "id": 32,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第六章 ",
+        "ja": "第六章",
+        "en": "Chapter 6"
+      },
+      "texts": {
+        "zh": "经济激励与监督措施",
+        "ja": "経済インセンティブ及び監督措置",
+        "en": "Economic Incentives and Supervision Measures"
+      }
+    },
+    {
+      "id": 1592,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 24 条",
+        "ja": "第 24 条",
+        "en": "Article 24"
+      },
+      "texts": {
+        "zh": "国家财政设立可再生能源发展基金，资金来源包括国家财政年度安排的专项资金和依法征收的可再生能源电价附加收入等。可再生能源发展基金用于补偿本法第20条、第22条规定的差额费用，并用于支持以下事项：（一）可再生能源开发利用的科学技术研究、标准制定和示范工程；（二）农村、牧区的可再生能源利用项目；（三）偏远地区和海岛可再生能源独立电力系统建设；（四）可再生能源的资源勘查、评价和相关信息系统建设；（五）促进可再生能源开发利用设备的本地化生产。本法第21条规定的接网费用以及其他相关费用，电网企业不能通过销售电价回收的，可以申请可再生能源发展基金补助。可再生能源发展基金征收使用管理的具体办法，由国务院财政部门会同国务院能源、价格主管部门制定。",
+        "ja": "国家財政は再⽣可能エネルギー発展基⾦を設⽴し、資⾦リソースには、国家財政が⼿配する年度特定項⽬資⾦及び法により徴収する再⽣可能エネルギー電気価格にかかる付加収⼊等を含む。再⽣可能エネルギー発展基⾦は、本法第20条及び第22条に規定される差額費⽤の補償に⽤いるとともに、以下の事項に対するサポートに⽤いる。（⼀）再⽣可能エネルギーを開発・利⽤した科学技術研究、基準制定及びモデル⼯事。（⼆）農村、牧畜地区における再⽣可能エネルギー利⽤プロジェクト。（三）僻地及び島における再⽣可能エネルギーの独⽴電⼒システムの建設。（四）再⽣可能エネルギーの資源探査、評価及び関連する情報システムの建設。（五）再⽣可能エネルギーの開発・利⽤設備の現地化⽣産の促進。本法第21条に規定される電⼒網連接費⽤及びその他関連費⽤について、電⼒網企業が販売電⼒価格により回収することができない場合、再⽣可能エネルギー発展基⾦による補助を申請することができる。再⽣可能エネルギーの発展基⾦の徴収・使⽤・管理に関する具体的な⽅法については、国務院の財政部⾨が国務院エネルギー主管部⾨及び価格主管部⾨より制定する。",
+        "en": "The Government budget establishes renewable energy development fund. The sources of the fund include special fund annually arranged by the government budge and the income of the added renewable power price which is levied in accordance with law. The renewable energy development fund is used to compensate the excess cost defined in article 20 and article 22 of this law and is used to support the following: (I). scientific and technological research, formulation of standards and demonstration projects for the development and utilization of renewable energy; (II). renewable energy utilization projects in rural and pastoral areas; (III) Construction of independent renewable power systems in remote areas and islands; (IV) the survey and assessment of renewable energy and the construction of relevant information systems; and (V) Promoting the localized production of equipment used for the development and utilization of renewable energy resources. For grid connection expenses and other relevant expenses stipulated in Article 21 of this law, grid enterprises can apply for the subsidy paid from the renewable energy development fund if they cannot retrieve them from the selling price. The financial department of the State Council shall work together with the departments of the State Council in charge of energy and price to formulate specific measures for the collection, use, and management of the renewable energy development fund."
+      }
+    },
+    {
+      "id": 1593,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 25 条",
+        "ja": "第 25 条",
+        "en": "Article 25"
+      },
+      "texts": {
+        "zh": "对列入国家可再生能源产业发展指导目录、符合信贷条件的可再生能源开发利用项目，金融机构可以提供有财政贴息的优惠贷款。",
+        "ja": "国の再⽣可能エネルギー産業発展指導⽬録に組⼊れられ、貸付条件に合致する再⽣可能エネルギーの開発・利⽤プロジェクトについて、⾦融機関は財政利息補助のある優遇貸付を提供することができる。",
+        "en": "Financial institutions may offer preferential loans with financial interest subsidy to renewable energy development and utilisation projects that are listed in the national renewable energy industrial development guidance catalogue and meet the credit requirements."
+      }
+    },
+    {
+      "id": 1594,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 26 条",
+        "ja": "第 26 条",
+        "en": "Article 26"
+      },
+      "texts": {
+        "zh": "国家对列入可再生能源产业发展指导目录的项目给予税收优惠。具体办法由国务院规定。",
+        "ja": "国は、再⽣可能エネルギー産業発展指導⽬録に組⼊れられるプロジェクトについて、税収上の優遇を与える。具体的な⽅法は、国務院により規定する。",
+        "en": "The Government grants tax benefits to projects listed in the renewable energy industrial development guidance catalogue. The specific measures shall be formulated by the State Council."
+      }
+    },
+    {
+      "id": 1595,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 27 条",
+        "ja": "第 27 条",
+        "en": "Article 27"
+      },
+      "texts": {
+        "zh": "电力企业应当真实、完整地记载和保存可再生能源发电的有关资料，并接受电力监管机构的检查和监督。电力监管机构进行检查时，应当依照规定的程序进行，并为被检查单位保守商业秘密和其他秘密。",
+        "ja": "電⼒企業は、再⽣可能エネルギー発電に関する資料を真実とおり且つ完全に記載・保存し、電⼒監督機構による検査及び監督を受け⼊れなければならない。電⼒監督管理機構が検査を⾏う場合、規定されるプロセスに従って進⾏し、検査を受ける事業者のために商業秘密及びその他秘密を保守しなければならない。",
+        "en": "Power enterprises shall truthfully and completely record and preserve the materials relating to the generation of power with renewable energy and shall accept inspection and supervision by power regulatory institutions. Power regulatory organizations shall conduct inspection in accordance with specified procedures and shall keep commercial and other secrets for inspected units."
+      }
+    },
+    {
+      "id": 37,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第七章 ",
+        "ja": "第七章",
+        "en": "Chapter 7"
+      },
+      "texts": {
+        "zh": "法律责任",
+        "ja": "法的責任",
+        "en": "Legal Liabilities"
+      }
+    },
+    {
+      "id": 1596,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 28 条",
+        "ja": "第 28 条",
+        "en": "Article 28"
+      },
+      "texts": {
+        "zh": "国务院能源主管部门和县级以上地方人民政府管理能源工作的部门和其他有关部门在可再生能源开发利用监督管理工作中，违反本法规定，有下列行为之一的，由本级人民政府或者上级人民政府有关部门责令改正，对负有责任的主管人员和其他直接责任人员依法给予行政处分；构成犯罪的，依法追究刑事责任：（一）不依法作出行政许可决定的；（二）发现违法行为不予查处的；（三）有不依法履行监督管理职责的其他行为的。",
+        "ja": "国務院のエネルギー主管部⾨及び県級以上の地⽅⼈⺠政府のエネルギー管理部⾨及びその他関連部⾨が、再⽣可能エネルギーの開発・利⽤にかかる監督管理活動において、本法の規定に違反し、以下の⾏為の⼀つがあった場合には、本級⼈⺠政府⼜は上級⼈⺠政府の関連部⾨より是正を命じ、責任を負う主要管理者とその他直接責任者については、法により⾏政処分に処し、犯罪を構成する場合には、法により刑事責任を追及する。（⼀）法に基づく⾏政許可決定を⾏わなかった場合。（⼆）違法⾏為を発⾒したにもかかわらず、調査・処理をしなかった場合。（三）法に基づく監督管理職責を履⾏しないその他⾏為があった場合。",
+        "en": "If the energy administration department under the State Council, the energy administration departments of the people's governments at or above the county level, or any other relevant department, in the supervision and administration of the exploitation of renewable energy, violates this Law by any of the following acts, the people's government at the corresponding level or the relevant department of the people's government at the next higher level shall order the violating party to make corrections, and impose administrative sanctions on the responsible party, and the appointed person in charge and other directly responsible personnel; if a crime is constituted, criminal liability shall be investigated according to law: (I). failing to make a decision on administrative licensing in accordance with the law; (II) failing to investigate or deal with any found illegal act; or (III) any other failure in legally performing supervisory and administrative liabilities."
+      }
+    },
+    {
+      "id": 1597,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 29 条",
+        "ja": "第 29 条",
+        "en": "Article 29"
+      },
+      "texts": {
+        "zh": "违反本法第14条规定，电网企业未按照规定完成收购可再生能源电量，造成可再生能源发电企业经济损失的，应当承担赔偿责任，并由国家电力监管机构责令限期改正；拒不改正的，处以可再生能源发电企业经济损失额一倍以下的罚款。",
+        "ja": "本法第14条の規定に違反し、電⼒網企業が規定とおりに再⽣可能エネルギー電量の買付を完成せず、再⽣可能エネルギー発電企業に経済損失をもたらした場合、賠償責任を負わなければならない。ならびに、国家電⼒監督管理機構より期限付きで是正を命じ、是正を拒否した場合には、再⽣可能エネルギー発電企業にもたらした経済損失の1倍以下の罰⾦に処す。",
+        "en": "Where in violation of the provisions in Article 14 of this Law, a power grid enterprise fails to purchase in accordance with regulations renewable power in full, thus causing economic losses to the renewable power generation enterprise, it shall bear the responsibility for compensation, and the national power supervisory organ shall order it to rectify within a time limit; if it refuses to comply, it shall be fined not more than the amount of the economic losses suffered by the renewable power generation enterprise."
+      }
+    },
+    {
+      "id": 1598,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 30 条",
+        "ja": "第 30 条",
+        "en": "Article 30"
+      },
+      "texts": {
+        "zh": "违反本法第16条第二款规定，经营燃气管网、热力管网的企业不准许符合入网技术标准的燃气、热力入网，造成燃气、热力生产企业经济损失的，应当承担赔偿责任，并由省级人民政府管理能源工作的部门责令限期改正；拒不改正的，处以燃气、热力生产企业经济损失额一倍以下的罚款。",
+        "ja": "本法第16条第2項の規定に違反し、天然ガスパイプライン及び熱⼒パイプラインの経営企業が、電⼒網連接の技術基準に合致している天然ガス及び熱⼒を連接させることを許可しなかったために、天然ガス及び熱⼒の⽣産企業に経済損失をもたらした場合、賠償責任を負わなければならない。ならびに、省級⼈⺠政府のエネルギー管理部⾨より期限付きで是正を命じ、是正を拒否した場合には、天然ガス及び熱⼒の⽣産企業にもたらした経済損失の1倍以下の罰⾦に処す。",
+        "en": "Where in violation of the provisions of the second paragraph of Article 16 of this Law, an enterprise of gas pipeline network or heat pipeline network refuses to accept into the network gas or heat that conforms to the technical standards for grid connection, thus causing economic losses to the gas or heat production enterprise, it shall bear the responsibility for compensation, and the energy administration department of the people's government at the provincial level shall order it to rectify within a time limit; if it refuses to comply, it shall be fined not more than the amount of the economic losses suffered by the gas or heat production enterprise."
+      }
+    },
+    {
+      "id": 1599,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 31 条",
+        "ja": "第 31 条",
+        "en": "Article 31"
+      },
+      "texts": {
+        "zh": "违反本法第16条第三款规定，石油销售企业未按照规定将符合国家标准的生物液体燃料纳入其燃料销售体系，造成生物液体燃料生产企业经济损失的，应当承担赔偿责任，并由国务院能源主管部门或者省级人民政府管理能源工作的部门责令限期改正；拒不改正的，处以生物液体燃料生产企业经济损失额一倍以下的罚款。",
+        "ja": "本法第16条第3項の規定に違反し、⽯油販売企業が規定とおりに国家基準に合致するバイオ液体燃料をその燃料販売システムに組⼊れなかったために、バイオ液体燃料⽣産企業に経済損失をもたらした場合、賠償責任を負わなければならない。ならびに、国務院のエネルギー主管部⾨⼜は省級⼈⺠政府のエネルギー管理部⾨より期限付きで是正を命じ、是正を拒否した場合には、バイオ液体燃料⽣産企業にもたらした経済損失の1倍以下の罰⾦に処す。",
+        "en": "Where in violation of the provisions of the third paragraph of Article 16 of this Law, a petroleum sales enterprise fails to include biological liquid fuel that conforms to the national standards in its fuel-selling system, thus causing economic losses to the biological liquid fuel production enterprise, it shall bear the responsibility for compensation, and the energy administration department under the State Council or the energy administration department of the people's government at the provincial level shall order it to rectify within a time limit; if it refuses to comply, it shall be fined not more than the amount of the economic losses suffered by the biological liquid fuel production enterprise."
+      }
+    },
+    {
+      "id": 42,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第八章 ",
+        "ja": "第八章",
+        "en": "Chapter 8"
+      },
+      "texts": {
+        "zh": "附 则",
+        "ja": "附 則",
+        "en": "Supplementary Provisions"
+      }
+    },
+    {
+      "id": 1600,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 32 条",
+        "ja": "第 32 条",
+        "en": "Article 32"
+      },
+      "texts": {
+        "zh": "本法中下列用语的含义：（一）生物质能，是指利用自然界的植物、粪便以及城乡有机废物转化成的能源。（二）可再生能源独立电力系统，是指不与电网连接的单独运行的可再生能源电力系统。（三）能源作物，是指经专门种植，用以提供能源原料的草本和木本植物。（四）生物液体燃料，是指利用生物质资源生产的甲醇、乙醇和生物柴油等液体燃料。",
+        "ja": "本法における以下の⽤語の語義は、以下のとおりとする。（⼀）バイオマスエネルギーとは、⾃然界の植物、糞便及び都市・郷村の有機廃物を利⽤して転成したエネルギーをいう。（⼆）再⽣可能エネルギーの独⽴電⼒システムとは、電⼒網と連接せずに単独で運⾏する再⽣可能エネルギーの電⼒システムをいう。（三）エネルギー作物とは、専⾨的な栽培を経て、エネルギー原料として提供される草本植物及び⽊本植物をいう。（四）バイオ液体燃料とは、バイオマス資源を利⽤して⽣産するメタノール、アルコール及びバイオディーゼルなど液体燃料をいう。",
+        "en": "For purposes of this Law, the definitions of the following terms are:(I). Biomass energy refers to energy converted from natural plants, excrement and urban and rural organic wastes. (II) \"independent power system using renewable energy\" means a system of electricity generating by using renewable energy that operates independently and is not connected to any grid; (III) Energy crops refer to herbs and woody plants specially planted and used as energy raw materials.(IV) \"biological liquid fuel\" means liquid fuels produced by biomass resources, such as methanol, ethanol and biodiesel."
+      }
+    },
+    {
+      "id": 1601,
+      "source_file": "中华人民共和国可再生能源法(2009)",
+      "original_numbers": {
+        "zh": "第 33 条",
+        "ja": "第 33 条",
+        "en": "Article 33"
+      },
+      "texts": {
+        "zh": "本法自2006年1月1日起施行。",
+        "ja": "本法は、2006年1⽉1日より施⾏する。",
+        "en": "This Law shall go into effect as of January 1, 2006."
+      }
+    }
+  ]
+}

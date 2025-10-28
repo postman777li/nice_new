@@ -1,0 +1,942 @@
+{
+  "metadata": {
+    "law_name": "数据安全法",
+    "domain": "DataProtectionLaw",
+    "year": 2021,
+    "source_file": "中华人民共和国数据安全法(2021).xlsx",
+    "total_entries": 66,
+    "processed_at": "2025-10-05T21:38:48.139203",
+    "languages": [
+      "zh",
+      "ja",
+      "en"
+    ],
+    "valid_entries": 66
+  },
+  "entries": [
+    {
+      "id": 1,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "法律名称",
+        "ja": "法令名",
+        "en": "Law Title"
+      },
+      "texts": {
+        "zh": "中华人民共和国数据安全法",
+        "ja": "中華人民共和国データ安全法",
+        "en": "Data Security Law of the People's Republic of China"
+      }
+    },
+    {
+      "id": 2,
+      "source_file": NaN,
+      "original_numbers": {
+        "zh": NaN,
+        "ja": NaN,
+        "en": NaN
+      },
+      "texts": {
+        "zh": "中华人民共和国主席令\n (第八十四号)\n《中华人民共和国数据安全法》已由中华人民共和国第十三届全国人民代 表大会常务委员会第二十九次会议于 2021 年 6 月 10 日通过，现予公布，自 2021 年 9 月 1 日起施行。\n中华人民共和国主席 \n习近平 \n2021 年 6 月 10 日",
+        "ja": "中華人民共和国主席令\n（第八十四号）\n『中華人民共和国データ安全法』は、2021年6月10日に開催された中華人民共和国第十三期全国人民代表大会常務委員会第二十九回会議において可決され、ここに公布する。本法は2021年9月1日より施行する。\n中華人民共和国主席\n習近平\n2021年6月10日",
+        "en": "Order of the President of the People's Republic of China\nNo. 84\nThe Data Security Law of the People's Republic of China, adopted at the 29th Meeting of the Standing Committee of the Thirteenth National People's Congress of the People's Republic of China on June 10, 2021, is hereby promulgated, and shall go into effect on September 1, 2021.\nXi Jinping\nPresident of the People's Republic of China\nJune 10, 2021"
+      }
+    },
+    {
+      "id": 3,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "修订记录",
+        "ja": "改正記録",
+        "en": "Revision Record"
+      },
+      "texts": {
+        "zh": "中华人民共和国数据安全法\n(2021 年 6 月 10 日第十三届全国人民代表大会常务委员会第二十九次会议通过) 目录",
+        "ja": "中華人民共和国データセキュリティ法\n(2021 年 6 月 10 日第十三回全国人民代表大会常務委員会第二十九回会議で採択)",
+        "en": "Data Security Law of the People's Republic of China\n(Adopted at the 29th Meeting of the Standing Committee of the Thirteenth National People's Congress on June 10, 2021)"
+      }
+    },
+    {
+      "id": 4,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "目录",
+        "ja": "目次",
+        "en": "Contents"
+      },
+      "texts": {
+        "zh": "第一章 总则\n第二章 数据安全与发展 \n第三章 数据安全制度 \n第四章 数据安全保护义务 \n第五章 政务数据安全与开放 \n第六章 法律责任 \n第七章 附则",
+        "ja": "第一章 総則\n第二章 データセキュリティと発展 \n第三章 データセキュリティ制度 \n第四章 データセキュリティ保護の義務 \n第五章 政務データセキュリティと開放 \n第六章 法律責任\n第七章 附則",
+        "en": "Chapter I General Provisions\nChapter II Data Security and Development\nChapter III Data Security Systems\nChapter IV Data Security Protection Obligations\nChapter V Security and Openness of Government Data\nChapter VI Legal Liability\nChapter VII Supplementary Provisions"
+      }
+    },
+    {
+      "id": 5,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第一章",
+        "ja": "第一章",
+        "en": "Chapter I"
+      },
+      "texts": {
+        "zh": "总则",
+        "ja": "総則",
+        "en": "General Provisions"
+      }
+    },
+    {
+      "id": 6,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第1条",
+        "ja": "第1条",
+        "en": "Article 1"
+      },
+      "texts": {
+        "zh": "为了规范数据处理活动，保障数据安全，促进数据开发利用，保护个人、组织的合法权益，维护国家主权、安全和发展利益，制定本法。",
+        "ja": "データ処理活動を規制し、データセキュリティを保障し、データの開発と利用を促進し、個人、組織の正当な権益を保護し、国家の主権、安全保障と発展の利益を保護するために、本法を制定する。",
+        "en": "Article 1 This Law is enacted for the purpose of regulating data processing, ensuring data security, promoting development and utilization of data, protecting the lawful rights and interests of individuals and organizations, and safeguarding the sovereignty, security, and development interests of the state."
+      }
+    },
+    {
+      "id": 7,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第2条",
+        "ja": "第2条",
+        "en": "Article 2"
+      },
+      "texts": {
+        "zh": "在中华人民共和国境内开展数据处理活动及其安全监管，适用本法。在中华人民共和国境外开展数据处理活动，损害中华人民共和国国家安全、公共利益或者公民、组织合法权益的，依法追究法律责任。",
+        "ja": "中華人民共和国領土内で展開されるデータ処理活動及び安全監督管理に本法を適用される。中華人民共和国領土外で展開されるデータ処理活動により、中華人民共和国の国家安全、公共利益または公民、組織の合法的な権益を損なう場合、法律に従って法律責任を追及する。",
+        "en": "Article 2 This Law shall apply to data processing activities and security supervision and regulation of such activities within the territory of the People's Republic of China.Where data processing outside the territory of People's Republic of China harms the national security, public interests, or the lawful rights and interests of individuals or organizations of the People's Republic of China, legal liability shall be investigated in accordance with the law."
+      }
+    },
+    {
+      "id": 8,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第3条",
+        "ja": "第3条",
+        "en": "Article 3"
+      },
+      "texts": {
+        "zh": "本法所称数据，是指任何以电子或者其他方式对信息的记录。数据处理，包括数据的收集、存储、使用、加工、传输、提供、公开等。数据安全，是指通过采取必要措施，确保数据处于有效保护和合法利用的状态，以及具备保障持续安全状态的能力。",
+        "ja": "本法で言及されているデータとは、電子またはその他の方法で記録される情報をいう。データ処理とは、データの収集、保存、使用、加工、送信、提供、公開等を含む。データセキュリティとは、必要な措置を講じることによって、データが有効的に保護され、合法的に利用されている状態を確保し、及び持続的なセキュリティ状態を保障する能力を備えていることをいう。",
+        "en": "Article 3 For the purpose of this Law, the term \"data\" refers to any record of information in electronic or any other form. \"Data processing\" includes the collection, storage, use, processing, transmission, provision, and disclosure of data, among others. \"Data security\" refers to ensuring that data is effectively protected and lawfully used through adopting necessary measures, and to possessing the capacity to guarantee the continuous security of data."
+      }
+    },
+    {
+      "id": 9,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第4条",
+        "ja": "第4条",
+        "en": "Article 4"
+      },
+      "texts": {
+        "zh": "维护数据安全，应当坚持总体国家安全观，建立健全数据安全治理体系，提高数据安全保障能力。",
+        "ja": "データセキュリティを保護するためには、国家安全保障の全体的な概念を堅持し、データセキュリティ対策体系を確立し、改善し、データセキュリティ保障する能力を向上させなければならない。",
+        "en": "Article 4 In preserving data security, the holistic approach to national security shall be adopted, sound data security governance systems shall be established, and data security and protection capabilities shall be improved."
+      }
+    },
+    {
+      "id": 10,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第5条",
+        "ja": "第5条",
+        "en": "Article 5"
+      },
+      "texts": {
+        "zh": "中央国家安全领导机构负责国家数据安全工作的决策和议事协调，研究制定、指导实施国家数据安全战略和有关重大方针政策，统筹协调国家数据安全的重大事项和重要工作，建立国家数据安全工作协调机制。",
+        "ja": "中央国家安全保障指導機構は、国家データセキュリティ業務の決定及び協議調整の責任を負う、国家データセキュリティ戦略と関連する重大な方針政策の研究・制定及び指導し、国家データセキュリティの重大な事項と重要な業務を統括・調整し、国家のデータセキュリティ業務の協調体制を確立する。",
+        "en": "Article 5 The central leading authority for national security shall be responsible for the decision-making, deliberation and coordination of the national data security work; researching, formulating, and guiding the implementation of the national data security strategy and related major guidelines and policies; coordinating major matters and important work in respect of national data security; and establishing a coordination mechanism for national data security."
+      }
+    },
+    {
+      "id": 11,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第6条",
+        "ja": "第6条",
+        "en": "Article 6"
+      },
+      "texts": {
+        "zh": "各地区、各部门对本地区、本部门工作中收集和产生的数据及数据安全负责。工业、电信、交通、金融、自然资源、卫生健康、教育、科技等主管部门承担本行业、本领域数据安全监管职责。公安机关、国家安全机关等依照本法和有关法律、行政法规的规定，在各自职责范围内承担数据安全监管职责。国家网信部门依照本法和有关法律、行政法规的规定，负责统筹协调网络数据安全和相关监管工作。",
+        "ja": "各地域、各部門は、それぞれの地域、部門の業務における収集と生成されたデータ及びデータセキュリティに対して責任を負う。工業、電気通信、運輸、金融、自然資源、衛生健康、教育、科学技術等の管轄部門はそれぞれの業界、分野におけるデータセキュリティに対して監督管理の職責を負う。公安機関、国家安全機関等は本法と関連する法律、行政法規の規定に従い、それぞれの職責範囲内でデータセキュリティに対して監督管理の職責を負う。国家ネットワーク情報部門は、本法と関連する法律、行政法規の規定に従い、ネットワークデータセキュリティと関連する監督管理業務の統括・調整の責任を負う。",
+        "en": "Article 6 All localities and departments shall bear responsibility for the management of the data collected or generated in their work as well as for the data security thereof. The competent departments of industry, telecommunications, transport, finance, natural resources, health, education, technology and other relevant competent departments shall assume the responsibilities of supervising and regulating data security in their respective trades and sectors. Public security organs and national security organs, etc. shall assume the responsibilities of supervising and regulating data security within the scopes of their respective duties in accordance with the provisions of this Law and other relevant laws and administrative regulations. The national cyberspace affairs department shall be in charge of the overall planning and coordination of network data security and the related supervision and regulation in accordance with the provisions of this Law and other relevant laws and administrative regulations."
+      }
+    },
+    {
+      "id": 12,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第7条",
+        "ja": "第7条",
+        "en": "Article 7"
+      },
+      "texts": {
+        "zh": "国家保护个人、组织与数据有关的权益，鼓励数据依法合理有效利用，保障数据依法有序自由流动，促进以数据为关键要素的数字经济发展。",
+        "ja": "国家はデータに関連する、個人、組織の権益を保護し、データが法律に従って合理的かつ有効的に利用されることを奨励し、データが法律に従って秩序よく自由に流通することを保障し、データを重要な要素としてデジタル経済の発展を促進する。",
+        "en": "Article 7 The state shall protect the data-related rights and interests of individuals and organizations, encourage the lawful, reasonable, and effective use of data, ensure free flow of data in an orderly manner and in accordance with the law, and promote the development of a digital economy with data as the key factor."
+      }
+    },
+    {
+      "id": 13,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第8条",
+        "ja": "第8条",
+        "en": "Article 8"
+      },
+      "texts": {
+        "zh": "开展数据处理活动，应当遵守法律、法规，尊重社会公德和伦理，遵守商业道德和职业道德，诚实守信，履行数据安全保护义务，承担社会责任，不得危害国家安全、公共利益，不得损害个人、组织的合法权益。",
+        "ja": "データ処理活動を展開するには、法律、法規を遵守し、社会道徳と倫理を尊重し、商業道徳と職業道徳を遵守し、誠実かつ信頼できる、データセキュリティ保護義務を履行し、社会責任を負い、国家の安全、公共利益に危害を加えてはならず、個人、組織の合法的権益を損なってはならない。",
+        "en": "Article 8 Whoever processes data shall observe laws and regulations, respect social morality and ethics, observe business and professional ethics, uphold honesty and trustworthiness, fulfill data security protection obligations, and undertake social responsibilities; and shall not endanger national security and public interests, nor harm the lawful rights and interests of individuals and organizations."
+      }
+    },
+    {
+      "id": 14,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第9条",
+        "ja": "第9条",
+        "en": "Article 9"
+      },
+      "texts": {
+        "zh": "国家支持开展数据安全知识宣传普及，提高全社会的数据安全保护意识和水平，推动有关部门、行业组织、科研机构、企业、个人等共同参与数据安全保护工作，形成全社会共同维护数据安全和促进发展的良好环境。",
+        "ja": "国家はデータセキュリティ知識の普及が展開することを支援し、社会全体のデータセキュリティ保護意識とレベルを向上させ、関連する部門、業界組織、科学研究機関、企業、個人等がデータセキュリティ保護業務に共同参加を促進し、社会全体でデータセキュリティを保護し、発展を促進する良好な環境を形成させる。",
+        "en": "Article 9 The state supports the dissemination and popularization of knowledge of data security to raise public awareness in this regard and ability to protect data security, and promotes the joint participation by relevant departments, industry organizations, research institutions, enterprises, and individuals in data security protection, so as to create a good environment for members of the whole society to jointly protect data, ensure data security and promote development of relevant industries."
+      }
+    },
+    {
+      "id": 15,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第10条",
+        "ja": "第10条",
+        "en": "Article 10"
+      },
+      "texts": {
+        "zh": "相关行业组织按照章程，依法制定数据安全行为规范和团体标准，加强行业自律，指导会员加强数据安全保护，提高数据安全保护水平，促进行业健康发展。",
+        "ja": "関連する業界組織は規約に従い、法律に従ってデータセキュリティ行為規制と団体基準を制定し、業界の自主規制を強化し、会員にデータセキュリティ保護を強化するよう指導し、データセキュリティ保護水準を向上させ、業界の健全な発展を促進する。",
+        "en": "Article 10 Relevant industry associations shall, in accordance with their articles of association, formulate the code of conduct and standards to ensure data security according to the law, strengthen self-regulation in their respective industries, guide members to strengthen data security protection, improve their protection level and promote the healthy development of the industries."
+      }
+    },
+    {
+      "id": 16,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第11条",
+        "ja": "第11条",
+        "en": "Article 11"
+      },
+      "texts": {
+        "zh": "国家积极开展数据安全治理、数据开发利用等领域的国际交流与合作，参与数据安全相关国际规则和标准的制定，促进数据跨境安全、自由流动。",
+        "ja": "国家はデータセキュリティ対策、データの開発と利用等の分野の国際交流と協力を積極的に展開し、データセキュリティに関する国際規則と標準の制定に参加し、データクロスボーダーの安全、自由な流通を促進する。",
+        "en": "Article 11 The state shall actively carry out international exchanges and cooperation in fields such as data security governance and data development and utilization, participate in the formulation of relevant international rules and standards for data security, and promote the safe and free flow of data across borders."
+      }
+    },
+    {
+      "id": 17,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第12条",
+        "ja": "第12条",
+        "en": "Article 12"
+      },
+      "texts": {
+        "zh": "任何个人、组织都有权对违反本法规定的行为向有关主管部门投诉、举报。收到投诉、举报的部门应当及时依法处理。有关主管部门应当对投诉、举报人的相关信息予以保密，保护投诉、举报人的合法权益。",
+        "ja": "いかなる個人、組織も本法の規定に違反する行為に対して、関連する管轄部門に苦情を申し立て、告発する権利を有する。苦情、告発を受けた部門は適時に法律に従って処理しなければならない。関連する管轄部門は苦情、告発者の関連情報を秘密にし、苦情、告発者の合法的な権益を保護しなければならない。",
+        "en": "Article 12 Any individual or organization shall have the right to file complaints about or report violations of this Law to the competent departments. The departments receiving such complaints or reports shall deal with them in a timely manner in accordance with the law. The competent departments shall keep confidential the relevant information of those making such complaints or reports, and protect their lawful rights and interests."
+      }
+    },
+    {
+      "id": 18,
+      "source_file": NaN,
+      "original_numbers": {
+        "zh": "第二章",
+        "ja": "第二章",
+        "en": "Chapter II"
+      },
+      "texts": {
+        "zh": "数据安全与发展",
+        "ja": "データセキュリティと発展",
+        "en": "Data Security and Development"
+      }
+    },
+    {
+      "id": 19,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第13条",
+        "ja": "第13条",
+        "en": "Article 13"
+      },
+      "texts": {
+        "zh": "国家统筹发展和安全，坚持以数据开发利用和产业发展促进数据安全，以数据安全保障数据开发利用和产业发展。",
+        "ja": "国家は発展とセキュリティを統一的に計画し、データの開発と利用と産業発展でデータセキュリティを促進することを堅持し、データセキュリティによるデータ開発、利用と産業の発展を保障する。",
+        "en": "Article 13 The state shall make an overall plan to coordinate development and security, to promote data security through data development and utilization and through industrial development on one hand, and on the other hand, to ensure that data security facilitates data development and utilization as well as industrial development."
+      }
+    },
+    {
+      "id": 20,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第14条",
+        "ja": "第14条",
+        "en": "Article 14"
+      },
+      "texts": {
+        "zh": "国家实施大数据战略，推进数据基础设施建设，鼓励和支持数据在各行业、各领域的创新应用。省级以上人民政府应当将数字经济发展纳入本级国民经济和社会发展规划，并根据需要制定数字经济发展规划。",
+        "ja": "国家はビッグデータ戦略を実施し、データ基礎構築を推進し、各業界、各分野におけるデータの革新的な応用を奨励し、支援する。省級以上の人民政府は、デジタル経済の発展計画を当該省級の国民経済と社会発展計画に組み入れ、必要に応じてデジタル経済の発展計画を制定しなければならない。",
+        "en": "Article 14 The state shall implement the big data strategy, advance the construction of data infrastructure, and encourage and support the innovative application of data in all industries and fields. People's governments at or above the provincial level shall incorporate the development of digital economy into their national economic and social development plans, and formulate development plans for the digital economy as needed."
+      }
+    },
+    {
+      "id": 21,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第15条",
+        "ja": "第15条",
+        "en": "Article 15"
+      },
+      "texts": {
+        "zh": "国家支持开发利用数据提升公共服务的智能化水平。提供智能化公共服务，应当充分考虑老年人、残疾人的需求，避免对老年人、残疾人的日常生活造成障碍。",
+        "ja": "国家は、データの開発と利用を支援し、公共サービスのインテリジェンスレベルを向上させる。インテリジェントな公共サービスを提供するには、高齢者、障害者による要求を十分に考慮し、高齢者、障害者の日常生活に支障をきたすことを避けなければならない。",
+        "en": "Article 15 The state supports development and utilization of data to render public services smarter. In providing smarter public services, the needs of the elderly and the disabled shall be taken into full account to avoid posing obstacles to their daily lives."
+      }
+    },
+    {
+      "id": 22,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第16条",
+        "ja": "第16条",
+        "en": "Article 16"
+      },
+      "texts": {
+        "zh": "国家支持数据开发利用和数据安全技术研究，鼓励数据开发利用和数据安全等领域的技术推广和商业创新，培育、发展数据开发利用和数据安全产品、产业体系。",
+        "ja": "国家はデータの開発と利用とデータセキュリティ技術研究を支援し、データの開発と利用とデータセキュリティ等の分野の技術普及と商業革新を奨励し、データの開発と利用とデータセキュリティ製品、産業体系を育成し、発展させる。",
+        "en": "Article 16 The state supports research on development and utilization of data and on data security related technologies, encourages popularization and commercial innovation of technologies in the foregoing fields, and fosters and develops products and industrial systems for development and utilization of data and for data security."
+      }
+    },
+    {
+      "id": 23,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第17条",
+        "ja": "第17条",
+        "en": "Article 17"
+      },
+      "texts": {
+        "zh": "国家推进数据开发利用技术和数据安全标准体系建设。国务院标准化行政主管部门和国务院有关部门根据各自的职责，组织制定并适时修订有关数据开发利用技术、产品和数据安全相关标准。国家支持企业、社会团体和教育、科研机构等参与标准制定。",
+        "ja": "国家はデータの開発と利用技術とデータセキュリティ標準体系の構築を推進する。国務院の標準化行政管轄部門と国務院の関連する部門はそれぞれの職責に従い、関連するデータの開発と利用技術、製品とデータセキュリティに関する基準を制定し、適時に改訂する。国家は企業、社会団体と教育、科学研究機関等が基準の制定に参加することを支援する。",
+        "en": "Article 17 The state shall advance the forming of the standards for data development and the standards for data utilization technologies and data security. The department in charge of standardization under the State Council and other relevant departments under the State Council shall, within the scopes of their respective duties and functions, organize the establishment of, and make revisions in due time to the standards for technologies and products for data development and data utilization and the standards for data security. The state shall support enterprises, social groups, and education or research institutions, etc. in their participation in the establishment of such standards."
+      }
+    },
+    {
+      "id": 24,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第18条",
+        "ja": "第18条",
+        "en": "Article 18"
+      },
+      "texts": {
+        "zh": "国家促进数据安全检测评估、认证等服务的发展，支持数据安全检测评估、认证等专业机构依法开展服务活动。国家支持有关部门、行业组织、企业、教育和科研机构、有关专业机构等在数据安全风险评估、防范、处置等方面开展协作。",
+        "ja": "国家は、データセキュリティ検査評価、認証等のサービスの発展を促進し、データセキュリティ検査評価、認証等の専門機関が法律に従ってサービス活動を展開することを支援する。国家は関係する部門、業界組織、企業、教育と科学研究機関、関連する専門機関等がデータセキュリティリスク評価、予防、処理等の面での協力を展開することを支援する。",
+        "en": "Article 18 The state encourages the development of services such as data security testing, evaluation, and accreditation, and supports agencies specialized in data security testing, evaluation, accreditation, etc. to provide services according to the law. The state supports collaboration among relevant departments, industry associations, enterprises, education and research institutions, relevant specialized agencies, etc. in the fields such as data security related risk assessment, prevention, and disposal."
+      }
+    },
+    {
+      "id": 25,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第19条",
+        "ja": "第19条",
+        "en": "Article 19"
+      },
+      "texts": {
+        "zh": "国家建立健全数据交易管理制度，规范数据交易行为，培育数据交易市场。",
+        "ja": "国家はデータ取引管理制度を確立し、改善し、データ取引行為を規制し、データ取引市場を育成する。",
+        "en": "Article 19 The state shall establish sound systems for data trading management, standardize data trading activities, and foster a data trading market."
+      }
+    },
+    {
+      "id": 26,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第20条",
+        "ja": "第20条",
+        "en": "Article 20"
+      },
+      "texts": {
+        "zh": "国家支持教育、科研机构和企业等开展数据开发利用技术和数据安全相关教育和培训，采取多种方式培养数据开发利用技术和数据安全专业人才，促进人才交流。",
+        "ja": "国家は教育、科学研究機関及び企業等によるデータの開発と利用技術とデータセキュリティに関する教育と訓練の展開を支援し、データの開発と利用技術とデータセキュリティの専門人材を育成し、人材交流を促進するためにさまざまな方法を講じる。",
+        "en": "Article 20 The state supports education and research institutions, enterprises, and other entities in carrying out education and training on technologies for data development and utilization and on data security, cultivates professionals in data development and utilization technologies and in data security by a variety of means, and promotes talent exchanges."
+      }
+    },
+    {
+      "id": 27,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第三章",
+        "ja": "第三章 ",
+        "en": "Chapter III "
+      },
+      "texts": {
+        "zh": "数据安全制度",
+        "ja": "データセキュリティ制度",
+        "en": "Chapter III Data Security Systems"
+      }
+    },
+    {
+      "id": 28,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第21条",
+        "ja": "第21条",
+        "en": "Article 21"
+      },
+      "texts": {
+        "zh": "国家建立数据分类分级保护制度，根据数据在经济社会发展中的重要程度，以及一旦遭到篡改、破坏、泄露或者非法获取、非法利用，对国家安全、公共利益或者个人、组织合法权益造成的危害程度，对数据实行分类分级保护。国家数据安全工作协调机制统筹协调有关部门制定重要数据目录，加强对重要数据的保护。关系国家安全、国民经济命脉、重要民生、重大公共利益等数据属于国家核心数据，实行更加严格的管理制度。各地区、各部门应当按照数据分类分级保护制度，确定本地区、本部门以及相关行业、领域的重要数据具体目录，对列入目录的数据进行重点保护。",
+        "ja": "国家はデータ分類と階層的保護制度を確立し、データの経済・社会発展における重要度に応じて、及びひとたび改ざん、破壊、漏洩または不正取得、不正利用等による、国家安全、公共利益または個人、組織の合法的な権益に対する危害の程度に応じて、データに対して分類と階層的保護を実施する。国家データセキュリティ業務協調体制は、関連する部門を統括・調整して、重要なデータ目録を制定し、重要なデータの保護を強化する。国家安全保障、国民経済の重要事項、重要な国民民生、重大な公共利益等のデータは国家の核心的データに属し、更に厳格な管理制度を実行する。各地区、各部門は、データ分類と階層的保護制度に従い、当該地区、部門及び関連業界、分野の重要なデータの具体的な目録を確定し、目録に組み入れられたデータを重点的に保護しなければならない。",
+        "en": "Article 21 The state shall establish a categorized and classified system and carry out data protection based on the importance of the data in economic and social development, as well as the extent of harm to national security, public interests, or the lawful rights and interests of individuals or organizations that will be caused once the data are altered, destroyed, leaked, or illegally obtained or used. The coordination mechanism for national data security shall coordinate the relevant departments to formulate a catalog of important data and strengthen protection of important data. Data concerning national security, lifelines of the national economy, important aspects of people's lives, major public interests, ect., are core data of the state, for which a stricter management system shall be implemented. All localities and departments shall, in accordance with the categorized and classified data protection system, prepare specific catalogs of important data for their respective regions, departments, and relevant industries and sectors, and give priority to the data listed in the catalogs in terms of data protection."
+      }
+    },
+    {
+      "id": 29,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第22条",
+        "ja": "第22条",
+        "en": "Article 22"
+      },
+      "texts": {
+        "zh": "国家建立集中统一、高效权威的数据安全风险评估、报告、信息共享、监测预警机制。国家数据安全工作协调机制统筹协调有关部门加强数据安全风险信息的获取、分析、研判、预警工作。",
+        "ja": "国家は一元的に統一された、効率的で信頼できるデータセキュリティリスク評価、報告、情報共有、監視・早期警告体制を確立する。国家データセキュリティ業務協調体制は、関連する部門を統括・調整し、データセキュリティリスク情報の取得、分析、研究・判断、早期警告業務を強化する。",
+        "en": "Article 22 The state shall establish a centralized, unified, highly effective, and authoritative mechanism for assessing, reporting, information sharing, monitoring, and early alert of data security risks. The coordinating mechanism for national data security shall make an overall plan on and coordinate relevant departments in strengthening the work about acquiring, analyzing, researching and evaluating information of data security risks and the work about early alert of such risks."
+      }
+    },
+    {
+      "id": 30,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第23条",
+        "ja": "第23条",
+        "en": "Article 23"
+      },
+      "texts": {
+        "zh": "国家建立数据安全应急处置机制。发生数据安全事件，有关主管部门应当依法启动应急预案，采取相应的应急处置措施，防止危害扩大，消除安全隐患，并及时向社会发布与公众有关的警示信息。",
+        "ja": "国家はデータセキュリティ緊急対応体制を確立する。データセキュリティ事件が発生した場合、関連する管轄部門は法律に従って緊急対応策を開始させ、相応の緊急処置措置を講じ、危害の拡大を防止し、安全上の潜在的な危険を排除し、適時に社会及び公衆に関連する警告情報を公表しなければならない。",
+        "en": "Article 23 The state shall establish a data security emergency response mechanism. Where a data security incident occurs, the relevant competent departments shall initiate emergency response in accordance with the plan and the law, take corresponding measures to prevent further harm and eliminate security hazards, and send out warnings to the public by publishing information relevant thereto in a timely manner."
+      }
+    },
+    {
+      "id": 31,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第24条",
+        "ja": "第24条",
+        "en": "Article 24"
+      },
+      "texts": {
+        "zh": "国家建立数据安全审查制度，对影响或者可能影响国家安全的数据处理活动进行国家安全审查。依法作出的安全审查决定为最终决定。",
+        "ja": "国家はデータセキュリティ審査制度を確立し、国家安全保障に影響を与える、または影響を与える可能性があるデータ処理活動に対して国家安全審査を行う。法律に従って行われたセキュリティ審査の決定は最終決定とする。",
+        "en": "Article 24 The state shall establish a review system for data security, conducting national security reviews of data processing that affects or may affect national security. Security review decisions made in accordance with the law are final decisions."
+      }
+    },
+    {
+      "id": 32,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第25条",
+        "ja": "第25条",
+        "en": "Article 25"
+      },
+      "texts": {
+        "zh": "国家对与维护国家安全和利益、履行国际义务相关的属于管制物项的数据依法实施出口管制。",
+        "ja": "国家は、国家安全と利益の保護、国際的な義務の履行に関する管理品目に属するデータに対し、法律に従って輸出管理を実施する。",
+        "en": "Article 25 The state shall apply export control in accordance with the law on data that are controlled items and concern national security and interests and the performance of international obligations."
+      }
+    },
+    {
+      "id": 33,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第26条",
+        "ja": "第26条",
+        "en": "Article 26"
+      },
+      "texts": {
+        "zh": "任何国家或者地区在与数据和数据开发利用技术等有关的投资、贸易等方面对中华人民共和国采取歧视性的禁止、限制或者其他类似措施的，中华人民共和国可以根据实际情况对该国家或者地区对等采取措施。",
+        "ja": "いかなる国または地域でも、データ及びデータの開発と利用技術等に関連する投資、貿易等の面で中華人民共和国に対して差別的な禁止、制限またはその他の類似の措置を講じる場合、中華人民共和国は、実際の状況に応じて当該国または地域に対して対等な措置を講じることができる。",
+        "en": "Article 26 Where any country or region adopts discriminatory prohibitions, restrictions, or other similar measures against the People's Republic of China in respect of investment, trade or any other field related to data and data development and utilization technologies, the People's Republic of China may take countermeasures against that country or region in light of the actual circumstances."
+      }
+    },
+    {
+      "id": 34,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第四章",
+        "ja": "第四章",
+        "en": "Chapter IV"
+      },
+      "texts": {
+        "zh": "数据安全保护义务",
+        "ja": "データセキュリティ保護の義務",
+        "en": "Data Security Protection Obligations"
+      }
+    },
+    {
+      "id": 35,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第27条",
+        "ja": "第27条",
+        "en": "Article 27"
+      },
+      "texts": {
+        "zh": "开展数据处理活动应当依照法律、法规的规定，建立健全全流程数据安全管理制度，组织开展数据安全教育培训，采取相应的技术措施和其他必要措施，保障数据安全。利用互联网等信息网络开展数据处理活动，应当在网络安全等级保护制度的基础上，履行上述数据安全保护义务。重要数据的处理者应当明确数据安全负责人和管理机构，落实数据安全保护责任。",
+        "ja": "データ処理活動を展開するには、法律、法規の規定に従い、全プロセスのデータセキュリティ管理制度を確立し、改善し、データセキュリティの教育と訓練を展開・組織し、相応の技術措置とその他の必要な措置を講じて、データセキュリティを保障しなければならない。インターネット等の情報ネットワークを利用してデータ処理活動を展開することは、ネットセキュリティの階層的な保護制度に基づいて、上記のデータセキュリティ保護義務を履行しなければならない。重要なデータの処理者はデータセキュリティ責任者と管理機構を明確にし、データセキュリティ保護の責任を実行しなければならない。",
+        "en": "Article 27 In data processing, the laws and regulations shall be complied with, a sound data security management system throughout the whole process shall be established, data security education and training shall be organized and conducted, and corresponding technical measures and other necessary measures shall be adopted to ensure data security. In data processing by making use of the internet or any other information networks, the abovementioned data security obligations shall be fulfilled on the basis of the classified protection system for cyber security. Processors of important data shall be clear about their persons responsible for data security and the data security management bodies, and fulfill the responsibilities for data security."
+      }
+    },
+    {
+      "id": 36,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第28条",
+        "ja": "第28条",
+        "en": "Article 28"
+      },
+      "texts": {
+        "zh": "开展数据处理活动以及研究开发数据新技术，应当有利于促进经济社会发展，增进人民福祉，符合社会公德和伦理。",
+        "ja": "データ処理活動の展開及びデータの新技術の研究開発は、経済・社会の発展を促進し、国民の福祉を増進し、社会の公衆道徳と倫理に適合することに有益でなければならない。",
+        "en": "Article 28 Data processing as well as research and development of new data technologies shall be conducive to furthering economic and social development, and improving the well-being of people, and shall conform to social morals and ethics."
+      }
+    },
+    {
+      "id": 37,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第29条",
+        "ja": "第29条",
+        "en": "Article 29"
+      },
+      "texts": {
+        "zh": "开展数据处理活动应当加强风险监测，发现数据安全缺陷、漏洞等风险时，应当立即采取补救措施；发生数据安全事件时，应当立即采取处置措施，按照规定及时告知用户并向有关主管部门报告。",
+        "ja": "データ処理活動を展開するには、リスク監視を強化し、データセキュリティの欠陥、抜け穴等のリスクを発見した場合、直ちに是正措置を講じなければならない。データセキュリティ事件が発生した場合は、直ちに処分措置を講じ、規定に従って速やかにユーザーに通知し、関連する管轄部門に報告しなければならない。",
+        "en": "Article 29 Closer risk monitoring shall be applied in data processing. Where data security defects, bugs, or other risks are discovered, remedial measures shall be taken immediately. Where a data security incident occurs, measures shall be taken immediately to address it, and users shall be notified and reports made to relevant competent departments in a timely manner in accordance with relevant provisions."
+      }
+    },
+    {
+      "id": 38,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第30条",
+        "ja": "第30条",
+        "en": "Article 30"
+      },
+      "texts": {
+        "zh": "重要数据的处理者应当按照规定对其数据处理活动定期开展风险评估，并向有关主管部门报送风险评估报告。风险评估报告应当包括处理的重要数据的种类、数量，开展数据处理活动的情况，面临的数据安全风险及其应对措施等。",
+        "ja": "重要なデータの処理者は、規定に従い、そのデータ処理活動に対して、リスク評価を定期的に展開し、関係する管轄部門にリスク評価報告を提出しなければならない。リスク評価報告は、処理される重要なデータの種類、数量、データ処理活動を展開する状況、直面するデータセキュリティリスク及びその対応措置等を含まなければならない。",
+        "en": "Article 30 Processors of important data shall, in accordance with the relevant provisions, conduct risk assessments of their data processing on a regular basis and submit risk assessment reports to relevant competent departments. Risk assessment reports shall include the types and amounts of important data processed, information on data processing, data security risks and the response measures for them."
+      }
+    },
+    {
+      "id": 39,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第31条",
+        "ja": "第31条",
+        "en": "Article 31"
+      },
+      "texts": {
+        "zh": "关键信息基础设施的运营者在中华人民共和国境内运营中收集和产生的重要数据的出境安全管理，适用《中华人民共和国网络安全法》的规定；其他数据处理者在中华人民共和国境内运营中收集和产生的重要数据的出境安全管理办法，由国家网信部门会同国务院有关部门制定。",
+        "ja": "重要情報基礎施設の運営者は、中華人民共和国領土内での運営において収集及び生成された重要なデータの出国安全管理において、「中華人民共和国ネットセキュリティ法」の規定を適用する。その他のデータ処理者は中華人民共和国領土内の運営において、収集及び生成された重要なデータの出国安全管理弁法は、国家ネットワーク情報部門が国務院の関連する部門と共同で制定する。",
+        "en": "Article 31 The provisions of the Cyber Security Law of the People's Republic of China shall apply to the outbound security management of the important data collected or produced by critical information infrastructure operators during their operation within the territory of the People's Republic of China, and the measures for the outbound security management of the important data collected or produced by others data processors during their operation within the territory of the People's Republic of China shall be formulated by the national cyberspace authority in conjunction with the relevant departments under the State Council."
+      }
+    },
+    {
+      "id": 40,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第32条",
+        "ja": "第32条",
+        "en": "Article 32"
+      },
+      "texts": {
+        "zh": "任何组织、个人收集数据，应当采取合法、正当的方式，不得窃取或者以其他非法方式获取数据。法律、行政法规对收集、使用数据的目的、范围有规定的，应当在法律、行政法规规定的目的和范围内收集、使用数据。",
+        "ja": "いかなる組織、個人もデータを収集する場合には、合法的、正当な方法を講じ、データを窃取、またはその他の不法な方法で取得してはならない。法律、行政法規がデータの収集、使用に対して、目的、範囲を規定している場合、法律、行政法規によって規定された目的と範囲内でデータを収集、使用しなければならない。",
+        "en": "An organization or individual shall collect data by lawful and proper means, and shall not acquire data by theft or in other illegal manners. Where laws or administrative regulations have provisions on the purposes or scopes of data collection and use, data shall be collected and used for the purposes and within the scopes provided for by those laws and administrative regulations."
+      }
+    },
+    {
+      "id": 41,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第33条",
+        "ja": "第33条",
+        "en": "Article 33"
+      },
+      "texts": {
+        "zh": "从事数据交易中介服务的机构提供服务，应当要求数据提供方说明数据来源，审核交易双方的身份，并留存审核、交易记录。",
+        "ja": "データ取引仲介サービスに従事する機構は、データ提供者にデータの出所を説明し、取引双方の身元を審査し、審査、取引記録を残すよう要求しなければならない。",
+        "en": "When providing services, data transaction intermediaries shall require data providers to specify the sources of the data, verify the identities of both parties to the transactions, and retain the verification and transaction records."
+      }
+    },
+    {
+      "id": 42,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第34条",
+        "ja": "第34条",
+        "en": "Article 34"
+      },
+      "texts": {
+        "zh": "法律、行政法规规定提供数据处理相关服务应当取得行政许可的，服务提供者应当依法取得许可。",
+        "ja": "法律、行政法規の規定により、データ処理関連サービスの提供が行政許可を取得しなければならない場合、サービスの提供者は法律に従って許可を取得しなければならない。",
+        "en": "Where laws or administrative regulations require that administrative permissions be acquired for providing services related to data processing, service providers shall obtain such administrative permissions in accordance with these provisions."
+      }
+    },
+    {
+      "id": 43,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第35条",
+        "ja": "第35条",
+        "en": "Article 35"
+      },
+      "texts": {
+        "zh": "公安机关、国家安全机关因依法维护国家安全或者侦查犯罪的需要调取数据，应当按照国家有关规定，经过严格的批准手续，依法进行，有关组织、个人应当予以配合。",
+        "ja": "公安機関、国家安全機関は法律に従って国家安全保障を保護し、または犯罪を捜査するためにデータを取得する必要がある場合、国家の関連する規定に従い、厳格な承認手続きを経て、法律に従って実施し、関連する組織、個人は協力しなければならない。",
+        "en": "Where a public security organ or national security organ needs to obtain data for the sake of national security or for investigating crimes in accordance with the law, strict approval formalities shall be completed in accordance with the relevant provisions of the state and data be obtained in accordance with the law, and the relevant organizations and individuals shall cooperate."
+      }
+    },
+    {
+      "id": 44,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第36条",
+        "ja": "第36条",
+        "en": "Article 36"
+      },
+      "texts": {
+        "zh": "中华人民共和国主管机关根据有关法律和中华人民共和国缔结或者参加的国际条约、协定，或者按照平等互惠原则，处理外国司法或者执法机构关于提供数据的请求。非经中华人民共和国主管机关批准，境内的组织、个人不得向外国司法或者执法机构提供存储于中华人民共和国境内的数据。",
+        "ja": "中華人民共和国の管轄機関は、関連する法律及び中華人民共和国と締結または参加する国際条約、協定に従い、または平等と互恵の原則に従い、外国の司法または法律執行機関からのデータの提供に関する請求を処理する。中華人民共和国の管轄機関の承認なしに、領土内の組織、個人は外国の司法または法律執行機関に中華人民共和国領土内に保存されているデータを提供してはならない。",
+        "en": "The competent authorities of the People's Republic of China shall handle requests for data made by foreign judicial or law enforcement authorities, in accordance with the relevant laws and international treaties or agreements concluded or acceded to by the People's Republic of China, or in accordance with the principles of equality and reciprocity. Without the approval of the competent authorities of the People's Republic of China, organizations or individuals in the People's Republic of China shall not provide data stored within the territory of the People's Republic of China to any overseas judicial or law enforcement body."
+      }
+    },
+    {
+      "id": 45,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第五章",
+        "ja": "第五章",
+        "en": "Chapter V "
+      },
+      "texts": {
+        "zh": "政务数据安全与开放",
+        "ja": "政務データセキュリティと開放",
+        "en": "Security and Openness of Government Data"
+      }
+    },
+    {
+      "id": 46,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第37条",
+        "ja": "第37条",
+        "en": "Article 37"
+      },
+      "texts": {
+        "zh": "国家大力推进电子政务建设，提高政务数据的科学性、准确性、时效性，提升运用数据服务经济社会发展的能力。",
+        "ja": "国家は電子政務の構築を積極的に推進し、政務データの科学性、正確性、時効性を向上させ、データ運用により経済・社会の発展にサービスする能力を向上させる。",
+        "en": "The state shall make great efforts to promote the development of e-government, make government database more scientific, accurate, and time-efficient, and improve the ability of using data to serve economic and social development."
+      }
+    },
+    {
+      "id": 47,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第38条",
+        "ja": "第38条",
+        "en": "Article 38"
+      },
+      "texts": {
+        "zh": "国家机关为履行法定职责的需要收集、使用数据，应当在其履行法定职责的范围内依照法律、行政法规规定的条件和程序进行；对在履行职责中知悉的个人隐私、个人信息、商业秘密、保密商务信息等数据应当依法予以保密，不得泄露或者非法向他人提供。",
+        "ja": "国家機関は法的職責を履行するためにデータを収集し、使用する場合、その法的職責を履行する範囲内で法律、行政法規に規定された条件と手順に従って行わなければならない。職責の履行において知られている個人のプライバシー、個人情報、商業上の秘密、機密ビジネス情報等のデータは法律に従って機密を保持し、漏洩または不法に他人に提供してはいけない。",
+        "en": "Where state organs need to collect or use data to perform their statutory duties, they shall collect or use data within the scope as needed for performance of their statutory duties and under the conditions and procedures provided by laws and administrative regulations. They shall, in accordance with the law, preserve the confidentiality of the data accessed in the course of performing their duties, such as personal privacy, personal information, trade secrets, and confidential business information, and shall not divulge such data or illegally provide them to others."
+      }
+    },
+    {
+      "id": 48,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第39条",
+        "ja": "第39条",
+        "en": "Article 39"
+      },
+      "texts": {
+        "zh": "国家机关应当依照法律、行政法规的规定，建立健全数据安全管理制度，落实数据安全保护责任，保障政务数据安全。",
+        "ja": "国家機関は法律、行政法規の規定に従い、データセキュリティ管理制度を確立し、改善し、データセキュリティ保護の責任を実行し、政務データセキュリティを保障しなければならない。",
+        "en": "State organs shall, in accordance with the provisions of laws and administrative regulations, establish sound data security management systems, fulfill data security protection responsibilities, and ensure the security of government data."
+      }
+    },
+    {
+      "id": 49,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第40条",
+        "ja": "第40条",
+        "en": "Article 40"
+      },
+      "texts": {
+        "zh": "国家机关委托他人建设、维护电子政务系统，存储、加工政务数据，应当经过严格的批准程序，并应当监督受托方履行相应的数据安全保护义务。受托方应当依照法律、法规的规定和合同约定履行数据安全保护义务，不得擅自留存、使用、泄露或者向他人提供政务数据。",
+        "ja": "国家機関は他人に電子政務システムの構築、保護を委託し、政務データを保存、加工する場合、厳格な認証手続きを経て、受託者が相応のデータセキュリティ保護義務を履行するよう監督しなければならない。受託者は法律、法規の規定と契約の規定に従ってデータセキュリティ保護義務を履行し、無断で保存、使用、漏洩または他の人に政務データを提供してはいけない。",
+        "en": "Where a state organ entrusts others to construct or maintain e-government systems, or to store or process government data, the state organ shall go through strict approval procedures, and shall supervise the entrusted party in the performance of data security protection obligations. The entrusted party shall perform its data security protection obligations in accordance with the provisions of laws, regulations, and contracts signed, and shall not retain, use, divulge, or provide others with government data without authorization."
+      }
+    },
+    {
+      "id": 50,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第41条",
+        "ja": "第41条",
+        "en": "Article 41"
+      },
+      "texts": {
+        "zh": "国家机关应当遵循公正、公平、便民的原则，按照规定及时、准确地公开政务数据。依法不予公开的除外。",
+        "ja": "国家機関は公正、公平、利便性の原則に従い、規定に従って政務データを適時、正確に公開しなければならない。法律に従って公開しない場合を除く。",
+        "en": "State organs shall, under the principles of fairness, equality and convenience for the people, disclose government data in a timely and accurate manner in accordance with the provisions, except those which shall not be disclosed in accordance with the law."
+      }
+    },
+    {
+      "id": 51,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第42条",
+        "ja": "第42条",
+        "en": "Article 42"
+      },
+      "texts": {
+        "zh": "国家制定政务数据开放目录，构建统一规范、互联互通、安全可控的政务数据开放平台，推动政务数据开放利用。",
+        "ja": "国家は政務データ開放目録を制定し、統一規制し、相互接続、安全で制御可能な政務データ開放プラットフォームを構築し、政務データの開放利用を推進する。",
+        "en": "The state shall formulate the catalog of open government data, build an open, uniform, standardized, interconnected, safe and controllable government data platform, and promote the release and utilization of government data."
+      }
+    },
+    {
+      "id": 52,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第43条",
+        "ja": "第43条",
+        "en": "Article 43"
+      },
+      "texts": {
+        "zh": "法律、法规授权的具有管理公共事务职能的组织为履行法定职责开展数据处理活动，适用本章规定。",
+        "ja": "法律、法規に授権された公共事務を管理する機能を有する組織は、法的職責を履行するためにデータ処理活動を展開し、本章の規定を適用する。",
+        "en": "The provisions of this Chapter shall apply to the data processing carried out by the organizations with the functions of administering public affairs as authorized by laws and regulations for the purpose of performing their statutory duties."
+      }
+    },
+    {
+      "id": 53,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第六章",
+        "ja": "第六章",
+        "en": "Chapter V"
+      },
+      "texts": {
+        "zh": "法律责任",
+        "ja": "法律責任",
+        "en": "Legal Liability"
+      }
+    },
+    {
+      "id": 54,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第44条",
+        "ja": "第44条",
+        "en": "Article 44"
+      },
+      "texts": {
+        "zh": "有关主管部门在履行数据安全监管职责中，发现数据处理活动存在较大安全风险的，可以按照规定的权限和程序对有关组织、个人进行约谈，并要求有关组织、个人采取措施进行整改，消除隐患。",
+        "ja": "関連する管轄部門は、データセキュリティ監督管理の職責を履行する際、データ処理活動に重大なセキュリティリスクがあることを発見した場合、規定の権限と手続きに従って関連する組織、個人に対して会談を行い、関連する組織、個人に対して措置を講じて、隠れた危険を取り除くよう要求することができる。",
+        "en": "Where competent departments discover the existence of major security risks in data processing when they perform their regulatory duties as regards data security, they may, in accordance with the prescribed limits of authority and procedures, conduct regulatory talks with the relevant organizations and/or individuals, and require the relevant organizations and/or individuals to adopt measures to make rectifications and eliminate potential hazards."
+      }
+    },
+    {
+      "id": 55,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第45条",
+        "ja": "第45条",
+        "en": "Article 45"
+      },
+      "texts": {
+        "zh": "开展数据处理活动的组织、个人不履行本法第27条、第29条、第30条规定的数据安全保护义务的，由有关主管部门责令改正，给予警告，可以并处五万元以上五十万元以下罚款，对直接负责的主管人员和其他直接责任人员可以处一万元以上十万元以下罚款；拒不改正或者造成大量数据泄露等严重后果的，处五十万元以上二百万元以下罚款，并可以责令暂停相关业务、停业整顿、吊销相关业务许可证或者吊销营业执照，对直接负责的主管人员和其他直接责任人员处五万元以上二十万元以下罚款。违反国家核心数据管理制度，危害国家主权、安全和发展利益的，由有关主管部门处二百万元以上一千万元以下罚款，并根据情况责令暂停相关业务、停业整顿、吊销相关业务许可证或者吊销营业执照；构成犯罪的，依法追究刑事责任。",
+        "ja": "データ処理活動を展開する組織、個人が本法第27条、第29条、第三十条に規定するデータセキュリティ保護義務を履行しない場合、関連する管轄部門が是正を命じ、警告を発し、五万元以上五十万元以下の罰金を課すことができる。直接責任を負う管轄者とその他の直接責任者に対して、一万元以上十万元以下の罰金を課すことができる。改正を拒否し、または大量のデータ漏洩等の重大な結果をもたらした場合、五十万元以上二百万元以下の罰金を課し、関連する業務の停止、休業整理、関連する業務の許可証の取り消し、または営業許可証の取り消しを命じ、直接責任を負う管轄者とその他直接責任者に対して五万元以上二十万元以下の罰金を科すことができる。国家の核心的なデータ管理制度に違反し、国家の主権、安全保障と発展の利益を損なう場合、関連する管轄部門が二百万元以上一千万元以下の罰金を課し、状況に応じて関連する業務の停止、休業整理、関連する業務許可証の取り消し、または営業許可証の取り消しを命じられる。犯罪を構成する者は、法律に従って刑事責任を追及する。",
+        "en": "Where an organization or individual that processes data fails to perform the data security protection obligations provided in Articles 27, 29 and 30 of this Law, the organization or individual shall be ordered to make rectifications and be given a warning, and may be concurrently fined not less than RMB 50,000 yuan but not more than RMB 500,000 yuan by the competent department, and the directly liable persons in charge and other directly liable persons may be fined not less than RMB 10,000 yuan but not more than RMB 100,000 yuan. Where the organization or individual refuses to make rectifications or has caused serious consequences such as a massive data breach, the organization or individual shall be fined not less than RMB 500,000 yuan but not more than RMB 2 million yuan, and may be ordered to suspend the relevant business or suspend operations for rectification, or have relevant business permits or the business license revoked, and the directly liable persons in charge and other directly liable persons shall be fined not less than RMB 50,000 yuan but not more than RMB 200,000 yuan. Where the organization or individual violates the national core data management rules and endangers national sovereignty, security, or development interests of the state, the competent department shall impose upon the organization or individual a fine of not less than RMB 2 million yuan but not more than RMB 10 million yuan, and may, based on the circumstances, order a suspension of relevant business or a suspension of operations for rectification, or revoke relevant business permits or the business license. Where a crime is constituted, criminal responsibilities shall be investigated in accordance with the law."
+      }
+    },
+    {
+      "id": 56,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第46条",
+        "ja": "第46条",
+        "en": "Article 46"
+      },
+      "texts": {
+        "zh": "违反本法第31条规定，向境外提供重要数据的，由有关主管部门责令改正，给予警告，可以并处十万元以上一百万元以下罚款，对直接负责的主管人员和其他直接责任人员可以处一万元以上十万元以下罚款；情节严重的，处一百万元以上一千万元以下罚款，并可以责令暂停相关业务、停业整顿、吊销相关业务许可证或者吊销营业执照，对直接负责的主管人员和其他直接责任人员处十万元以上一百万元以下罚款。",
+        "ja": "本法第31条の規定に違反して、領土外に重要なデータを提供した場合、関連する管轄部門が是正を命じ、警告を発し、十万元以上百万元以下の罰金を課し、直接責任を負う管轄者とその他直接責任者に対して、一万元以上十万元以下の罰金を課すことができる。情状が重大である場合、百万元以上一千万元以下の罰金を課し、関連する業務の停止、休業整理、関連する業務許可証の取り消し、または営業許可証の取り消しを命じ、直接責任を負う管轄者とその他直接責任者に対して、十万元以上百万元以下の罰金を課すことができる。",
+        "en": "Whoever, in violation of the provisions of Article 31 of this Law, provides important data abroad, shall be ordered to make rectifications and be given a warning by the competent department, and may be concurrently fined not less than RMB 100,000 yuan but not more than RMB 1 million yuan, and the directly liable persons in charge and other directly liable persons may be fined not less than RMB 10,000 yuan but not more than RMB 100,000 yuan. Where the circumstances are serious, the violator shall be fined not less than RMB 1 million but not more than RMB 10 million yuan, and may also be ordered to suspend the relevant business or suspend operations for rectification, or have relevant business permits or the business license revoked, and the directly liable persons in charge and other directly liable persons shall be fined not less than RMB 100,000 yuan but not more than RMB 1 million yuan."
+      }
+    },
+    {
+      "id": 57,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第47条",
+        "ja": "第47条",
+        "en": "Article 47"
+      },
+      "texts": {
+        "zh": "从事数据交易中介服务的机构未履行本法第33条规定的义务的，由有关主管部门责令改正，没收违法所得，处违法所得一倍以上十倍以下罚款，没有违法所得或者违法所得不足十万元的，处十万元以上一百万元以下罚款，并可以责令暂停相关业务、停业整顿、吊销相关业务许可证或者吊销营业执照；对直接负责的主管人员和其他直接责任人员处一万元以上十万元以下罚款。",
+        "ja": "データ取引仲介サービスに従事する機構が、本法第33条に規定する義務を履行していない場合、関連する管轄部門が是正を命じ、違法所得を没収し、違法所得の倍以上十倍以下の罰金を課し、違法所得がない又は違法所得が十万元未満の場合、十万元以上百万元以下の罰金を課し、関連する業務の停止、休業整理、関連する業務許可証の取り消し、または営業許可証の取り消しを命じられる。直接責任を負う管轄者とその他の直接責任者に対して一万元以上十万元以下の罰金を課せられる。",
+        "en": "Where a data transaction intermediary fails to perform the obligations prescribed in Article 33 of this Law, it shall be ordered by the competent department to make rectifications, its illegal gains, if any, shall be confiscated, and it shall also be fined not less than the amount of but not more than ten times the amount of the illegal gains; if there are no illegal gains or the illegal gains are less than RMB 100,000 yuan, it shall be fined not less than RMB 100,000 yuan but not more than RMB 1 million yuan. It may be concurrently ordered to suspend the relevant business or suspend operations for rectification, or have relevant business permits or the business license revoked. The directly liable persons in charge and other directly liable persons shall be fined not less than RMB 10,000 yuan but not more than RMB 100,000 yuan."
+      }
+    },
+    {
+      "id": 58,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第48条",
+        "ja": "第48条",
+        "en": "Article 48"
+      },
+      "texts": {
+        "zh": "违反本法第35条规定，拒不配合数据调取的，由有关主管部门责令改正，给予警告，并处五万元以上五十万元以下罚款，对直接负责的主管人员和其他直接责任人员处一万元以上十万元以下罚款。违反本法第36条规定，未经主管机关批准向外国司法或者执法机构提供数据的，由有关主管部门给予警告，可以并处十万元以上一百万元以下罚款，对直接负责的主管人员和其他直接责任人员可以处一万元以上十万元以下罚款；造成严重后果的，处一百万元以上五百万元以下罚款，并可以责令暂停相关业务、停业整顿、吊销相关业务许可证或者吊销营业执照，对直接负责的主管人员和其他直接责任人员处五万元以上五十万元以下罚款。",
+        "ja": "本法第35条の規定に違反して、データの取得に協力しない場合、関係する管轄部門が是正を命じ、警告を発し、五万元以上五十万元以下の罰金を課し、直接責任を負う管轄者とその他直接責任者に対して一万元以上十万元以下の罰金を課せられる。本法第36条の規定に違反して、管轄機関の承認なしに海外の司法または法律執行機関にデータを提供した場合、関連する管轄部門が警告を発し、十万元以上百万元以下の罰金を課し、直接責任を負う管轄者とその他の直接責任者に対して、一万元以上十万元以下の罰金を課せられる。重大な結果をもたらした場合、百万元以上の五百万元以下の罰金を課し、関連する業務の停止、休業整理、関連する業務許可証の取り消し、または営業許可証の取り消しを命じることができ、直接責任を負う管轄者とその他の直接責任者に対して五万元以上五十万元以下の罰金を課すことができる。",
+        "en": "Whoever in violation of Article 35 of this Law, refuses to cooperate when a public organ or national security organ needs to access the data, shall be ordered by the competent department to make rectifications and be given a warning, and shall be concurrently fined not less than RMB 50,000 yuan but nor more than RMB 500,000 yuan, and the directly liable persons in charge and other directly liable persons may be fined not less than RMB 10,000 yuan but not more than RMB 100,000 yuan. Whoever, in violation of Article 36 of this Law, provides data to an overseas judicial or law enforcement body without the approval of the competent authorities, shall be given a warning by the competent department, and may be concurrently fined not less than RMB 100,000 yuan but not more than RMB 1 million yuan, and the directly liable persons in charge and other directly liable persons may be fined not less than RMB 10,000 yuan but not more than RMB 100,000 yuan. If serious consequences are caused, the violator shall be fined not less than RMB 1 million yuan but not more than RMB 5 million yuan, and may be ordered to suspend the relevant business or suspend operations for rectification, or have relevant business permits or the business license revoked. The directly liable persons in charge and other directly liable persons shall be fined not less than RMB 50,000 yuan but not more than RMB 500,000 yuan."
+      }
+    },
+    {
+      "id": 59,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第49条",
+        "ja": "第49条",
+        "en": "Article 49"
+      },
+      "texts": {
+        "zh": "国家机关不履行本法规定的数据安全保护义务的，对直接负责的主管人员和其他直接责任人员依法给予处分。",
+        "ja": "国家機関が本法に規定されたデータセキュリティ保護義務を履行しない場合、直接責任を負う管轄者及びその他の直接責任者に対して法律に従って処罰する。",
+        "en": "Where a state organ fails to perform data security obligations as provided for in this Law, the directly liable persons in charge and other directly liable persons shall be given a sanction in accordance with the law."
+      }
+    },
+    {
+      "id": 60,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第50条",
+        "ja": "第50条",
+        "en": "Article 50"
+      },
+      "texts": {
+        "zh": "履行数据安全监管职责的国家工作人员玩忽职守、滥用职权、徇私舞弊的，依法给予处分。",
+        "ja": "データセキュリティ監督管理の職責を履行する国家業務人員が職務を怠り、職権を濫用し、私利のために不正行為を行った場合、法律に従って処罰する。",
+        "en": "Any state functionary performing data security related regulation regulation neglects his duty, abuses power, or engages in malpractice for personal gain, shall be given a sanction in accordance with the law."
+      }
+    },
+    {
+      "id": 61,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第51条",
+        "ja": "第51条",
+        "en": "Article 51"
+      },
+      "texts": {
+        "zh": "窃取或者以其他非法方式获取数据，开展数据处理活动排除、限制竞争，或者损害个人、组织合法权益的，依照有关法律、行政法规的规定处罚。",
+        "ja": "データを窃取し、またはその他の不法な方法で取得したり、データ処理活動を展開して競争を排除し、制限したり、または個人、組織の正当な権益を損なった場合、関連する法律、行政法規の規定に従って処罰する。",
+        "en": "Whoever obtains data through theft or by any other illegal means, or eliminates or restricts competition in data processing, or harms the lawful rights and interests of individuals or organizations, shall be punished in accordance with the provisions of relevant laws and administrative regulations."
+      }
+    },
+    {
+      "id": 62,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第52条",
+        "ja": "第52条",
+        "en": "Article 52"
+      },
+      "texts": {
+        "zh": "违反本法规定，给他人造成损害的，依法承担民事责任。违反本法规定，构成违反治安管理行为的，依法给予治安管理处罚；构成犯罪的，依法追究刑事责任。",
+        "ja": "本法の規定に違反し、他人に損害を与えた場合、法律に従って民事責任を負うものとする。本法の規定に違反し、公安管理の違反を構成する場合、法律に従って公安管理罰則を課せられる。犯罪を構成する者は、法律に従って刑事責任を追及されるものとする。",
+        "en": "Whoever, in violation of this Law, causes damages to others shall bear civil liability in accordance with the law. Where a violation of the provisions of this Law constitutes a violation of public security administration, a public security administrative penalty shall be given in accordance with the law. Where a crime is constituted, criminal responsibility shall be investigated in accordance with the law."
+      }
+    },
+    {
+      "id": 63,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第七章",
+        "ja": "第七章 ",
+        "en": "Chapter VII"
+      },
+      "texts": {
+        "zh": "附则",
+        "ja": "附則",
+        "en": "Supplementary Provisions"
+      }
+    },
+    {
+      "id": 64,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第53条",
+        "ja": "第53条",
+        "en": "Article 53"
+      },
+      "texts": {
+        "zh": "开展涉及国家秘密的数据处理活动，适用《中华人民共和国保守国家秘密法》等法律、行政法规的规定。在统计、档案工作中开展数据处理活动，开展涉及个人信息的数据处理活动，还应当遵守有关法律、行政法规的规定。",
+        "ja": "国家機密に関するデータ処理活動を展開し、「中華人民共和国国家機密保持法」等の法律、行政法規の規定を適用する。統計、整理保存業務におけるデータ処理活動を展開し、個人情報に関するデータ処理活動を展開し、関連する法律、行政法規の規定を遵守しなければならない。",
+        "en": "The provisions of the Law of the People's Republic of China on Guarding State Secrets and other relevant laws and administrative regulations shall apply to data processing that involves state secrets. The provisions of relevant laws and administrative regulations shall also be observed when data are processed in statistical or archival work and in data processing involving personal information."
+      }
+    },
+    {
+      "id": 65,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第54条",
+        "ja": "第54条",
+        "en": "Article 54"
+      },
+      "texts": {
+        "zh": "军事数据安全保护的办法，由中央军事委员会依据本法另行制定。",
+        "ja": "軍事データセキュリティ保護の方法は、中央軍事委員会が本法に従って別途制定する。",
+        "en": "Measures for the military data security and protection shall be separately formulated by the Central Military Commission in accordance with this Law."
+      }
+    },
+    {
+      "id": 66,
+      "source_file": "中华人民共和国数据安全法(2021)",
+      "original_numbers": {
+        "zh": "第55条",
+        "ja": "第55条",
+        "en": "Article 55"
+      },
+      "texts": {
+        "zh": "本法自2021年9月1日起施行。",
+        "ja": "本法は2021年9月1日から施行する。",
+        "en": "This Law shall come into force as of September 1, 2021."
+      }
+    }
+  ]
+}

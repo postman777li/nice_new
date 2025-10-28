@@ -1,0 +1,956 @@
+{
+  "metadata": {
+    "law_name": "工会法",
+    "domain": "LaborLaw",
+    "year": 2001,
+    "source_file": "中华人民共和国工会法(2001).xlsx",
+    "total_entries": 67,
+    "processed_at": "2025-10-05T21:38:48.562614",
+    "languages": [
+      "zh",
+      "ja",
+      "en"
+    ],
+    "valid_entries": 67
+  },
+  "entries": [
+    {
+      "id": 1,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "法律名称",
+        "ja": "法令名",
+        "en": "Law Title"
+      },
+      "texts": {
+        "zh": "中华人民共和国工会法",
+        "ja": "中華人民共和国工会法",
+        "en": "Trade Union Law of the People's Republic of China"
+      }
+    },
+    {
+      "id": 3,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "修订记录",
+        "ja": "改正記録",
+        "en": "Revision Record"
+      },
+      "texts": {
+        "zh": "(1992年4月3日第七届全国人民代表大会第五次会议通过 根据2001年10月27日第九届全国人民代表大会常务委员会第二十四次会议《关于修改〈中华人民共和国工会法〉的决定》修正)",
+        "ja": "(1992 年 4 月 3 日第 7 回全国人民代表大会第 5 次会議で採択、2001 年 10 月 27 日第 9 回 全国人民代表大会常務委員会第 24 次会議の「『中華人民共和国工会法』の改訂に関する決 定」により修正)",
+        "en": "(Adopted at the Fifth Session of the Seventh National People's Congress on April 3, 1992 and promulgated by Order No.57 of the President of the People's Republic of China on April 3, 1992; amended in accordance with the Decision on Amending the Trade Union Law of the People's Republic of China adopted at the 24th Meeting of the Standing Committee of the Ninth National People's Congress on October 27, 2001)"
+      }
+    },
+    {
+      "id": 4,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "目录",
+        "ja": "目次",
+        "en": "Table of Contents"
+      },
+      "texts": {
+        "zh": "第一章 总则\n第二章 工会组织\n第三章 工会的权利和义务\n第四章 基层工会组织\n第五章 工会的经费和财产\n第六章 法律责任\n第七章 附则",
+        "ja": "第1章 総則\n第2章 工会の組織\n第3章 工会の権利と義務\n第4章 下部工会組織\n第5章 工会の経費と財産\n第6章 法律的責任\n第7章 付則",
+        "en": "Chapter I General Provisions\nChapter II Trade Unions\nChapter III Rights and Obligations\nChapter IV Community-Level Trade Unions\nChapter V Funds and Property\nChapter VI Legal Liability\nChapter VII Supplementary Provisions"
+      }
+    },
+    {
+      "id": 5,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第一章",
+        "ja": "第1章",
+        "en": NaN
+      },
+      "texts": {
+        "zh": "总则",
+        "ja": "総則",
+        "en": "General Provisions"
+      }
+    },
+    {
+      "id": 6,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 1 条",
+        "ja": "第 1 条",
+        "en": "Article 1"
+      },
+      "texts": {
+        "zh": "为保障工会在国家政治、经济和社会生活中的地位，确定工会的权利与义务，发挥工会在社会主义现代化建设事业中的作用，根据宪法，制定本法。",
+        "ja": "国家の政治、経済と社会生活の中の工会（労働組合のこと、下同）の位置を保証し、工会の権利と義務をはっきり決め、社会主義現代化建設事業の中の工会の役割を発揮させるため、憲法をよりどころとして本法を制定する。",
+        "en": "This Law is developed in accordance with the Constitution to guarantee the status of trade unions in the state's political, economic and social activities, define their rights and obligations, and ensure they play a role in socialist modernization."
+      }
+    },
+    {
+      "id": 7,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 2 条",
+        "ja": "第 2 条",
+        "en": "Article 2"
+      },
+      "texts": {
+        "zh": "工会是职工自愿结合的工人阶级的群众组织。中华全国总工会及其各工会组织代表职工的利益，依法维护职工的合法权益。",
+        "ja": "工会は、職員・労働者が自由意志により結成した労働者階級の大衆組織である。中華全国総工会（労働組合の全国組織、下同）とその各工会組織は職員・労働者の利益を代表し、法に照らして職員・労働者の合法的権益を守る。",
+        "en": "Trade unions are people's organizations of the working class formed by the workers of their own free will under the leadership of the Communist Party of China (hereinafter referred to as CPC) and serve as a bridge and bond linking the CPC with the workers. The All-China Federation of Trade Unions and trade unions at all levels represent the interests of the workers and safeguard the legitimate rights and interests of the workers in accordance with the law."
+      }
+    },
+    {
+      "id": 8,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 3 条",
+        "ja": "第 3 条",
+        "en": "Article 3"
+      },
+      "texts": {
+        "zh": "在中国境内的企业、事业单位、机关中以工资收入为主要生活来源的体力劳动者和脑力劳动者，不分民族、种族、性别、职业、宗教信仰、教育程度，都有依法参加和组织工会的权利。任何组织和个人不得阻挠和限制。",
+        "ja": "賃金所得を生活費の主な出所とする中国国内の企・事業体、機関（組織、機構、会社など、下同）の肉体労働者、頭脳労働者は、民族、種族、性別、職業、宗教・信仰、学歴を問わず、いずれも法により工会を結成し、工会に入会する権利がある。いかなる組織と個人であってもこれを妨害し制限してはならない。",
+        "en": "Employees of enterprises, public institutions, Party and government organs, and social organizations (hereinafter referred to as entities) within China's mainland who earn their living primarily from wages shall have the right to join and form trade unions in accordance with the law, regardless of their ethnicity, race, sex, occupation, religious belief or education. No organization or individual may hinder or restrict them from doing so. Trade unions shall protect the rights of workers to join and establish trade unions in accordance with the law and in light of developments and changes in areas such as the organizational forms of enterprises, the composition of workers, labor relations, and forms of employment."
+      }
+    },
+    {
+      "id": 9,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 4 条",
+        "ja": "第 4 条",
+        "en": "Article 4"
+      },
+      "texts": {
+        "zh": "工会必须遵守和维护宪法，以宪法为根本的活动准则，以经济建设为中心，坚持社会主义道路、坚持人民民主专政、坚持中国共产党的领导、坚持马克思列宁主义毛泽东思想邓小平理论，坚持改革开放，依照工会章程独立自主地开展工作。工会会员全国代表大会制定或者修改《中国工会章程》，章程不得与宪法和法律相抵触。国家保护工会的合法权益不受侵犯。",
+        "ja": "工会は憲法を順守して守り、憲法を活動の根本的な準則とし、経済建設を中心とし、社会主義の道を堅持し、人民民主独裁を堅持し、中国共産党の指導を堅持し、マルクスレーニン主義・毛沢東思想・鄧小平理論を堅持し、改革・開放を堅持し、工会の規約に従って独立で自主的に活動を進めなければならない。工会会員の全国代表大会は『中国工会章程（労組規約）』を制定し、又はこれを改正する。定款は憲法・法律に抵触してはならない。国家は、工会の合法的権益が侵害されないように保障する。",
+        "en": "Trade unions shall observe and safeguard the Constitution, act within its framework, take economic development as the central task, keep to the socialist road, adhere to the people's democratic dictatorship, uphold leadership by the CPC and follow Marxism-Leninism, Mao Zedong Thought, Deng Xiaoping Theory, the Theory of Three Represents, the Scientific Outlook on Development, and Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era, continue to reform and open up, have and strengthen political consciousness, remain and become more advanced and people-oriented, and work independently in accordance with the Charter of Trade Unions. The National Congress of Trade Unions formulates or amends the Charter of Trade Unions of the People's Republic of China, which shall not contravene the Constitution or other laws. The state shall protect the legitimate rights and interests of trade unions from infringement."
+      }
+    },
+    {
+      "id": 10,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 5 条",
+        "ja": "第 5 条",
+        "en": "Article 5"
+      },
+      "texts": {
+        "zh": "工会组织和教育职工依照宪法和法律的规定行使民主权利，发挥国家主人翁的作用，通过各种途径和形式，参与管理国家事务、管理经济和文化事业、管理社会事务；协助人民政府开展工作，维护工人阶级领导的、以工农联盟为基础的人民民主专政的社会主义国家政权。",
+        "ja": "工会組織は、職員・労働者が憲法と法律の規定に従って民主権利を行使し、国家主人公としての役割を発揮し、さまざまなルートと形式を通して国家事務の管理に参与し、経済と文化事業を管理し、社会事務を管理し、人民政府と協力して政府活動を繰り広げ、労働者階級が指導して労農同盟を基礎とする人民民主独裁の社会主義国家の政権を守るように教育しなければならない。",
+        "en": "Trade unions shall, in accordance with the provisions of the Constitution and other laws, organize and educate workers to play a role as the masters of the country and participate in various ways and forms in the administration of state affairs, economic and cultural programs and social affairs. Trade unions shall assist the people's governments in their work and safeguard the state power of China, a socialist country of people's democratic dictatorship under the leadership of the working class based on an alliance of workers and farmers."
+      }
+    },
+    {
+      "id": 11,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 6 条",
+        "ja": "第 6 条",
+        "en": "Article 6"
+      },
+      "texts": {
+        "zh": "维护职工合法权益是工会的基本职责。工会在维护全国人民总体利益的同时，代表和维护职工的合法权益。工会通过平等协商和集体合同制度，协调劳动关系，维护企业职工劳动权益。工会依照法律规定通过职工代表大会或者其他形式，组织职工参与本单位的民主决策、民主管理和民主监督。工会必须密切联系职工，听取和反映职工的意见和要求，关心职工的生活，帮助职工解决困难，全心全意为职工服务。",
+        "ja": "職員・労働者の合法的権益を守ることは工会の基本的な職責である。工会は全国人民の総体利益を守ると同時に、職員・労働者の合法的権益を代表して守る。工会は平等な話合と集団契約制度を通して労働関係を協調し、企業職員・労働者の労働の権益を守る。工会は法律の規定に従って職員・労働者代表大会、あるいはそのほかの形式を通して、職員・労働者を組織して本部門の戦略の民主的決定、民主的管理と民主的監督に参与する。工会は職員・労働者と密着な関係を保ち、職員・労働者の意見と要求を聴取してこれを伝達し、職員・労働者の生活に関心を寄せ、職員・労働者の困難解決に援助し、誠心誠意職員・労働者に奉仕しなければならない。",
+        "en": "The basic duties and functions of trade unions are to safeguard the legitimate rights and interests of workers and serve them with dedication. While protecting the overall interests of the entire Chinese people, trade unions shall represent and safeguard the legitimate rights and interests of workers. Trade unions shall improve mechanisms to coordinate labor relations, safeguard workers' rights and interests, and develop harmonious labor relations through measures such as equal-footed consultations and the collective contract system. Trade unions shall, in accordance with the provisions of laws and through workers' congresses or other forms, organize workers to participate in democratic elections, democratic consultation, democratic decision-making, democratic management, and democratic oversight of the entities where they are employed. Trade unions shall establish a trade union work system that is widely connected and serves workers, maintain close ties with the workers, and serve the workers wholeheartedly by heeding and reporting their opinions and demands, caring about their lives and helping them solve their difficulties."
+      }
+    },
+    {
+      "id": 12,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 7 条",
+        "ja": "第 7 条",
+        "en": "Article 7"
+      },
+      "texts": {
+        "zh": "工会动员和组织职工积极参加经济建设，努力完成生产任务和工作任务。教育职工不断提高思想道德、技术业务和科学文化素质，建设有理想、有道德、有文化、有纪律的职工队伍。",
+        "ja": "工会は、職員・労働者を動員し組織して、経済建設に積極的に参加し、生産と仕事の任務を完成することに努力する。思想道徳、技術業務と科学文化の素質を絶えず引き上げるように職員・労働者を指導し、思想があり、道徳があり、文化があり、規律を守る職員・労働者の集団を確立する。",
+        "en": "Trade unions shall mobilize and organize workers to take part in economic development and to fulfill their tasks in production and other work. Trade unions shall help workers improve their morality, skills, scientific literacy, and cultural competence, so that the workers will have ideals, moral integrity, and a strong sense of discipline, and be well-educated."
+      }
+    },
+    {
+      "id": 13,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 8 条",
+        "ja": "第 8 条",
+        "en": "Article 8"
+      },
+      "texts": {
+        "zh": "中华全国总工会根据独立、平等、互相尊重、互不干涉内部事务的原则，加强同各国工会组织的友好合作关系。",
+        "ja": "中華全国総工会は独立、平等、相互尊重、内部事務への相互不干渉の原則に照らして、各国の工会組織との友好合作関係を強める。",
+        "en": "Trade unions shall promote the development and reform of the industrial workforce and enhance its overall quality, and they shall leverage industrial workers' critical role, protect their legitimate rights and interests, and guarantee their position as masters of their enterprises, so as to cultivate a large-scale industrial workforce that has ideals and convictions, understands technology, makes innovations, and works with a strong sense of responsibility and dedication."
+      }
+    },
+    {
+      "id": 14,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第二章",
+        "ja": "第2章",
+        "en": "Chapter II"
+      },
+      "texts": {
+        "zh": "工会组织",
+        "ja": "工会の組織",
+        "en": "Trade Unions"
+      }
+    },
+    {
+      "id": 15,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 9 条",
+        "ja": "第 9 条",
+        "en": "Article 9"
+      },
+      "texts": {
+        "zh": "工会各级组织按照民主集中制原则建立。各级工会委员会由会员大会或者会员代表大会民主选举产生。企业主要负责人的近亲属不得作为本企业基层工会委员会成员的人选。各级工会委员会向同级会员大会或者会员代表大会负责并报告工作，接受其监督。工会会员大会或者会员代表大会有权撤换或者罢免其所选举的代表或者工会委员会组成人员。上级工会组织领导下级工会组织。",
+        "ja": "工会の各級組織は民主集中制の原則に従って建立する。各級工会委員会は、会員大会あるいは会員代表大会により民主的に選出する。企業の主要責任者の近親族は本企業の下部工会委員会メンバーの立候補者としてはならない。各級工会委員会は同級会員大会あるいは会員代表大会に責任を持ち、活動を報告し、その監督を受ける。工会会員大会あるいは会員代表大会はその選出した代表、あるいは工会委員会の構成員を入れ替え、またはそれを罷免する権利がある。上級工会組織は下級工会組織を指導する。",
+        "en": "The All-China Federation of Trade Unions shall strengthen friendly and cooperative relations with trade unions of other countries in accordance with the principles of independence, equality, mutual respect and noninterference in each other's internal affairs."
+      }
+    },
+    {
+      "id": 16,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 10 条",
+        "ja": "第 10 条",
+        "en": "Article 10"
+      },
+      "texts": {
+        "zh": "企业、事业单位、机关有会员二十五人以上的，应当建立基层工会委员会；不足二十五人的，可以单独建立基层工会委员会，也可以由两个以上单位的会员联合建立基层工会委员会，也可以选举组织员一人，组织会员开展活动。女职工人数较多的，可以建立工会女职工委员会，在同级工会领导下开展工作；女职工人数较少的，可以在工会委员会中设女职工委员。企业职工较多的乡镇、城市街道，可以建立基层工会的联合会。县级以上地方建立地方各级总工会。同一行业或者性质相近的几个行业，可以根据需要建立全国的或者地方的产业工会。全国建立统一的中华全国总工会。",
+        "ja": "25人以上の会員を有する企・事業体、機関は下部工会委員会を設立しなければならない。25人未満の場合は独自で下部工会委員会を設立することもできるし、2つ以上の部門の会員を合わせて下部工会委員会を設立することもできるし、1人の「組織員」を選出してそれにより会員を組織して活動を繰り広げることも出来る。女性職員・労働者が多い場合は、工会女性職員・労働者委員会を設立して、同級工会の指導の下で活動を繰り広げることが出来る。女性職員・労働者が少ない場合は、工会委員会の中で女性委員の席を設けることが出来る。企業職員・労働者が多い郷・鎮（町）、都市の市街では下部工会連合会を設立することが出来る。県級以上の地方では地方各級総工会を設立する。同じ業界または性質がほぼ同じのいくつかの業界では、必要に応じて全国規模、または地方規模の産業工会を設立することが出来る。全国では統一の中華全国総工会を設立する。",
+        "en": "Trade unions at various levels shall be established in accordance with the principle of democratic centralism. Committees of trade unions at various levels shall be democratically elected at trade union members' conferences or congresses. No close relatives of the principal leaders of an enterprise may be candidates for members of its community-level trade union committee. Committees of trade unions at various levels shall be responsible to, and report their work to, the corresponding trade union members' conference or congress and be subjected to the supervision therefrom as well. Trade union members' conferences or congresses shall have the right to remove or dismiss the delegates or members of trade union committees they elected. A trade union shall be led and organized by trade unions at higher levels."
+      }
+    },
+    {
+      "id": 17,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 11 条",
+        "ja": "第 11 条",
+        "en": "Article 11"
+      },
+      "texts": {
+        "zh": "基层工会、地方各级总工会、全国或者地方产业工会组织的建立，必须报上一级工会批准。上级工会可以派员帮助和指导企业职工组建工会，任何单位和个人不得阻挠。",
+        "ja": "下部工会、地方各級総工会、全国規模または地方規模の産業工会組織を設立するに当たり、上級工会に報告して許可を仰がなければならない。企業の職員・労働者の工会結成に、上級工会は人員を派遣してそれに協力し指導することが出来る。いかなる組織または個人であってもこれを妨害してはならない。",
+        "en": "An entity with twenty-five or more trade union members shall establish a community-level trade union committee. For an entity with fewer than twenty-five trade union members, a community-level trade union committee may be formed by these members alone or together with trade union members of another one or more entities; or, a person may be chosen among these members to organize activities for all members. An entity with a large number of female workers may establish a female workers' trade union committee that shall work under the leadership of the same-level trade union, while an entity with a small number of female workers may have female members in the trade union committee. Townships, towns, and urban subdistricts with a large number of enterprise employees may establish a federation of community-level trade unions. A locality at or above the county level shall establish a local federation of trade unions. A national or local industrial trade union may be formed, when needed, for a particular industry or several industries of a similar nature. The All-China Federation of Trade Unions shall be established as the national unified organization for trade unions."
+      }
+    },
+    {
+      "id": 18,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 12 条",
+        "ja": "第 12 条",
+        "en": "Article 12"
+      },
+      "texts": {
+        "zh": "任何组织和个人不得随意撤销、合并工会组织。基层工会所在的企业终止或者所在的事业单位、机关被撤销，该工会组织相应撤销，并报告上一级工会。依前款规定被撤销的工会，其会员的会籍可以继续保留，具体管理办法由中华全国总工会制定。",
+        "ja": "いかなる組織または個人であっても工会組織を勝手に撤廃し、合併してはならない。下部工会所在の企業が終止し、または所在の事業体、機関が撤廃された場合、該工会組織はそれに応じて撤廃され、且つ上級工会にこれを報告する。前項規定に照らして撤廃された工会は、その会員の会員資格を引き続き留めていくことができる。具体的な管理方法は中華全国総工会によりこれを制定する。",
+        "en": "The establishment of community-level trade unions, local federations of trade unions, and national or local industrial trade unions shall be reported to the trade union at the next higher level for approval. Trade unions at higher levels may dispatch their members to provide assistance and guidance for enterprise employees in setting up trade unions, and there shall be no obstruction from any entity or individual."
+      }
+    },
+    {
+      "id": 19,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 13 条",
+        "ja": "第 13 条",
+        "en": "Article 13"
+      },
+      "texts": {
+        "zh": "职工二百人以上的企业、事业单位的工会，可以设专职工会主席。工会专职工作人员的人数由工会与企业、事业单位协商确定。",
+        "ja": "200人以上の職員・労働者を有する企・事業体の工会は、専任の工会主席を設けることが出来る。工会の専任スタッフの人数は工会と企・事業体と相談してこれを定める。",
+        "en": "No organization or individual may dissolve or merge trade unions at will. A community-level trade union shall be dissolved when the entity to which it belongs is terminated or dissolved, and the matter shall be reported to the trade union at the next higher level. The membership of the members of the dissolved trade union specified in the provisions of the preceding paragraph may be retained, and the specific administrative measures in this regard shall be formulated by the All-China Federation of Trade Unions."
+      }
+    },
+    {
+      "id": 20,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 14 条",
+        "ja": "第 14 条",
+        "en": "Article 14"
+      },
+      "texts": {
+        "zh": "中华全国总工会、地方总工会、产业工会具有社会团体法人资格。基层工会组织具备民法通则规定的法人条件的，依法取得社会团体法人资格。",
+        "ja": "中華全国総工会、地方総工会、産業工会は社団法人の資格を有する。民法通則が定めた法人条件を具えた下部工会組織は、法により社団法人の資格を取得する。",
+        "en": "A trade union of an enterprise, public institution, or social organization with two hundred or more employees may designate a full-time chairperson. The number of the full-time staff members of a trade union shall be determined by the trade union together with its enterprise, public institution, or social organization through consultations."
+      }
+    },
+    {
+      "id": 21,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 15 条",
+        "ja": "第 15 条",
+        "en": "Article 15"
+      },
+      "texts": {
+        "zh": "基层工会委员会每届任期三年或者五年。各级地方总工会委员会和产业工会委员会每届任期五年。",
+        "ja": "下部工会委員会の任期は毎期で3年か5年とする。各級地方総工会委員会と産業工会委員会の任期は毎期で5年とする。",
+        "en": "The All-China Federation of Trade Unions, local federations of trade unions, and industrial trade unions shall have the status of a social-organization legal person. A community-level trade union that meets the qualifications of a legal person as prescribed in the Civil Code, shall be granted the status of a social-organization legal person in accordance with the law."
+      }
+    },
+    {
+      "id": 22,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 16 条",
+        "ja": "第 16 条",
+        "en": "Article 16"
+      },
+      "texts": {
+        "zh": "基层工会委员会定期召开会员大会或者会员代表大会，讨论决定工会工作的重大问题。经基层工会委员会或者三分之一以上的工会会员提议，可以临时召开会员大会或者会员代表大会。",
+        "ja": "下部工会委員会は定期的に会員大会または会員代表大会を開き、工会活動の重大な問題を討論して決定する。下部工会委員会または3分の1以上の工会会員が要求する場合、臨時の会員大会または会員代表大会を開催することが出来る。",
+        "en": "The term of office of the committee of a community-level trade union is three or five years. The term of office of the committee of a local federation of trade unions at each level and of an industrial trade union is five years."
+      }
+    },
+    {
+      "id": 23,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 17 条",
+        "ja": "第 17 条",
+        "en": "Article 17"
+      },
+      "texts": {
+        "zh": "工会主席、副主席任期未满时，不得随意调动其工作。因工作需要调动时，应当征得本级工会委员会和上一级工会的同意。罢免工会主席、副主席必须召开会员大会或者会员代表大会讨论，非经会员大会全体会员或者会员代表大会全体代表过半数通过，不得罢免。",
+        "ja": "工会主席、副主席の任期が未満了の場合、その仕事は勝手に改めてはならない。仕事の必要で改めなければならない場合は、本級工会委員会と上級工会の同意を得なければならない。工会主席、副主席を罷免するにあたり、会員大会または会員代表大会を開いてこれを討論しなければならず、会員大会の会員全体または会員代表大会の代表全体の過半数の同意を経ない場合は罷免できない。",
+        "en": "Committees of community-level trade unions shall convene members' conferences or congresses at regular intervals to discuss and decide major issues related to the work of trade unions. Upon the proposal of the committee of a community-level trade union or one-third or more of its members, a members' conference or session of congress may be convened at any time."
+      }
+    },
+    {
+      "id": 24,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 18 条",
+        "ja": "第 18 条",
+        "en": "Article 18"
+      },
+      "texts": {
+        "zh": "基层工会专职主席、副主席或者委员自任职之日起，其劳动合同期限自动延长，延长期限相当于其任职期间；非专职主席、副主席或者委员自任职之日起，其尚未履行的劳动合同期限短于任期的，劳动合同期限自动延长至任期期满。但是，任职期间个人严重过失或者达到法定退休年龄的除外。",
+        "ja": "下部工会の専任主席、副主席または委員は職に就いたその日から、その労働契約の期限が自動的に延長され、延長の期限はその任職期限に相当する。専任でない主席、副主席または委員は職に就いたその日から、まだ履行していない労働契約の期限が任期より短い場合、労働契約の期限は自動的に任期満了にまで延長する。但し、任職の期間中に個人に重大な過失があり、または法定の退職年齢に達した場合は除外する。",
+        "en": "No trade union chairperson or vice-chairperson may be arbitrarily transferred to another entity or post before the expiration of his tenure of office. When such a transfer is prompted by the need of work, it shall be subject to the approval of the committee of his trade union and the trade union at the next higher level. The dismissal of a trade union chairperson or vice-chairperson must be discussed at the members' conference or congress, and such dismissal shall not be made without the approval of all members of the members' conference or a majority of the deputies to the members' congress."
+      }
+    },
+    {
+      "id": 25,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第三章",
+        "ja": "第3章",
+        "en": "Chapter III"
+      },
+      "texts": {
+        "zh": "工会的权利和义务",
+        "ja": "工会の権利と義務",
+        "en": "Rights and Obligations"
+      }
+    },
+    {
+      "id": 26,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 19 条",
+        "ja": "第 19 条",
+        "en": "Article 19"
+      },
+      "texts": {
+        "zh": "企业、事业单位违反职工代表大会制度和其他民主管理制度，工会有权要求纠正，保障职工依法行使民主管理的权利。法律、法规规定应当提交职工大会或者职工代表大会审议、通过、决定的事项，企业、事业单位应当依法办理。",
+        "ja": "企・事業体が職員・労働者代表大会の制度とその他の民主管理制度を違反した場合、工会はこれを是正し、職員・労働者の法による民主管理を保障するよう要求する権利がある。法律、法規に規定する職員・労働者大会または職員・労働者代表大会にまわして審議し、採択し、決定すべく事項は、企・事業体が法に照らしてこれを扱わなければならない。",
+        "en": "The term of the labor contract of the full-time chairperson, vice-chairperson or committee member of a community-level trade union shall be automatically extended from the date of his appointment for a period equivalent to his term of office. Where the outstanding term of the labor contract of the part-time chairperson, vice-chairperson or committee member is shorter than the term of office from the date of their taking office, the term of the labor contract shall be automatically extended until the expiration of the term of office unless he commits serious mistakes or reaches the statutory retirement age during his term of office."
+      }
+    },
+    {
+      "id": 27,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 20 条",
+        "ja": "第 20 条",
+        "en": "Article 20"
+      },
+      "texts": {
+        "zh": "工会帮助、指导职工与企业以及实行企业化管理的事业单位签订劳动合同。工会代表职工与企业以及实行企业化管理的事业单位进行平等协商，签订集体合同。集体合同草案应当提交职工代表大会或者全体职工讨论通过。工会签订集体合同，上级工会应当给予支持和帮助。企业违反集体合同，侵犯职工劳动权益的，工会可以依法要求企业承担责任；因履行集体合同发生争议，经协商解决不成的，工会可以向劳动争议仲裁机构提请仲裁，仲裁机构不予受理或者对仲裁裁决不服的，可以向人民法院提起诉讼。",
+        "ja": "工会は職員・労働者を援助して指導し、企業および企業化管理を実行する事業体と労働契約を結ぶ。工会は職員・労働者を代表して、企業と企業化管理を実行する事業体と平等の話合を通して集団契約を結ぶ。集団契約案は職員・労働者代表大会または職員・労働者全体にまわして討論し、採択しなければならない。工会が集団契約を結ぶにあたり、上級工会はこれを支持し援助しなければならない。企業が集団契約を違反して職員・労働者の労働権益を侵害した場合、工会は法により責任を引き受けるよう企業に要求することが出来る。集団契約の履行で紛争が生じ、話合を経ても解決できない場合、工会は仲裁するよう労働争議仲裁機関に請求することが出来る。仲裁機関が受理せず、または仲裁機関の仲裁判断に不服の場合は、人民法院（裁判所、下同）に訴訟を起こすことが出来る。",
+        "en": "Where an enterprise, public institution, or social organization acts in contravention to the system of workers' congresses or other systems of democratic management, its trade union shall have the right to demand rectification so as to ensure the workers exercise their democratic management right in accordance with the law. The enterprise or public institution shall handle in accordance with the law matters that shall be submitted to the workers' conference or congress for deliberation, adoption or decision as prescribed by laws and regulations."
+      }
+    },
+    {
+      "id": 28,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 21 条",
+        "ja": "第 21 条",
+        "en": "Article 21"
+      },
+      "texts": {
+        "zh": "企业、事业单位处分职工，工会认为不适当的，有权提出意见。企业单方面解除职工劳动合同时，应当事先将理由通知工会，工会认为企业违反法律、法规和有关合同，要求重新研究处理时，企业应当研究工会的意见，并将处理结果书面通知工会。职工认为企业侵犯其劳动权益而申请劳动争议仲裁或者向人民法院提起诉讼的，工会应当给予支持和帮助。",
+        "ja": "企・事業体の職員・労働者処分で、工会は適切でないと判断する場合、意見を提出する権利がある。企業が一方的に職員・労働者との労働契約を解除するに当たり、事前にその理由を工会に知らせなければならない。工会から、企業が法律、法規と関連契約を違反したと判断され、処分を再検討するよう要求された場合、企業は工会の意見を検討しなければならず、且つ処理の結果を書面で工会に知らせなければならない。職員・労働者は企業がその労働権益を侵害したと判断し、労働紛争の仲裁を提出し、または人民法院に訴訟を起こした場合、工会はこれを支持し援助しなければならない。",
+        "en": "Trade unions shall provide assistance and guidance for workers in signing labor contracts with enterprises, public institutions that are managed as enterprises, or social organizations. Trade unions shall, on behalf of workers, carry out equal-footed consultations and sign collective contracts with enterprises, public institutions that are managed as enterprises, or social organizations in accordance with the law. The draft collective contracts shall be submitted to the workers' congress or all the workers for deliberation and approval. Where a trade union signs collective contracts, a trade union at a higher level shall afford it support and assistance. Where an enterprise, public institution, or social organization infringes upon the labor rights and interests of the workers in violation of the collective contract, the trade union may, in accordance with the law, demand that said enterprise, public institution, or social organization make rectification and assume the responsibilities for its acts. Where disputes arising from the performance of the collective contract fail to be settled through consultations, the trade union may submit them to a labor dispute arbitrator for arbitration. Where the arbitrator refuses to accept the case or the trade union is not satisfied with the arbitration award, the trade union may bring the case before a people's court."
+      }
+    },
+    {
+      "id": 29,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 22 条",
+        "ja": "第 22 条",
+        "en": "Article 22"
+      },
+      "texts": {
+        "zh": "企业、事业单位违反劳动法律、法规规定，有下列侵犯职工劳动权益情形，工会应当代表职工与企业、事业单位交涉，要求企业、事业单位采取措施予以改正；企业、事业单位应当予以研究处理，并向工会作出答复；企业、事业单位拒不改正的，工会可以请求当地人民政府依法作出处理：（一）克扣职工工资的；（二）不提供劳动安全卫生条件的；（三）随意延长劳动时间的；（四）侵犯女职工和未成年工特殊权益的；（五）其他严重侵犯职工劳动权益的。",
+        "ja": "企・事業体が労働関連の法律、法規の規定を違反し、職員・労働者の労働権益を侵害して次の各項に該当した場合、工会は職員・労働者を代表して企・事業体と交渉し、措置を取ってこれを改正するよう企・事業体に要求することが出来る。企・事業体はこれを検討して処理し、且つ工会に返答しなければならない。企・事業体が改正を拒否した場合、工会は法によりこれを処理するよう所在の人民政府に請求することが出来る。（1）職員・労働者の給料の上前をはねた。（2）作業の安全と衛生の条件を提供しなかった。（3）労働時間を随意に延長した。（4）女性職員・労働者と未成年労働者の特殊な権益を侵害した。（5）職員・労働者の労働権益を侵害したその他の重大な事項。",
+        "en": "Where an enterprise, public institution, or social organization punishes a worker in a manner that the trade union considers improper, the trade union shall have the right to raise their opinions. When an entity unilaterally terminates the labor contract of an employee, it shall notify the trade union of the reasons in advance. Where the trade union believes that the entity violates the laws, regulations and relevant contracts and requests to reconsider the matter, the entity shall study the opinions of the trade union and notify the trade union in writing of the handling. Where an employee believes that the entity violates his labor rights and interests and applies for labor dispute arbitration or files a lawsuit in the people's court, his trade union shall afford him support and assistance."
+      }
+    },
+    {
+      "id": 30,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 23 条",
+        "ja": "第 23 条",
+        "en": "Article 23"
+      },
+      "texts": {
+        "zh": "工会依照国家规定对新建、扩建企业和技术改造工程中的劳动条件和安全卫生设施与主体工程同时设计、同时施工、同时投产使用进行监督。对工会提出的意见，企业或者主管部门应当认真处理，并将处理结果书面通知工会。",
+        "ja": "工会は国家規定に基づき新設、拡張企業と技術改良工事中の労働条件と安全衛生施設に対して、その主体プロジェクトの設計、工事、操業、使用を始めると同時に法に照らして監督を行う。工会が提出した意見に対して、企業または主管部門は真剣に処理しなければならず、且つ処理の結果を書面で工会に知らせなければならない。",
+        "en": "Where an enterprise, public institution, or social organization infringes upon the labor rights and interests of workers in violation of labor laws and regulations in any of the following ways, the trade union shall make representations to the enterprise, public institution, or social organization and demand rectification on behalf of the workers. The enterprise, public institution, or social organization shall review and handle the matter and give a reply to the trade union. Where the enterprise, public institution, or social organization refuses to make rectification, the trade union may submit the matter to the local people’s government for a decision in accordance with the law: (1) embezzling or failing to pay the wages of workers; (2) failing to provide occupational safety and health conditions; (3) arbitrarily extending working hours; (4) infringing upon the special rights and interests of female workers and minor workers; or (5) seriously infringing upon other labor rights and interests of workers."
+      }
+    },
+    {
+      "id": 31,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 24 条",
+        "ja": "第 24 条",
+        "en": "Article 24"
+      },
+      "texts": {
+        "zh": "工会发现企业违章指挥、强令工人冒险作业，或者生产过程中发现明显重大事故隐患和职业危害，有权提出解决的建议，企业应当及时研究答复；发现危及职工生命安全的情况时，工会有权向企业建议组织职工撤离危险现场，企业必须及时作出处理决定。",
+        "ja": "工会は、企業が規定を違反して指揮し、危険を犯して作業するよう労働者に要求し、あるいは生産の過程で明らかな重大な事故を招く危険や潜在する職業危害を発見した場合、解決案を提出する権利がある。企業は適時にこれを検討し返答しなければならない。工会は職員・労働者の生命安全を脅かすことを発見した場合、職員・労働者を組織して危険現場から退くよう企業に提案することができ、企業は滞りなく処理の決定をしなければならない。",
+        "en": "Trade unions shall see to it in accordance with state regulations that the facilities for better working conditions and occupational safety and health for enterprise construction, expansion or technological transformation projects are designed, built and put into operation and use simultaneously with the main parts of the projects. The enterprises or the competent authorities shall give serious consideration to the opinions put forth by the trade unions, and inform the trade unions of the results of their handling in writing."
+      }
+    },
+    {
+      "id": 32,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 25 条",
+        "ja": "第 25 条",
+        "en": "Article 25"
+      },
+      "texts": {
+        "zh": "工会有权对企业、事业单位侵犯职工合法权益的问题进行调查，有关单位应当予以协助。",
+        "ja": "工会は、企・事業体が職員・労働者の合法的権益を侵害した問題に対して調査する権利がある。関連部門はこれに協力しなければならない。",
+        "en": "Where a trade union finds that its enterprise gives a command contrary to the established rules and compels workers to operate under unsafe conditions, or finds major and conspicuous dangers and accident hazards in the course of production, the trade union shall have the right to propose a solution, and said enterprise shall consider the proposal and give a reply to the trade union without delay. Where a trade union finds the lives of workers in danger, the trade union shall have the right to propose to the enterprise that the workers be organized to withdraw from the dangerous site, and said enterprise shall make a decision in a timely manner."
+      }
+    },
+    {
+      "id": 33,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 26 条",
+        "ja": "第 26 条",
+        "en": "Article 26"
+      },
+      "texts": {
+        "zh": "职工因工伤亡事故和其他严重危害职工健康问题的调查处理，必须有工会参加。工会应当向有关部门提出处理意见，并有权要求追究直接负责的主管人员和有关责任人员的责任。对工会提出的意见，应当及时研究，给予答复。",
+        "ja": "職員・労働者の業務上の原因による死傷事故と職員・労働者の健康を重大に損なうその他問題の調査処理には工会が参加しなければならない。工会は関連部門に処理の意見を提出しなければならず、且つ直接的な責任をもつ主管スタッフと関連責任者への責任追及を要求する権利がある。工会が提出した意見に対しては、滞りなくこれを検討し、返答しなければならない。",
+        "en": "Trade unions shall have the right to investigate the infringements upon the legitimate rights and interests of workers by enterprises, public institutions, or social organizations, and the entities concerned shall afford them assistance."
+      }
+    },
+    {
+      "id": 34,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 27 条",
+        "ja": "第 27 条",
+        "en": "Article 27"
+      },
+      "texts": {
+        "zh": "企业、事业单位发生停工、怠工事件，工会应当代表职工同企业、事业单位或者有关方面协商，反映职工的意见和要求并提出解决意见。对于职工的合理要求，企业、事业单位应当予以解决。工会协助企业、事业单位做好工作，尽快恢复生产、工作秩序。",
+        "ja": "企・事業体に操業停止、サボタージュが生じた場合、工会は職員・労働者を代表して企・事業体または関連方面と協商して、職員・労働者の意見と要求を伝達し、且つ解決の意見を提出しなければならない。職員・労働者の合理的意見に対し、企・事業体はこれを解決しなければならない。工会は企・事業体と協力して仕事をよく進め、生産や仕事の秩序をできる限り早く回復させる。",
+        "en": "Trade unions shall participate in the investigation into and settlement of job-related accidents causing death or injuries to workers and other problems seriously endangering the health of workers. Trade unions shall propose solutions to the authorities concerned, and have the right to demand that the persons who are directly in charge and the other persons who are responsible be held accountable. The proposals of trade unions shall be considered and replies be given without delay."
+      }
+    },
+    {
+      "id": 35,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 28 条",
+        "ja": "第 28 条",
+        "en": "Article 28"
+      },
+      "texts": {
+        "zh": "工会参加企业的劳动争议调解工作。地方劳动争议仲裁组织应当有同级工会代表参加。",
+        "ja": "工会は企業の労働紛争の調停活動に参加する。地方労働紛争の仲裁組織には、同級工会の代表が参加しなければならない。",
+        "en": "In case of a work stoppage or slowdown in an enterprise, public institution, or social organization, its trade union shall hold consultation with said enterprise, public institution, or social organization or the parties concerned on behalf of workers, present the opinions and demands of workers, and propose solutions. Said enterprise, public institution, or social organization shall solve whatever reasonable demands workers have made. The trade union shall assist the enterprise, public institution, or social organization in the process so as to help restore the normal order of production and work as soon as possible."
+      }
+    },
+    {
+      "id": 36,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 29 条",
+        "ja": "第 29 条",
+        "en": "Article 29"
+      },
+      "texts": {
+        "zh": "县级以上各级总工会可以为所属工会和职工提供法律服务。",
+        "ja": "県級以上の各級総工会は所属工会と職員・労働者に法律的サービスを提供することが出来る。",
+        "en": "Trade unions shall participate in the mediation of labor disputes in enterprises. Local labor dispute arbitrators shall include representatives of trade unions at the same levels."
+      }
+    },
+    {
+      "id": 37,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 30 条",
+        "ja": "第 30 条",
+        "en": "Article 30"
+      },
+      "texts": {
+        "zh": "工会协助企业、事业单位、机关办好职工集体福利事业，做好工资、劳动安全卫生和社会保险工作。",
+        "ja": "工会は企・事業体、機関と協力して、職員・労働者の集団の福祉事業を整え、賃金、労働安全、衛生と社会保険活動を完遂する。",
+        "en": "Federations of trade unions at or above the county level shall provide legal aid and other legal services to their member trade unions and workers in accordance with the law."
+      }
+    },
+    {
+      "id": 38,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 31 条",
+        "ja": "第 31 条",
+        "en": "Article 31"
+      },
+      "texts": {
+        "zh": "工会会同企业、事业单位教育职工以国家主人翁态度对待劳动，爱护国家和企业的财产，组织职工开展群众性的合理化建议、技术革新活动，进行业余文化技术学习和职工培训，组织职工开展文娱、体育活动。",
+        "ja": "工会は企・事業体と共同で国家の主人公としての態度を以って労働にあたり、国家と企業の財産を守るよう職員・労働者を教育し、職員・労働者を組織して大衆的合理化提案や技術改良の活動を繰り広げ、業余文化技術の学習と職員・労働者の訓練を行い、職員・労働者を組織して文化娯楽と体育活動を繰り広げる。",
+        "en": "Trade unions shall assist their entities in providing collective welfare services for workers and in dealing with matters concerning wages, occupational safety and health, as well as social insurance."
+      }
+    },
+    {
+      "id": 39,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 32 条",
+        "ja": "第 32 条",
+        "en": "Article 32"
+      },
+      "texts": {
+        "zh": "根据政府委托，工会与有关部门共同做好劳动模范和先进生产（工作）者的评选、表彰、培养和管理工作。",
+        "ja": "政府の依頼に基づき、工会は関連部門と共同で模範労働者と先進労働者の選考、表彰、養成と管理の活動を進める。",
+        "en": "Trade unions shall provide theoretical and political guidance for their workers in conjunction with employers, educate workers to do their work and protect the property of their entities and the state as the masters of the country, organize public activities for workers to make rational proposals and technical innovations, hold occupational and skill competitions, conduct off-hour cultural and technical studies and vocational training, encourage participation in vocational education and cultural and sports activities, and promote education on occupational safety and health, as well as labor protection."
+      }
+    },
+    {
+      "id": 40,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 33 条",
+        "ja": "第 33 条",
+        "en": "Article 33"
+      },
+      "texts": {
+        "zh": "国家机关在组织起草或者修改直接涉及职工切身利益的法律、法规、规章时，应当听取工会意见。县级以上各级人民政府制定国民经济和社会发展计划，对涉及职工利益的重大问题，应当听取同级工会的意见。县级以上各级人民政府及其有关部门研究制定劳动就业、工资、劳动安全卫生、社会保险等涉及职工切身利益的政策、措施时，应当吸收同级工会参加研究，听取工会意见。",
+        "ja": "国家機関が直接職員・労働者の利益と密着に関連する法律、法規、規約を起草し、または修正するに当たり、工会の意見を聴取しなければならない。県級以上の各級人民政府が国民経済と社会発展計画を制定するに当たり、職員・労働者の利益に関連する重大な問題に対しては、同級工会の意見を聴取しなければならない。県級以上の各級人民政府とその関連部門が労働就職、賃金、労働の安全と衛生、社会保険など職員・労働者の利益に密着する政策、措置を制定するに当たり、その研究には同級工会の参加を受け入れ、工会の意見を聴取しなければならない。",
+        "en": "Entrusted by the government, trade unions shall, together with relevant authorities, select, commend, cultivate and manage model workers and advanced producers (workers)."
+      }
+    },
+    {
+      "id": 41,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 34 条",
+        "ja": "第 34 条",
+        "en": "Article 34"
+      },
+      "texts": {
+        "zh": "县级以上地方各级人民政府可以召开会议或者采取适当方式，向同级工会通报政府的重要的工作部署和与工会工作有关的行政措施，研究解决工会反映的职工群众的意见和要求。各级人民政府劳动行政部门应当会同同级工会和企业方面代表，建立劳动关系三方协商机制，共同研究解决劳动关系方面的重大问题。",
+        "ja": "県級以上の各級地方人民政府は会議を開き、又はそのほかの適当な方式を取って、政府の重要な活動部署や工会の活動と関連する行政措置を同級工会に通報し、工会が伝達した職員・労働者の意見と要求を研究して解決することが出来る。各級人民政府の労働行政部門は同級工会、企業方面の代表と共同で、労働関係の三方協商メカニズムを打ち立て、労働関係方面の重大な問題を共同で研究し解決しなければならない。",
+        "en": "Central Party and government organs shall heed the opinions of trade unions when organizing the drafting or amendment of laws, regulations and rules directly related to the immediate interests of the workers. People's governments at or above the county level shall solicit the opinions of the trade unions at the same levels on major issues concerning the interests of workers when drawing up plans for economic and social development. People's governments at or above the county level and their relevant authorities shall invite trade unions at the same levels to participate in the research and share their opinions when studying the feasibility of formulating policies and measures concerning the immediate interests of workers, such as employment, wages, occupational safety and health, and social insurance."
+      }
+    },
+    {
+      "id": 42,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第四章",
+        "ja": "第4章",
+        "en": "Chapter IV"
+      },
+      "texts": {
+        "zh": "基层工会组织",
+        "ja": "下部工会組織",
+        "en": "Community-Level Trade Unions"
+      }
+    },
+    {
+      "id": 43,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 35 条",
+        "ja": "第 35 条",
+        "en": "Article 35"
+      },
+      "texts": {
+        "zh": "国有企业职工代表大会是企业实行民主管理的基本形式，是职工行使民主管理权力的机构，依照法律规定行使职权。国有企业的工会委员会是职工代表大会的工作机构，负责职工代表大会的日常工作，检查、督促职工代表大会决议的执行。",
+        "ja": "国有企業の職員・労働者代表大会は企業が民主管理を実行する基本形式であり、職員・労働者が民主管理権力を行使する機関であり、法律の規定に照らして職権を行使する。国有企業の工会委員会は職員・労働者代表大会の活動機関であり、職員・労働者代表大会の日常活動に責任を持ち、職員・労働者代表大会の決議の執行を検査し督促する。",
+        "en": "The people's governments at or above the county level may, through meetings or in other ways, inform the trade unions at the same levels of their work plans and administrative measures related to trade union work, and analyze the opinions and demands of the workers reported by trade unions with solutions. Administrative authorities for labor under the people's governments at all levels shall, together with the trade unions at the same levels and the representatives of enterprises, establish trilateral consultation mechanisms on labor relations to analyze and settle issues on labor relations."
+      }
+    },
+    {
+      "id": 44,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 36 条",
+        "ja": "第 36 条",
+        "en": "Article 36"
+      },
+      "texts": {
+        "zh": "集体企业的工会委员会，应当支持和组织职工参加民主管理和民主监督，维护职工选举和罢免管理人员、决定经营管理的重大问题的权力。",
+        "ja": "集団所有制企業の工会委員会は、職員・労働者が民主管理と民主監督に参加することを支持し組織し、職員・労働者が管理スタッフを選出し罷免し、経営管理など重大な問題を決定する権力を守らなければならない。",
+        "en": "In a state-owned enterprise, the workers' congress is the basic form of democratic management of the enterprise and the body through which workers exercise their right to democratic management, and discharges its functions and powers in accordance with the provisions of laws. The trade union committee of a state-owned enterprise is the working body of the workers' congress, takes care of the day-to-day work of the congress, and inspects and supervises compliance with the resolutions of the congress."
+      }
+    },
+    {
+      "id": 45,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 37 条",
+        "ja": "第 37 条",
+        "en": "Article 37"
+      },
+      "texts": {
+        "zh": "本法第35条、第36条规定以外的其他企业、事业单位的工会委员会，依照法律规定组织职工采取与企业、事业单位相适应的形式，参与企业、事业单位民主管理。",
+        "ja": "本法第35条、第36条が規定した以外のその他の企・事業体の工会委員会は、法律の規定に照らして職員・労働者を組織し、企・事業体に適応する形式を取って、企・事業体の民主管理に参加する。",
+        "en": "The trade union committee of a collectively owned enterprise shall support and organize the participation of workers in democratic management and democratic supervision, and defend their powers in electing and removing managerial personnel and deciding on major questions concerning operation and management."
+      }
+    },
+    {
+      "id": 46,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 38 条",
+        "ja": "第 38 条",
+        "en": "Article 38"
+      },
+      "texts": {
+        "zh": "企业、事业单位研究经营管理和发展的重大问题应当听取工会的意见；召开讨论有关工资、福利、劳动安全卫生、社会保险等涉及职工切身利益的会议，必须有工会代表参加。企业、事业单位应当支持工会依法开展工作，工会应当支持企业、事业单位依法行使经营管理权。",
+        "ja": "企・事業体が経営管理と発展など重大な問題を検討するに当たり、工会の意見を聴取しなければならず、賃金、福祉、労働安全と衛生、社会保険など職員・労働者の利益と密着に関連する問題に及んだ会議を開いて討論するには、工会の代表が参加しなければならない。企・事業体は工会が法に照らして活動することを支持しなければならず、工会は企・事業体が法に照らして経営管理権を行使することを支持しなければならない。",
+        "en": "The trade union committee of an enterprise or public institution other than the one provided for in Articles 35 and 36 of this Law shall, in accordance with the law, organize workers to participate in the democratic management of the enterprise or public institution in forms appropriate to the corresponding entity."
+      }
+    },
+    {
+      "id": 47,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 39 条",
+        "ja": "第 39 条",
+        "en": "Article 39"
+      },
+      "texts": {
+        "zh": "公司的董事会、监事会中职工代表的产生，依照公司法有关规定执行。",
+        "ja": "公司の董事会（取締役会）、監事会の職員・労働者代表の選出は、公司の関連規定に照らして執行する。",
+        "en": "Enterprises, public institutions and social organizations shall support trade unions in carrying out their work in accordance with the law, and trade unions shall support their enterprises, public institutions and social organizations in exercising their right to operation and management in accordance with the law."
+      }
+    },
+    {
+      "id": 48,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 40 条",
+        "ja": "第 40 条",
+        "en": "Article 40"
+      },
+      "texts": {
+        "zh": "基层工会委员会召开会议或者组织职工活动，应当在生产或者工作时间以外进行，需要占用生产或者工作时间的，应当事先征得企业、事业单位的同意。基层工会的非专职委员占用生产或者工作时间参加会议或者从事工会工作，每月不超过三个工作日，其工资照发，其他待遇不受影响。",
+        "ja": "下部工会委員会は会議を開き、または職員・労働者を組織して活動するに当たり、生産または仕事以外の時間を用いて行わなければならず、生産または仕事の時間を占用して行う必要がある場合は、事前に企・事業体の同意を得なければならない。下部工会の専任でない委員が生産または仕事の時間を占用して会議に出席し、または工会の活動に従事するにあたり、毎月3就業日を超えない場合は、その賃金を通常通りに支給し、その他の待遇もこれに影響されない。",
+        "en": "The election of worker representatives on the board of directors and the board of supervisors shall be governed by the relevant provisions of the Company Law."
+      }
+    },
+    {
+      "id": 49,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 41 条",
+        "ja": "第 41 条",
+        "en": "Article 41"
+      },
+      "texts": {
+        "zh": "企业、事业单位、机关工会委员会的专职工作人员的工资、奖励、补贴，由所在单位支付。社会保险和其他福利待遇等，享受本单位职工同等待遇。",
+        "ja": "企・事業体、機関の工会委員会の専任スタッフの賃金、奨励金、手当ては所在の部門がこれを支給する。社会保険とその他の福祉待遇等は、本部門職員・労働者と同等な待遇を享受する。",
+        "en": "Where a non-full-time member of a committee of a community-level trade union attends meetings or engages in trade union work during production or working hours, his salary shall be paid as usual and other benefits shall not be affected as long as no more than three working days are taken up in a month."
+      }
+    },
+    {
+      "id": 50,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第五章",
+        "ja": "第5章",
+        "en": "Chapter V"
+      },
+      "texts": {
+        "zh": "工会的经费和财产",
+        "ja": "工会の経費と財産",
+        "en": "Funds and Property"
+      }
+    },
+    {
+      "id": 51,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 42 条",
+        "ja": "第 42 条",
+        "en": "Article 42"
+      },
+      "texts": {
+        "zh": "工会经费的来源：（一）工会会员缴纳的会费；（二）建立工会组织的企业、事业单位、机关按每月全部职工工资总额的百分之二向工会拨缴的经费；（三）工会所属的企业、事业单位上缴的收入；（四）人民政府的补助；（五）其他收入。前款第二项规定的企业、事业单位拨缴的经费在税前列支。工会经费主要用于为职工服务和工会活动。经费使用的具体办法由中华全国总工会制定。",
+        "ja": "工会経費の出所（1）工会会員が納めた会費。（2）工会組織を打ち立てた企・事業体、機関が毎月に工会に割り当てた、職員・労働者全員の賃金総額の2％に等しい経費。（3）工会所属の企・事業体が上納する収入。（4）人民政府の手当て。（5）その他の収入。前条第2号が定めた「企・事業体が割り当てた経費」は損金に計上する。工会の経費は主に職員・労働者へのサービスと工会活動に用いられる。経費の具体的な使い方は中華全国総工会によりこれを制定する。",
+        "en": "The wages, bonuses and subsidies of full-time members of the trade union committee of an entity shall be paid by the entity, and they shall enjoy the same social insurance and other welfare benefits as the other workers of their entity."
+      }
+    },
+    {
+      "id": 52,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 43 条",
+        "ja": "第 43 条",
+        "en": "Article 43"
+      },
+      "texts": {
+        "zh": "企业、事业单位无正当理由拖延或者拒不拨缴工会经费，基层工会或者上级工会可以向当地人民法院申请支付令；拒不执行支付令的，工会可以依法申请人民法院强制执行。",
+        "ja": "企・事業体が正当な理由がなく工会への経費支給を遅らせ、または支給を拒否する場合、下部工会または上級工会は支給命令書を下すよう所在の人民法院に請求することが出来る。支給命令書の執行を拒否した場合、工会は法に照らして強制執行を人民法院に請求することが出来る。",
+        "en": "The sources of trade union funds are as follows: (1) membership dues paid by trade union members; (2) contribution, equivalent to two percent of the monthly payroll of all workers, allocated by the entity where the trade union is based; (3) incomes derived from enterprises or public institutions run by the trade unions; (4) subsidies provided by the people's government; and (5) other incomes. The contribution allocated by the enterprise, public institution, or social organization, as specified in Subparagraph (2) of the preceding paragraph, shall be listed and allocated before tax. Trade union funds shall mainly be used in the service of workers and for activities sponsored by trade unions. Measures for the use of trade union funds shall be formulated by the All-China Federation of Trade Unions."
+      }
+    },
+    {
+      "id": 53,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 44 条",
+        "ja": "第 44 条",
+        "en": "Article 44"
+      },
+      "texts": {
+        "zh": "工会应当根据经费独立原则，建立预算、决算和经费审查监督制度。各级工会建立经费审查委员会。各级工会经费收支情况应当由同级工会经费审查委员会审查，并且定期向会员大会或者会员代表大会报告，接受监督。工会会员大会或者会员代表大会有权对经费使用情况提出意见。工会经费的使用应当依法接受国家的监督。",
+        "ja": "工会は独立予算の原則に従って、予算、決算と経費の審査・監督制度を打ち立てなければならない。各級工会は経費審査委員会を設ける。各級工会の経費の収支状況は、同級工会の経費審査委員会により審査しなければならず、且つ定期的に会員大会または会員代表大会に報告し、監督を受けなければならない。工会の会員大会または会員代表大会は経費の使用状況に対し意見を提出する権利がある。工会の経費の使用は法に照らして国家の監督を受けなければならない。",
+        "en": "Where an enterprise, public institution or social organization delays or refuses to pay the contribution to trade union funds without justifiable reasons, the community-level trade union or a trade union at a higher level may apply to the local people's court for a payment order. Where the enterprise, public institution or social organization refuses to execute the payment order, the trade union may apply to the people's court for compulsory execution in accordance with the law."
+      }
+    },
+    {
+      "id": 54,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 45 条",
+        "ja": "第 45 条",
+        "en": "Article 45"
+      },
+      "texts": {
+        "zh": "各级人民政府和企业、事业单位、机关应当为工会办公和开展活动，提供必要的设施和活动场所等物质条件。",
+        "ja": "各級人民政府と企・事業体、機関は工会の事務と活動展開のために必要とする施設と活動の場所など物質的条件を提供しなければならない。",
+        "en": "Trade unions shall establish systems of budgets, final accounts, and fund audit and review based on the principle of financial autonomy. Trade unions at all levels shall establish funds review committees. The receipts and expenditures of trade unions at all levels shall be reviewed by the fund review committees of the corresponding trade unions, and shall be regularly reported to the workers' conferences or congresses of trade unions for supervision. The workers' conferences or congresses of trade unions shall have the right to put forward opinions on the use of funds. The use of trade union funds shall be subject to state supervision in accordance with the law."
+      }
+    },
+    {
+      "id": 55,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 46 条",
+        "ja": "第 46 条",
+        "en": "Article 46"
+      },
+      "texts": {
+        "zh": "工会的财产、经费和国家拨给工会使用的不动产，任何组织和个人不得侵占、挪用和任意调拨。",
+        "ja": "工会の財産、経費と国家が割りたてて工会の使用に供する不動産は、いかなる組織と個人であってもこれを横領し、流用し、またはこれを勝手に分配してはならない。",
+        "en": "People's governments at various levels and entities shall create necessary conditions for trade unions to function and conduct activities, such as providing facilities and venues."
+      }
+    },
+    {
+      "id": 56,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 47 条",
+        "ja": "第 47 条",
+        "en": "Article 47"
+      },
+      "texts": {
+        "zh": "工会所属的为职工服务的企业、事业单位，其隶属关系不得随意改变。",
+        "ja": "職員・労働者にサービスするための工会所属の企業、事業体は、その隷属関係を勝手に変えてはならない。",
+        "en": "No organization or individual may seize, misappropriate or arbitrarily allocate the property and funds of trade unions, as well as immovable property allocated by the state to trade unions for use."
+      }
+    },
+    {
+      "id": 57,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 48 条",
+        "ja": "第 48 条",
+        "en": "Article 48"
+      },
+      "texts": {
+        "zh": "县级以上各级工会的离休、退休人员的待遇，与国家机关工作人员同等对待。",
+        "ja": "県級以上各級工会の離職休養や退職をする者の待遇は、国家機関スタッフのそれと同等で扱う。",
+        "en": "The affiliation of enterprises or public institutions run by trade unions to serve workers shall not be changed arbitrarily."
+      }
+    },
+    {
+      "id": 58,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第六章",
+        "ja": "第6章",
+        "en": "Chapter VI"
+      },
+      "texts": {
+        "zh": "法律责任",
+        "ja": "法律的責任",
+        "en": "Legal Liability"
+      }
+    },
+    {
+      "id": 59,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 49 条",
+        "ja": "第 49 条",
+        "en": "Article 49"
+      },
+      "texts": {
+        "zh": "工会对违反本法规定侵犯其合法权益的，有权提请人民政府或者有关部门予以处理，或者向人民法院提起诉讼。",
+        "ja": "本法の規定を違反してその合法的権益を侵害したことに対して、工会はこれを処理するよう人民政府または関連部門に具申し、または人民法院に訴訟を起こす権利がある。",
+        "en": "The wages and benefits of retired trade union staff members or cadre at or above the county level shall be the same as retired staff members or cadre of Central Party and government organs."
+      }
+    },
+    {
+      "id": 60,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 50 条",
+        "ja": "第 50 条",
+        "en": "Article 50"
+      },
+      "texts": {
+        "zh": "违反本法第3条、第11条规定，阻挠职工依法参加和组织工会或者阻挠上级工会帮助、指导职工筹建工会的，由劳动行政部门责令其改正；拒不改正的，由劳动行政部门提请县级以上人民政府处理；以暴力、威胁等手段阻挠造成严重后果，构成犯罪的，依法追究刑事责任。",
+        "ja": "本法第3条、第11条の規定に違反して、職員・労働者が法に照らして工会を結成しまたは入会することを妨害し、または上級工会が職員・労働者の工会結成に協力し指導することを妨害した場合は、労働行政部門によりこれを改正するよう命令する。改正を拒否した場合は、労働行政部門によりこれを処理するよう県級以上人民政府に具申する。暴力、恐喝などの手段を以って妨害し、厳重な結果をもたらして、犯罪を構成した場合は、法に照らして刑事責任を追及する。",
+        "en": "Where the legitimate rights and interests of a trade union are infringed upon in violation of the provisions of this Law, said trade union shall have the right to report the violation to people's governments or relevant authorities for solution, or bring the case before a people's court."
+      }
+    },
+    {
+      "id": 61,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 51 条",
+        "ja": "第 51 条",
+        "en": "Article 51"
+      },
+      "texts": {
+        "zh": "违反本法规定，对依法履行职责的工会工作人员无正当理由调动工作岗位，进行打击报复的，由劳动行政部门责令改正、恢复原工作；造成损失的，给予赔偿。对依法履行职责的工会工作人员进行侮辱、诽谤或者进行人身伤害，构成犯罪的，依法追究刑事责任；尚未构成犯罪的，由公安机关依照治安管理处罚条例的规定处罚。",
+        "ja": "本法の規定に違反し、法に照らして職責を履行する工会スタッフに対して正当な理由がないままその配置転換を行い、打撃と報復を加えた場合は、労働行政部門により改正するよう命令し、もとの配置に復職させる。損失をもたらした場合は、それを賠償させる。法に照らして職責を履行する工会スタッフを侮辱し、誹謗し、または人身傷害を加え、犯罪を構成した場合は、法に照らして刑事責任を追及する。犯罪を構成していない場合は、公安機関により治安管理処罰条例の規定に照らして処罰する。",
+        "en": "Any entity or individual that, in violation of the provisions of Articles 3 and 12 of this Law, obstructs workers from joining or establishing trade unions in accordance with the law or obstructs trade unions at higher levels from assisting and guiding workers to establish trade unions shall be ordered by the administrative authorities for labor to make rectification. Where said entity or individual refuses to make rectification, the authorities concerned shall apply to the people's government at or above the county level for solution. Where grave consequences are caused as a result of the use of means such as violence and threat in obstruction and thus a crime is constituted, the entity or individual shall be held criminally liable in accordance with the law."
+      }
+    },
+    {
+      "id": 62,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 52 条",
+        "ja": "第 52 条",
+        "en": "Article 52"
+      },
+      "texts": {
+        "zh": "违反本法规定，有下列情形之一的，由劳动行政部门责令恢复其工作，并补发被解除劳动合同期间应得的报酬，或者责令给予本人年收入二倍的赔偿：（一）职工因参加工会活动而被解除劳动合同的；（二）工会工作人员因履行本法规定的职责而被解除劳动合同的。",
+        "ja": "本法の規定に違反し、次の1つに該当した場合は、労働行政部門はその者をもとの配置に復職させるとともに、労働契約を解除された期間中の得るべき報酬を追給することを命じ、または当人の年収2倍の賠償を支払うことを命じる。（1）職員・労働者が工会の活動に参加した原因で労働契約を解除された。（2）工会スタッフが本法規定の職責を履行した原因で労働契約を解除された。",
+        "en": "Any entity that, in violation of the provisions of this Law, retaliates trade union staff members who perform their duties and functions in accordance with the law by transferring them to other posts without justifiable reasons shall be ordered by the administrative authorities for labor to make rectification and reinstate said staff members. Where losses are caused therefrom, compensation shall be made to them. Those who insult, slander or physically harm trade union staff members who perform their duties in accordance with the law, where the case constitutes a crime, shall be subjected to criminal liability in accordance with the law. Where the case has not constituted a crime, they shall be punished by the public security organ in accordance with the provisions of the Law on Penalties for Administration of Public Security."
+      }
+    },
+    {
+      "id": 63,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 53 条",
+        "ja": "第 53 条",
+        "en": "Article 53"
+      },
+      "texts": {
+        "zh": "违反本法规定，有下列情形之一的，由县级以上人民政府责令改正，依法处理：（一）妨碍工会组织职工通过职工代表大会和其他形式依法行使民主权利的；（二）非法撤销、合并工会组织的；（三）妨碍工会参加职工因工伤亡事故以及其他侵犯职工合法权益问题的调查处理的；（四）无正当理由拒绝进行平等协商的。",
+        "ja": "本法の規定に違反し、次の1つに該当した場合は、県級以上人民政府により改正するよう命令し、法に照らして処理する。（1）工会が職員・労働者を組織して職員・労働者代表大会とその他の形式を通して法に照らして民主権利を行使することを妨害した。（2）工会を非合法で撤廃し、合併させた。（3）職員・労働者の業務上の原因による死傷事故および職員・労働者の合法的権益を侵害したその他の問題に対する調査と処理への工会の参加を妨害した。（4）正当な理由がなく平等な話合を拒否した。",
+        "en": "In case of any of the following violations of the provisions of this Law, the administrative authorities for labor shall order that the victim be reinstated, his remuneration payable after his labor contract was terminated be paid back, or that a compensation twice his current annual income be paid: (1) the labor contract of a worker is terminated due to his participation in trade union activities; or (2) the labor contract of a trade union staff member is terminated due to the performance of his duties and functions as prescribed by this Law."
+      }
+    },
+    {
+      "id": 64,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 54 条",
+        "ja": "第 54 条",
+        "en": "Article 54"
+      },
+      "texts": {
+        "zh": "违反本法第46条规定，侵占工会经费和财产拒不返还的，工会可以向人民法院提起诉讼，要求返还，并赔偿损失。",
+        "ja": "本法第46条の規定に違反し、工会の経費と財産を横領して返還しない場合、工会はこれを返還し、且つ損失を賠償するよう人民法院に訴訟を起こすことが出来る。",
+        "en": "Any organization or individual that commits any of the following violations of the provisions of this Law shall be ordered by the people's government at or above the county level to make rectification, and said government shall handle the case in accordance with the law: (1) preventing a trade union from exercising its democratic rights in accordance with the law through the workers' congress and other forms; (2) illegally dissolving or merging trade unions; (3) obstructing trade unions to participate in the investigation and handling of work-related injury or death of workers and other violations of the legitimate rights and interests of workers; or (4) rejecting equal-footed consultation without justifiable reasons."
+      }
+    },
+    {
+      "id": 65,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 55 条",
+        "ja": "第 55 条",
+        "en": "Article 55"
+      },
+      "texts": {
+        "zh": "工会工作人员违反本法规定，损害职工或者工会权益的，由同级工会或者上级工会责令改正，或者予以处分；情节严重的，依照《中国工会章程》予以罢免；造成损失的，应当承担赔偿责任；构成犯罪的，依法追究刑事责任。",
+        "ja": "工会スタッフは本法の規定に違反し、職員・労働者または工会の権益を損なった場合は、同級工会または上級工会によりこれを改正するよう命じ、またはこれを処分する。情状が重大な場合は、『中国工会定款』に照らして免職させる。損失が生じた場合は、賠償の責任を引き受けさせなければならず、犯罪を構成した場合は、法に照らして刑事責任を追及する。",
+        "en": "Anyone who, in violation of the provisions of Article 47 of this Law, seizes the funds or property of a trade union and refuses to return them, the trade union may bring the case before a people's court and demand that the funds or property be returned and that the losses caused be compensated."
+      }
+    },
+    {
+      "id": 66,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第七章",
+        "ja": "第7章",
+        "en": "Chapter VII"
+      },
+      "texts": {
+        "zh": "附则",
+        "ja": "付則",
+        "en": "Supplementary Provisions"
+      }
+    },
+    {
+      "id": 67,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 56 条",
+        "ja": "第 56 条",
+        "en": "Article 56"
+      },
+      "texts": {
+        "zh": "中华全国总工会会同有关国家机关制定机关工会实施本法的具体办法。",
+        "ja": "中華全国総工会は関連国家機関と共同で機関工会の本法実施に関する具体的な方法を制定する。",
+        "en": "Where a trade union staff member, in violation of the provisions of this Law, infringes upon the rights and interests of workers or his trade union, said trade union or a trade union at a higher level shall order the staff member to make rectification, or impose a sanction on him. Where the circumstances are serious, the staff member shall be removed from office in accordance with the Charter of Trade Unions of the People's Republic of China. Where losses are caused, the staff member shall bear the liability for compensation. Where a crime is constituted, the staff member shall be held criminally liable in accordance with the law."
+      }
+    },
+    {
+      "id": 68,
+      "source_file": "中华人民共和国工会法(2001)",
+      "original_numbers": {
+        "zh": "第 57 条",
+        "ja": "第 57 条",
+        "en": "Article 57"
+      },
+      "texts": {
+        "zh": "本法自公布之日起施行。1950年6月29日中央人民政府颁布的《中华人民共和国工会法》同时废止。",
+        "ja": "本法は公布の日より施行する。中央人民政府が1950年6月29日に公布した『中華人民共和国工会法』は同時に廃止する。",
+        "en": "Specific measures for compliance with this Law by the trade unions in Central Party and government organs shall be formulated by the All-China Federation of Trade Unions in collaboration with the relevant organs."
+      }
+    }
+  ]
+}

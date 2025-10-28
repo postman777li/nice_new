@@ -1,0 +1,592 @@
+{
+  "metadata": {
+    "law_name": "反不正当竞争法",
+    "domain": "CompetitionLaw",
+    "year": 2019,
+    "source_file": "中华人民共和国反不正当竞争法(2019).xlsx",
+    "total_entries": 41,
+    "processed_at": "2025-10-05T21:38:47.629111",
+    "languages": [
+      "zh",
+      "ja",
+      "en"
+    ],
+    "valid_entries": 41
+  },
+  "entries": [
+    {
+      "id": 1,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "法律名称",
+        "ja": "法令名",
+        "en": "Law Title"
+      },
+      "texts": {
+        "zh": "中华人民共和国反不正当竞争法",
+        "ja": "中華人民共和国反不正競争法",
+        "en": "Law of the People’s Republic of China Against Unfair Competition"
+      }
+    },
+    {
+      "id": 2,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "修订记录",
+        "ja": "改正記録",
+        "en": "Revision Record"
+      },
+      "texts": {
+        "zh": "（1993年9月2日第八届全国人民代表大会常务委员会第三次会议通过 2017年11 月 4 日 第十二届全国人民代表大会常务委员会第三十次会议修订）",
+        "ja": "（1993年 9月 2日、第 8 期全国人民代表大会常務委員会第 3回会議にて可決。2017年 11 月 4日、第 12期全国人民代表大会常務委員会第 30回会議にて改正）",
+        "en": "(Adopted at the 3rd Meeting of the Standing Committee of the Eighth National People's Congress on September 2, 1993; revised at the 30th Meeting of the Standing Committee of the Twelfth National People's Congress on November 4, 2017; amended in accordance with the Decision on Revising the Construction Law of the People's Republic of China and Other Seven Laws at the 10th Meeting of the Standing Committee of the Thirteenth National People's Congress on April 23, 2019)"
+      }
+    },
+    {
+      "id": 3,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "目录",
+        "ja": "目次",
+        "en": "Table of Contents"
+      },
+      "texts": {
+        "zh": "第一章 总 则\n第二章 不正当竞争行为\n第三章 对涉嫌不正当竞争行为的调查\n第四章 法律责任\n第五章 附 则",
+        "ja": "第 1 章 総 則\n第 2 章 不正競争行為\n第 3 章 不正競争が疑われる行為の調査\n第 4 章 法律責任\n第 5 章 附 則",
+        "en": "Chapter I General Provisions \nChapter II Acts of Unfair Competition \nChapter III Investigation into Suspected Acts of Unfair Competition \nChapter IV Legal Liability \nChapter V Supplemental Provision"
+      }
+    },
+    {
+      "id": 4,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第一章",
+        "ja": "第 1 章",
+        "en": "Chapter I "
+      },
+      "texts": {
+        "zh": "总 则",
+        "ja": "総則",
+        "en": "General Provisions"
+      }
+    },
+    {
+      "id": 5,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 1 条",
+        "ja": "第 1 条",
+        "en": "Article 1"
+      },
+      "texts": {
+        "zh": "为了促进社会主义市场经济健康发展，鼓励和保护公平竞争，制止不正当竞争行为，保护经营者和消费者的合法权益，制定本法。",
+        "ja": "社会主義市場経済の順調な発展を促進し、公平な競争を奨励、保護し、不正競争行為を制止し、事業者及び消費者の合法的な権益を保護するために、本法を制定する。",
+        "en": "This Law is enacted for the purposes of promoting the sound development of the socialist market economy, encouraging and protecting fair competition, preventing acts of unfair competition, and safeguarding the lawful rights and interests of business entities and consumers."
+      }
+    },
+    {
+      "id": 6,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 2 条",
+        "ja": "第 2 条",
+        "en": "Article 2"
+      },
+      "texts": {
+        "zh": "经营者在生产经营活动中，应当遵循自愿、平等、公平、诚信的原则，遵守法律和商业道德。本法所称的不正当竞争行为，是指经营者在生产经营活动中，违反本法规定，扰乱市场竞争秩序，损害其他经营者或者消费者的合法权益的行为。本法所称的经营者，是指从事商品生产、经营或者提供服务（以下所称商品包括服务）的自然人、法人和非法人组织。",
+        "ja": "事業者は、生産・経営活動において、自由意思、平等、公平、信義誠実の原則を遵守し、法律及び商業道徳を遵守しなければならない。本法において不正競争行為とは、事業者が生産・経営活動において、本法の規定に違反し、市場の競争秩序を撹乱し、その他の事業者又は消費者の合法的な権益を害する行為をいう。本法において事業者とは、商品の生産、経営或いは労務の提供（以下「商品」という場合は労務を含む）に従事する自然人、法人及び非法人組織をいう。",
+        "en": "Business entities shall adhere to the principles of free will, equality, fairness and good faith, and comply with applicable laws and business ethics in their production and distribution activities. For the purposes of this Law, “an act of unfair competition” means that in its production or distribution activity, a business entity disrupts the order of market competition and causes damage to the lawful rights and interests of other business entities or consumers, in violation of this Law. For the purposes of this Law, a business entity refers to a natural person, a legal person or an unincorporated organization that is engaged in producing or distributing goods or providing service (such goods and services hereinafter are collectively referred to as goods."
+      }
+    },
+    {
+      "id": 7,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 3 条",
+        "ja": "第 3 条",
+        "en": "Article 3"
+      },
+      "texts": {
+        "zh": "各级人民政府应当采取措施，制止不正当竞争行为，为公平竞争创造良好的环境和条件。国务院建立反不正当竞争工作协调机制，研究决定反不正当竞争重大政策，协调处理维护市场竞争秩序的重大问题。",
+        "ja": "各級人民政府は措置を講じて不正競争行為を制止し、公正競争のために良好な環境と条件を作り出さなければならない。国務院は、不正競争防止業務の調整の仕組みを確立し、不正競争防止に関する重大政策を検討、決定し、市場の競争秩序の維持に関する重大な問題を調整、処理する。",
+        "en": "The people's governments at all levels shall take measures to prevent acts of unfair competition and create favorable environments and conditions for fair competition. The State Council shall establish a coordinative mechanism as regards anti-unfair competition work, study and decide on major anti-unfair competition policies, and coordinate the settlement of major issues in maintaining the order of market competition."
+      }
+    },
+    {
+      "id": 8,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 4 条",
+        "ja": "第 4 条",
+        "en": "Article 4"
+      },
+      "texts": {
+        "zh": "县级以上人民政府履行工商行政管理职责的部门对不正当竞争行为进行查处；法律、行政法规规定由其他部门查处的，依照其规定。",
+        "ja": "県級以上の人民政府で工商行政管理の職責を履行する部門は、不正競争行為に対し調査・処分を行う。法律、行政法規に対しその他の部門が調査・処分を行うという規定がある場合、当該規定に従う。",
+        "en": "The relevant departments of the people's governments at or above the county level that perform the duty of industrial and commercial administration shall be responsible for investigating and punishing acts of unfair competition, unless a law or administrative regulation requires any other department to do so."
+      }
+    },
+    {
+      "id": 9,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 5 条",
+        "ja": "第 5 条",
+        "en": "Article 5"
+      },
+      "texts": {
+        "zh": "国家鼓励、支持和保护一切组织和个人对不正当竞争行为进行社会监督。国家机关及其工作人员不得支持、包庇不正当竞争行为。行业组织应当加强行业自律，引导、规范会员依法竞争，维护市场竞争秩序。",
+        "ja": "国はいかなる組織及び個人が不正競争行為に対し社会的監督を行うことを奨励、支持しまた保護する。国家機関及びその公務員は不正競争行為を助長し、庇護してはならない。業界組織は、業界の自主規制を強化し、会員が法に基づいて競争するよう導き、適正化して、市場の競争秩序を維持しなければならない。",
+        "en": "The state encourage and support organizations and individuals to engage in public supervision over unfair competition acts, and protect such organizations and individuals engaged in such supervision. Governmental organs and their staff members shall not support or cover up acts of unfair competition. Industry organizations shall strengthen self-regulation within the industry, provide guidelines and rules for their members to compete lawfully, and maintain the order of market competition. Chapter II Acts of Unfair Competition"
+      }
+    },
+    {
+      "id": 10,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第二章",
+        "ja": "第 2 章",
+        "en": "Chapter II"
+      },
+      "texts": {
+        "zh": "不正当竞争行为",
+        "ja": "不正競争行為",
+        "en": "Acts of Unfair Competition"
+      }
+    },
+    {
+      "id": 11,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 6 条",
+        "ja": "第 6 条",
+        "en": "Article 6"
+      },
+      "texts": {
+        "zh": "经营者不得实施下列混淆行为，引人误认为是他人商品或者与他人存在特定联系：（一）擅自使用与他人有一定影响的商品名称、包装、装潢等相同或者近似的标识；（二）擅自使用他人有一定影响的企业名称（包括简称、字号等）、社会组织名称（包括简称等）、姓名（包括笔名、艺名、译名等）；（三）擅自使用他人有一定影响的域名主体部分、网站名称、网页等；（四）其他足以引人误认为是他人商品或者与他人存在特定联系的混淆行为。",
+        "ja": "事業者は、次の各号に掲げる混同行為を実施し、他人の商品である又は他人と特定の関連性があるとの誤認を関連公衆に生じさせてはならない。（1）他人の一定の影響力のある商品の名称、包装、装飾等と同一又は類似した標識を無断で使用する。（2）他人の一定の影響力のある企業名称（略称、屋号等を含む）、社会組織名称（略称等を含む）、氏名（ペンネーム、芸名、訳名等を含む）を無断で使用する。（3）他人の一定の影響力のあるドメイン名の主体部分、ウェブサイト名称、ウェブページ等を無断で使用する。（4）他人の商品である、又は他人と特定の関連性があるとの誤認を生じさせるその他の混同行為。",
+        "en": "A business entity shall not commit any of the following acts which create confusion, misleading consumers into believing that its own goods is the goods of another business entity or has a certain connection with another entity: (1) Using, without authorization, any mark identical or similar to the name, packaging or decoration, etc. of another business entity’s goods which has certain reputation; (2) Using, without authorization, another business entity’s name (including short name and brand name), or a social organization’s name (including short name), or a person’s name (including pseudonym, stage name and name translation), in each case with certain reputation; (3) Using, without authorization, the principal part of a domain name, the name of a website, or a web page, etc., in each case with certain reputation, of another entity; or (4) Any other confusing act sufficient to mislead the consumers into believing that its goods is the goods of another business entity or has certain connection with another business entity."
+      }
+    },
+    {
+      "id": 12,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 7 条",
+        "ja": "第 7 条",
+        "en": "Article 7"
+      },
+      "texts": {
+        "zh": "经营者不得采用财物或者其他手段贿赂下列单位或者个人，以谋取交易机会或者竞争优势：（一）交易相对方的工作人员；（二）受交易相对方委托办理相关事务的单位或者个人；（三）利用职权或者影响力影响交易的单位或者个人。经营者在交易活动中，可以以明示方式向交易相对方支付折扣，或者向中间人支付佣金。经营者向交易相对方支付折扣、向中间人支付佣金的，应当如实入账。接受折扣、佣金的经营者也应当如实入账。经营者的工作人员进行贿赂的，应当认定为经营者的行为；但是，经营者有证据证明该工作人员的行为与为经营者谋取交易机会或者竞争优势无关的除外。2",
+        "ja": "事業者は財産物品またはその他の手段を用いて次の各号に掲げる組織又は個人に賄賂を贈り、取引機会又は競争優位を得ようとしてはならない。（1）取引相手方の従業員。（2）取引相手方の委託を受けて関連の事務手続を行う組織又は個人。（3）職権又は影響力を利用して取引に影響を及ぼす組織又は個人。事業者は、取引活動において、明示の方法により取引相手方に値引きを行い、又は仲介人にコミッションを支払うことができる。事業者は、取引相手方に値引きを行った、仲介人にコミッションを支払った場合、事実通りに記帳しなければならない。割り引きまたはコミッションを受けた事業者も事実通りに記帳しなければならない。事業者の従業員が賄賂を贈った場合、事業者の行為と認定しなければならない。ただし、事業者に当該従業員の行為が事業者の取引機会又は競争優位の獲得と無関係であることを証明する証拠がある場合を除く。",
+        "en": "A business entity shall not seek a transaction opportunity or a competitive edge by bribing any of the following units or individuals with money or things of value or any other kinds of bribery: (1) Any employee of the other party to a transaction; (2) Any unit or individual authorized by the other party to a transaction to handle the relevant affairs; or (3) Any other unit or individual that may use power or influence to affect a transaction. A business entity may, in the course of doing business, expressly pay a discount to the other party to the transaction, or pay a commission to a broker, provided that, in either case, the business entity shall faithfully make an entry in its account book in respect of such a discount or commission. A business entity which receives such a discount or commission shall also faithfully enter it into its account book. A bribery committed by an employee of a business entity shall be deemed to be committed by the business entity, unless the business entity has evidence that the activity of the employee is irrelevant to seeking a transaction opportunity or competitive edge for the business entity."
+      }
+    },
+    {
+      "id": 13,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 8 条",
+        "ja": "第 8 条",
+        "en": "Article 8"
+      },
+      "texts": {
+        "zh": "经营者不得对其商品的性能、功能、质量、销售状况、用户评价、曾获荣誉等作虚假或者引人误解的商业宣传，欺骗、误导消费者。经营者不得通过组织虚假交易等方式，帮助其他经营者进行虚假或者引人误解的商业宣传。",
+        "ja": "事業者は、その商品の性能、機能、品質、販売状況、ユーザーの評価、受賞歴等を偽り、又は関連公衆に誤解を生じさせる商業宣伝を行い、消費者を欺き、誤った方向に導いてはならない。事業者は、偽の取引を企てる等の方法により、その他の事業者が虚偽の、又は関連公衆に誤解を生じさせる商業宣伝を行うことを幇助してはならない。",
+        "en": "A business entity shall not deceive or mislead consumers by engaging in any false or misleading commercial publicity in respect of the performance, functions, quality, sales conditions, user comments, and honors received of its goods. A business entity shall not help another business entity engage in any false or misleading commercial publicity by organizing a false transaction or by any other means."
+      }
+    },
+    {
+      "id": 14,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 9 条",
+        "ja": "第 9 条",
+        "en": "Article 9"
+      },
+      "texts": {
+        "zh": "第九条　经营者不得实施下列侵犯商业秘密的行为：\n（一）以盗窃、贿赂、欺诈、胁迫、电子侵入或者其他不正当手段获取权利人的商业秘密；\n（二）披露、使用或者允许他人使用以前项手段获取的权利人的商业秘密；\n（三）违反保密义务或者违反权利人有关保守商业秘密的要求，披露、使用或者允许他人使用其所掌握的商业秘密；\n（四）教唆、引诱、帮助他人违反保密义务或者违反权利人有关保守商业秘密的要求，获取、披露、使用或者允许他人使用权利人的商业秘密。\n经营者以外的其他自然人、法人和非法人组织实施前款所列违法行为的，视为侵犯商业秘密。\n第三人明知或者应知商业秘密权利人的员工、前员工或者其他单位、个人实施本条第一款所列违法行为，仍获取、披露、使用或者允许他人使用该商业秘密的，视为侵犯商业秘密。\n本法所称的商业秘密，是指不为公众所知悉、具有商业价值并经权利人采取相应保密措施的技术信息、经营信息等商业信息。",
+        "ja": "第九条　事業者は、次の各号に掲げる、営業秘密を侵害する行為を実施してはならない。\n（一）窃盗、賄賂、詐欺、脅迫、電子侵入又はその他の不正手段をもって権利者の営業秘密を獲得すること。\n（二）前項に定める手段を用いて獲得した権利者の営業秘密を開示、使用し又は他人に使用を許諾すること。\n（三）守秘義務に違反し、又は権利者の営業秘密保守に関する要求に違反して、保有する営業秘密を開示、使用し、若しくは他人に使用を許諾すること。\n（四）他人に対し、守秘義務違反又は権利者の営業秘密保守に関する要求違反を教唆、誘引若しくは幇助し、権利者の営業秘密を獲得、開示、使用し、又は他人に使用を許諾させること。\n事業者以外のその他の自然人、法人及び非法人組織が前項に掲げる違法行為を実施した場合、営業秘密を侵害するとみなす。\n第三者が、営業秘密の権利者の従業員、元従業員又はその他の組織、個人が本条第一項に掲げる違法行為を実施していることを知り、又は知り得たにもかかわらず、当該営業秘密を獲得、開示、使用し、又は他人に使用を許諾した場合、営業秘密を侵害するとみなす。\n本法において営業秘密とは、公衆に知られておらず、商業的価値を有し、かつ権利者が適切な秘密保持措置を講じた技術情報、経営情報その他の商業情報をいう。",
+        "en": "A business entity shall not commit any of the following acts which infringe trade secrets of another: (1) Obtaining a trade secret from its lawful holder by theft, bribery, fraud, coercion, hacking into the electronic information system or any other illicit means; (2) Disclosing, using, or permitting another to use the trade secret obtained from its lawful holder by means as specified in the preceding paragraph; (3) Disclosing, using, or permitting another to use any trade secret under its control in violation of a legal obligation, or the requirements of its lawful holder, for protecting the confidentiality of trade secrets; (4) Aiding and abetting, or luring one to obtain, disclose, use or permit another to use any trade secret of its lawful holder by violating one’s legal obligation, or the requirements of lawful holder, for protecting the confidentiality of trade secrets. Any natural person, legal person or unincorporated organization shall be deemed to infringe the trade secret if they commit any unlawful acts set forth in the preceding paragraphs. Where a third party knows or should have known that an employee or a former employee of the lawful holder of a trade secret or any other unit or individual has committed an illegal act as specified in the first paragraph of this Article, but still obtains, discloses, uses, or permits another to use the trade secret in question, the third party shall be deemed to infringe the trade secret. For the purposes of this Law, “a trade secret” means any commercial information unknown to the public, including but not limited to technology or business information, with commercial value and for which its lawful holder has taken proper confidentiality measures."
+      }
+    },
+    {
+      "id": 15,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 10 条",
+        "ja": "第 10 条",
+        "en": "Article 10"
+      },
+      "texts": {
+        "zh": "经营者进行有奖销售不得存在下列情形：（一）所设奖的种类、兑奖条件、奖金金额或者奖品等有奖销售信息不明确，影响兑奖；（二）采用谎称有奖或者故意让内定人员中奖的欺骗方式进行有奖销售；（三）抽奖式的有奖销售，最高奖的金额超过五万元。",
+        "ja": "事業者は、懸賞景品付販売を行うとき、次の各号に掲げる行為を実施してはならない。（1）設定した懸賞の種類、景品交換の条件、賞金の金額又は賞品など懸賞付販売の情報が不明確で、景品交換に影響を及ぼす。（2）懸賞があることを偽る、或いは意図的に内定者に懸賞を得させる詐欺方式を用いて懸賞景品付販売をすること。（3）抽選方式による懸賞景品付販売の場合、一等賞の金額は5万元を超えること。",
+        "en": "The following circumstances shall be prohibited in the case of a business entity launching a premium sale activity: (1) The information about the types of prizes, conditions for claiming prizes, the specific prizes or the sum of prizes, etc. in a premium sales activity is so ambiguous as to affect claiming prize; (2) Making fake prize or intentionally letting inside persons to win the prize; or (3) The sum of the top prize exceeding RMB 50,000 yuan in the case of a lottery-based premium sales."
+      }
+    },
+    {
+      "id": 16,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 11 条",
+        "ja": "第 11 条",
+        "en": "Article 11"
+      },
+      "texts": {
+        "zh": "经营者不得编造、传播虚假信息或者误导性信息，损害竞争对手的商业信誉、商品声誉。",
+        "ja": "事業者は虚偽情報又は誤導的情報を捏造、流布し、競争相手の名誉或いは商品信用を侵害してはならない。",
+        "en": "A business entity shall not fabricate or disseminate false or misleading information in order to damage the goodwill of competitors or their goods."
+      }
+    },
+    {
+      "id": 17,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 12 条",
+        "ja": "第 12 条",
+        "en": "Article 12"
+      },
+      "texts": {
+        "zh": "经营者利用网络从事生产经营活动，应当遵守本法的各项规定。经营者不得利用技术手段，通过影响用户选择或者其他方式，实施下列妨碍、破坏其他经营者合法提供的网络产品或者服务正常运行的行为：（一）未经其他经营者同意，在其合法提供的网络产品或者服务中，插入链接、强制进行目标跳转；（二）误导、欺骗、强迫用户修改、关闭、卸载其他经营者合法提供的网络产品或者服务；（三）恶意对其他经营者合法提供的网络产品或者服务实施不兼容；（四）其他妨碍、破坏其他经营者合法提供的网络产品或者服务正常运行的行为。",
+        "ja": "事業者は、ネットワークを利用して生産・経営活動に従事するにあたり、本法の各条項を遵守しなければならない。事業者は、技術的手段を利用し、ユーザーの選択に影響を与え、又はその他の方法により、次の各号に掲げる、他の事業者が合法的に提供するネットワーク製品又はサービスの正常な運用を妨げたり、破壊したりする行為を実施してはならない。（1）他の事業者の同意を得ずに、当該事業者が合法的に提供するネットワーク製品又はサービスにおいて、リンクを挿入し、強制的に特定のページに遷移させる。（2）他の事業者が合法的に提供するネットワーク製品又はサービスを修正、クローズ、アンインストールするようユーザーを誤った方向に導き、欺き、強迫する。（3）悪意をもって他の事業者の合法的に提供するネットワーク製品又はサービスが互換性を持たないようにする。（4）他の事業者が合法的に提供するネットワーク製品又はサービスの正常な運用を妨害、破壊するその他行為。",
+        "en": "A business entity engaged in production or distribution via the internet shall abide by the provisions of this Law. A business entity shall not, by using technical means to interfere with users’ choice or otherwise, commit any of the following acts that affect or sabotage the normal operation of any online product or service lawfully provided by another business entity: (1) Without consent of another entity, inserting a link or forcing a URL redirection in an internet product or service lawfully provided by the said other business entity; (2) Misleading, tricking or forcing users to alter, shut down, or uninstall an internet product or service lawfully provided by another business entity; (3) Causing, in bad faith, incompatibility with an internet product or service lawfully provided by another business entity; or (4) Any other act that interferes with or sabotages the normal operation of internet products or services lawfully provided by another business entity."
+      }
+    },
+    {
+      "id": 18,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第三章",
+        "ja": "第 3 章",
+        "en": "Chapter III "
+      },
+      "texts": {
+        "zh": "对涉嫌不正当竞争行为的调查",
+        "ja": "不正競争が疑われる行為の調査",
+        "en": "Investigation into Suspected Acts of Unfair Competition"
+      }
+    },
+    {
+      "id": 19,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 13 条",
+        "ja": "第 13 条",
+        "en": "Article 13"
+      },
+      "texts": {
+        "zh": "监督检查部门调查涉嫌不正当竞争行为，可以采取下列措施：（一）进入涉嫌不正当竞争行为的经营场所进行检查；（二）询问被调查的经营者、利害关系人及其他有关单位、个人，要求其说明有关情况或者提供与被调查行为有关的其他资料；（三）查询、复制与涉嫌不正当竞争行为有关的协议、账簿、单据、文件、记录、业务函电和其他资料；（四）查封、扣押与涉嫌不正当竞争行为有关的财物；（五）查询涉嫌不正当竞争行为的经营者的银行账户。采取前款规定的措施，应当向监督检查部门主要负责人书面报告，并经批准。采取前款第四项、第五项规定的措施，应当向设区的市级以上人民政府监督检查部门主要负责人书面报告，并经批准。监督检查部门调查涉嫌不正当竞争行为，应当遵守《中华人民共和国行政强制法》和其他有关法律、行政法规的规定，并应当将查处结果及时向社会公开。",
+        "ja": "監督検査部門は、不正競争が疑われる行為を調査するにあたり、次の各号に掲げる措置を講じることができる。（1）不正競争行為が疑われる営業所に対して立入検査を行う。（2）調査を受ける事業者、利害関係者及びその他関係組織、個人に質問し、当該者に関連の状況の説明又は被調査行為に係るその他資料を提供するように要求する。（3）不正競争行為が疑われる契約書、帳簿、票憑、文書、記録、業務書簡、電報及びその他の資料を検査、訊問、コピーする。（4）不正競争行為が疑われる財物に対して差押、押収を行う。（5）不正競争行為が疑われる事業者の銀行口座を照会する。前項に定める措置を講じるにあたっては、監督検査部門の主要責任者に書面により報告するとともに、承認を得なければならない。前項第（4）号、第（5）号に定める措置を講じるにあたっては、市轄区を設置している市級以上の人民政府の監督検査部門の主要責任者に書面により報告するとともに、承認を得なければならない。監督検査部門は不正競争が疑われる行為を調査するにあたり、「中華人民共和国行政強制法」及びその他関連の法律、行政法規の規定を遵守しなければならず、かつ調査・処分の結果を速やかに社会に公開しなければならない。3",
+        "en": "The regulatory department may take the following measures in investigating a suspected act of unfair competition: (1) Entering and investigating a business premise suspected of being involved in an act of unfair competition; (2) Enquiring the business entity under investigation, any interested person, and other relevant units and individuals, and requiring them to provide relevant information or other materials relating to the the suspected act of unfair competition; (3) Checking and duplicating agreements, account books, documents, files, records, business letters, and other materials relating to the suspected act of unfair competition; (4) Seizing or detaining money or things relating to the suspected act of unfair competition; and (5) Checking bank accounts of a business entity suspected of engaging in an act of unfair competition. Prior to taking measures prescribed in the preceding paragraph, a written report thereon shall be submitted to the principal responsible person of the regulatory department for approval. Prior to taking measures prescribed in Subparagraphs (4) and (5) of the preceding paragraph, a written report thereon shall be submitted for approval to the principal responsible person of the regulatory department of the people’s government at or above the level of city divided into districts. The regulatory department shall comply with the Administrative Compulsion Law of the People's Republic of China and other applicable laws and administrative regulations in investigating a suspected act of unfair competition, and publish in a timely manner to the public the results of the investigation and handling."
+      }
+    },
+    {
+      "id": 20,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 14 条",
+        "ja": "第 14 条",
+        "en": "Article 14"
+      },
+      "texts": {
+        "zh": "监督检查部门调查涉嫌不正当竞争行为，被调查的经营者、利害关系人及其他有关单位、个人应当如实提供有关资料或者情况。",
+        "ja": "監督検査部門は不正競争が疑われる行為を調査するにあたり、調査を受ける事業者、利害関係者及びその他関連の組織、個人は、関連資料または関係情況をありのままに提供しなければならない。",
+        "en": "When the regulatory department investigates a suspected act of unfair competition, the business entity under investigation, any interested person, and any other relevant unit and individual shall faithfully provide relevant materials and information."
+      }
+    },
+    {
+      "id": 21,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 15 条",
+        "ja": "第 15 条",
+        "en": "Article 15"
+      },
+      "texts": {
+        "zh": "监督检查部门及其工作人员对调查过程中知悉的商业秘密负有保密义务。",
+        "ja": "監督検査部門及びその職員は、調査過程で知り得た営業秘密について守秘義務を負う。",
+        "en": "Regulatory departments and their employees shall keep confidential the trade secrets they came to know during investigation."
+      }
+    },
+    {
+      "id": 22,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 16 条",
+        "ja": "第 16 条",
+        "en": "Article 16"
+      },
+      "texts": {
+        "zh": "对涉嫌不正当竞争行为，任何单位和个人有权向监督检查部门举报，监督检查部门接到举报后应当依法及时处理。监督检查部门应当向社会公开受理举报的电话、信箱或者电子邮件地址，并为举报人保密。对实名举报并提供相关事实和证据的，监督检查部门应当将处理结果告知举报人。",
+        "ja": "不正競争が疑われる行為に対して、いずれの組織及び個人も監督検査部門に通報する権利を有し、監督検査部門は、通報を受けた後、法により速やかに処理しなければならない。監督検査部門は、通報を受理する電話、住所又は電子メールアドレスを社会に公開するとともに、通報者の秘密を保持しなければならない。実名で通報しかつ関連の事実及び証拠を提供した場合、監督検査部門は、処理結果を通報者に告知しなければならない。",
+        "en": "Any entity or individual shall have the right to report a suspected act of unfair competition to the regulatory department which shall, upon receipt of such a report, deal with the matter according to law in a timely manner. The regulatory departments shall publish their telephone numbers, mailing boxes, or e-mail addresses for receiving reports, and shall keep informants confidential. In the case of a true-name reporting with relevant facts and evidence provided, the relevant regulatory department shall notify the informant of the result of its investigation and handling."
+      }
+    },
+    {
+      "id": 23,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第四章",
+        "ja": "第 4 章",
+        "en": "Chapter IV"
+      },
+      "texts": {
+        "zh": "法律责任",
+        "ja": "法律責任",
+        "en": "Legal Liability"
+      }
+    },
+    {
+      "id": 24,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 17 条",
+        "ja": "第 17 条",
+        "en": "Article 17"
+      },
+      "texts": {
+        "zh": "经营者违反本法规定，给他人造成损害的，应当依法承担民事责任。经营者的合法权益受到不正当竞争行为损害的，可以向人民法院提起诉讼。因不正当竞争行为受到损害的经营者的赔偿数额，按照其因被侵权所受到的实际损失确定；实际损失难以计算的，按照侵权人因侵权所获得的利益确定。经营者恶意实施侵犯商业秘密行为，情节严重的，可以在按照上述方法确定数额的一倍以上五倍以下确定赔偿数额。赔偿数额还应当包括经营者为制止侵权行为所支付的合理开支。经营者违反本法第六条、第九条规定，权利人因被侵权所受到的实际损失、侵权人因侵权所获得的利益难以确定的，由人民法院根据侵权行为的情节判决给予权利人五百万元以下的赔偿。",
+        "ja": "経営者が本法の規定に違反し、他人に損害を与えた場合は、法律に基づき民事責任を負わなければならない。経営者の合法的な権益が不正競争行為によって侵害された場合、人民法院に訴訟を提起することができる。不正競争行為によって損害を受けた経営者の賠償額は、侵害によって被った実際の損失に基づいて決定する。実際の損失の算定が困難な場合は、侵害者が侵害行為によって得た利益に基づいて決定する。営業秘密を悪意を持って侵害する行為を実施し、情状が重い場合、上記の方法で決定された額の1倍以上5倍以下の範囲で賠償額を決定することができる。賠償額には、経営者が侵害行為を制止するために支出した合理的な費用も含まれるものとする。経営者が本法第6条、第9条の規定に違反し、権利者が侵害によって被った実際の損失及び侵害者が侵害行為によって得た利益の算定が困難な場合、人民法院は侵害行為の情状に基づき、権利者に対して500万元以下の賠償を命ずることができる。",
+        "en": "A business entity that causes damage to another person in violation of this Law shall bear civil liability according to law. Any business entity whose lawful rights and interests are prejudiced by an act of unfair competition may institute an action before a people’s court of competent jurisdiction. The amount of damages to a business entity caused by an act of unfair competition of another shall be determined based on its actual loss caused by the infringement by another or, if it is difficult to calculate the actual loss, based on the benefits obtained by the infringer from its infringement. If the business entity has maliciously infringed upon the trade secret with flagrant circumstances, the amount of damages shall be no less than one time but no more than five times of the amount determined by the aforementioned method. The amount of damages to a business entity shall include its reasonable costs for stopping the infringement. Where any business entity violates Article 6 or 9 of this Law, and it is difficult to determine the actual loss of the right holder involved due to the infringement and the benefits obtained by the infringer from its infringement, a people’s court of competent jurisdiction may, at its discretion, award damages not exceeding RMB five million yuan to the right holder based on the circumstances of the infringement."
+      }
+    },
+    {
+      "id": 25,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 18 条",
+        "ja": "第 18 条",
+        "en": "Article 18"
+      },
+      "texts": {
+        "zh": "经营者违反本法第6条规定实施混淆行为的，由监督检查部门责令停止违法行为，没收违法商品。违法经营额五万元以上的，可以并处违法经营额五倍以下的罚款；没有违法经营额或者违法经营额不足五万元的，可以并处二十五万元以下的罚款。情节严重的，吊销营业执照。经营者登记的企业名称违反本法第6条规定的，应当及时办理名称变更登记；名称变更前，由原企业登记机关以统一社会信用代码代替其名称。",
+        "ja": "事業者が本法第6条の規定に違反して混同行為を実施した場合、監督検査部門が違法行為の停止を命じ、違法商品を没収する。違法経営額が5万元以上の場合、違法経営額の5倍以下の過料を科すことができる。違法経営額がない又は違法経営額が5万元に満たない場合、25万元以下の過料を科すことができる。情状が重大である場合、営業許可証を取り消すことができる。事業者が登記した企業名称が本法第6条の規定に違反する場合、速やかに名称変更登記を申請しなければならない。名称変更手続が完了するまで、原企業登記機関が統一社会信用コードでその名称を代替しなければならない。",
+        "en": "Where any business entity commits an act which creates confusion in violation of Article 6 of this Law, the regulatory authorities shall order it to cease its such illegal activity and confiscate its illegal products. Additionally the infringer may also be punished by a fine not exceeding five times of the value of its illegal operations if the value of its illegal operations is RMB 50,000 yuan or more, or by a fine not exceeding RMB 250,000 yuan if the value of its illegal operations is zero or less than RMB 50,000 yuan. If its violation is serious, its business license shall be revoked. Any business entity where its registered business name does not comply with Article 6 of this Law shall, in a timely manner, undergo name modification registration; and before its name is modified properly, the original enterprise registration authorities shall use its uniform social credit code instead of its name."
+      }
+    },
+    {
+      "id": 26,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 19 条",
+        "ja": "第 19 条",
+        "en": "Article 19"
+      },
+      "texts": {
+        "zh": "经营者违反本法第7条规定贿赂他人的，由监督检查部门没收违法所得，处十万元以上三百万元以下的罚款。情节严重的，吊销营业执照。",
+        "ja": "事業者が本法第7条の規定に違反して他人に賄賂を贈った場合、監督検査部門が違法所得を没収し、10万元以上300万元以下の過料を科すことができる。情状が重大である場合、営業許可証を取り消すことができる。",
+        "en": "Where any business entity bribes another person in violation of Article 7 of this Law, the regulatory authorities shall confiscate its illegal income and impose a fine of not less than RMB 100,000 yuan nor more than RMB three million yuan on it. If its violation is serious, its business license shall be revoked."
+      }
+    },
+    {
+      "id": 27,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 20 条",
+        "ja": "第 20 条",
+        "en": "Article 20"
+      },
+      "texts": {
+        "zh": "经营者违反本法第8条规定对其商品作虚假或者引人误解的商业宣传，或者通过组织虚假交易等方式帮助其他经营者进行虚假或者引人误解的商业宣传的，由监督检查部门责令停止违法行为，处二十万元以上一百万元以下的罚款；情节严重的，处一百万元以上二百万元以下的罚款，可以吊销营业执照。经营者违反本法第8条规定，属于发布虚假广告的，依照《中华人民共和国广告法》的规定处罚。",
+        "ja": "事業者が本法第8条の規定に違反してその商品について偽り、若しくは誤解を生じさせる商業宣伝を行い、又は虚偽取引を通じる等の方法により、他の事業者が虚偽の、又は関連公衆に誤解を生じさせる商業宣伝を行うことを幇助した場合、監督検査部門4が違法行為の停止を命じ、20万元以上100万元以下の過料を科すことができる。情状が重大である場合、100万元以上200万元以下科料を科し、営業許可証を取り消すことができる。事業者が本法第8条の規定に違反し、虚偽広告の掲載に該当する場合、「中華人民共和国広告法」の規定に従い処罰する。",
+        "en": "Where any business entity conducts any false or misleading commercial publicity about its products or helps another business entity conduct any false or misleading commercial publicity by fabricating transactions or by any other means in violation of Article 8 of this Law,, the regulatory authorities shall order it to cease its such illegal activity, and it shall be punished by a fine of not less than RMB 200,000 yuan but not more than RMB one million yuan, or if its violation is serious by a fine of not less than RMB one million yuan but not more than RMB two million yuan and its business license may be revoked. Violation by any business entity of Article 8 of this Law that constitutes publishing false advertisement shall be punished pursuant to the Advertising Law of the People's Republic of China."
+      }
+    },
+    {
+      "id": 28,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 21 条",
+        "ja": "第 21 条",
+        "en": "Article 21"
+      },
+      "texts": {
+        "zh": "经营者以及其他自然人、法人和非法人组织违反本法第九条规定侵犯商业秘密的，由监督检查部门责令停止违法行为，没收违法所得，处十万元以上一百万元以下的罚款；情节严重的，处五十万元以上五百万元以下的罚款。",
+        "ja": "事業者その他の自然人、法人及び非法人組織が本法第9条の規定に違反して営業秘密を侵害した場合、監督検査部門は違法行為の停止を命じ、違法所得を没収し、10万元以上100万元以下の過料を科すことができる。情状が重大である場合、50万元以上500万元以下の過料を科すことができる。",
+        "en": "Where any business entity, natural person, legal person or unincorporated organization infringes upon a trade secret of another in violation of Article 9 of this Law, the regulatory authorities shall order it to cease such illegal activity, confiscate any illegal gains, and impose a fine of no less than RMB 100,000 yuan but no more than RMB one million yuan, or a fine of no less than RMB 500,000 yuan but no more than RMB five million yuan if the circumstance is serious."
+      }
+    },
+    {
+      "id": 29,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 22 条",
+        "ja": "第 22 条",
+        "en": "Article 22"
+      },
+      "texts": {
+        "zh": "经营者违反本法第10条规定进行有奖销售的，由监督检查部门责令停止违法行为，处五万元以上五十万元以下的罚款。",
+        "ja": "事業者が本法第10条の規定に違反して懸賞景品付販売をした場合、監督検査部門が違法行為の停止を命じ、5万元以上50万元以下の過料を科すことができる。",
+        "en": "Where any business entity conducts a premium sales activity in violation of Article 10 of this Law, the regulatory authorities shall order it to cease its such illegal activity and impose on it a fine of not less than RMB 50,000 yuan nut not more than RMB 500,000 yuan."
+      }
+    },
+    {
+      "id": 30,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 23 条",
+        "ja": "第 23 条",
+        "en": "Article 23"
+      },
+      "texts": {
+        "zh": "经营者违反本法第11条规定损害竞争对手商业信誉、商品声誉的，由监督检查部门责令停止违法行为、消除影响，处十万元以上五十万元以下的罚款；情节严重的，处五十万元以上三百万元以下的罚款。",
+        "ja": "事業者が本法第11条の規定に違反して競争相手の商業上の信用、商品の評判を損なった場合、監督検査部門が違法行為の停止、影響の除去を命じ、10万元以上50万元以下の過料を科すことができる。情状が重大である場合、50万元以上300万元以下の過料を科すことができる。",
+        "en": "Where any business entity causes any damage to the goodwill or the reputation of product of its competitor in violation of Article 11 of this Law, the regulatory authorities shall order it to cease its such illegal activity, to eliminate the adverse effects, and shall impose a fine not less than RMB 100,000 yuan but not more than RMB 500,000 yuan, or a fine of not less than RMB 500,000 yuan but not more than RMB three million yuan, if its violation is serious."
+      }
+    },
+    {
+      "id": 31,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 24 条",
+        "ja": "第 24 条",
+        "en": "Article 24"
+      },
+      "texts": {
+        "zh": "经营者违反本法第12条规定妨碍、破坏其他经营者合法提供的网络产品或者服务正常运行的，由监督检查部门责令停止违法行为，处十万元以上五十万元以下的罚款；情节严重的，处五十万元以上三百万元以下的罚款。",
+        "ja": "事業者が本法第12条の規定に違反して他の事業者が合法的に提供するネットワーク製品又はサービスの正常な運用を妨害、破壊した場合、監督検査部門が違法行為の停止を命じ、10万元以上50万元以下の過料を科すことができる。情状が重大である場合、50万元以上300万元以下の過料を科すことができる。",
+        "en": "Where any business entity interferes with or sabotages the normal operation of internet products or services lawfully provided by another business entity in violation of Article 12 of this Law, the regulatory authorities shall order it to cease its such illegal activity, and impose a fine not less than RMB 100,000 yuan but not more than RMB 500,000 yuan, or a fine of not less than RMB 500,000 yuan but not more than RMB three million yuan if its violation is serious."
+      }
+    },
+    {
+      "id": 32,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 25 条",
+        "ja": "第 25 条",
+        "en": "Article 25"
+      },
+      "texts": {
+        "zh": "经营者违反本法规定从事不正当竞争，有主动消除或者减轻违法行为危害后果等法定情形的，依法从轻或者减轻行政处罚；违法行为轻微并及时纠正，没有造成危害后果的，不予行政处罚。",
+        "ja": "事業者が本法の規定に違反して不正競争に従事し、違法行為の危害の影響を自発的に消去し、又は軽減した場合、法に基づき行政処罰を軽くし、又は減軽する。違法行為が軽微でありかつ速やかに是正し、危害の影響をもたらさなかった場合、行政処罰を科さない。",
+        "en": "Where a business engages in any unfair competition in violation of this Law, and it voluntarily eliminates or mitigates the harmful consequences of its illegal act, among other statutory circumstances, a lighter or mitigated administrative punishment may be imposed according to the laws; if the illegal act is minor and corrected in a timely manner without any harmful consequences, no administrative punishment shall be imposed."
+      }
+    },
+    {
+      "id": 33,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 26 条",
+        "ja": "第 26 条",
+        "en": "Article 26"
+      },
+      "texts": {
+        "zh": "经营者违反本法规定从事不正当竞争，受到行政处罚的，由监督检查部门记入信用记录，并依照有关法律、行政法规的规定予以公示。",
+        "ja": "事業者が本法の規定に違反して不正競争に従事し、行政処罰を受けた場合、監督検査部門が信用記録に記入するとともに、関連の法律、行政法規の規定に従い公示する。",
+        "en": "Where any business entity is subject to an administrative punishment for conducting acts of unfair competition in violation of this Law, the regulatory authorities shall enter such fact into the credit recording system against the business entity, and make relevant public announcements, according to applicable laws and administrative regulations."
+      }
+    },
+    {
+      "id": 34,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 27 条",
+        "ja": "第 27 条",
+        "en": "Article 27"
+      },
+      "texts": {
+        "zh": "经营者违反本法规定，应当承担民事责任、行政责任和刑事责任，其财产不足以支付的，优先用于承担民事责任。6",
+        "ja": "事業者は、本法の規定に違反した場合、民事責任、行政責任及び刑事責任を負わなければならず、その財産で弁済が足りない場合、民事責任を負うことを優先する。",
+        "en": "Any business entity shall bear civil, administrative, and criminal liability for its such violation of this Law. Where its property is not sufficient to cover all such liabilities, the civil liability shall be first covered."
+      }
+    },
+    {
+      "id": 35,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 28 条",
+        "ja": "第 28 条",
+        "en": "Article 28"
+      },
+      "texts": {
+        "zh": "妨害监督检查部门依照本法履行职责，拒绝、阻碍调查的，由监督检查部门责令改正，对个人可以处五千元以下的罚款，对单位可以处五万元以下的罚款，并可以由公安机关依法给予治安管理处罚。",
+        "ja": "監督検査部門が本法に従って職責を履行することを妨害し、調査を拒否、阻害した場合、監督検査部門が是正を命じ、個人に対しては、5,000元以下の過料を科すことができ、組織に対しては5万元以下の過料を科すことができ、かつ公安機関が法により治安管理処罰を与えることができる。",
+        "en": "Where any business entity prevents the regulatory authorities from performing their functions pursuant to this Law, or refuses to cooperate or otherwise impedes an investigation by the regulatory authorities, the regulatory authorities shall order the business entity to take corrective actions, and may impose on individual a fine of not more than RMB 5,000 yuan, or of not more than RMB50,000 yuan for units, and shall be given a public security administration punishment in by the public security authorities according to law."
+      }
+    },
+    {
+      "id": 36,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 29 条",
+        "ja": "第 29 条",
+        "en": "Article 29"
+      },
+      "texts": {
+        "zh": "当事人对监督检查部门作出的决定不服的，可以依法申请行政复议或者提起行政诉讼。",
+        "ja": "当事者は監督検査部門の下した決定に不服がある場合、法により行政不服審査を請求し、又は行政訴訟を提起することができる。",
+        "en": "Where a party refuses to accept the decision of the regulatory authorities, may apply for administrative reconsideration or administrative lawsuit ."
+      }
+    },
+    {
+      "id": 37,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 30 条",
+        "ja": "第 30 条",
+        "en": "Article 30"
+      },
+      "texts": {
+        "zh": "监督检查部门的工作人员滥用职权、玩忽职守、徇私舞弊或者泄露调查过程中知悉的商业秘密的，依法给予处分。",
+        "ja": "監督検査部門の公務員に職権乱用、職務怠慢、私利による不正行為又は調査過程で知り得た営業秘密の漏えい行為があった場合、法により処分を行う。",
+        "en": "Any official or employee of the regulatory authorities who abuses his/her power, commits dereliction of duties, makes falsehood for personal gains, or divulges any trade secret known in investigation shall be punished pursuant to applicable laws."
+      }
+    },
+    {
+      "id": 38,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 31 条",
+        "ja": "第 31 条",
+        "en": "Article 31"
+      },
+      "texts": {
+        "zh": "违反本法规定，构成犯罪的，依法追究刑事责任。",
+        "ja": "本法の規定に違反し、犯罪を構成する場合、法により刑事責任を追及する。",
+        "en": "Any violation of the provisions of this Law ，which constitutes a criminal offence, shall be investigated for criminal responsibility according to law."
+      }
+    },
+    {
+      "id": 39,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 32 条",
+        "ja": "第 32 条",
+        "en": "Article 32"
+      },
+      "texts": {
+        "zh": "第三十二条 在侵犯商业秘密的民事审判程序中，商业秘密权利人提供初步证据，证明其已经对所主张的商业秘密采取保密措施，且合理表明商业秘密被侵犯，涉嫌侵权人应当证明权利人所主张的商业秘密不属于本法规定的商业秘密。商业秘密权利人提供初步证据合理表明商业秘密被侵犯，且提供以下证据之一的，涉嫌侵权人应当证明其不存在侵犯商业秘密的行为：\n（一）有证据表明涉嫌侵权人有渠道或者机会获取商业秘密，且其使用的信息与该商业秘密实质上相同；\n（二）有证据表明商业秘密已经被涉嫌侵权人披露、使用或者有被披露、使用的风险；\n（三）有其他证据表明商业秘密被涉嫌侵权人侵犯。",
+        "ja": "営業秘密侵害に関する民事審判手続において、営業秘密の権利者が、主張する営業秘密に対して秘密保持措置を講じたこと及び営業秘密が侵害されたことを合理的に示す初步的証拠を提供した場合、被疑侵害者は、権利者が主張する営業秘密が本法に規定する営業秘密に該当しないことを立証しなければならない。営業秘密の権利者が営業秘密が侵害されたことを合理的に示す初步的証拠を提供し、かつ以下の証拠のいずれかを提供した場合、被疑侵害者は、自らが営業秘密を侵害していないことを立証しなければならない：\n（一）被疑侵害者が営業秘密を入手する経路又は機会を有していたこと、かつその使用する情報が当該営業秘密と実質的に同一であることを示す証拠があること；\n（二）営業秘密が既に被疑侵害者によって開示され、使用されていること、又は開示若しくは使用される危険があることを示す証拠があること；\n（三）その他の証拠により営業秘密が被疑侵害者によって侵害されていることが示されていること。",
+        "en": "In a civil proceeding on the infringement of trade secret, the lawful holder of the trade secret shall submit prima facie evidence to prove that it has taken confidentiality measures for the claimed trade secret, and to reasonably indicate that the trade secret has been infringed upon. The alleged infringer shall then prove that the trade secret claimed by the lawful holder does not constitute a “trade secret” under this Law. The alleged infringer shall prove the absence of the infringement, if the lawful holder of a trade secret submits prima facie evidence reasonably indicating that the trade secret has been infringed upon, and submits any of the following evidence: (1) Evidence indicating that the alleged infringer has the method or opportunity to obtain the trade secret, and the information it used is substantially the same with such trade secret; (2) Evidence indicating that the trade secret has been disclosed or used, or is at risk of disclosure or use, by the alleged infringer; or (3) Other evidence indicating that the trade secret has been infringed upon by the alleged infringer. Chapter V Supplemental Provision"
+      }
+    },
+    {
+      "id": 40,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第五章",
+        "ja": "第 5 章",
+        "en": "Chapter V"
+      },
+      "texts": {
+        "zh": "附 则",
+        "ja": "附則",
+        "en": "Supplementary Provisions"
+      }
+    },
+    {
+      "id": 41,
+      "source_file": "中华人民共和国反不正当竞争法(2019)",
+      "original_numbers": {
+        "zh": "第 33 条",
+        "ja": "第 33 条",
+        "en": "Article 33"
+      },
+      "texts": {
+        "zh": "本法自2018年1月1日起施行。",
+        "ja": "本法は2018年1月1日から施行する。",
+        "en": "Article 33 This Law shall go into effect as of December 1, 1993."
+      }
+    }
+  ]
+}

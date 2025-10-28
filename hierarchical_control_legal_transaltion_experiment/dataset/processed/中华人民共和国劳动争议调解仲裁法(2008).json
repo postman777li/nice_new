@@ -1,0 +1,928 @@
+{
+  "metadata": {
+    "law_name": "劳动争议调解仲裁法",
+    "domain": "LaborLaw",
+    "year": 2008,
+    "source_file": "中华人民共和国劳动争议调解仲裁法(2008).xlsx",
+    "total_entries": 65,
+    "processed_at": "2025-10-05T21:38:47.689525",
+    "languages": [
+      "zh",
+      "ja",
+      "en"
+    ],
+    "valid_entries": 65
+  },
+  "entries": [
+    {
+      "id": 1,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "法律名称",
+        "ja": "法令名",
+        "en": "Law Title"
+      },
+      "texts": {
+        "zh": "中华人民共和国劳动争议调解仲裁法",
+        "ja": "中華人民共和国労働紛争調停仲裁法",
+        "en": "Law of the People's Republic of China on Labor-dispute Mediation and Arbitration"
+      }
+    },
+    {
+      "id": 2,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "修订记录",
+        "ja": "改正記録",
+        "en": "Revision Record"
+      },
+      "texts": {
+        "zh": "中华人民共和国主席令\n  (第八十号)\n《中华人民共和国劳动争议调解仲裁法》已由中华人民共和国第十届全国 人民代表大会常务委员会第三十一次会议于 2007 年 12 月 29 日通过，现予公 布，自 2008 年 5 月 1 日起施行。\n中华人民共和国主席 胡锦涛 \n2007 年 12 月 29 日",
+        "ja": "中華人民共和国主席令\n（第八十号）\n「中華人民共和国労働紛争調停仲裁法」は、2007年12月29日に開催された中華人民共和国第十期全国人民代表大会常務委員会第三十一次会議において可決され、ここに公布する。本法は2008年5月1日より施行する。\n中華人民共和国主席 胡錦濤\n2007年12月29日",
+        "en": "Order of the President of the People’s Republic of China\nNo.80\nThe Law of the People’s Republic of China on Labor-dispute Mediation and Arbitration, adopted at the 31st Meeting of the Standing Committee of the Tenth National People’s Congress of the People’s Republic of China on December 29, 2007, is hereby promulgated and shall go into effect as of May 1, 2008.\nHu Jintao\nPresident of the People’s Republic of China\nDecember 29, 2007"
+      }
+    },
+    {
+      "id": 3,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "修订时间",
+        "ja": "改正時間",
+        "en": "Revision Datetime"
+      },
+      "texts": {
+        "zh": "中华人民共和国劳动争议调解仲裁法\n(2007 年 12 月 29 日第十届全国人民代表大会常务委员会第三十一次会议通过)",
+        "ja": "中华人民共和国劳动争议调解仲裁法\n(2007 年 12 月 29 日第十届全国人民代表大会常务委员会第三十一次会议通过)",
+        "en": "Law of the People's Republic of China on Labor-dispute Mediation and Arbitration (Adopted at the 31st Meeting of the Standing Committee of the Tenth National People's Congress on December 29, 2007)"
+      }
+    },
+    {
+      "id": 4,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "目录",
+        "ja": "目次",
+        "en": "Contents"
+      },
+      "texts": {
+        "zh": "第一章 总则\n第二章 调解\n第三章 仲裁\n    第一节 一般规定\n    第二节 申请和受理\n    第三节 开庭和裁决\n第四章 附则",
+        "ja": "第一章 総則 \n第二章 調停 \n第三章 仲裁\n    第一節 一般的な規定 \n    第二節 申請と受理 \n    第三節 開廷と裁決\n第四章 附則",
+        "en": "Chapter I General Provisions\nChapter II Mediation\nChapter III Arbitration\n    Section 1 General Stipulations\n    Section 2 Application and Acceptance\n    Section 3 Hearing and Award\nChapter IV Supplementary Provisions"
+      }
+    },
+    {
+      "id": 5,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第一章",
+        "ja": "第一章",
+        "en": "Chapter I"
+      },
+      "texts": {
+        "zh": "总则",
+        "ja": "総則",
+        "en": "General Provisions"
+      }
+    },
+    {
+      "id": 6,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第1条",
+        "ja": "第1条",
+        "en": "Article 1"
+      },
+      "texts": {
+        "zh": "为了公正及时解决劳动争议，保护当事人合法权益，促进劳动关系和谐稳定，制定本法。",
+        "ja": "公正、迅速に労働紛争を解決、当事者の合法的権益を保護、労働関係の調和と安定を促進するために本法を制定する。",
+        "en": "Article 1 This Law is enacted in order to resolve labor disputes in an impartial and timely manner, protect the lawful rights and interests of the parties and promote harmonious and stable labor relations."
+      }
+    },
+    {
+      "id": 7,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第2条",
+        "ja": "第2条",
+        "en": "Article 2"
+      },
+      "texts": {
+        "zh": "中华人民共和国境内的用人单位与劳动者发生的下列劳动争议，适用本法：（一）因确认劳动关系发生的争议；（二）因订立、履行、变更、解除和终止劳动合同发生的争议；（三）因除名、辞退和辞职、离职发生的争议；（四）因工作时间、休息休假、社会保险、福利、培训以及劳动保护发生的争议；（五）因劳动报酬、工伤医疗费、经济补偿或者赔偿金等发生的争议；（六）法律、法规规定的其他劳动争议。",
+        "ja": "中華人民共和国国内の使用者と労働者の間に下記の労働紛争が発生した場合、本法を適用する。（一）労働関係の確認に関する紛争；（二）労働契約の締結、履行、変更、解除と終止に関する紛争；（三）除名、解雇と辞職、離職に関する紛争；（四）勤務時間、休憩休暇、社会保険、福利、研修及び労働保護に関する紛争；（五）労働報酬、労働負傷医療費、経済補償或いは補償金等のため発生した紛争；（六）法律、法規に規定するその他の労働紛争。",
+        "en": "This Law is applicable to the following labor disputes arising between employing units and workers within the territory of the People's Republic of China: (1) disputes arising from the confirmation of labor relations; (2) disputes arising from the conclusion, performance, alteration, cancellation or termination of labor contracts; (3) disputes arising from expulsion, charge, resignation or severance; (4) disputes arising from working hours, the period of rest and vacation, social insurance, welfare benefits, training and occupational protection; (5) disputes arising from labor remuneration, medical expenses for job-related injury, economic compensation or damages, etc.; and (6) other labor disputes prescribed by laws and regulations."
+      }
+    },
+    {
+      "id": 8,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第3条",
+        "ja": "第3条",
+        "en": "Article 3"
+      },
+      "texts": {
+        "zh": "解决劳动争议，应当根据事实，遵循合法、公正、及时、着重调解的原则，依法保护当事人的合法权益。",
+        "ja": "労働紛争の解決は、事実に基づき、合法、公正、迅速、調停による解決の奨励という原則に従い、法に基づき当事者の合法的な利益を保護する。",
+        "en": "Labor disputes shall be resolved on the basis of facts and pursuant to the principles of lawfulness, impartiality and timeliness, with stress on mediation, in order to protect the lawful rights and interests of the parties according to law."
+      }
+    },
+    {
+      "id": 9,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第4条",
+        "ja": "第4条",
+        "en": "Article 4"
+      },
+      "texts": {
+        "zh": "发生劳动争议，劳动者可以与用人单位协商，也可以请工会或者第三方共同与用人单位协商，达成和解协议。",
+        "ja": "労働紛争が発生する場合、労働者は使用者と交渉することができ、労働組合或いは第三者を使用者と交渉させることも出来る。",
+        "en": "When a labor dispute arises, the worker concerned may have a consultation with the employing unit or invite the trade union or a third party to join in the consultation with the employing unit, in order to reach a settlement agreement."
+      }
+    },
+    {
+      "id": 10,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第5条",
+        "ja": "第5条",
+        "en": "Article 5"
+      },
+      "texts": {
+        "zh": "发生劳动争议，当事人不愿协商、协商不成或者达成和解协议后不履行的，可以向调解组织申请调解；不愿调解、调解不成或者达成调解协议后不履行的，可以向劳动争议仲裁委员会申请仲裁；对仲裁裁决不服的，除本法另有规定的外，可以向人民法院提起诉讼。",
+        "ja": "労働争議が発生した場合に、当事者が交渉する意思がなく、交渉をすることが出来ない或いは交渉協議が成立した後がこれを履行しない場合、調停組織に調停を申請することが出来る。また調停する意思がなく、調停が成立しない或いは調停が成立した後これを履行しない場合、労働紛争仲裁委員会に仲裁を申請することができる。仲裁の裁決に不服がある場合、本法日本貿易振興機構に別の規定がある場合の他人民法院に訴えを提起することが出来る。",
+        "en": "Where a labor dispute arises and the parties are not willing to have a consultation, or the consultation fails, or the settlement agreement reached is not performed, they may apply to a mediation institution for mediation. Where the parties are not willing to have mediation, or the mediation fails, or the mediation agreement reached is not performed, they may apply to a labor-dispute arbitration commission for arbitration. Where they are dissatisfied with the arbitral award, they may initiate a litigation to a people's court, unless otherwise provided for in this Law."
+      }
+    },
+    {
+      "id": 11,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第6条",
+        "ja": "第6条",
+        "en": "Article 6"
+      },
+      "texts": {
+        "zh": "发生劳动争议，当事人对自己提出的主张，有责任提供证据。与争议事项有关的证据属于用人单位掌握管理的，用人单位应当提供；用人单位不提供的，应当承担不利后果。",
+        "ja": "労働紛争が発生した場合、当事者は自ら提出した主張に対して、証拠提出責任を負う。紛争事項に関する証拠を使用者が保有し管理する場合、使用者はこれを提出しなければならない。使用者が提出しない場合、不利益な結果を負わなければならない。",
+        "en": "Where a labor dispute arises, the parties have the responsibility to give evidence for their own claims. Where the evidence relevant to the matter under dispute is kept and controlled by the employing unit, the said unit shall provide such evidence. Where the employing unit refuses to do so, it shall bear any unfavorable consequences."
+      }
+    },
+    {
+      "id": 12,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第7条",
+        "ja": "第7条",
+        "en": "Article 7"
+      },
+      "texts": {
+        "zh": "发生劳动争议的劳动者一方在十人以上，并有共同请求的，可以推举代表参加调解、仲裁或者诉讼活动。",
+        "ja": "発生すた労働紛争に関係する労働者が十人以上で、かつ共同で申請をする場合、その中から代表者を選定して調停、仲裁或いは訴訟活動に参加させることが出来る。",
+        "en": "Where the party in a labor dispute consists of 10 workers or more, and they have a common request, they may choose one worker to represent them in mediation, arbitration or litigation."
+      }
+    },
+    {
+      "id": 13,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第8条",
+        "ja": "第8条",
+        "en": "Article 8"
+      },
+      "texts": {
+        "zh": "县级以上人民政府劳动行政部门会同工会和企业方面代表建立协调劳动关系三方机制，共同研究解决劳动争议的重大问题。",
+        "ja": "県クラス以上の人民政府労働行政部門は、労働組合、企業の代表者と労働関係三方制度を立て、共同で労働紛争の重大な問題を検討して解決する。",
+        "en": "The administrative departments of labor of the people's governments at or above the county level shall, in conjunction with the trade unions and representatives of enterprises, establish a tripartite coordination mechanism for labor relations to jointly study and resolve the major issues of labor disputes."
+      }
+    },
+    {
+      "id": 14,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第9条",
+        "ja": "第9条",
+        "en": "Article 9"
+      },
+      "texts": {
+        "zh": "用人单位违反国家规定，拖欠或者未足额支付劳动报酬，或者拖欠工伤医疗费、经济补偿或者赔偿金的，劳动者可以向劳动行政部门投诉，劳动行政部门应当依法处理。",
+        "ja": "使用者が国家の規定に違反し、労働報酬の支払を遅延或いは過小支払い、また労働負傷医療費、経済補償或いは賠償金の支払を遅延した場合、労働者は労働行政部分に申し出ることができ、労働行政部門は法に基づき処理しなければならない。",
+        "en": "Where an employing unit, in violation of State regulations, defaults in the payment of labor remuneration or fails to pay the same in full, or defaults in the payment of medical expenses for job-related injury, economic compensation or damages, the worker concerned may make a complaint to the administrative department of labor, which shall handle the complaint in accordance with law."
+      }
+    },
+    {
+      "id": 15,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第二章",
+        "ja": "第二章",
+        "en": "Chapter II"
+      },
+      "texts": {
+        "zh": "调解",
+        "ja": "調停",
+        "en": "Mediation"
+      }
+    },
+    {
+      "id": 16,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第10条",
+        "ja": "第10条",
+        "en": "Article 10"
+      },
+      "texts": {
+        "zh": "发生劳动争议，当事人可以到下列调解组织申请调解：（一）企业劳动争议调解委员会；（二）依法设立的基层人民调解组织；（三）在乡镇、街道设立的具有劳动争议调解职能的组织。企业劳动争议调解委员会由职工代表和企业代表组成。职工代表由工会成员担任或者由全体职工推举产生，企业代表由企业负责人指定。企业劳动争议调解委员会主任由工会成员或者双方推举的人员担任。",
+        "ja": "労働紛争が発生した場合、当事者は下記の調停組織に調停を申請することが出来る。（一）企業労働紛争調停委員会（二）法に基づき設立された人民調停組織（三）郷鎮、町に設立された労働紛争調停職能がある組織企業労働紛争調停委員会は職員代表者と企業代表者で構成される。職員代表者は労働組合のメンバー或いは職員全体の推薦により選出された者が担任する。企業代表者は企業責任者の指定による。労働組合のメンバー或いは双方が推薦した者が企業労働紛争調停委員会主任を担当する。",
+        "en": "Where a labor dispute arises, the parties may apply for mediation to the following mediation institutions: (1) labor-dispute mediation commissions of enterprises; (2) people's mediation institutions at the grass-roots level established in accordance with law; and (3) organizations with the function of labor-dispute mediation established in towns, townships or neighborhoods. The labor-dispute mediation commission of an enterprise shall be composed of representatives of employees and of the enterprise. The representatives of employees shall be trade union members or be chosen by all employees, and the representatives of the enterprise shall be designated by the leading person of the enterprise. The director of the labor-dispute mediation commission of the enterprise shall be a trade union member or a person chosen by both parties."
+      }
+    },
+    {
+      "id": 17,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第11条",
+        "ja": "第11条",
+        "en": "Article 11"
+      },
+      "texts": {
+        "zh": "劳动争议调解组织的调解员应当由公道正派、联系群众、热心调解工作，并具有一定法律知识、政策水平和文化水平的成年公民担任。",
+        "ja": "労働紛争調停組織の調停者は正義、誠実、地方の民心に基づき、真摯に調停を行うべきである。また、一定の法律知識、政策程度と文化程度を有する成年の公民が担任する。",
+        "en": "The mediators of labor-dispute mediation institutions shall be adult citizens who are fair-minded and upright, maintain ties with people, are devoted to mediation, are familiar with certain laws and policies, and are well-educated."
+      }
+    },
+    {
+      "id": 18,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第12条",
+        "ja": "第12条",
+        "en": "Article 12"
+      },
+      "texts": {
+        "zh": "当事人申请劳动争议调解可以书面申请，也可以口头申请。口头申请的，调解组织应当当场记录申请人基本情况、申请调解的争议事项、理由和时间。",
+        "ja": "当事者は、労働紛争調停を申請する場合、書面又は口頭により申請することが出来る。口頭で申請する場合、調停組織はその場で申請者の基本情況、調停を申請する紛争事項、理由と時間を記録しなければならない。",
+        "en": "The parties that apply for mediation of a labor dispute may do so in writing or orally. Where an application is made orally, the mediation institution shall, on the spot, note down the basic background of the applicant, the matters under dispute, the reasons for mediation and the time of application."
+      }
+    },
+    {
+      "id": 19,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第13条",
+        "ja": "第13条",
+        "en": "Article 13"
+      },
+      "texts": {
+        "zh": "调解劳动争议，应当充分听取双方当事人对事实和理由的陈述，耐心疏导，帮助其达成协议。",
+        "ja": "労働紛争の調停は、双方当事者の事実と理由の陳述を充分に聴取し、真摯に調停、合意に達するように協力しなければならない。",
+        "en": "When mediating labor disputes, the mediator shall pay full heed to the facts and reasons stated by both parties, persuade them with patience and help them reach an agreement."
+      }
+    },
+    {
+      "id": 20,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第14条",
+        "ja": "第14条",
+        "en": "Article 14"
+      },
+      "texts": {
+        "zh": "经调解达成协议的，应当制作调解协议书。调解协议书由双方当事人签名或者盖章，经调解员签名并加盖调解组织印章后生效，对双方当事人具有约束力，当事人应当履行。自劳动争议调解组织收到调解申请之日起十五日内未达成调解协议的，当事人可以依法申请仲裁。",
+        "ja": "調停が成立した場合は調停協議書を作成しなければならない。調停協議書は双方当事者の署名或いは捺印が必要で、調停者の署名且つ調停組織の捺印により発効する。調停協議書は双方当事者を拘束し、当事者はこれを日本貿易振興機構履行しなければならない。労働紛争調停組織が調停申請を受けた日から15日以内に調停が成立しない場合、当事者は法に基づき仲裁を申請することが出来る。",
+        "en": "Where an agreement is reached after mediation, a mediation agreement shall be prepared. The mediation agreement shall be signed or sealed by both parties, and be signed by the mediator and sealed by the mediation institution to take effect. It shall be binding on both parties and be performed by them. Where no mediation agreement is reached within 15 days from the date the labor-dispute mediation institution receives the application for mediation, the parties may apply for arbitration in accordance with law."
+      }
+    },
+    {
+      "id": 21,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第15条",
+        "ja": "第15条",
+        "en": "Article 15"
+      },
+      "texts": {
+        "zh": "达成调解协议后，一方当事人在协议约定期限内不履行调解协议的，另一方当事人可以依法申请仲裁。",
+        "ja": "調停が成立した後、一方当事者が合意した期限内に調停協議内容を履行しない場合、他方当事者は法に基づき仲裁を申請することが出来る。",
+        "en": "Where, after the mediation agreement is reached, one of the parties fail to perform the agreement within the time limit prescribed in the agreement, the other party may apply for arbitration in accordance with law."
+      }
+    },
+    {
+      "id": 22,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第16条",
+        "ja": "第16条",
+        "en": "Article 16"
+      },
+      "texts": {
+        "zh": "因支付拖欠劳动报酬、工伤医疗费、经济补偿或者赔偿金事项达成调解协议，用人单位在协议约定期限内不履行的，劳动者可以持调解协议书依法向人民法院申请支付令。人民法院应当依法发出支付令。",
+        "ja": "未払いの労働報酬、労働負傷の医療費、経済補償或いは賠償金の支払いに関する調停が成立した場合、使用者が合意した期限内にこれを履行しない場合、労働者は法に基づき、調停協議書を提出して、人民法院に支払命令を申請することが出来る。人民法院は法に基づき支払命令を出さなければならない。",
+        "en": "Where a mediation agreement is reached on the payment of labor remuneration, medical expenses for job-related injury, economic compensation or damages in arrears and the employing unit fails to perform the agreement within the time limit prescribed in the agreement, the worker concerned may, on the strength of the mediation agreement, apply to a people's court for a payment order in accordance with law. The people's court shall issue the payment order in accordance with law."
+      }
+    },
+    {
+      "id": 23,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第一章",
+        "ja": "第三章",
+        "en": "Chapter III"
+      },
+      "texts": {
+        "zh": "仲裁",
+        "ja": "仲裁",
+        "en": "Arbitration"
+      }
+    },
+    {
+      "id": 24,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第一节",
+        "ja": "第一節",
+        "en": "Section 1"
+      },
+      "texts": {
+        "zh": "一般规定",
+        "ja": "一般的な規定",
+        "en": "General Stipulations"
+      }
+    },
+    {
+      "id": 25,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第17条",
+        "ja": "第17条",
+        "en": "Article 17"
+      },
+      "texts": {
+        "zh": "劳动争议仲裁委员会按照统筹规划、合理布局和适应实际需要的原则设立。省、自治区人民政府可以决定在市、县设立；直辖市人民政府可以决定在区、县设立。直辖市、设区的市也可以设立一个或者若干个劳动争议仲裁委员会。劳动争议仲裁委员会不按行政区划层层设立。",
+        "ja": "労働紛争仲裁委員会は統一的な計画に基づいて、合理的な配置と実需に基づくという原則により設立する。省、自治区人民政府は市、県に設立することができる。；直轄市人民政府は区、県に設立することができる。直轄市、区を有する市もまた一つ或いはいくつかの労働仲裁委員会を設立することが出来る。労働紛争仲裁委員会は行政区画による上下の序列はない。",
+        "en": "Labor-dispute arbitration commissions shall be set up pursuant to the principles of overall planning, rational geographical distribution and meeting actual needs. The people's governments of provinces and autonomous regions may decide to set up such commissions in cities and counties; and the people's governments of municipalities directly under the Central Government may decide to set up such commissions in districts and counties; in municipalities directly under the Central Government and cities divided into districts, one or more labor-dispute arbitration commissions may also be established. Labor-dispute arbitration commissions shall not be set up level by level according to administrative divisions."
+      }
+    },
+    {
+      "id": 26,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第18条",
+        "ja": "第18条",
+        "en": "Article 18"
+      },
+      "texts": {
+        "zh": "国务院劳动行政部门依照本法有关规定制定仲裁规则。省、自治区、直辖市人民政府劳动行政部门对本行政区域的劳动争议仲裁工作进行指导。",
+        "ja": "国務院労働行政部門は、本法の関連規定に基づき仲裁規則を制定する。省、自治区、直轄市人民政府労働行政部門は当該行政区域の労働紛争仲裁業務について指導する。",
+        "en": "The administrative department of labor under the State Council shall formulate arbitration rules in accordance with the relevant provisions of this Law. The administrative departments of labor of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government shall provide guidance in labor-dispute arbitration within their own administrative areas."
+      }
+    },
+    {
+      "id": 27,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第19条",
+        "ja": "第19条",
+        "en": "Article 19"
+      },
+      "texts": {
+        "zh": "劳动争议仲裁委员会由劳动行政部门代表、工会代表和企业方面代表组成。劳动争议仲裁委员会组成人员应当是单数。劳动争议仲裁委员会依法履行下列职责：（一）聘任、解聘专职或者兼职仲裁员；（二）受理劳动争议案件；（三）讨论重大或者疑难的劳动争议案件；（四）对仲裁活动进行监督。劳动争议仲裁委员会下设办事机构，负责办理劳动争议仲裁委员会的日常工作。",
+        "ja": "労働紛争仲裁委員会は労働行政部門の代表、労働組合の代表と企業の代表から構成される。労働紛争仲裁委員会の構成員の数は奇数とする。労働紛争仲裁委員会は法に基づき下記の職責を負う。（一）専任或いは兼任の仲裁者の任命及び解任（二）労働紛争事件の受理（三）重大又は難解な問題の検討；（四）仲裁活動の監督労働紛争仲裁委員会の下に事務機構を設け、労働紛争仲裁委員会の日常の業務を担当する。",
+        "en": "A labor-dispute arbitration commissions shall be composed of representatives of the administrative department of labor, the trade unions and the enterprises. The number of the component members of such commission shall be an odd number.Labor dispute arbitration commissions shall perform the following duties in accordance with law: (1) appointing and dismissing full-time or part-time arbitrators; (2) accepting and handling labor-dispute cases; (3) discussing major or complicated labor-dispute cases; and (4) exercising supervision over arbitration. Labor-dispute arbitration commissions shall set up offices for handling their day-to-day work."
+      }
+    },
+    {
+      "id": 28,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第20条",
+        "ja": "第20条",
+        "en": "Article 20"
+      },
+      "texts": {
+        "zh": "劳动争议仲裁委员会应当设仲裁员名册。仲裁员应当公道正派并符合下列条件之一：（一）曾任审判员的；（二）从事法律研究、教学工作并具有中级以上职称的；（三）具有法律知识、从事人力资源管理或者工会等专业工作满五年的；（四）律师执业满三年的。",
+        "ja": "労働紛争仲裁委員会は仲裁員名簿を作成しなければならない。仲裁員は正義、誠実であり、かつ下記の条件のいずれかに該当しなければならない。（一）審判員を担当したことがあること日本貿易振興機構（二）法律研究、教育仕事に従事し、かつ中級以上の資質を持っていること（三）法律知識を有し、人的資源管理或いは労働組合等の専門職務に5年以上従事したこと（四）弁護士業務に三年以上従事したことがあること。",
+        "en": "A labor dispute arbitration commission shall have a roster of arbitrators. An arbitrator shall be fair-minded and upright, and meet one of the following requirements: (1) having served as a judge; (2) being engaged in legal research or teaching with a professional title at the intermediary level or above; (3) possessing legal knowledge and having been engaged in human resources management, trade union work or other professional work for five full years; or (4) being a lawyer, having been in legal practice for three full years."
+      }
+    },
+    {
+      "id": 29,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第21条",
+        "ja": "第21条",
+        "en": "Article 21"
+      },
+      "texts": {
+        "zh": "劳动争议仲裁委员会负责管辖本区域内发生的劳动争议。劳动争议由劳动合同履行地或者用人单位所在地的劳动争议仲裁委员会管辖。双方当事人分别向劳动合同履行地和用人单位所在地的劳动争议仲裁委员会申请仲裁的，由劳动合同履行地的劳动争议仲裁委员会管辖。",
+        "ja": "労働紛争仲裁委員会は当該区域以内で発生する労働紛争の管轄を担当する。労働紛争は、労働契約の履行地或いは使用者所在地の労働紛争仲裁委員会が管轄する。双方当事者がそれぞれ労働契約の履行地と使用者所在地の労働紛争仲裁委員会に仲裁を申請した場合、労働契約の履行地の労働紛争仲裁員会が管轄する。",
+        "en": "A labor-dispute arbitration commission shall be responsible for arbitrating labor disputes arising in the district under its jurisdiction. A labor dispute shall be under the jurisdiction of the labor-dispute arbitration commission at the place where the labor contract concerned is performed or where the employing unit is located. Where one of the two parties applies for arbitration to the labor-dispute arbitration commission at the place where the labor contract is performed and the other does so at the place where the employing unit is located, the labor dispute shall be subject to the jurisdiction of the former."
+      }
+    },
+    {
+      "id": 30,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第22条",
+        "ja": "第22条",
+        "en": "Article 22"
+      },
+      "texts": {
+        "zh": "发生劳动争议的劳动者和用人单位为劳动争议仲裁案件的双方当事人。劳务派遣单位或者用工单位与劳动者发生劳动争议的，劳务派遣单位和用工单位为共同当事人。",
+        "ja": "労働紛争が発生した労働者と使用者は、労働紛争仲裁事件の双方当事者となる。労務派遣会社或いは使用者は、労働者との間で労働紛争が発生した場合、労務派遣会社と使用者は共同当事者となる。",
+        "en": "The worker and the employing unit, between whom a labor dispute arises, constitute the two parties to the labor dispute case for arbitration. Where a labor dispute arises between a labor dispatching unit or an employing unit on the one hand and a worker on the other, the labor dispatching unit and the employing unit constitute a joint party."
+      }
+    },
+    {
+      "id": 31,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第23条",
+        "ja": "第23条",
+        "en": "Article 23"
+      },
+      "texts": {
+        "zh": "与劳动争议案件的处理结果有利害关系的第三人，可以申请参加仲裁活动或者由劳动争议仲裁委员会通知其参加仲裁活动。",
+        "ja": "労働紛争事件の結果と利害関係がある第三者は、仲裁活動に参加を申請することが出来る。また労働紛争仲裁委員会は当該第三者に仲裁活動への参加について通知する。",
+        "en": "The third party that has an interest in the result of a labor dispute case to be handled may apply for participating in arbitration or be notified to do so by the labor-dispute arbitration commission."
+      }
+    },
+    {
+      "id": 32,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第24条",
+        "ja": "第24条",
+        "en": "Article 24"
+      },
+      "texts": {
+        "zh": "当事人可以委托代理人参加仲裁活动。委托他人参加仲裁活动，应当向劳动争议仲裁委员会提交有委托人签名或者盖章的委托书，委托书应当载明委托事项和权限。",
+        "ja": "当事者は、代理人に委任して仲裁活動に参加させることが出来る。この場合、労働紛争仲裁委員会に委任者の署名或いは捺印がある委任状を提出しなければならない。委任状には委任事項と権限を明記しなければならない。",
+        "en": "The parties may appoint agents to participate in arbitration. To appoint an agent to participate in arbitration, a letter of attorney signed or sealed by the appointing party shall be submitted to the labor-dispute arbitration commission, in which shall clearly be stated the entrusted matters and the limit of authority."
+      }
+    },
+    {
+      "id": 33,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第25条",
+        "ja": "第25条",
+        "en": "Article 25"
+      },
+      "texts": {
+        "zh": "丧失或者部分丧失民事行为能力的劳动者，由其法定代理人代为参加仲裁活动；无法定代理人的，由劳动争议仲裁委员会为其指定代理人。劳动者死亡的，由其近亲属或者代理人参加仲裁活动。",
+        "ja": "労働者が一部又は全部の民事行為能力を有しない場合は、その法定代理人が仲裁活動に参加する；法定代理人がいない場合、労働紛争仲裁委員会が代理人を指定する。労働者が死亡した場合、その近親或いは代理人が仲裁活動に参加する。",
+        "en": "A worker who fully or partially losses the capability of civil conduct shall have his statutory agent participate in arbitration. Where such an agent is lacking, an agent shall be designated for him by the labor-dispute arbitration commission. Where the worker is dead, his close relative or agent shall participate in arbitration."
+      }
+    },
+    {
+      "id": 34,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第26条",
+        "ja": "第26条",
+        "en": "Article 26"
+      },
+      "texts": {
+        "zh": "劳动争议仲裁公开进行，但当事人协议不公开进行或者涉及国家秘密、商业秘密和个人隐私的除外。",
+        "ja": "労働紛争仲裁は公開とする。但し、当事者の合意がある場合或いは国家秘密、商業秘密と個人のプライバシーに関する場合はこの限りでない。",
+        "en": "The arbitration of labor disputes shall be conducted openly, unless where the parties agree otherwise, or where State secrets, commercial secrets or personal affairs are involved."
+      }
+    },
+    {
+      "id": 35,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第二节",
+        "ja": " 第二節",
+        "en": "Section 2"
+      },
+      "texts": {
+        "zh": "申请和受理",
+        "ja": "申請と受理",
+        "en": "Application and Acceptance"
+      }
+    },
+    {
+      "id": 36,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第27条",
+        "ja": "第27条",
+        "en": "Article 27"
+      },
+      "texts": {
+        "zh": "劳动争议申请仲裁的时效期间为一年。仲裁时效期间从当事人知道或者应当知道其权利被侵害之日起计算。前款规定的仲裁时效，因当事人一方向对方当事人主张权利，或者向有关部门请求权利救济，或者对方当事人同意履行义务而中断。从中断时起，仲裁时效期间重新计算。因不可抗力或者有其他正当理由，当事人不能在本条第一款规定的仲裁时效期间申请仲裁的，仲裁时效中止。从中止时效的原因消除之日起，仲裁时效期间继续计算。劳动关系存续期间因拖欠劳动报酬发生争议的，劳动者申请仲裁不受本条第一款规定的仲裁时效期间的限制；但是，劳动关系终止的，应当自劳动关系终止之日起一年内提出。",
+        "ja": "労働紛争の仲裁申請の時効期間は一年とする。仲裁の時効期間は、当事者がその権利を侵害されたことを知った時或いは知りえた時より起算する。前項に規定する仲裁時効は、当事者の一方が他方当事者に権利を主張した時、関係部門に権利の救済を申し出た時又は他方当事者が義務の履行に同意した時はその進行を中断する。仲裁時効期間は中断した時より改めて進日本貿易振興機構行する。当事者が不可抗力その他の正当な理由により本条の第一項に規定する仲裁時効期間内に仲裁を申請することが出来ない場合、仲裁時効は中止する。時効を中止する原因がなくなった日から仲裁時効期間は進行する。労働関係存続期間に労働報酬の支払遅延により紛争が発生する場合、労働者は本条第一項に規定する仲裁時効期間の制限をうけない。但し、労働関係が終止する場合は、労働関係の終止の日から1年間以内に仲裁を申請しなければならない。",
+        "en": "The limitation period for application for arbitration of a labor dispute is one year, which shall be calculated from the date a party comes to know or is expected to known the infringement of its rights. The limitation period for arbitration as prescribed in the preceding paragraph shall be discontinued when one party claims its rights against the other party or requests the relevant department for remedy, or when the other party agrees to perform its obligations. The limitation period for arbitration shall be calculated anew from the time of discontinuance. Where, due to force majeure or for other justifiable reasons, the party fails to apply for arbitration within the limitation period for arbitration as prescribed in the first paragraph of this Article, the limitation period for arbitration is suspended, calculation of the limitation period for arbitration shall continue from the date the reasons for suspension disappear. Where, during the existence of the labor relations, a dispute arises over the default in payment of labor remuneration, application for arbitration by the worker concerned shall not be restricted by the limitation period for arbitration prescribed in the first paragraph of this Article. However, where the labor relations are terminated, such application for arbitration shall be submitted within one year from the date the labor relations are terminated."
+      }
+    },
+    {
+      "id": 37,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第28条",
+        "ja": "第28条",
+        "en": "Article 28"
+      },
+      "texts": {
+        "zh": "申请人申请仲裁应当提交书面仲裁申请，并按照被申请人人数提交副本。仲裁申请书应当载明下列事项：（一）劳动者的姓名、性别、年龄、职业、工作单位和住所，用人单位的名称、住所和法定代表人或者主要负责人的姓名、职务；（二）仲裁请求和所根据的事实、理由；（三）证据和证据来源、证人姓名和住所。书写仲裁申请确有困难的，可以口头申请，由劳动争议仲裁委员会记入笔录，并告知对方当事人。",
+        "ja": "仲裁の申請は、書面により仲裁申請を提出しなければならない。かつ被申請者の人数分の副本を提出する。仲裁申請書は下記の事項を明記しなければならない。（一）労働者の氏名、性別、年齢、職業、勤務会社名と住所、使用者の会社名、住所と法定代表人或いは主要な責任者の氏名、職務（二）仲裁請求の根拠となる事実と理由（三）証拠と証拠の出所、証人の氏名と住所仲裁申請書を作成することが真に困難である場合は、口頭により申請することができる。その場合は、労働紛争仲裁委員会が記録して、他方当事者に通知する。",
+        "en": "To applying for arbitration, the applicant shall submit a written application for arbitration and submit duplicates of the application according to the number of the respondents. In the application for arbitration shall clearly be stated the following matters: (1) name, gender, age, occupation, working unit and domicile of the worker, title and domicile of the employing unit, and name and position of the legal representative or the principal leading person; (2) the claims for arbitration and the facts and reasons on which the request is based; and (3) evidence and the source thereof, and name and domicile of the witness. Where the applicant has difficulty in writing an application for arbitration, he may make an oral application, which shall be transcribed by the labor-dispute arbitration commission and be made known to the other party."
+      }
+    },
+    {
+      "id": 38,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第29条",
+        "ja": "第三节+B124",
+        "en": "Article 29"
+      },
+      "texts": {
+        "zh": "劳动争议仲裁委员会收到仲裁申请之日起五日内，认为符合受理条件的，应当受理，并通知申请人；认为不符合受理条件的，应当书面通知申请人不予受理，并说明理由。对劳动争议仲裁委员会不予受理或者逾期未作出决定的，申请人可以就该劳动争议事项向人民法院提起诉讼。",
+        "ja": "労働紛争仲裁委員会は、仲裁の申請を受けた日から五日以内に、受理条件に合う場合はこれを受理し申請者に通知し、受理条件に合わない場合は書面で申請者に受理しないことを通知し、かつ理由を説明しなければならない。労働紛争仲裁委員会が申請を受理しない或いは期限内に決定を出さない場合は、申請者は、その労働紛争事項について人民法院に訴えを提起することが出来る。",
+        "en": "The labor-dispute arbitration commission shall, within five days from the date it receives the arbitration application, accept the application and notify the applicant of its acceptance, if it considers that the application meets the conditions for acceptance; otherwise, it shall notify the applicant in writing that it shall not accept the application and state the reasons. Where the labor-dispute arbitration commission rejects an application or fails to make a decision within the specified time limit, the applicant may initiate a litigation to a people's court with respect to the labor dispute in question."
+      }
+    },
+    {
+      "id": 39,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第30条",
+        "ja": "第30条",
+        "en": "Article 30"
+      },
+      "texts": {
+        "zh": "劳动争议仲裁委员会受理仲裁申请后，应当在五日内将仲裁申请书副本送达被申请人。被申请人收到仲裁申请书副本后，应当在十日内向劳动争议仲裁委员会提交答辩书。劳动争议仲裁委员会收到答辩书后，应当在五日内将答辩书副本送达申请人。被申请人未提交答辩书的，不影响仲裁程序的进行。第三节开庭和裁决",
+        "ja": "労働紛争仲裁委員会は仲裁の申請を受けた後、5日以内に仲裁申請書の副本を被申請者に送付しなければならない。被申請者は仲裁申請書の副本を受けた後10日以内に労働紛争仲裁委員会に答弁書を提出しなければならない。労働紛争仲裁委員会は答弁書を受けた後、5日以内に答弁書の副本を申請者に送付する。被申請者が答弁書を提出しない場合においても仲裁の手続きに影響しない。第三節開廷と裁決",
+        "en": "The labor-dispute arbitration commission shall, upon acceptance of an application for arbitration, serve a duplicate of the said application on the respondent within five days. The respondent shall, upon receipt of the duplicate of the arbitration application, submit a statement of defense to the labor-dispute arbitration commission within 10 days. The labor-dispute arbitration commission shall, within five days after it receives the statement of defense, serve a copy of the statement of defense on the applicant. Failure on the part of the respondent to submit a statement of defense shall not affect the arbitration procedure."
+      }
+    },
+    {
+      "id": 40,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第三节",
+        "ja": "第三節",
+        "en": "Section 3"
+      },
+      "texts": {
+        "zh": "开庭和裁决",
+        "ja": "開廷と裁決",
+        "en": "Hearing and Award"
+      }
+    },
+    {
+      "id": 41,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第31条",
+        "ja": "第31条",
+        "en": "Article 31"
+      },
+      "texts": {
+        "zh": "劳动争议仲裁委员会裁决劳动争议案件实行仲裁庭制。仲裁庭由三名仲裁员组成，设首席仲裁员。简单劳动争议案件可以由一名仲裁员独任仲裁。",
+        "ja": "労働紛争委員会は、労働紛争事件の裁決において仲裁廷制を採用する。仲裁廷は3名の仲裁員で構成され、首席仲裁員を置く。簡易な労働紛争事件は1名の仲裁員が単独で仲裁することが出来る。",
+        "en": "To make awards of labor-dispute cases, labor-dispute arbitration commissions shall adopt the arbitral tribunal system. The arbitral tribunal shall be composed of three arbitrators, with one serving as chief arbitrator. Simple labor-dispute cases may be arbitrated solely by one arbitrator."
+      }
+    },
+    {
+      "id": 42,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第32条",
+        "ja": "第32条",
+        "en": "Article 32"
+      },
+      "texts": {
+        "zh": "劳动争议仲裁委员会应当在受理仲裁申请之日起五日内将仲裁庭的组成情况书面通知当事人。",
+        "ja": "労働紛争委員会は仲裁申請を受けた日から5日以内に仲裁廷の構成について書面で当事者に通知しなければならない。",
+        "en": "The labor-dispute arbitration commission shall, within five days from the date it accepts an application for arbitration, notify the parties in writing of the composition of the arbitral tribunal."
+      }
+    },
+    {
+      "id": 43,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第33条",
+        "ja": "第33条",
+        "en": "Article 33"
+      },
+      "texts": {
+        "zh": "仲裁员有下列情形之一，应当回避，当事人也有权以口头或者书面方式提出回避申请：（一）是本案当事人或者当事人、代理人的近亲属的；（二）与本案有利害关系的；（三）与本案当事人、代理人有其他关系，可能影响公正裁决的；（四）私自会见当事人、代理人，或者接受当事人、代理人的请客送礼的。劳动争议仲裁委员会对回避申请应当及时作出决定，并以口头或者书面方式通知当事人。",
+        "ja": "仲裁員は下記のいずれかの事由がある場合は、回避しなければならない。当事者は口頭又は書面の形で回避を申請することができる。（一）当該事件の当事者或いは当事者、代理人の近親である場合（二）当該事件と利害関係がある場合（三）当該事件の当事者、代理人とその他の関係があり、公正な裁決に影響する可能性がある場合（四）密かに当事者、代理人に会い、或いは当事者、代理人の接待、贈物を受けた場合労働紛争仲裁委員会は回避申請に対して迅速に決定を出し、口頭或いは書面の形で当事者に通知する。",
+        "en": "An arbitrator shall withdraw, and the parties also have the right to apply orally or in writing for his withdrawal, under one of the following circumstances: (1) He is a party to the case in question or a close relative of a party or its agent; (2) He has an interest in the case; (3) He has other relations with a party to the case or its agent, which may affect impartial award; or (4) He meets with a party or its agent without authorization or accepts invitation to dinners or gifts therefrom. The labor-dispute arbitration commission shall, in a timely manner, make a decision on the application for withdrawal and notify the parties of the decision orally or in writing."
+      }
+    },
+    {
+      "id": 44,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第34条",
+        "ja": "第34条",
+        "en": "Article 34"
+      },
+      "texts": {
+        "zh": "仲裁员有本法第33条第四项规定情形，或者有索贿受贿、徇私舞弊、枉法裁决行为的，应当依法承担法律责任。劳动争议仲裁委员会应当将其解聘。",
+        "ja": "仲裁員が本法の第33条第四項に該当する場合、或いは賄賂を要求し、収賄し、情実にとらわれて不正な行為をし、違法に裁決した場合、法により法律責任を負う。労働紛争仲裁委員会は当該仲裁員を解任しなければならない。",
+        "en": "Where an arbitrator is under the circumstances prescribed in Subparagraph (4) of Article 33 of this Law, or extorts for or accepts bribes, engages in malpractices for personal gain, or perverts the law in making awards, he shall bear legal liability in accordance with law. The labor-dispute arbitration commission shall dismiss him."
+      }
+    },
+    {
+      "id": 45,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第35条",
+        "ja": "第35条",
+        "en": "Article 35"
+      },
+      "texts": {
+        "zh": "仲裁庭应当在开庭五日前，将开庭日期、地点书面通知双方当事人。当事人有正当理由的，可以在开庭三日前请求延期开庭。是否延期，由劳动争议仲裁委员会决定。",
+        "ja": "仲裁廷は開廷の五日前までに、開廷日と場所を書面で双方当事者に通知しなければならない。当事者は正当な理由がある場合、開廷の三日前までに開廷日の延期を請求することが出来る。延期するかどうかは労働紛争仲裁委員会が決定する。",
+        "en": "The arbitral tribunal shall, five days before the hearing is held, notify both parties to a case of the date and place of the hearing in writing. Where a party has justifiable reasons, it may, three days before the hearing is held, request for postponing the hearing. The decision on whether to postpone the hearing is up to the labor-dispute arbitration commission to make."
+      }
+    },
+    {
+      "id": 46,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第36条",
+        "ja": "第36条",
+        "en": "Article 36"
+      },
+      "texts": {
+        "zh": "申请人收到书面通知，无正当理由拒不到庭或者未经仲裁庭同意中途退庭的，可以视为撤回仲裁申请。被申请人收到书面通知，无正当理由拒不到庭或者未经仲裁庭同意中途退庭的，可以缺席裁决。",
+        "ja": "申請者が書面による通知を受けて、正当な理由なく仲裁廷に出廷しない或いは仲裁廷の許可を得ずに途中で退廷する場合は、仲裁の申請を撤回したとみなすことが出来る。",
+        "en": "Where the applicant has received the written notification but fails to be present for the hearing without justifiable reasons or, without approval of the arbitral tribunal, withdraws from the hearing before it is over, it may be deemed to withdraw its arbitration application. Where the respondent receives the written notification but fails to be present for the hearing without justifiable reasons or, without approval of the arbitral tribunal, withdraws from the hearing before it is over, an award may be rendered by default."
+      }
+    },
+    {
+      "id": 47,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第37条",
+        "ja": "第37条",
+        "en": "Article 37"
+      },
+      "texts": {
+        "zh": "仲裁庭对专门性问题认为需要鉴定的，可以交由当事人约定的鉴定机构鉴定；当事人没有约定或者无法达成约定的，由仲裁庭指定的鉴定机构鉴定。根据当事人的请求或者仲裁庭的要求，鉴定机构应当派鉴定人参加开庭。当事人经仲裁庭许可，可以向鉴定人提问。",
+        "ja": "仲裁廷は、専門的な問題に対して鑑定する必要があると判断した場合は、当事者が約定する鑑定機構に鑑定させることが出来る。当事者間に約定がない、或いは合意に達していない場合、仲裁廷が指定する鑑定機構が鑑定する。鑑定機構は、当事者の請求或いは仲裁廷の要求により鑑定人を開廷に参加させなければならない。当事者は仲裁廷の許可を得て鑑定人に質問することが出来る。",
+        "en": "Where the arbitral tribunal considers that expert evaluation is needed for issues of a special character, it may hand over such issues to the evaluation institution agreed upon by the parties; where there is no such agreement or the parties cannot reach an agreement, it shall designate an evaluation institution for the purpose. The evaluation institution shall, at the request of the parties or under demand from the arbitral tribunal, send its experts to participate in the hearing. With permission of the arbitral tribunal, the parties may put questions to the experts."
+      }
+    },
+    {
+      "id": 48,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第38条",
+        "ja": "第38条",
+        "en": "Article 38"
+      },
+      "texts": {
+        "zh": "当事人在仲裁过程中有权进行质证和辩论。质证和辩论终结时，首席仲裁员或者独任仲裁员应当征询当事人的最后意见。",
+        "ja": "当事者は仲裁廷において、証拠について質問と弁論をすることが出来る。質問と弁論をした後、首席仲裁員或いは単独の仲裁員は当事者の最終弁論を聞かなければならない。",
+        "en": "In the course of arbitration, the parties shall have the right to examination and cross-examination and to debate. Upon conclusion of the examinations and cross-examinations and the debates, the chief arbitrator or the sole arbitrator shall solicit the final opinions of the parties."
+      }
+    },
+    {
+      "id": 49,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第39条",
+        "ja": "第39条",
+        "en": "Article 39"
+      },
+      "texts": {
+        "zh": "当事人提供的证据经查证属实的，仲裁庭应当将其作为认定事实的根据。劳动者无法提供由用人单位掌握管理的与仲裁请求有关的证据，仲裁庭可以要求用人单位在指定期限内提供。用人单位在指定期限内不提供的，应当承担不利后果。",
+        "ja": "仲裁廷は、当事者が提供した証拠が事実であることを確認したときはこれを事実の根拠としなければならない。労働者は、使用者が保有し管理する仲裁申請に関連する証拠を提出できない場合は、仲裁廷は使用者に指定期限内に提出することを請求することが出来る。使用者は、指定された期限内に提出しない場合は不利益な結果を日本貿易振興機構負わなければならない。",
+        "en": "Where the evidence provided by a party is substantiated upon verification, the arbitral tribunal shall make it the basis on which to confirm the facts. Where a worker cannot provide the evidence, which is kept and controlled by the employing unit and is relevant to his arbitration claim, the arbitral tribunal may require the employing unit to give such evidence within a specified time limit. Where the employing unit fails to do so, it shall bear the unfavorable consequences."
+      }
+    },
+    {
+      "id": 50,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第40条",
+        "ja": "第40条",
+        "en": "Article 40"
+      },
+      "texts": {
+        "zh": "仲裁庭应当将开庭情况记入笔录。当事人和其他仲裁参加人认为对自己陈述的记录有遗漏或者差错的，有权申请补正。如果不予补正，应当记录该申请。笔录由仲裁员、记录人员、当事人和其他仲裁参加人签名或者盖章。",
+        "ja": "仲裁廷は開廷の情況を記録しなければならない。当事者とその他の参加者は自ら陳述した内容に関する記録に遺漏或いは誤りがある場合は修正を申請することが出来る。修正できなければ、その申請を記録しなければならない。記録は仲裁員、記録員、当事者とその他の参加者の署名或いは捺印が必要である。",
+        "en": "The arbitral tribunal shall make a written record of the hearing. Where the parties or the other participants in the arbitration believe that there are omissions or errors in their statements recorded, they shall have the right to apply for supplementation or correction. If the tribunal refuses to make supplementation or correction, the application shall be recorded. The written record shall be signed or sealed by the arbitrators, recording clerks, the parties and other participants in the arbitration."
+      }
+    },
+    {
+      "id": 51,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第41条",
+        "ja": "第41条",
+        "en": "Article 41"
+      },
+      "texts": {
+        "zh": "当事人申请劳动争议仲裁后，可以自行和解。达成和解协议的，可以撤回仲裁申请。",
+        "ja": "当事者は労働紛争仲裁を申請した後も自ら和解することが出来る。和解が成立した場合、仲裁申請を撤回することが出来る。",
+        "en": "After applying for arbitration of their labor dispute, the parties may reach a settlement on their own. Where a settlement agreement is reached, the arbitration application may be withdrawn."
+      }
+    },
+    {
+      "id": 52,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第42条",
+        "ja": "第42条",
+        "en": "Article 42"
+      },
+      "texts": {
+        "zh": "仲裁庭在作出裁决前，应当先行调解。调解达成协议的，仲裁庭应当制作调解书。调解书应当写明仲裁请求和当事人协议的结果。调解书由仲裁员签名，加盖劳动争议仲裁委员会印章，送达双方当事人。调解书经双方当事人签收后，发生法律效力。调解不成或者调解书送达前，一方当事人反悔的，仲裁庭应当及时作出裁决。",
+        "ja": "仲裁廷は裁決の前に、まず調停しなければならない。調停が成立した場合、仲裁廷は調停書を作成しなければならない。調停書は仲裁の請求と当事者の協議の結果を明記しなければならない。仲裁者の署名、且つ労働紛争仲裁委員会の捺印ある調停書を双方当事者に送付する。調停書は双方当事者が送付を受けた時に発効する。調停が成立しないい、或いは調停書の送付を受ける前に、一方当事者がこれを取消した場合、仲裁廷は迅速に裁決しなければならない。",
+        "en": "The arbitral tribunal shall mediate before making an award. Where an agreement is reached through mediation, a statement of mediation shall be prepared by the arbitral tribunal. In the statement of mediation shall be stated the arbitration claims and the results agreed upon by the parties. The statement of mediation shall be signed by the arbitrators, sealed by the labor-dispute arbitration commission and served on the parties. The statement of mediation shall take legal effect after acknowledgement by both parties. Where mediation fails or before the statement of mediation is served, one party goes back on the agreement reached, the arbitral tribunal shall make an award in a timely manner."
+      }
+    },
+    {
+      "id": 53,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第43条",
+        "ja": "第43条",
+        "en": "Article 43"
+      },
+      "texts": {
+        "zh": "仲裁庭裁决劳动争议案件，应当自劳动争议仲裁委员会受理仲裁申请之日起四十五日内结束。案情复杂需要延期的，经劳动争议仲裁委员会主任批准，可以延期并书面通知当事人，但是延长期限不得超过十五日。逾期未作出仲裁裁决的，当事人可以就该劳动争议事项向人民法院提起诉讼。仲裁庭裁决劳动争议案件时，其中一部分事实已经清楚，可以就该部分先行裁决。",
+        "ja": "仲裁廷は労働紛争事件を労働紛争仲裁委員会が仲裁申請を受けた日から四十五日以内に裁決しなければならない。事件の経過が複雑で延期する必要がある場合は、労働紛争仲裁委員会主任の許可を経て、裁決を延期することができ、その場合は書面で当事者に通知する。但し、十五日を越えては延期できない。期限内に仲裁裁決を出さない場合、当事者は、その労働紛争事項について人民法院に訴えを提起することが出来る。仲裁廷は、労働紛争事件を裁決する場合、既に確定した一部の事実についてまず裁決することが出来る。",
+        "en": "Where the arbitral tribunal is to make an award of a labor dispute case, it shall finish making the award within 45 days from the date the labor-dispute arbitration commission accepts the arbitration application. If an extension is needed due to the complexity of the case, such extension shall be subject to approval by the director of the labor-dispute arbitration commission, and the parties shall be notified of the extension in writing; however, the period of extension may not exceed 15 days. If no arbitral award is made at the expiration of the time limit, the parties may initiate a litigation to a people's court with respect to the labor dispute. When making an award of a labor dispute case, in which part of the facts are clear, the arbitral tribunal may make an award first on the basis of the said facts."
+      }
+    },
+    {
+      "id": 54,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第44条",
+        "ja": "第44条",
+        "en": "Article 44"
+      },
+      "texts": {
+        "zh": "仲裁庭对追索劳动报酬、工伤医疗费、经济补偿或者赔偿金的案件，根据当事人的申请，可以裁决先予执行，移送人民法院执行。仲裁庭裁决先予执行的，应当符合下列条件：（一）当事人之间权利义务关系明确；（二）不先予执行将严重影响申请人的生活。劳动者申请先予执行的，可以不提供担保。",
+        "ja": "仲裁廷は、労働報酬、労働負傷の医療費、経済補償或いは賠償金の請求に関する事件について、当事者の申請により、まず執行を裁決することが出来、人民法院に移送して執行する。仲裁廷は、下記の条件に合う場合には、まず執行を裁決することが出来る。（一）当事者間の権利義務の関係が明確である場合（二）まず執行しないと申請者の生活に重大な影響がある場合労働者はまず執行することを申請する場合、保証を提供しないことが出来る。",
+        "en": "In respect of the cases involving the recovery of labor remuneration, payment of medical expenses for job-related injury, economic compensation or damages, the arbitral tribunal may, according to the application of the parties, make an award on advance execution and transfer it to the people's court for execution. For the arbitral tribunal to make an award on advance execution, the following conditions shall be met: (1) The relationship between both parties in terms of their rights and obligations are clearly defined; and (2) The living standards of the applicant will seriously be affected, unless advance execution is awarded. Where a worker applies for advance execution, no guarantee needs to be provided."
+      }
+    },
+    {
+      "id": 55,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第45条",
+        "ja": "第45条",
+        "en": "Article 45"
+      },
+      "texts": {
+        "zh": "裁决应当按照多数仲裁员的意见作出，少数仲裁员的不同意见应当记入笔录。仲裁庭不能形成多数意见时，裁决应当按照首席仲裁员的意见作出。",
+        "ja": "裁決は仲裁員の多数意見によるものとしし、少数の反対意見を記録しなければならない。仲裁廷が多数意見を形成できない場合は、首席仲裁員の意見により裁決をする。",
+        "en": "An award shall be made on the basis of the opinions of the majority of the arbitrators, and the differing opinions held by the minority of the arbitrators shall be recorded. When an opinion of the majority cannot be formed in the arbitral tribunal, an award shall be made on the basis of the opinion of the chief arbitrator."
+      }
+    },
+    {
+      "id": 56,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第46条",
+        "ja": "第46条",
+        "en": "Article 46"
+      },
+      "texts": {
+        "zh": "裁决书应当载明仲裁请求、争议事实、裁决理由、裁决结果和裁决日期。裁决书由仲裁员签名，加盖劳动争议仲裁委员会印章。对裁决持不同意见的仲裁员，可以签名，也可以不签名。",
+        "ja": "裁決書には仲裁申請、紛争事実、裁決理由、裁決結果と裁決日本貿易振興機構日を記載しなければならない。裁決書には裁決者が署名し、かつ労働紛争仲裁委員会が捺印しなければならない。裁決と異なる意見の仲裁員はサインする又はサインしないことが出来る。",
+        "en": "In the award shall clearly be stated the arbitration claim, the facts under dispute, the reasons for award, the results of award and the date of award. The award shall be signed by the arbitrators and sealed by the labor-dispute arbitration commission. The arbitrators holding differing opinions on the award may choose to sign or not to sign it."
+      }
+    },
+    {
+      "id": 57,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第47条",
+        "ja": "第47条",
+        "en": "Article 47"
+      },
+      "texts": {
+        "zh": "下列劳动争议，除本法另有规定的外，仲裁裁决为终局裁决，裁决书自作出之日起发生法律效力：（一）追索劳动报酬、工伤医疗费、经济补偿或者赔偿金，不超过当地月最低工资标准十二个月金额的争议；（二）因执行国家的劳动标准在工作时间、休息休假、社会保险等方面发生的争议。",
+        "ja": "下記の労働紛争は、本法に特別の規定がある場合を除き、仲裁は終局裁決となる。裁決書は作成日より発効する。（一）労働報酬、労働負傷の医療費、経済補償或いは賠償金の請求に関する紛争で、その金額が当該地の最低賃金の12ヶ月分を超えない場合（二）勤務時間、休憩休暇、社会保険等に関する国家の労働基準を執行することに関する紛争。",
+        "en": "For the following labor disputes, the arbitral award shall be final and the award shall take legal effect from the date the award is made, unless otherwise provided for in this Law: (1) disputes involving the recovery of labor remuneration, medical expenses for job-related injury, economic compensation or damages, and the amount involved does not exceed that of the standard local monthly wage rates multiplying 12 months; and (2) disputes arising over working hours, the period of rest and vacation, and social insurance, etc., in the course of applying the occupational standards of the State."
+      }
+    },
+    {
+      "id": 58,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第48条",
+        "ja": "第48条",
+        "en": "Article 48"
+      },
+      "texts": {
+        "zh": "劳动者对本法第47条规定的仲裁裁决不服的，可以自收到仲裁裁决书之日起十五日内向人民法院提起诉讼。",
+        "ja": "労働者は、本法の第47条に規定する仲裁裁決に不服がある場合は、仲裁裁決書を受けた日から15日以内に人民法院に訴えを提起することが出来る。",
+        "en": "Where a worker is dissatisfied with the arbitral award as prescribed in Article 47 of this Law, he may initiate a litigation to a people's court within 15 days from the date he receives the award."
+      }
+    },
+    {
+      "id": 59,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第49条",
+        "ja": "第49条",
+        "en": "Article 49"
+      },
+      "texts": {
+        "zh": "用人单位有证据证明本法第47条规定的仲裁裁决有下列情形之一，可以自收到仲裁裁决书之日起三十日内向劳动争议仲裁委员会所在地的中级人民法院申请撤销裁决：（一）适用法律、法规确有错误的；（二）劳动争议仲裁委员会无管辖权的；（三）违反法定程序的；（四）裁决所根据的证据是伪造的；（五）对方当事人隐瞒了足以影响公正裁决的证据的；（六）仲裁员在仲裁该案时有索贿受贿、徇私舞弊、枉法裁决行为的。人民法院经组成合议庭审查核实裁决有前款规定情形之一的，应当裁定撤销。仲裁裁决被人民法院裁定撤销的，当事人可以自收到裁定书之日起十五日内就该劳动争议事项向人民法院提起诉讼。",
+        "ja": "使用者は、本法第47条に規定する仲裁裁決に対して、下記のいずれかに該当する事由があることを証拠により証明できる場合、仲裁裁決書を受けた日から30日以内に労働紛争仲裁委員会の所在地の中級人民法院に裁決の撤回を申請することが出来る。（一）適用する法律、法規に明らかな誤りがある場合（二）労働紛争仲裁委員会に管轄権がない場合（三）裁決手続きに法令違反がある場合（四）裁決の根拠となった証拠が偽造されたものである場合（五）相手の当事者が公正な裁決に影響する証拠を隠している場合（六）仲裁員者がその事件を仲裁するにあたり、賄賂を要求し、収賄し、情実にとらわれて不正行為をし、違法に裁決した場合人民法院は合議制法廷で構成され、審査により、前項のいずれかの規定に該当することを確認した場合、撤回の裁定をしなければならない。人民法院で仲裁裁決が撤回の裁定をうけた場合、当事者は裁定書を受けた日から15日以内にその労働紛争事項について人民法院に訴えを提起することが出来る。",
+        "en": "Where an employing unit has evidence to prove that the arbitral award prescribed in Article 47 of this Law falls under one of the following circumstances, it may, within 30 days from the date it receives the award, apply for revocation of the award to an intermediate people's court at the place where the labor-dispute arbitration commission is located: (1) It is definite that Laws and regulations are applied erroneously; (2) The labor-dispute arbitration commission has no jurisdiction over the dispute; (3) The statutory procedure is contravened; (4) The evidence on which the award is based is forged; (5) The other party has concealed evidence, which is sufficient to affect an impartial award; or (6) When arbitrating the case, the arbitrator extorts or accepts bribes, engages in malpractices for personal gain, or perverts the law in making the award. If the people's court, after forming a collegiate bench, finds upon examination and verification that any of the circumstances as prescribed in the preceding paragraph exists in award-making, it shall revoke the award. Where the arbitral award is revoked upon decision by the people's court, the parties may, within 15 days from the date they receive the award, initiate a litigation to a people's court with respect to the labor dispute in question."
+      }
+    },
+    {
+      "id": 60,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第50条",
+        "ja": "第50条",
+        "en": "Article 50"
+      },
+      "texts": {
+        "zh": "当事人对本法第47条规定以外的其他劳动争议案件的仲裁裁决不服的，可以自收到仲裁裁决书之日起十五日内向人民法院提起诉讼；期满不起诉的，裁决书发生法律效力。",
+        "ja": "当事者は本法の第47条に規定する以外のその他の労働紛争事件の仲裁裁決に不服がある場合、仲裁裁決書を受けた日から15日以内に人民法院に訴えを提起することができる。当該期間内に提起しない場合は裁決書は発効する。",
+        "en": "Where a party has objection to the arbitral award of a labor dispute case, other than the ones prescribed in Article 47 of this Law, it may initiate a litigation to a people's court within 15 days from the date it receives the award. If no litigation is initiated at the expiration of the prescribed time limit, the award shall take legal effect."
+      }
+    },
+    {
+      "id": 61,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第51条",
+        "ja": "第51条",
+        "en": "Article 51"
+      },
+      "texts": {
+        "zh": "当事人对发生法律效力的调解书、裁决书，应当依照规定的期限履行。一方当事人逾期不履行的，另一方当事人可以依照民事诉讼法的有关规定向人民法院申请执行。受理申请的人民法院应当依法执行。",
+        "ja": "当事者は、法的効力が発生した調停書、裁決書の期限に従って履行しなければならない。当事者が期限に従い履行しない場合、他方当事者は民事訴訟法の関連規定に基づき人民法院にその執行を申請するこ日本貿易振興機構とが出来る。申請を受理した人民法院は法に基づき執行する。",
+        "en": "The parties shall, within the prescribed time limit, perform the statement of mediation or the award that takes legal effect. If one party fails to do so at the expiration of the time limit, the other party may, in accordance with the relevant provisions of the Civil Procedure Law, apply to a people's court for execution. The people's court that accepts the application shall execute the statement of mediation or the award in accordance with law."
+      }
+    },
+    {
+      "id": 62,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第四章",
+        "ja": "第四章 ",
+        "en": "Chapter IV"
+      },
+      "texts": {
+        "zh": "附则",
+        "ja": "附則",
+        "en": "Supplementary Provisions"
+      }
+    },
+    {
+      "id": 63,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第52条",
+        "ja": "第52条",
+        "en": "Article 52"
+      },
+      "texts": {
+        "zh": "事业单位实行聘用制的工作人员与本单位发生劳动争议的，依照本法执行；法律、行政法规或者国务院另有规定的，依照其规定。",
+        "ja": "事業部門が任用制を実行する職員は本部門と労働紛争が発生する場合、本法に基づき執行する。ただし法律、行政法規或いは国務院に別の規定がある場合はその規定に基づく。",
+        "en": "Where a staff member of a public institution, in which the system of appointment is practiced, is involved in a labor dispute with the institution, this Law shall be applicable; if laws and administrative regulations or the regulations of the State Council provide otherwise, the said provisions there shall prevail."
+      }
+    },
+    {
+      "id": 64,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第53条",
+        "ja": "第53条",
+        "en": "Article 53"
+      },
+      "texts": {
+        "zh": "劳动争议仲裁不收费。劳动争议仲裁委员会的经费由财政予以保障。",
+        "ja": "労働紛争仲裁は無料である。財政は労働紛争仲裁委員会の経費を保障する。",
+        "en": "Arbitration of labor disputes is free of charge. Funding for labor-dispute arbitration commissions shall be guaranteed by the government."
+      }
+    },
+    {
+      "id": 65,
+      "source_file": "中华人民共和国劳动争议调解仲裁法(2008)",
+      "original_numbers": {
+        "zh": "第54条",
+        "ja": "第54条",
+        "en": "Article 54"
+      },
+      "texts": {
+        "zh": "本法自2008年5月1日起施行。",
+        "ja": "本法は2008年5月1日より実行する。",
+        "en": "This Law shall go into effect as of May 1, 2008."
+      }
+    }
+  ]
+}
